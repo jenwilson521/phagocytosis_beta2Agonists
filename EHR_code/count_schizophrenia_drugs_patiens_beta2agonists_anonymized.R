@@ -76,9 +76,9 @@ sql <- translate(sql, targetDialect = connectionDetails$dbms)
 executeSql(connection, sql)
 
 # Look at inpatient visits as the outcome
-# sql <- readSql("count_inpatient_visit.sql")
+sql <- readSql("count_inpatient_visit.sql")
 # sql <- readSql("count_inpatient_visit_psych_speciality.sql") # added 11-18-20 to look at inpatient visits with psych speciality
-sql <- readSql("count_psych_doctor_visits.sql") # added 11-19-20 to look at any visits with psychiatry
+# sql <- readSql("count_psych_doctor_visits.sql") # added 11-19-20 to look at any visits with psychiatry
 sql <- render(sql, vocabulary_database_schema = source_schema,cdm_database_schema=source_schema, target_database_schema = results_schema, target_cohort_table = results_table, target_cohort_id =55)
 sql <- translate(sql, targetDialect = connectionDetails$dbms)
 executeSql(connection, sql)
@@ -130,13 +130,6 @@ cohortMethodData <- loadCohortMethodData(paste(outputFolder,cohortFileName,sep="
 print("Setting up studyPop and PS model")
 studyPop <- createStudyPopulation(cohortMethodData = cohortMethodData, outcomeId = 55,firstExposureOnly = FALSE, restrictToCommonPeriod = FALSE, washoutPeriod = 0, removeDuplicateSubjects = "remove all",removeSubjectsWithPriorOutcome = FALSE, minDaysAtRisk = 1,riskWindowStart = 0, startAnchor = "cohort start", riskWindowEnd = 1825,endAnchor = "cohort end")
 getAttritionTable(studyPop)
-#pdf("OptumSepis_SalAtr_SutdyPopAttr_082920.pdf")
-#drawAttritionDiagram(studyPop)
-#dev.off()
-#balance <- computeCovariateBalance(matchedPop, cohortMethodData)
-#pdf("OptumSepsis_SalAtr_CovBalTable_82920.pdf")
-#createCmTable1(balance)
-#dev.off()
 
 print("Creating PS")
 ps <- createPs(cohortMethodData = cohortMethodData, population = studyPop,errorOnHighCorrelation=TRUE, control = createControl(tolerance =5e-01,maxIterations = 100000,noiseLevel="silent",startingVariance=-1,seed=0))
