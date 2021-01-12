@@ -3,3 +3,5 @@
 *count_schizophrenia_drugs_patiens_beta2agonists_excldPulmon.R
 *.swp
 *count_schizophrenia_drugs_patiens_beta2agonists_PrimaryDiagnosis.R
+*~$*.xlsx
+.DS_Store
