@@ -1,0 +1,425 @@
+---
+title: "Analysis of phagocytosis validation data"
+output:
+  html_document:
+    df_print: paged
+---
+
+```{r, results='hide'}
+library(tidyverse)
+library(readxl)
+library(lubridate)
+library(viridis)
+
+setwd("~/Box/Shareable Files/Stanford/Classes/SPARK/Screen Analysis")
+```
+
+Import datasets
+```{r, results='hide', warning=F, message=F}
+plate1_red_raw <- read_tsv("data/plate 1 total integrated intensity.txt", skip=6)
+plate2_red_raw <- read_tsv("data/plate 2 total integrated intensity.txt", skip=6)
+
+plate1_green_raw <- read_tsv("data/live object area um2 ver 1.txt", skip=6)
+plate2_green_raw <- read_tsv("data/live object area um2 ver 2.txt", skip=6)
+
+annotations <- read_xlsx("data/annotations.xlsx")
+```
+
+Define a new theme for graphs
+
+```{r}
+theme_my <- function(base_size = 10, base_family = "Helvetica")
+{
+  txt <- element_text(size = 10, colour = "black", face = "plain")
+  bold_txt <- element_text(size = 10, colour = "black", face = "bold")
+  
+  theme_bw(base_size = base_size, base_family = base_family) +
+    theme(
+      
+      legend.key = element_blank(), 
+      strip.background = element_blank(), 
+      
+      text = txt, 
+      plot.title = txt, 
+      
+      axis.title = element_text(size = 8), 
+      axis.text = element_text(size = 6), 
+      
+      legend.title = element_text(size = 10, face="bold"), 
+      legend.text = element_text(size = 8),
+      
+      axis.ticks.length=unit(4, "pt"),
+      
+      #axis.text.x = element_text(margin=unit(c(4,4,4,4), "pt")),
+      #axis.text.x.top =  element_blank(),
+      #axis.text.y = element_text(margin=unit(c(4,4,4,4), "pt")),
+      #axis.text.y.right = element_blank(),
+      panel.grid=element_blank(),
+      plot.margin = unit(c(base_size, base_size, base_size, base_size), "pt")
+    ) 
+}
+```
+
+
+Match annotations to each column
+```{r}
+annotations_parsed <- annotations %>%
+  pivot_longer(everything(), names_to = "cell", values_to="treatment") %>%
+  separate(treatment, into=c("treatment", "dose"), sep="_")
+
+```
+
+
+Create a function to merge dataset and annotate
+```{r}
+merge <- function(plate1_raw, plate2_raw, notes){
+  
+  plate1 <- plate1_raw %>%
+    select(-`Date Time`) %>%
+    pivot_longer(-Elapsed, names_to="cell", values_to="signal") %>%
+    mutate(id=paste0(cell,"_1"))
+  
+  plate2 <- plate2_raw %>%
+    select(-`Date Time`) %>%
+    pivot_longer(-Elapsed, names_to="cell", values_to="signal") %>%
+    mutate(id=paste0(cell,"_2"))
+
+  df_new <- plate1 %>%
+    full_join(plate2) %>%
+    left_join(notes, by="cell") %>%
+    mutate(dose=as.numeric(dose))
+  
+  return(df_new)
+}
+
+```
+
+
+Parse the data for plates 1 and 2 and merge annotations in.
+Perform this for green plates (viability) and red (phagocytosis).
+Then create a single master dataset with phagocytosis and viability.
+```{r, message=F}
+df_live <- merge(plate1_green_raw, plate2_green_raw, annotations_parsed)
+df_red <- merge(plate1_red_raw, plate2_red_raw, annotations_parsed)
+
+```
+
+
+Graph the viability data
+```{r, fig.width=12, fig.height=2}
+df_live_graph <- df_live %>%
+  group_by(dose, treatment) %>%
+  mutate(signal_average=mean(signal),
+            range=max(signal)-min(signal),
+            sd=sd(signal)) %>%
+  ungroup() %>%
+  mutate(maxLive=first(signal_average),
+         sdLive=sd/signal_average*maxLive) %>%
+  mutate(percLive=signal_average/maxLive*100)
+
+df_live_graph %>%
+  filter(!str_detect(treatment, "DMSO")&!str_detect(treatment, "nothing")) %>%
+  distinct(treatment, dose, percLive) %>%
+  ggplot(aes(dose, percLive, color=dose)) +
+  geom_smooth(method = "loess", col="black") + 
+  geom_point() +
+  #geom_errorbar(aes(ymax=signal_average+range/2, ymin=signal_average-range/2), width=0) +
+  #geom_errorbar(aes(ymax=percLive+sdLive, ymin=percLive-sdLive), width=0) +
+  #geom_smooth(method = lm, formula = y ~ splines::bs(x, 1), color="red") +
+  #geom_smooth(method = lm, formula = y ~ log1p(x), color="red", se=F) +
+  scale_color_viridis(direction=-1, option="magma", begin=0, end=.8) +
+  geom_point(data=df_live_graph%>%filter(percLive<70), color="red", size=3, shape=21) +
+  scale_x_log10() +
+  #labs(x="Dose (nM)", y="Percent Vaibility") +
+  labs(x="Dose (nM)", y="Calcein AM (%)") +
+  facet_grid(.~treatment) +
+  geom_hline(yintercept = 70, linetype = "dashed", color="red") +
+  theme_my()
+
+ggsave("viability-70perc-threshold-new.pdf", height=1.75, width=12)
+```
+
+
+Phagocytosis data.
+Start by adding in the viability data
+```{r}
+df <- df_red %>%
+  full_join(df_live_graph, by="id") %>%
+  select(-c("Elapsed.y", "cell.y", "treatment.y", "dose.y")) %>%
+  rename(time=Elapsed.x, cell=cell.x, signal=signal.x, treatment=treatment.x, dose=dose.x, signal.green=signal.y,
+         range.green=range, range.sd=sd)
+
+```
+
+Graph all phagocytosis data.
+```{r, fig.width=12, fig.height=12}
+df %>%
+  group_by(treatment, dose, time) %>%
+  mutate(signal_average=mean(signal),
+         range=max(signal)-min(signal),
+         sd=sd(signal)) %>%
+  ggplot(aes(time, signal_average, group=dose, color=dose)) +
+    geom_smooth(method = lm, formula = y ~ log1p(x), color="black", se=F) +
+    geom_point() +
+    #geom_errorbar(aes(ymax=signal_average+range/2, ymin=signal_average-range/2), width=0) +
+    geom_errorbar(aes(ymax=signal_average+sd, ymin=signal_average-sd), width=0) +
+    scale_color_viridis(direction=-1, option="magma", begin=0, end=.8) +
+    facet_grid(treatment~dose)+
+    theme_my()
+```
+
+Try normalizing the phagocytosis signal to percent viability.
+```{r}
+df_norm <- df %>%
+  mutate(signal=signal/percLive/100)
+```
+
+
+Graph the normalized phagocytosis data again.
+Also gate only on conditions where:
+  - viability is above 70%
+  - sd is not huge (sd must be half the mean of a given value)
+  - most of the data points are still present for a given condition
+```{r, fig.width=12, fig.height=12}
+df_norm_subset <- df_norm %>%
+  filter(percLive>70) %>% # Gate only on wells where viability determined to be greater than 70&
+  group_by(treatment, dose, time) %>%
+  mutate(signal_average=mean(signal),
+         range=max(signal)-min(signal),
+         sd=sd(signal)) %>%
+  filter(sd<signal_average/2) %>%
+  ungroup() %>%
+  group_by(treatment, dose) %>%
+  filter(n()>48) #Here gating on treatments / doses where most of the data poitns are still present
+
+df_norm_subset %>%
+  ggplot(aes(time, signal_average, group=dose, color=dose)) +
+    geom_smooth(method = lm, formula = y ~ log1p(x), color="black", se=F) +
+    geom_point() +
+    #geom_errorbar(aes(ymax=signal_average+range/2, ymin=signal_average-range/2), width=0) +
+    geom_errorbar(aes(ymax=signal_average+sd, ymin=signal_average-sd), width=0) +
+    scale_color_viridis(direction=-1, option="magma", begin=0, end=.8) +
+    facet_grid(treatment~dose)+
+    theme_my()
+```
+
+
+Graph Salmeterol phagocytosis data only.
+```{r, fig.width=12, fig.height=1.5}
+df %>%
+  group_by(treatment, dose, time) %>%
+  mutate(signal_average=mean(signal),
+         range=max(signal)-min(signal),
+         sd=sd(signal),
+         se=sd(signal)/sqrt(n())) %>%
+  filter(str_detect(treatment, "DMSO")|str_detect(treatment, "Salmeterol")) %>%
+  ggplot(aes(time, signal_average, group=dose, color=dose)) +
+    geom_smooth(method = lm, formula = y ~ log1p(x), color="black", se=F) +
+    geom_point() +
+    #geom_errorbar(aes(ymax=signal_average+range/2, ymin=signal_average-range/2), width=0) +
+    geom_errorbar(aes(ymax=signal_average+se, ymin=signal_average-se), width=0) +
+    scale_color_viridis(direction=-1, option="magma", begin=0, end=.8) +
+    facet_grid(.~dose)+
+    theme_my()
+
+ggsave("raw-salmeterol-only.pdf", useDingbats=F, height=2, width=12)
+```
+
+Graph Moxonidine phagocytosis data only.
+```{r, fig.width=12, fig.height=1.5}
+df %>%
+  group_by(treatment, dose, time) %>%
+  mutate(signal_average=mean(signal),
+         range=max(signal)-min(signal),
+         sd=sd(signal),
+         se=sd(signal)/sqrt(n())) %>%
+  filter(str_detect(treatment, "DMSO")|str_detect(treatment, "Moxonidine")) %>%
+  ggplot(aes(time, signal_average, group=dose, color=dose)) +
+    geom_smooth(method = lm, formula = y ~ log1p(x), color="black", se=F) +
+    geom_point() +
+    #geom_errorbar(aes(ymax=signal_average+range/2, ymin=signal_average-range/2), width=0) +
+    geom_errorbar(aes(ymax=signal_average+se, ymin=signal_average-se), width=0) +
+    scale_color_viridis(direction=-1, option="magma", begin=0, end=.8) +
+    facet_grid(.~dose)+
+    theme_my()
+```
+
+
+Perform area under the curve analysis.
+Define functions to compute area under the curve.
+```{r}
+# Analysis with Error: Graph by drug, using DMSO as a control and model ----------------------------------
+library(MESS)
+df_subset <- df %>%
+  filter(str_detect(treatment, "DMSO")|str_detect(treatment, "Fluphenazine"))
+
+compute_auc <- function(n, p, df_subset){
+ # df_subset$id=as.numeric(df_subset$id)
+  df_subset <- df_subset %>% filter(str_detect(id, p))
+  log_model <- lm(signal~log1p(time), data=df_subset%>%filter(dose==n))
+  x <- log_model$model$signal
+  y <- log_model$model$`log1p(time)`
+  z <- auc(x,y)
+  return(z)
+}
+
+compute_auc_sets <- function(name, df){
+  df_subset <- df %>%
+    filter(str_detect(treatment, "DMSO")|str_detect(treatment, name))
+  
+  c <- (df_subset %>% ungroup() %>% distinct(dose, id))$dose
+  d <- (df_subset %>% ungroup() %>% distinct(dose, id))$id
+  
+  new <- tibble(
+    dose=c
+  )
+  
+  new <- df_subset %>% ungroup() %>% distinct(dose, id)
+  
+  new_auc <- new %>%
+    rowwise() %>%
+    mutate(auc=compute_auc(dose, id, df_subset)) %>%
+    arrange(dose) %>%
+    group_by(dose) %>%
+    mutate(avg=mean(auc)) %>%
+    ungroup() %>%
+    mutate(percInhibition=auc/first(avg))
+  
+  return(as_tibble(new_auc))
+}
+```
+
+Run the AUC analysis. Note that wells with decreased cell viability are filtered out here!
+```{r}
+# Extract out drug treatment names
+x <- (df %>% ungroup() %>% distinct(treatment) %>%
+        filter(!(str_detect(treatment, "nothing")|str_detect(treatment, "DMSO"))))$treatment
+
+# Re Do on a subset
+# Run AUC analysis on each treatment and bind data frames together
+df_run <- df %>% filter(percLive>70) #Filter out data where cell viability is below 70%
+analysis <- x %>%
+  map(~ compute_auc_sets(.x, df_run) %>% mutate(treatment=.x)) %>%
+  map_dfr(~ as.data.frame(.))
+
+```
+
+Graph the AUC analysis
+```{r, fig.width=12, fig.height=2}
+# Graph new analysis
+analysis_graph <- as_tibble(analysis) %>% left_join(df_run, by=c("treatment", "dose")) %>%
+#  filter(str_detect(treatment, "Salmeterol")|str_detect(treatment, "Moxonidine")) %>% # Add this line if filtering on certain drugs desired.
+  group_by(treatment, dose) %>%
+  mutate(mean=mean(percInhibition),
+         sd=sd(percInhibition),
+         se=sd/sqrt(n()))
+analysis_graph %>%
+  ggplot(aes(dose, mean)) +
+  geom_line(alpha=0.3) +
+  geom_point() +
+  geom_point(data=analysis_graph %>% filter(percLive<70), color="red", shape=21, size=3) +
+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), alpha=0.3) +
+  facet_grid(.~treatment) +
+  #geom_smooth(method="loess", se=F) +
+  scale_x_log10() +
+  #scale_y_continuous(limits=c(.15,2.1)) +
+  labs(x="Concentration (nM)", y="Inhibition (AUC Fraction)") +
+  geom_hline(yintercept = 1, linetype = "dashed", color="red") +
+  theme_my()
+
+ggsave("area-under-curve-70perc-viability-threshold-all-error.pdf", useDingbats=F, height=2, width=12)
+ggsave("area-under-curve-70perc-viability-threshold-selected-error.pdf", useDingbats=F, height=2, width=3) # when only two treatments selected to graph
+
+```
+
+Use calcein AM staining as a way of normalizing cell numbers (use df_norm tibble).
+Run normalization prior to computing AUC by dividing the red signal by the percent viability.
+```{r}
+x <- (df_norm %>% ungroup() %>% distinct(treatment) %>%
+        filter(!(str_detect(treatment, "nothing")|str_detect(treatment, "DMSO"))))$treatment
+
+# Re Do on a subset
+# Run AUC analysis on each treatment and bind data frames together
+df_run <- df_norm %>% filter(percLive>70) #Filter out data where cell viability is below 70%
+analysis <- x %>%
+  map(~ compute_auc_sets(.x, df_run) %>% mutate(treatment=.x)) %>%
+  map_dfr(~ as.data.frame(.))
+
+
+analysis_graph <- as_tibble(analysis) %>% left_join(df_run, by=c("treatment", "dose")) %>%
+#   filter(str_detect(treatment, "Salmeterol")|str_detect(treatment, "Moxonidine")) %>% # Add this line if filtering on certain drugs desired.
+  group_by(treatment, dose) %>%
+  mutate(mean=mean(percInhibition),
+         sd=sd(percInhibition),
+         se=sd/sqrt(n()))
+analysis_graph %>%
+  ggplot(aes(dose, mean)) +
+  geom_line(alpha=0.3) +
+  geom_point() +
+  geom_point(data=analysis_graph %>% filter(percLive<70), color="red", shape=21, size=3) +
+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), alpha=0.3) +
+  facet_grid(.~treatment) +
+  #geom_smooth(method="loess", se=F) +
+  scale_x_log10() +
+  #scale_y_continuous(limits=c(.15,2.1)) +
+  labs(x="Concentration (nM)", y="Inhibition (AUC Fraction)") +
+  geom_hline(yintercept = 1, linetype = "dashed", color="red") +
+  theme_my()
+
+ggsave("area-under-curve-70perc-viability-threshold-all-error-normalized.pdf", useDingbats=F, height=2, width=12)
+ggsave("area-under-curve-70perc-viability-threshold-selected-error-normalized.pdf", useDingbats=F, height=2, width=3) # when only two treatments selected to graph
+
+```
+
+
+Re run analysis as above using calcein AM normalization, but now with the strictest gating (df_norm_subset)
+```{r, fig.width=12, fig.height=2}
+x <- (df_norm_subset %>% ungroup() %>% distinct(treatment) %>%
+        filter(!(str_detect(treatment, "nothing")|str_detect(treatment, "DMSO"))))$treatment
+
+# Re Do on a subset
+# Run AUC analysis on each treatment and bind data frames together
+df_run <- df_norm_subset %>% filter(percLive>70) #Filter out data where cell viability is below 70%
+analysis <- x %>%
+  map(~ compute_auc_sets(.x, df_run) %>% mutate(treatment=.x)) %>%
+  map_dfr(~ as.data.frame(.))
+
+
+analysis_graph <- as_tibble(analysis) %>% left_join(df_run, by=c("treatment", "dose")) %>%
+#   filter(str_detect(treatment, "Salmeterol")|str_detect(treatment, "Moxonidine")) %>% # Add this line if filtering on certain drugs desired.
+  group_by(treatment, dose) %>%
+  mutate(mean=mean(percInhibition),
+         sd=sd(percInhibition),
+         se=sd/sqrt(n()))
+analysis_graph %>%
+  ggplot(aes(dose, mean)) +
+  geom_line(alpha=0.3) +
+  geom_point() +
+  geom_point(data=analysis_graph %>% filter(percLive<70), color="red", shape=21, size=3) +
+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), alpha=0.3) +
+  facet_grid(.~treatment) +
+  #geom_smooth(method="loess", se=F) +
+  scale_x_log10() +
+  #scale_y_continuous(limits=c(.15,2.1)) +
+  labs(x="Concentration (nM)", y="Inhibition (AUC Fraction)") +
+  geom_hline(yintercept = 1, linetype = "dashed", color="red") +
+  theme_my()
+
+ggsave("area-under-curve-70perc-viability-threshold-all-error-normalized.pdf", useDingbats=F, height=2, width=12)
+ggsave("area-under-curve-70perc-viability-threshold-selected-error-normalized.pdf", useDingbats=F, height=2, width=3) # when only two treatments selected to graph
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
