@@ -1,0 +1,189 @@
+node1	node2	edge_score	
+DB00548	TYR	1.0	
+DB00548	AKR1D1	1.0	
+DB00548	SRD5A2	1.0	
+TYR		1
+AKR1D1		1
+SRD5A2		1
+Autosomal recessive inheritance	AKR1D1	1.0	
+Autosomal recessive inheritance	SRD5A2	1.0	
+Autosomal recessive inheritance	TYR	1.0	
+Abnormality of the integument	AKR1D1	1.0	
+Abnormality of the integument	SRD5A2	1.0	
+Abnormality of the integument	TYR	1.0	
+2,4-Dienoyl-CoA reductase deficiency	AKR1D1	1.0	
+2,4-Dienoyl-CoA reductase deficiency	SRD5A2	1.0	
+Malignant tumor of testis	SRD5A2	1.0	
+Malignant tumor of testis	TYR	1.0	
+Disorders of Sex Development	SRD5A2	1.0	
+Blue irides	TYR	1.0	
+Abnormality of the fovea	TYR	1.0	
+Seborrheic keratosis	TYR	1.0	
+ALBINOIDISM, OCULOCUTANEOUS, AUTOSOMAL DOMINANT	TYR	1.0	
+Fowlpox	TYR	1.0	
+Homocystinuria due to CBS deficiency	TYR	1.0	
+Steatorrhea	AKR1D1	1.0	
+Fat malabsorption	AKR1D1	1.0	
+Cholestatic liver disease	AKR1D1	1.0	
+Aplasia/Hypoplasia of the macula	TYR	1.0	
+Aplasia/Hypoplasia of the retina	TYR	1.0	
+Generalized hypopigmentation of hair	TYR	1.0	
+Sentinel node (disorder)	TYR	1.0	
+Generalized hypopigmentation	TYR	1.0	
+Buphthalmos	TYR	1.0	
+Smallpox	TYR	1.0	
+Prostatic Diseases	SRD5A2	1.0	
+Skin/hair/eye pigmentation, variation in, 9	TYR	1.0	
+Single tumor	TYR	1.0	
+Hermansky-Pudlak syndrome	TYR	1.0	
+Melanocytic nevus of skin	TYR	1.0	
+Virilism	SRD5A2	1.0	
+Male pseudohermaphroditism	SRD5A2	1.0	
+Scrotal hypoplasia	SRD5A2	1.0	
+Prostate cancer, familial	SRD5A2	1.0	
+Abnormality of visual evoked potentials	TYR	1.0	
+Freckling	TYR	1.0	
+Elevated alkaline phosphatase	AKR1D1	1.0	
+Penile hypospadias	SRD5A2	1.0	
+Abnormality of alkaline phosphatase activity	AKR1D1	1.0	
+Hypermelanotic macule	TYR	1.0	
+Intrahepatic cholestasis	AKR1D1	1.0	
+Menopause present (finding)	SRD5A2	1.0	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	TYR	1.0	
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	TYR	1.0	
+Iris hypopigmentation	TYR	1.0	
+EMG: myopathic abnormalities	AKR1D1	1.0	
+EMG: myopathic abnormalities	TYR	1.0	
+Astigmatism	TYR	1.0	
+Unspecified visual loss	TYR	1.0	
+Disorder of endocrine system	TYR	1.0	
+Neoplasms, Intracranial	TYR	1.0	
+Onset	AKR1D1	1.0	
+Onset	TYR	1.0	
+Retroviridae Infections	TYR	1.0	
+Biliary tract abnormality	AKR1D1	1.0	
+Abnormal enzyme/coenzyme activity	AKR1D1	1.0	
+Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	TYR	1.0	
+Abnormality of the hair	SRD5A2	1.0	
+Abnormality of the hair	TYR	1.0	
+Abnormality of the vagina	SRD5A2	1.0	
+Leukemia, Myeloid, Chronic-Phase	TYR	1.0	
+Benign melanocytic nevus	TYR	1.0	
+IMMUNE SUPPRESSION	TYR	1.0	
+Uveomeningoencephalitic Syndrome	TYR	1.0	
+Vestibular dysfunction	TYR	1.0	
+Hypopigmentation of hair	TYR	1.0	
+Albinism, ocular, with sensorineural deafness	TYR	1.0	
+Ambiguous genitalia	SRD5A2	1.0	
+Actinic keratosis	TYR	1.0	
+Abnormality of the scrotum	SRD5A2	1.0	
+Autism 15	SRD5A2	1.0	
+Autism 15	TYR	1.0	
+Carcinoma, Squamous Cell	TYR	1.0	
+Leukodystrophy, hypomyelinating 3	TYR	1.0	
+Abnormality of hair pigmentation	TYR	1.0	
+Testicular malignant germ cell tumor	SRD5A2	1.0	
+Macule	TYR	1.0	
+Hemochromatosis	AKR1D1	1.0	
+Hyperbilirubinemia	AKR1D1	1.0	
+Liver Cirrhosis, Biliary	AKR1D1	1.0	
+Liver Cirrhosis, Biliary	SRD5A2	1.0	
+Melanoma, B16	TYR	1.0	
+Abnormality of skin adnexa morphology	SRD5A2	1.0	
+Abnormality of skin adnexa morphology	TYR	1.0	
+Gynecomastia	SRD5A2	1.0	
+Prader-Willi syndrome	TYR	1.0	
+Delayed menarche	SRD5A2	1.0	
+Abnormal iris pigmentation	TYR	1.0	
+Abnormality of coagulation	AKR1D1	1.0	
+Abnormality of the small intestine	AKR1D1	1.0	
+Irregular hyperpigmentation	TYR	1.0	
+Hyperopia	TYR	1.0	
+Elevated hepatic transaminases	AKR1D1	1.0	
+Tourette Syndrome	TYR	1.0	
+Abnormality of the macula	TYR	1.0	
+Schwannoma	TYR	1.0	
+Basal cell carcinoma	TYR	1.0	
+Reduced visual acuity	TYR	1.0	
+Jaundice	AKR1D1	1.0	
+Peripheral Arterial Disease	SRD5A2	1.0	
+Dermatological manifestations of systemic disorders	AKR1D1	1.0	
+Hirsutism	SRD5A2	1.0	
+Decreased liver function	AKR1D1	1.0	
+Abnormality of the curvature of the cornea	TYR	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	TYR	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TYR	1.0	
+Decreased fertility	SRD5A2	1.0	
+Progressive Neoplastic Disease	TYR	1.0	
+Progressive cGVHD	TYR	1.0	
+Abnormality of skin morphology	AKR1D1	1.0	
+Abnormality of skin morphology	TYR	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	SRD5A2	1.0	
+Squamous cell carcinoma of the skin	TYR	1.0	
+Tumor necrosis	TYR	1.0	
+Nevus	TYR	1.0	
+Bleeding disorder, platelet-type, 21	AKR1D1	1.0	
+Hyperpigmentation of the skin	TYR	1.0	
+Photophobia	TYR	1.0	
+Synovial Cyst	TYR	1.0	
+Abnormality of the skin	AKR1D1	1.0	
+Abnormality of the skin	TYR	1.0	
+Melanocytic nevus	TYR	1.0	
+Congenital onset	TYR	1.0	
+Alopecia	SRD5A2	1.0	
+Tuberous sclerosis syndrome	TYR	1.0	
+Cycloid psychosis	TYR	1.0	
+Neoplasm by histology	TYR	1.0	
+Abnormal visual electrophysiology	TYR	1.0	
+X-linked inheritance	TYR	1.0	
+Spots on skin	TYR	1.0	
+Intraocular melanoma	TYR	1.0	
+Neoplasm, Residual	TYR	1.0	
+Ataxia-telangiectasia syndrome	TYR	1.0	
+Gonosomal inheritance	TYR	1.0	
+Displacement of the external urethral meatus	SRD5A2	1.0	
+Skin cancer	TYR	1.0	
+Liver failure acute infantile	AKR1D1	1.0	
+Hypopigmentation of the skin	TYR	1.0	
+Malabsorption	AKR1D1	1.0	
+Metastatic Prostate Carcinoma	SRD5A2	1.0	
+Anaplasia	TYR	1.0	
+Abnormality of metabolism/homeostasis	AKR1D1	1.0	
+Abnormality of metabolism/homeostasis	SRD5A2	1.0	
+Ovarian Diseases	SRD5A2	1.0	
+Abnormality of the voice	SRD5A2	1.0	
+Vitiligo	TYR	1.0	
+Abnormality of the biliary system	AKR1D1	1.0	
+Microphthalmia syndromic 6	TYR	1.0	
+Hyperkeratosis	TYR	1.0	
+Abnormality of the urethra	SRD5A2	1.0	
+Cutaneous malignant melanoma 3	TYR	1.0	
+Experimental Organism Basal Cell Carcinoma	TYR	1.0	
+Endometrial Neoplasms	SRD5A2	1.0	
+Hypospadias	SRD5A2	1.0	
+Splenomegaly	AKR1D1	1.0	
+Hypoplasia of penis	SRD5A2	1.0	
+Abnormality of the iris	TYR	1.0	
+Epidermal thickening	TYR	1.0	
+Abnormality of retinal pigmentation	TYR	1.0	
+Schizophrenia	SRD5A2	1.0	
+Schizophrenia	TYR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SRD5A2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	TYR	1.0	
+Abnormal bleeding	AKR1D1	1.0	
+Mood Disorders	TYR	1.0	
+Abnormality of refraction	TYR	1.0	
+Cholestasis, benign recurrent intrahepatic 1	AKR1D1	1.0	
+Psychotic Disorders	TYR	1.0	
+Metastatic melanoma	TYR	1.0	
+Thickened skin	TYR	1.0	
+Reduced bone mineral density	AKR1D1	1.0	
+Abnormality of skin pigmentation	TYR	1.0	
+Abnormality of the spleen	AKR1D1	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	TYR	1.0	
+Hypoplastic male external genitalia	SRD5A2	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	TYR	1.0	
+External genital hypoplasia	SRD5A2	1.0	
+Exanthema	TYR	1.0	
+Ovarian epithelial cancer	SRD5A2	1.0	
+Ovarian epithelial cancer	TYR	1.0	

@@ -1,0 +1,144 @@
+Gene	CUI	Phenotype	Source Databases	
+ATP6V1B2	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+GAPDH	C0017661	IgA nephropathy, susceptibility to, 3	DisGeNet	
+ATP6V1B2	C0029408	Osteoarthritis	DisGeNet	
+GAPDH	C0029408	Osteoarthritis	DisGeNet	
+GAPDH	C0340100	High altitude pulmonary edema	DisGeNet	
+ATP6V1B2	C1839797	Deep philtrum	HumPhenOnt	
+GAPDH	C0014121	Bacterial endocarditis	DisGeNet	
+GAPDH	C0751122	Severe myoclonic epilepsy in infancy	DisGeNet	
+GAPDH	C0333693	Triploidy syndrome	DisGeNet	
+GAPDH	C0276623	Chronic viral hepatitis	DisGeNet	
+GAPDH	C0032969	Pregnancy in Diabetics	DisGeNet	
+GAPDH	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+GAPDH	C0162739	HELLP Syndrome	DisGeNet	
+GAPDH	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+ATP6V1B2	C0265998	Anonychia	HumPhenOnt	
+GAPDH	C1384583	Congenital absence of germinal epithelium of testes	DisGeNet	
+GAPDH	C0086942	Rous Sarcoma	DisGeNet	
+GAPDH	C0206718	Ganglioneuroblastoma	DisGeNet	
+ATP6V1B2	C0241397	Triphalangeal thumb	HumPhenOnt	
+GAPDH	C0086445	Idiopathic Membranous Glomerulonephritis	DisGeNet	
+GAPDH	C0019187	Hepatitis, Alcoholic	DisGeNet	
+GAPDH	C0011226	Hepatitis D Infection	DisGeNet	
+GAPDH	C0017075	Ganglioneuroma	DisGeNet	
+GAPDH	C0027540	Necrosis	DisGeNet	
+GAPDH	C1446409	Hormone receptor positive tumor	DisGeNet	
+GAPDH	C0025303	Meningococcal Infections	DisGeNet	
+ATP6V1B2	C0431447	Synophrys	HumPhenOnt	
+ATP6V1B2	C1834055	Underdeveloped nasal alae	HumPhenOnt	
+ATP6V1B2	C1853487	Thick eyebrow	HumPhenOnt	
+ATP6V1B2	C1858120	Generalized hypotonia	HumPhenOnt	
+GAPDH	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+GAPDH	C0730345	Microalbuminuria	DisGeNet	
+ATP6V1B2	C1851400	Facial hypertrichosis	HumPhenOnt	
+ATP6V1B2	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+GAPDH	C0349788	Arrhythmogenic right ventricular cardiomyopathy, type 11	DisGeNet	
+GAPDH	C0042721	Viral hepatitis	DisGeNet	
+GAPDH	C0349782	Ischemic cardiomyopathy	DisGeNet	
+GAPDH	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ATP6V1B2	C0376480	Gingival overgrowth	HumPhenOnt	
+GAPDH	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+GAPDH	C0026936	Mycoplasma Infections	DisGeNet	
+ATP6V1B2	C0263523	Small nail	HumPhenOnt	
+GAPDH	C0205698	Undifferentiated carcinoma	DisGeNet	
+GAPDH	C0206667	Adrenocortical adenoma	DisGeNet	
+ATP6V1B2	C0221260	Nail dystrophy	HumPhenOnt	
+GAPDH	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+ATP6V1B2	C0024421	Macroglossia	HumPhenOnt	
+GAPDH	C0262587	Parathyroid adenoma	DisGeNet	
+GAPDH	C0205647	Follicular adenoma	DisGeNet	
+GAPDH	C0033375	Prolactinoma, familial	DisGeNet	
+GAPDH	C0949541	Oxyphilic Adenoma	DisGeNet	
+GAPDH	C0018995	Hemochromatosis	DisGeNet	
+GAPDH	C1175175	Severe Acute Respiratory Syndrome	DisGeNet	
+GAPDH	C0004565	Melanoma, B16	DisGeNet	
+ATP6V1B2	C4021428	Abnormality of thumb phalanx	HumPhenOnt	
+ATP6V1B2	C2673397	Triangular shaped phalanges of the hand	HumPhenOnt	
+ATP6V1B2	C0020555	Hypertrichosis	HumPhenOnt	
+ATP6V1B2	C4024297	Abnormality of the hairline	HumPhenOnt	
+ATP6V1B2	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+ATP6V1B2	C1836543	Thick vermilion border	HumPhenOnt	
+ATP6V1B2	C1859077	Aplasia/Hypoplasia of the nails	HumPhenOnt	
+ATP6V1B2	C0265660	Toe syndactyly	HumPhenOnt	
+ATP6V1B2	C4021816	Abnormality of the gingiva	HumPhenOnt	
+ATP6V1B2	C4023398	Congenital abnormal hair pattern	HumPhenOnt	
+ATP6V1B2	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	HumPhenOnt	
+ATP6V1B2	C4025852	Abnormality of the nasal tip	HumPhenOnt	
+GAPDH	C0003507	Aortic valve stenosis	DisGeNet	
+ATP6V1B2	C4023721	Abnormal hair pattern	HumPhenOnt	
+GAPDH	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+ATP6V1B2	C4024202	Reduced number of teeth	HumPhenOnt	
+GAPDH	C0040100	Thymoma	DisGeNet	
+GAPDH	C0041107	Trisomy	DisGeNet	
+GAPDH	C1559271	Non-Malignant Ascites Adverse Event	DisGeNet	
+GAPDH	C0013537	Eclampsia	DisGeNet	
+ATP6V1B2	C1836142	Congenital onset	HumPhenOnt	
+ATP6V1B2	C0026847	Spinal muscular atrophy with congenital bone fractures 2	DisGeNet	
+ATP6V1B2	C4022384	Abnormality of the scalp hair	HumPhenOnt	
+ATP6V1B2	C1290508	Abnormal number of teeth	HumPhenOnt	
+ATP6V1B2	C4023170	Abnormality of oral mucosa	HumPhenOnt	
+ATP6V1B2	C4280755	Abnormal tongue morphology	HumPhenOnt	
+GAPDH	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+GAPDH	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+ATP6V1B2	C4025734	Abnormality of the scalp	HumPhenOnt	
+GAPDH	C0011065	Death, Sudden, Cardiac	DisGeNet	
+ATP6V1B2	C0575897	Abnormality of the thumb	HumPhenOnt	
+ATP6V1B2	C0878638	Abnormality of the tongue	HumPhenOnt	
+ATP6V1B2	C0521525	Short neck	HumPhenOnt	
+GAPDH	C0036631	Testicular seminoma	DisGeNet	
+GAPDH	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GAPDH	C0007133	Carcinoma, Papillary	DisGeNet	
+ATP6V1B2	C1852464	Abnormality of the cervical spine	HumPhenOnt	
+ATP6V1B2	C0221357	Brachydactyly, type a1, d	HumPhenOnt	
+ATP6V1B2	C0011053	Deafness, autosomal recessive 44	ClinVar	
+GAPDH	C0004509	Azoospermia	DisGeNet	
+GAPDH	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+ATP6V1B2	C0022821	Kyphosis	HumPhenOnt	
+GAPDH	C0011884	Diabetic Retinopathy	DisGeNet	
+GAPDH	C0002895	Anemia, Sickle Cell	DisGeNet	
+GAPDH	C0008497	Choriocarcinoma	DisGeNet	
+ATP6V1B2	C0039075	Syndactyly type 9	HumPhenOnt	
+GAPDH	C0035304	Retinal degeneration	DisGeNet	
+ATP6V1B2	C0853087	Abnormality of the nail	HumPhenOnt	
+ATP6V1B2	C1857045	Abnormality of the philtrum	HumPhenOnt	
+GAPDH	C0020179	Huntington's chorea	DisGeNet	
+GAPDH	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+GAPDH	C0948089	Acute Coronary Syndrome	DisGeNet	
+ATP6V1B2	C4023124	Short digit	HumPhenOnt	
+ATP6V1B2	C1849367	Wide nasal bridge	HumPhenOnt	
+GAPDH	C0334634	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	DisGeNet	
+ATP6V1B2	C4011556	Abnormality of the eyebrow	HumPhenOnt	
+GAPDH	C0278883	Metastatic melanoma	DisGeNet	
+GAPDH	C0003130	Hypoxia	DisGeNet	
+GAPDH	C0022665	Renal neoplasm	DisGeNet	
+GAPDH	C0238339	Hereditary pancreatitis	DisGeNet	
+ATP6V1B2	C0266623	Abnormality of the neck	HumPhenOnt	
+GAPDH	C0036690	Septicemia	DisGeNet	
+GAPDH	C0024301	Lymphoma, Follicular	DisGeNet	
+ATP6V1B2	C4021804	Abnormality of the nasal alae	HumPhenOnt	
+ATP6V1B2	C4023397	Abnormal hair quantity	HumPhenOnt	
+ATP6V1B2	C2674738	Abnormality of toe	HumPhenOnt	
+GAPDH	C0042373	Vascular Diseases	DisGeNet	
+ATP6V1B2	C4025837	Abnormality of the periorbital region	HumPhenOnt	
+GAPDH	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+ATP6V1B2	C4021614	Abnormality of phalanx of finger	HumPhenOnt	
+ATP6V1B2	C1837514	Phenotypic variability	HumPhenOnt	
+ATP6V1B2	C0004936	Mental disorders	DisGeNet	
+GAPDH	C0025286	Meningioma	DisGeNet	
+GAPDH	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+GAPDH	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+ATP6V1B2	C0241052	Abnormality of skeletal muscles	HumPhenOnt	
+ATP6V1B2	C4025884	Abnormality of upper lip	HumPhenOnt	
+ATP6V1B2	C4022563	Abnormality of muscle size	HumPhenOnt	
+GAPDH	C0013080	Down Syndrome	DisGeNet	
+GAPDH	C0040136	Thyroid Neoplasms	DisGeNet	
+ATP6V1B2	C1269683	Major depressive disorder	DisGeNet	
+GAPDH	C0021400	Influenza	DisGeNet	
+GAPDH	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+ATP6V1B2	C4025867	Abnormality of the forehead	HumPhenOnt	
+ATP6V1B2	C4023638	Abnormality of the external nose	HumPhenOnt	
+GAPDH	C0036421	Scleroderma	DisGeNet	
+ATP6V1B2	C0040427	Abnormality of dental morphology	HumPhenOnt	
+ATP6V1B2	C4025252	Abnormal nasal morphology	HumPhenOnt	
+GAPDH	C0023895	Liver Diseases	DisGeNet	

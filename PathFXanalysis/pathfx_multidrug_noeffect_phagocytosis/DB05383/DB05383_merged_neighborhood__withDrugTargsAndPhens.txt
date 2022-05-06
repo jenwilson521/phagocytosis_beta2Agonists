@@ -1,0 +1,248 @@
+node1	node2	edge_score	
+DB05383	AKR1B1	1.0	
+DB05383	TIMP3	1.0	
+AKR1B1		1
+TIMP3		1
+Adenomas, multiple colorectal, 608456 (3)	AKR1B1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TIMP3	1.0	
+Arteriosclerosis	AKR1B1	1.0	
+Arteriosclerosis	TIMP3	1.0	
+Asthma	AKR1B1	1.0	
+Asthma	TIMP3	1.0	
+Atherosclerosis	AKR1B1	1.0	
+Atherosclerosis	TIMP3	1.0	
+Breast-ovarian cancer, familial 1	AKR1B1	1.0	
+Breast-ovarian cancer, familial 1	TIMP3	1.0	
+Colon cancer	AKR1B1	1.0	
+Colon cancer	TIMP3	1.0	
+Malignant tumor of cervix	AKR1B1	1.0	
+Malignant tumor of cervix	TIMP3	1.0	
+Diabetes Mellitus, Type 1	AKR1B1	1.0	
+Diabetes Mellitus, Type 1	TIMP3	1.0	
+Diabetes mellitus type 1	AKR1B1	1.0	
+Diabetes mellitus type 1	TIMP3	1.0	
+Diabetes mellitus type 2	AKR1B1	1.0	
+Diabetes mellitus type 2	TIMP3	1.0	
+Diabetic Angiopathies	AKR1B1	1.0	
+Diabetic Angiopathies	TIMP3	1.0	
+Diabetic Nephropathies	AKR1B1	1.0	
+Diabetic Nephropathies	TIMP3	1.0	
+Diabetic Retinopathy	AKR1B1	1.0	
+Diabetic Retinopathy	TIMP3	1.0	
+Endometriosis	AKR1B1	1.0	
+Endometriosis	TIMP3	1.0	
+Glioma	AKR1B1	1.0	
+Glioma	TIMP3	1.0	
+Heart Failure	AKR1B1	1.0	
+Heart Failure	TIMP3	1.0	
+Congestive heart failure	AKR1B1	1.0	
+Congestive heart failure	TIMP3	1.0	
+Hypertension	AKR1B1	1.0	
+Hypertension	TIMP3	1.0	
+Kidney Diseases	AKR1B1	1.0	
+Kidney Diseases	TIMP3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	AKR1B1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TIMP3	1.0	
+Secondary hypertriglyceridemia	AKR1B1	1.0	
+Secondary hypertriglyceridemia	TIMP3	1.0	
+Obesity	AKR1B1	1.0	
+Obesity	TIMP3	1.0	
+Retinopathy	AKR1B1	1.0	
+Retinopathy	TIMP3	1.0	
+Stroke	AKR1B1	1.0	
+Stroke	TIMP3	1.0	
+Synovial Cyst	AKR1B1	1.0	
+Synovial Cyst	TIMP3	1.0	
+Tumor Progression	AKR1B1	1.0	
+Tumor Progression	TIMP3	1.0	
+Carcinoma of cervix	AKR1B1	1.0	
+Carcinoma of cervix	TIMP3	1.0	
+Endometrial carcinoma	AKR1B1	1.0	
+Endometrial carcinoma	TIMP3	1.0	
+Carcinogenesis	AKR1B1	1.0	
+Carcinogenesis	TIMP3	1.0	
+Ovarian epithelial cancer	AKR1B1	1.0	
+Ovarian epithelial cancer	TIMP3	1.0	
+Breast carcinoma	AKR1B1	1.0	
+Breast carcinoma	TIMP3	1.0	
+Lung cancer	AKR1B1	1.0	
+Lung cancer	TIMP3	1.0	
+Carcinoma of colon	AKR1B1	1.0	
+Carcinoma of colon	TIMP3	1.0	
+Stomach cancer	AKR1B1	1.0	
+Stomach cancer	TIMP3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	AKR1B1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	TIMP3	1.0	
+Coronary Artery Disease	AKR1B1	1.0	
+Coronary Artery Disease	TIMP3	1.0	
+Hepatocellular carcinoma	AKR1B1	1.0	
+Hepatocellular carcinoma	TIMP3	1.0	
+High altitude pulmonary edema	TIMP3	1.0	
+Hereditary macular dystrophy	TIMP3	1.0	
+Malignant neoplasm of adrenal cortex	AKR1B1	1.0	
+Hypersomnia	AKR1B1	1.0	
+Enzyme inhibition disorder	AKR1B1	1.0	
+Geographic Atrophy	TIMP3	1.0	
+Endometriosis of ovary	AKR1B1	1.0	
+Bull's eye macular dystrophy	TIMP3	1.0	
+Diabetic foot ulcer	TIMP3	1.0	
+Diffuse Astrocytoma	TIMP3	1.0	
+Prolymphocytic Leukemia	AKR1B1	1.0	
+Corneal pannus	TIMP3	1.0	
+Neurotoxicity Syndromes	TIMP3	1.0	
+Leukemia, Plasma Cell	TIMP3	1.0	
+Recurrent pneumonia	TIMP3	1.0	
+Choroidal Neovascularization	TIMP3	1.0	
+Drusen	TIMP3	1.0	
+Hypokalemia	AKR1B1	1.0	
+Squamous cell carcinoma of mouth	TIMP3	1.0	
+Papillary renal cell carcinoma	TIMP3	1.0	
+Low Tension Glaucoma	AKR1B1	1.0	
+Marfan syndrome	TIMP3	1.0	
+Photoreceptor degeneration	TIMP3	1.0	
+Oropharyngeal squamous cell carcinoma	TIMP3	1.0	
+Lymphangiomyomatosis	TIMP3	1.0	
+Adenomatous polyp of colon	TIMP3	1.0	
+Anaplastic carcinoma	TIMP3	1.0	
+Aortic dissection	TIMP3	1.0	
+Proliferative diabetic retinopathy	AKR1B1	1.0	
+Unspecified visual loss	TIMP3	1.0	
+Hepatosplenic schistosomiasis	TIMP3	1.0	
+Microalbuminuria	AKR1B1	1.0	
+Neoplasm of the adrenal cortex	AKR1B1	1.0	
+Bronchitis, Chronic	TIMP3	1.0	
+Complications of Diabetes Mellitus	AKR1B1	1.0	
+Facioscapulohumeral muscular dystrophy	TIMP3	1.0	
+Ichthyosis bullosa of Siemens	AKR1B1	1.0	
+Degenerative disease of the spinal cord	TIMP3	1.0	
+granulosa cell tumor	TIMP3	1.0	
+Undifferentiated carcinoma	TIMP3	1.0	
+Intervertebral disc degeneration	TIMP3	1.0	
+Type 1 diabetic neuropathy	AKR1B1	1.0	
+airway disease	AKR1B1	1.0	
+Endotoxemia	TIMP3	1.0	
+Intraocular pressure disorder	AKR1B1	1.0	
+Childhood asthma	AKR1B1	1.0	
+Intracranial Aneurysm	TIMP3	1.0	
+Aortic Aneurysm, Thoracic	TIMP3	1.0	
+Mammary Ductal Carcinoma	TIMP3	1.0	
+Varicose Veins	TIMP3	1.0	
+Vascular inflammations	TIMP3	1.0	
+Bilateral cataracts (disorder)	AKR1B1	1.0	
+Focal segmental glomerulosclerosis	AKR1B1	1.0	
+Giant cell arteritis	AKR1B1	1.0	
+Cervical Squamous Cell Carcinoma	TIMP3	1.0	
+Abnormality of the macula	TIMP3	1.0	
+Gingival Diseases	TIMP3	1.0	
+Musculoskeletal Diseases	TIMP3	1.0	
+Pregnancy Complications, Hematologic	TIMP3	1.0	
+Abdominal obesity	AKR1B1	1.0	
+{Aneurysm, familial abdominal 3} (2)	TIMP3	1.0	
+Fetal Diseases	TIMP3	1.0	
+Nonalcoholic Steatohepatitis	TIMP3	1.0	
+Glomerulopathy	AKR1B1	1.0	
+Adrenocortical carcinoma	AKR1B1	1.0	
+Carotid Stenosis	TIMP3	1.0	
+Irritable bowel syndrome with diarrhea	AKR1B1	1.0	
+Keratoconus	TIMP3	1.0	
+Neoplasm Invasiveness	TIMP3	1.0	
+Tumor necrosis	TIMP3	1.0	
+Amyotrophic lateral sclerosis type 1	TIMP3	1.0	
+Dissecting aneurysm of the thoracic aorta	TIMP3	1.0	
+Hyperalgesia	AKR1B1	1.0	
+Night blindness, congenital stationary, type 1g	TIMP3	1.0	
+Chronic Periodontitis	TIMP3	1.0	
+Carcinoid tumor	TIMP3	1.0	
+Eclampsia	TIMP3	1.0	
+Vasculitis	AKR1B1	1.0	
+Sensory neuropathy	AKR1B1	1.0	
+Hypersensitivity	AKR1B1	1.0	
+Chronic Kidney Insufficiency	AKR1B1	1.0	
+Carotid Artery Diseases	TIMP3	1.0	
+Aortic Aneurysm, Abdominal	TIMP3	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	TIMP3	1.0	
+Macular Degeneration	TIMP3	1.0	
+Connective Tissue Diseases	TIMP3	1.0	
+Chronic hepatitis	TIMP3	1.0	
+Intraocular melanoma	TIMP3	1.0	
+Allergic disposition	AKR1B1	1.0	
+Benign neoplasm of other endocrine glands	AKR1B1	1.0	
+Endothelial dysfunction	AKR1B1	1.0	
+Meningioma, benign, no ICD-O subtype	TIMP3	1.0	
+Restenosis	AKR1B1	1.0	
+Ductal Carcinoma	TIMP3	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	TIMP3	1.0	
+Adenocarcinoma of colon	AKR1B1	1.0	
+Neutropenia	AKR1B1	1.0	
+Spontaneous abortion	TIMP3	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	AKR1B1	1.0	
+RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	TIMP3	1.0	
+Cutaneous malignant melanoma 3	TIMP3	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	AKR1B1	1.0	
+Endometrial Neoplasms	AKR1B1	1.0	
+Subarachnoid hemorrhage	TIMP3	1.0	
+Cerebral ischemia	TIMP3	1.0	
+Choriocarcinoma	TIMP3	1.0	
+Hypospadias	AKR1B1	1.0	
+Retinal degeneration	TIMP3	1.0	
+Hyperlipidemia, combined, 1	AKR1B1	1.0	
+Adenocarcinoma Of Esophagus	TIMP3	1.0	
+Leukopenia	AKR1B1	1.0	
+Reperfusion Injury	TIMP3	1.0	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	TIMP3	1.0	
+Leiomyoma	AKR1B1	1.0	
+Recurrent tumor	TIMP3	1.0	
+Periodontitis	TIMP3	1.0	
+Uterine leiomyoma	AKR1B1	1.0	
+Idiopathic Pulmonary Fibrosis	TIMP3	1.0	
+Carcinoma breast stage IV	TIMP3	1.0	
+Cleft Lip	TIMP3	1.0	
+Renal insufficiency	AKR1B1	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	TIMP3	1.0	
+Renal Insufficiency, Chronic	AKR1B1	1.0	
+Clear cell renal cell carcinoma	TIMP3	1.0	
+Invasive breast carcinoma	AKR1B1	1.0	
+Premature Birth	TIMP3	1.0	
+Experimental Autoimmune Encephalomyelitis	TIMP3	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	TIMP3	1.0	
+Cholangiocarcinoma	TIMP3	1.0	
+Malignant neoplasm of kidney	TIMP3	1.0	
+Cancer of the lower GI tract	TIMP3	1.0	
+Vascular Diseases	AKR1B1	1.0	
+Retinitis pigmentosa	TIMP3	1.0	
+Age-related macular degeneration 2	TIMP3	1.0	
+Cancer of Head and Neck	TIMP3	1.0	
+Glioblastoma multiforme	TIMP3	1.0	
+Tumor Angiogenesis	TIMP3	1.0	
+Papillary thyroid carcinoma	TIMP3	1.0	
+Meningioma	TIMP3	1.0	
+Cardiomyopathy, Dilated	TIMP3	1.0	
+Hepatitis C, Chronic	TIMP3	1.0	
+Hyperglycemia	AKR1B1	1.0	
+Pneumonia	AKR1B1	1.0	
+Hepatocarcinogenesis	AKR1B1	1.0	
+Dermatosis NOS	TIMP3	1.0	
+Acute myocardial ischemia	AKR1B1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	AKR1B1	1.0	
+Malignant neoplasm of endometrium	AKR1B1	1.0	
+Uterine Corpus Cancer	AKR1B1	1.0	
+Medulloblastoma	TIMP3	1.0	
+Severe combined immunodeficiency due to ADA deficiency	TIMP3	1.0	
+Xenograft Model	TIMP3	1.0	
+Non-Hodgkin lymphoma	TIMP3	1.0	
+Pancreatic Ductal Adenocarcinoma	TIMP3	1.0	
+Cleft Palate	TIMP3	1.0	
+Scleroderma	TIMP3	1.0	
+Abnormality of the intestine	AKR1B1	1.0	
+Liver Diseases	TIMP3	1.0	
+Abnormality of the retina	TIMP3	1.0	
+Hepatic cancer metastatic	AKR1B1	1.0	
+Small cell lung cancer	AKR1B1	1.0	
+Inflammation	TIMP3	1.0	
+Ischemia	AKR1B1	1.0	
+Malignant tumor of esophagus	TIMP3	1.0	
+Thyroid carcinoma	TIMP3	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	TIMP3	1.0	
+Colitis, Ulcerative	TIMP3	1.0	
+Cataract, autosomal recessive congenital 5	AKR1B1	1.0	
+Neurodegenerative Diseases	TIMP3	1.0	

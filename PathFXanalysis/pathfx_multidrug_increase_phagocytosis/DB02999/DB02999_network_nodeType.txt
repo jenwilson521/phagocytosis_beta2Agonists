@@ -1,0 +1,124 @@
+node_name	node_type	
+DB02999	drug	
+GRIK2	drug_target	
+GRIA2	drug_target	
+Spastic	phenotype	
+Schizophrenia	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Weight Gain Adverse Event	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Hyperactivity	phenotype	
+Reperfusion Injury	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Migraine Disorders	phenotype	
+Tumor Promotion	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Anxiety Disorders	phenotype	
+Unipolar Depression	phenotype	
+Gout	phenotype	
+Cocaine-Related Disorders	phenotype	
+Mental disorders	phenotype	
+Major depressive disorder	phenotype	
+Increased body weight	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Substance-Related Disorders	phenotype	
+Status epilepticus	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Globus Hystericus	phenotype	
+Episodic ataxia	phenotype	
+Cutaneous syndactyly	phenotype	
+Facial cleft	phenotype	
+Abnormality of the lacrimal duct	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+AMYOTROPHIC LATERAL SCLEROSIS 5	phenotype	
+Cleft eyelid	phenotype	
+Abnormal lung lobation	phenotype	
+Tracheal stenosis	phenotype	
+Anal stenosis	phenotype	
+Cupped ear	phenotype	
+Abnormality of the pubic bone	phenotype	
+Seizures, Febrile	phenotype	
+Ectopic anus	phenotype	
+Absent hair	phenotype	
+Hyperalgesia, Thermal	phenotype	
+Mechanical Allodynia	phenotype	
+Spina bifida	phenotype	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Carney complex	phenotype	
+Pervasive developmental disorders	phenotype	
+Atresia of the external auditory canal	phenotype	
+Cushing's syndrome	phenotype	
+Progressive cerebellar ataxia	phenotype	
+Hepatic encephalopathy	phenotype	
+Impaired vibratory sensation	phenotype	
+Glioblastoma	phenotype	
+Memory impairment	phenotype	
+Cellular immunodeficiency	phenotype	
+Abnormality of the nasolacrimal system	phenotype	
+Polyuria	phenotype	
+Bipolar affective disorder	phenotype	
+Abnormality of the thymus	phenotype	
+Bicornuate uterus	phenotype	
+Tobacco Use Disorder	phenotype	
+Cardiomegaly	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Meningocele	phenotype	
+Myelomeningocele	phenotype	
+Autism 15	phenotype	
+Learning Disorders	phenotype	
+Bacterial Vaginosis	phenotype	
+Increased size of the clitoris	phenotype	
+Abnormal size of the clitoris	phenotype	
+Dystonia 2, torsion, autosomal recessive	phenotype	
+Scrotal hypoplasia	phenotype	
+Huntington's chorea	phenotype	
+Refractive Errors	phenotype	
+Clitoral hypertrophy	phenotype	
+Mood Disorders	phenotype	
+Oncocytic Neoplasm	phenotype	
+Wide nose	phenotype	
+Abnormality of the auditory canal	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+Carcinoma, Neuroendocrine	phenotype	
+Focal dystonia	phenotype	
+Infection by Cryptococcus neoformans	phenotype	
+Female pseudohermaphroditism	phenotype	
+Spinocerebellar ataxia 1	phenotype	
+Body Weight Changes	phenotype	
+Anophthalmia/Microphthalmia	phenotype	
+Ovarian adenocarcinoma	phenotype	
+Dental crowding	phenotype	
+Adrenal hyperplasia	phenotype	
+Omphalocele	phenotype	
+Underdeveloped nasal alae	phenotype	
+Absent eyelashes	phenotype	
+Osteochondritis dissecans	phenotype	
+Abnormality of the frontal hairline	phenotype	
+Shock, Septic	phenotype	
+Right ventricular hypertrophy	phenotype	
+Wide intermamillary distance	phenotype	
+Abnormal intermamillary distance	phenotype	
+Abnormality of the meninges	phenotype	
+Ischemic stroke	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Abnormality of the clitoris	phenotype	
+Renal hypoplasia	phenotype	
+Brain Ischemia	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Pemphigus Vulgaris	phenotype	
+Dysmetria	phenotype	
+Abnormality of the vagina	phenotype	
+Amyotrophic Lateral Sclerosis, Sporadic	phenotype	
+Drug Allergy	phenotype	
+Cephalocele	phenotype	
+Gait ataxia	phenotype	
+Absence seizures	phenotype	
+Abnormality of the helix	phenotype	
+Dementia, Vascular	phenotype	
+Abnormality of the choanae	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Incomplete penetrance	phenotype	
+Dental malocclusion	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Aplasia/Hypoplasia of the thumb	phenotype	
+Pulmonary hypoplasia	phenotype	

@@ -1,0 +1,2522 @@
+node1	node2	edge_score	
+DB06151	GRIN3A	1.0	
+DB06151	GSS	1.0	
+DB06151	SLC22A6	1.0	
+DB06151	CHUK	1.0	
+DB06151	GRIN2A	1.0	
+DB06151	GRIN2D	1.0	
+DB06151	GRIN1	1.0	
+DB06151	SLCO1B1	1.0	
+DB06151	SLC7A11	1.0	
+DB06151	ACY1	1.0	
+DB06151	IKBKB	1.0	
+DB06151	GRIN2B	1.0	
+GRIN3A		1
+GRIN3A	rs11788456	0.99
+GRIN3A	rs10121600	0.99
+GSS		1
+SLC22A6		1
+CHUK	IKBKG	0.8596606802270689
+CHUK	CHUK	0.8459813396079446
+CHUK	NFKB2	0.8458468054109449
+CHUK	CARD11	0.8294526363440686
+CHUK	RIPK2	0.8252219011119977
+CHUK	TAB1	0.8520838925573979
+CHUK	NFKBIA	0.8448687443032323
+CHUK	RIPK1	0.851577718501957
+CHUK	FBXW11	0.8319100629186602
+CHUK	BTRC	0.8319100629186602
+CHUK	BCL10	0.8294526363440686
+CHUK	CUL1	0.8319100629186602
+CHUK	SKP1	0.8319100629186602
+CHUK		1
+CHUK	IFIH1	0.8294526363440686
+CHUK	NOD2	0.8252219011119977
+CHUK	MALT1	0.8294526363440686
+CHUK	TRAF2	0.8294526363440686
+CHUK	REL	0.8086124452583398
+CHUK	NFKB1	0.8625083199902923
+CHUK	TAB3	0.8520838925573979
+CHUK	NFKBIB	0.8407682499807351
+CHUK	UBE2N	0.8470141168187869
+CHUK	RELA	0.8520838925573979
+CHUK	MAP3K8	0.849809014912932
+CHUK	UBE2V1	0.8470141168187869
+CHUK	IRAK1	0.8573761641163911
+CHUK	NFKBIE	0.8086124452583398
+CHUK	TRAF6	0.861739576896781
+CHUK	TNIP2	0.849809014912932
+CHUK	IKBKB	0.8587458633585864
+CHUK	NOD1	0.8252219011119977
+CHUK	MAP3K7	0.8594519690919569
+CHUK	TAB2	0.8560021777996374
+GRIN2A	CAMK2G	0.8516636985739204
+GRIN2A	NEFL	0.8398120133516425
+GRIN2A	DLG4	0.851577718501957
+GRIN2A	ACTN2	0.8398120133516425
+GRIN2A	HRAS	0.852724204446584
+GRIN2A	CAMK2A	0.8516636985739204
+GRIN2A	GRIN2A	0.8354005520686607
+GRIN2A	GRIN2C	0.8354005520686607
+GRIN2A	GRB2	0.8670770245481983
+GRIN2A	CAMK2B	0.8516636985739204
+GRIN2A	CAMK2D	0.8516636985739204
+GRIN2A	GRIN1	0.8480904465605648
+GRIN2A	SHC1	0.8601235081501506
+GRIN2A		1
+GRIN2A	CALM3	0.8319100629186602
+GRIN2A	GRIN2D	0.8354005520686607
+GRIN2A	SOS1	0.8672683872743503
+GRIN2D	CAMK2G	0.8516636985739204
+GRIN2D	NEFL	0.8398120133516425
+GRIN2D	HRAS	0.852724204446584
+GRIN2D	CAMK2A	0.8516636985739204
+GRIN2D	ACTN2	0.8398120133516425
+GRIN2D	GRB2	0.8670770245481983
+GRIN2D	SHC1	0.8601235081501506
+GRIN2D	GRIN2C	0.8354005520686607
+GRIN2D	CALM3	0.8319100629186602
+GRIN2D	GRIN2A	0.8354005520686607
+GRIN2D	DLG4	0.851577718501957
+GRIN2D		1
+GRIN2D	GRIN1	0.8480904465605648
+GRIN2D	SOS1	0.8672683872743503
+GRIN2D	CAMK2D	0.8516636985739204
+GRIN2D	CAMK2B	0.8516636985739204
+GRIN2D	GRIN2D	0.8354005520686607
+GRIN1	EFNB2	0.8526462282435747
+GRIN1	CAMK2A	0.8516636985739204
+GRIN1	DLG4	0.851577718501957
+GRIN1	NEFL	0.8398120133516425
+GRIN1	LYN	0.8526462282435747
+GRIN1	CAMK2G	0.8516636985739204
+GRIN1	EPHB1	0.8526462282435747
+GRIN1	YES1	0.8526462282435747
+GRIN1	GRIN2B	0.8611505155370949
+GRIN1	EFNB1	0.8526462282435747
+GRIN1	EPHB4	0.8526462282435747
+GRIN1	TIAM1	0.842023951637581
+GRIN1	CALM3	0.8319100629186602
+GRIN1	EFNB3	0.8526462282435747
+GRIN1	EPHB6	0.8526462282435747
+GRIN1	SHC1	0.8601235081501506
+GRIN1	EPHB2	0.8526462282435747
+GRIN1	rs1126442	0.99
+GRIN1	GRB2	0.8670770245481983
+GRIN1	GRIN2A	0.8480904465605648
+GRIN1		1
+GRIN1	HRAS	0.852724204446584
+GRIN1	FYN	0.8567933402497072
+GRIN1	EPHB3	0.8526462282435747
+GRIN1	GRIN2C	0.8480904465605648
+GRIN1	SRC	0.8526462282435747
+GRIN1	GRIN1	0.8564332803525301
+GRIN1	CAMK2B	0.8516636985739204
+GRIN1	CAMK2D	0.8516636985739204
+GRIN1	SOS1	0.8672683872743503
+GRIN1	GRIN2D	0.8480904465605648
+GRIN1	ACTN2	0.8398120133516425
+SLCO1B1	SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5	0.99
+SLCO1B1	rs11045819	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*1B	0.99
+SLCO1B1	rs4149056	0.99
+SLCO1B1	rs2306283	0.99
+SLCO1B1	rs11045821	0.99
+SLCO1B1	rs4149032	0.99
+SLCO1B1	SLCO1B1*14, SLCO1B1*1A	0.99
+SLCO1B1	rs4363657	0.99
+SLCO1B1	rs2291075	0.99
+SLCO1B1	rs11045879	0.99
+SLCO1B1	rs4149036	0.99
+SLCO1B1	rs11045872	0.99
+SLCO1B1	rs2900478	0.99
+SLCO1B1	SLCO1B1*15, SLCO1B1*1A, SLCO1B1*1B	0.99
+SLCO1B1	SLCO1B1*12, SLCO1B1*13, SLCO1B1*1A	0.99
+SLCO1B1	rs113681054	0.99
+SLCO1B1	rs2291073	0.99
+SLCO1B1		1
+SLCO1B1	SLCO1B1*15, SLCO1B1*18, SLCO1B1*1A, SLCO1B1*1B, SLCO1B1*5, SLCO1B1*9	0.99
+SLCO1B1	rs4149081	0.99
+SLCO1B1	SLCO1B1*1, SLCO1B1*2	0.99
+SLCO1B1	rs4149015	0.99
+SLC7A11		1
+ACY1		1
+IKBKB	MAP3K8	0.849809014912932
+IKBKB	UBE2N	0.8470141168187869
+IKBKB	TAB2	0.8560021777996374
+IKBKB	NFKBIA	0.8539671061984366
+IKBKB	CHUK	0.8587458633585864
+IKBKB	TAB1	0.8520838925573979
+IKBKB	RELA	0.8576524009695105
+IKBKB	CARD11	0.8294526363440686
+IKBKB	IRAK1	0.8630269087798201
+IKBKB		1
+IKBKB	IKBKB	0.852724204446584
+IKBKB	IFIH1	0.8294526363440686
+IKBKB	UBE2V1	0.8470141168187869
+IKBKB	NFKB1	0.86411620310611
+IKBKB	IKBKG	0.8596606802270689
+IKBKB	MALT1	0.8294526363440686
+IKBKB	TRAF6	0.8649683315138701
+IKBKB	TRAF2	0.8294526363440686
+IKBKB	BCL10	0.8294526363440686
+IKBKB	REL	0.8086124452583398
+IKBKB	NOD1	0.8252219011119977
+IKBKB	RIPK1	0.851577718501957
+IKBKB	SQSTM1	0.842023951637581
+IKBKB	TNIP2	0.849809014912932
+IKBKB	TAB3	0.8520838925573979
+IKBKB	NFKBIB	0.8407682499807351
+IKBKB	MAP3K7	0.8594519690919569
+IKBKB	NOD2	0.8252219011119977
+IKBKB	RIPK2	0.8252219011119977
+IKBKB	NFKBIE	0.8086124452583398
+IKBKB	NFKB2	0.8252219011119977
+GRIN2B	EPHB4	0.8526462282435747
+GRIN2B	rs1019385	0.99
+GRIN2B		1
+GRIN2B	GRIN2A	0.8354005520686607
+GRIN2B	EFNB2	0.8526462282435747
+GRIN2B	GRIN2D	0.8354005520686607
+GRIN2B	DLG4	0.851577718501957
+GRIN2B	LYN	0.8526462282435747
+GRIN2B	TIAM1	0.842023951637581
+GRIN2B	EPHB1	0.8526462282435747
+GRIN2B	CAMK2D	0.8516636985739204
+GRIN2B	EPHB6	0.8526462282435747
+GRIN2B	GRIN1	0.8611505155370949
+GRIN2B	CAMK2G	0.8516636985739204
+GRIN2B	ACTN2	0.8398120133516425
+GRIN2B	GRIN2B	0.8564332803525301
+GRIN2B	rs1806201	0.99
+GRIN2B	GRB2	0.8670770245481983
+GRIN2B	HRAS	0.852724204446584
+GRIN2B	CALM3	0.8319100629186602
+GRIN2B	YES1	0.8526462282435747
+GRIN2B	NEFL	0.8398120133516425
+GRIN2B	rs2058878	0.99
+GRIN2B	FYN	0.8567933402497072
+GRIN2B	SHC1	0.8601235081501506
+GRIN2B	CAMK2A	0.8516636985739204
+GRIN2B	GRIN2C	0.8354005520686607
+GRIN2B	SRC	0.8526462282435747
+GRIN2B	EPHB2	0.8526462282435747
+GRIN2B	CAMK2B	0.8516636985739204
+GRIN2B	SOS1	0.8672683872743503
+GRIN2B	EPHB3	0.8526462282435747
+GRIN2B	EFNB3	0.8526462282435747
+GRIN2B	EFNB1	0.8526462282435747
+GRIN2B	rs1072388	0.99
+Symptomatic human immunodeficiency virus infection	BCL10	1.0	
+Symptomatic human immunodeficiency virus infection	CALM3	1.0	
+Symptomatic human immunodeficiency virus infection	CHUK	1.0	
+Symptomatic human immunodeficiency virus infection	CUL1	1.0	
+Symptomatic human immunodeficiency virus infection	EFNB2	1.0	
+Symptomatic human immunodeficiency virus infection	EPHB2	1.0	
+Symptomatic human immunodeficiency virus infection	EPHB6	1.0	
+Symptomatic human immunodeficiency virus infection	FBXW11	1.0	
+Symptomatic human immunodeficiency virus infection	FYN	1.0	
+Symptomatic human immunodeficiency virus infection	GRB2	1.0	
+Symptomatic human immunodeficiency virus infection	GSS	1.0	
+Symptomatic human immunodeficiency virus infection	IFIH1	1.0	
+Symptomatic human immunodeficiency virus infection	IKBKB	1.0	
+Symptomatic human immunodeficiency virus infection	IRAK1	1.0	
+Symptomatic human immunodeficiency virus infection	LYN	1.0	
+Symptomatic human immunodeficiency virus infection	NFKB1	1.0	
+Symptomatic human immunodeficiency virus infection	NFKB2	1.0	
+Symptomatic human immunodeficiency virus infection	NFKBIA	1.0	
+Symptomatic human immunodeficiency virus infection	NFKBIB	1.0	
+Symptomatic human immunodeficiency virus infection	NFKBIE	1.0	
+Symptomatic human immunodeficiency virus infection	NOD1	1.0	
+Symptomatic human immunodeficiency virus infection	NOD2	1.0	
+Symptomatic human immunodeficiency virus infection	RELA	1.0	
+Symptomatic human immunodeficiency virus infection	SHC1	1.0	
+Symptomatic human immunodeficiency virus infection	SKP1	1.0	
+Symptomatic human immunodeficiency virus infection	SLC22A6	1.0	
+Symptomatic human immunodeficiency virus infection	SLCO1B1	1.0	
+Symptomatic human immunodeficiency virus infection	SQSTM1	1.0	
+Symptomatic human immunodeficiency virus infection	SRC	1.0	
+Symptomatic human immunodeficiency virus infection	TIAM1	1.0	
+Symptomatic human immunodeficiency virus infection	TRAF2	1.0	
+Symptomatic human immunodeficiency virus infection	TRAF6	1.0	
+Symptomatic human immunodeficiency virus infection	UBE2V1	1.0	
+Symptomatic human immunodeficiency virus infection	YES1	1.0	
+Lymphoma, Large B-Cell, Diffuse	BCL10	1.0	
+Lymphoma, Large B-Cell, Diffuse	BTRC	1.0	
+Lymphoma, Large B-Cell, Diffuse	CALM3	1.0	
+Lymphoma, Large B-Cell, Diffuse	CARD11	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB1	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB2	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB4	1.0	
+Lymphoma, Large B-Cell, Diffuse	HRAS	1.0	
+Lymphoma, Large B-Cell, Diffuse	IKBKB	1.0	
+Lymphoma, Large B-Cell, Diffuse	IRAK1	1.0	
+Lymphoma, Large B-Cell, Diffuse	LYN	1.0	
+Lymphoma, Large B-Cell, Diffuse	MALT1	1.0	
+Lymphoma, Large B-Cell, Diffuse	MAP3K7	1.0	
+Lymphoma, Large B-Cell, Diffuse	NFKB1	1.0	
+Lymphoma, Large B-Cell, Diffuse	NFKB2	1.0	
+Lymphoma, Large B-Cell, Diffuse	NFKBIA	1.0	
+Lymphoma, Large B-Cell, Diffuse	REL	1.0	
+Lymphoma, Large B-Cell, Diffuse	RELA	1.0	
+Lymphoma, Large B-Cell, Diffuse	RIPK2	1.0	
+Lymphoma, Large B-Cell, Diffuse	SOS1	1.0	
+Lymphoma, Large B-Cell, Diffuse	SQSTM1	1.0	
+Lymphoma, Large B-Cell, Diffuse	SRC	1.0	
+Lymphoma, Large B-Cell, Diffuse	TIAM1	1.0	
+Lymphoma, Large B-Cell, Diffuse	TRAF2	1.0	
+Lymphoma, Large B-Cell, Diffuse	TRAF6	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	BCL10	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CHUK	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	EFNB2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	EPHB2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	HRAS	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	IFIH1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	MALT1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	MAP3K7	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NEFL	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NFKB1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NFKBIA	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NFKBIE	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NOD1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NOD2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	RELA	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	RIPK1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	RIPK2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	SQSTM1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	SRC	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TRAF2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TRAF6	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	UBE2V1	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	EFNB1	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	IKBKG	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	MAP3K7	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	NFKB1	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	NFKBIA	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	TAB2	1.0	
+Hypohidrotic X-linked ectodermal dysplasia	TRAF6	1.0	
+Animal Mammary Neoplasms	BCL10	1.0	
+Animal Mammary Neoplasms	CALM3	1.0	
+Animal Mammary Neoplasms	CHUK	1.0	
+Animal Mammary Neoplasms	EPHB2	1.0	
+Animal Mammary Neoplasms	EPHB4	1.0	
+Animal Mammary Neoplasms	EPHB6	1.0	
+Animal Mammary Neoplasms	FYN	1.0	
+Animal Mammary Neoplasms	GRB2	1.0	
+Animal Mammary Neoplasms	GRIN1	1.0	
+Animal Mammary Neoplasms	GSS	1.0	
+Animal Mammary Neoplasms	HRAS	1.0	
+Animal Mammary Neoplasms	IKBKB	1.0	
+Animal Mammary Neoplasms	LYN	1.0	
+Animal Mammary Neoplasms	MAP3K7	1.0	
+Animal Mammary Neoplasms	MAP3K8	1.0	
+Animal Mammary Neoplasms	NFKB1	1.0	
+Animal Mammary Neoplasms	NFKB2	1.0	
+Animal Mammary Neoplasms	NFKBIA	1.0	
+Animal Mammary Neoplasms	NOD2	1.0	
+Animal Mammary Neoplasms	REL	1.0	
+Animal Mammary Neoplasms	RELA	1.0	
+Animal Mammary Neoplasms	RIPK1	1.0	
+Animal Mammary Neoplasms	RIPK2	1.0	
+Animal Mammary Neoplasms	SHC1	1.0	
+Animal Mammary Neoplasms	SLCO1B1	1.0	
+Animal Mammary Neoplasms	SOS1	1.0	
+Animal Mammary Neoplasms	SQSTM1	1.0	
+Animal Mammary Neoplasms	SRC	1.0	
+Animal Mammary Neoplasms	TAB1	1.0	
+Animal Mammary Neoplasms	TIAM1	1.0	
+Animal Mammary Neoplasms	YES1	1.0	
+Rheumatoid arthritis	CALM3	1.0	
+Rheumatoid arthritis	CHUK	1.0	
+Rheumatoid arthritis	CUL1	1.0	
+Rheumatoid arthritis	EFNB1	1.0	
+Rheumatoid arthritis	EFNB2	1.0	
+Rheumatoid arthritis	EPHB1	1.0	
+Rheumatoid arthritis	EPHB2	1.0	
+Rheumatoid arthritis	IFIH1	1.0	
+Rheumatoid arthritis	IKBKB	1.0	
+Rheumatoid arthritis	IRAK1	1.0	
+Rheumatoid arthritis	NFKB1	1.0	
+Rheumatoid arthritis	NFKB2	1.0	
+Rheumatoid arthritis	NFKBIA	1.0	
+Rheumatoid arthritis	NFKBIB	1.0	
+Rheumatoid arthritis	NFKBIE	1.0	
+Rheumatoid arthritis	NOD1	1.0	
+Rheumatoid arthritis	NOD2	1.0	
+Rheumatoid arthritis	REL	1.0	
+Rheumatoid arthritis	RELA	1.0	
+Rheumatoid arthritis	RIPK1	1.0	
+Rheumatoid arthritis	SLCO1B1	1.0	
+Rheumatoid arthritis	SOS1	1.0	
+Rheumatoid arthritis	TAB1	1.0	
+Rheumatoid arthritis	TAB2	1.0	
+Rheumatoid arthritis	TNIP2	1.0	
+Rheumatoid arthritis	TRAF2	1.0	
+Rheumatoid arthritis	TRAF6	1.0	
+Glioma	BCL10	1.0	
+Glioma	CALM3	1.0	
+Glioma	CAMK2B	1.0	
+Glioma	CUL1	1.0	
+Glioma	EFNB2	1.0	
+Glioma	EFNB3	1.0	
+Glioma	EPHB1	1.0	
+Glioma	EPHB2	1.0	
+Glioma	EPHB4	1.0	
+Glioma	FYN	1.0	
+Glioma	GRB2	1.0	
+Glioma	GRIN2B	1.0	
+Glioma	HRAS	1.0	
+Glioma	IKBKB	1.0	
+Glioma	LYN	1.0	
+Glioma	MAP3K8	1.0	
+Glioma	NFKB1	1.0	
+Glioma	NFKB2	1.0	
+Glioma	NFKBIA	1.0	
+Glioma	NOD2	1.0	
+Glioma	RELA	1.0	
+Glioma	RIPK2	1.0	
+Glioma	SLC7A11	1.0	
+Glioma	SOS1	1.0	
+Glioma	SQSTM1	1.0	
+Glioma	SRC	1.0	
+Glioma	TRAF2	1.0	
+Glioma	UBE2N	1.0	
+Weight Gain Adverse Event	CAMK2A	1.0	
+Weight Gain Adverse Event	CAMK2B	1.0	
+Weight Gain Adverse Event	GRIN1	1.0	
+Weight Gain Adverse Event	GRIN2A	1.0	
+Weight Gain Adverse Event	GRIN2B	1.0	
+Weight Gain Adverse Event	GRIN2C	1.0	
+Weight Gain Adverse Event	GRIN2D	1.0	
+Weight Gain Adverse Event	GRIN3A	1.0	
+Weight Gain Adverse Event	SRC	1.0	
+Hepatocellular carcinoma	BCL10	1.0	
+Hepatocellular carcinoma	BTRC	1.0	
+Hepatocellular carcinoma	CALM3	1.0	
+Hepatocellular carcinoma	CHUK	1.0	
+Hepatocellular carcinoma	CUL1	1.0	
+Hepatocellular carcinoma	EFNB1	1.0	
+Hepatocellular carcinoma	EFNB2	1.0	
+Hepatocellular carcinoma	EPHB1	1.0	
+Hepatocellular carcinoma	EPHB2	1.0	
+Hepatocellular carcinoma	EPHB4	1.0	
+Hepatocellular carcinoma	EPHB6	1.0	
+Hepatocellular carcinoma	FBXW11	1.0	
+Hepatocellular carcinoma	GRB2	1.0	
+Hepatocellular carcinoma	HRAS	1.0	
+Hepatocellular carcinoma	IFIH1	1.0	
+Hepatocellular carcinoma	IKBKB	1.0	
+Hepatocellular carcinoma	IKBKG	1.0	
+Hepatocellular carcinoma	IRAK1	1.0	
+Hepatocellular carcinoma	MAP3K7	1.0	
+Hepatocellular carcinoma	MAP3K8	1.0	
+Hepatocellular carcinoma	NFKB1	1.0	
+Hepatocellular carcinoma	NFKBIA	1.0	
+Hepatocellular carcinoma	NOD2	1.0	
+Hepatocellular carcinoma	REL	1.0	
+Hepatocellular carcinoma	RELA	1.0	
+Hepatocellular carcinoma	SHC1	1.0	
+Hepatocellular carcinoma	SLCO1B1	1.0	
+Hepatocellular carcinoma	SOS1	1.0	
+Hepatocellular carcinoma	SQSTM1	1.0	
+Hepatocellular carcinoma	SRC	1.0	
+Hepatocellular carcinoma	TAB3	1.0	
+Hepatocellular carcinoma	TIAM1	1.0	
+Hepatocellular carcinoma	UBE2N	1.0	
+Hepatocellular carcinoma	UBE2V1	1.0	
+Hepatocellular carcinoma	YES1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BCL10	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BTRC	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CALM3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EFNB1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EFNB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EPHB1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EPHB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EPHB4	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GRB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GRIN2B	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	HRAS	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	IKBKB	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	IRAK1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	MAP3K8	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NFKB1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NFKB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NFKBIA	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NOD1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NOD2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	RELA	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	RIPK2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	SOS1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	SRC	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TAB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TIAM1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TRAF2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TRAF6	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	YES1	1.0	
+Pancreatic Carcinoma	BCL10	1.0	
+Pancreatic Carcinoma	BTRC	1.0	
+Pancreatic Carcinoma	CALM3	1.0	
+Pancreatic Carcinoma	EPHB2	1.0	
+Pancreatic Carcinoma	EPHB4	1.0	
+Pancreatic Carcinoma	FBXW11	1.0	
+Pancreatic Carcinoma	HRAS	1.0	
+Pancreatic Carcinoma	IKBKB	1.0	
+Pancreatic Carcinoma	IRAK1	1.0	
+Pancreatic Carcinoma	MAP3K7	1.0	
+Pancreatic Carcinoma	NFKB1	1.0	
+Pancreatic Carcinoma	NFKB2	1.0	
+Pancreatic Carcinoma	NFKBIA	1.0	
+Pancreatic Carcinoma	REL	1.0	
+Pancreatic Carcinoma	RELA	1.0	
+Pancreatic Carcinoma	RIPK1	1.0	
+Pancreatic Carcinoma	RIPK2	1.0	
+Pancreatic Carcinoma	SLCO1B1	1.0	
+Pancreatic Carcinoma	SOS1	1.0	
+Pancreatic Carcinoma	SQSTM1	1.0	
+Pancreatic Carcinoma	SRC	1.0	
+Pancreatic Carcinoma	TIAM1	1.0	
+Pancreatic Carcinoma	TRAF2	1.0	
+Pancreatic Carcinoma	TRAF6	1.0	
+Pancreatic Carcinoma	YES1	1.0	
+Stomach cancer	BCL10	1.0	
+Stomach cancer	BTRC	1.0	
+Stomach cancer	CALM3	1.0	
+Stomach cancer	EFNB1	1.0	
+Stomach cancer	EFNB2	1.0	
+Stomach cancer	EPHB1	1.0	
+Stomach cancer	EPHB2	1.0	
+Stomach cancer	EPHB4	1.0	
+Stomach cancer	FBXW11	1.0	
+Stomach cancer	GRB2	1.0	
+Stomach cancer	GRIN2B	1.0	
+Stomach cancer	HRAS	1.0	
+Stomach cancer	IRAK1	1.0	
+Stomach cancer	MAP3K8	1.0	
+Stomach cancer	NFKB1	1.0	
+Stomach cancer	NFKB2	1.0	
+Stomach cancer	NFKBIA	1.0	
+Stomach cancer	NOD1	1.0	
+Stomach cancer	NOD2	1.0	
+Stomach cancer	RELA	1.0	
+Stomach cancer	RIPK2	1.0	
+Stomach cancer	SOS1	1.0	
+Stomach cancer	SRC	1.0	
+Stomach cancer	TAB2	1.0	
+Stomach cancer	TIAM1	1.0	
+Stomach cancer	TRAF2	1.0	
+Stomach cancer	TRAF6	1.0	
+Stomach cancer	YES1	1.0	
+Colitis, Ulcerative	CHUK	1.0	
+Colitis, Ulcerative	EPHB2	1.0	
+Colitis, Ulcerative	IFIH1	1.0	
+Colitis, Ulcerative	IKBKB	1.0	
+Colitis, Ulcerative	IKBKG	1.0	
+Colitis, Ulcerative	MAP3K7	1.0	
+Colitis, Ulcerative	MAP3K8	1.0	
+Colitis, Ulcerative	NFKB1	1.0	
+Colitis, Ulcerative	NFKB2	1.0	
+Colitis, Ulcerative	NFKBIA	1.0	
+Colitis, Ulcerative	NOD1	1.0	
+Colitis, Ulcerative	NOD2	1.0	
+Colitis, Ulcerative	RELA	1.0	
+Colitis, Ulcerative	RIPK2	1.0	
+Colitis, Ulcerative	SRC	1.0	
+Colitis, Ulcerative	TRAF6	1.0	
+Malignant neoplasm of pancreas	BCL10	1.0	
+Malignant neoplasm of pancreas	BTRC	1.0	
+Malignant neoplasm of pancreas	CALM3	1.0	
+Malignant neoplasm of pancreas	EPHB2	1.0	
+Malignant neoplasm of pancreas	EPHB4	1.0	
+Malignant neoplasm of pancreas	HRAS	1.0	
+Malignant neoplasm of pancreas	IKBKB	1.0	
+Malignant neoplasm of pancreas	IRAK1	1.0	
+Malignant neoplasm of pancreas	MAP3K7	1.0	
+Malignant neoplasm of pancreas	NFKB1	1.0	
+Malignant neoplasm of pancreas	NFKB2	1.0	
+Malignant neoplasm of pancreas	NFKBIA	1.0	
+Malignant neoplasm of pancreas	REL	1.0	
+Malignant neoplasm of pancreas	RELA	1.0	
+Malignant neoplasm of pancreas	RIPK1	1.0	
+Malignant neoplasm of pancreas	RIPK2	1.0	
+Malignant neoplasm of pancreas	SLCO1B1	1.0	
+Malignant neoplasm of pancreas	SOS1	1.0	
+Malignant neoplasm of pancreas	SQSTM1	1.0	
+Malignant neoplasm of pancreas	SRC	1.0	
+Malignant neoplasm of pancreas	TIAM1	1.0	
+Malignant neoplasm of pancreas	TRAF2	1.0	
+Malignant neoplasm of pancreas	TRAF6	1.0	
+Malignant neoplasm of pancreas	YES1	1.0	
+Glioblastoma	BTRC	1.0	
+Glioblastoma	CALM3	1.0	
+Glioblastoma	CHUK	1.0	
+Glioblastoma	CUL1	1.0	
+Glioblastoma	EFNB1	1.0	
+Glioblastoma	EFNB2	1.0	
+Glioblastoma	EFNB3	1.0	
+Glioblastoma	EPHB2	1.0	
+Glioblastoma	HRAS	1.0	
+Glioblastoma	IFIH1	1.0	
+Glioblastoma	IKBKB	1.0	
+Glioblastoma	LYN	1.0	
+Glioblastoma	NEFL	1.0	
+Glioblastoma	NFKB1	1.0	
+Glioblastoma	NFKBIA	1.0	
+Glioblastoma	RELA	1.0	
+Glioblastoma	RIPK1	1.0	
+Glioblastoma	SHC1	1.0	
+Glioblastoma	SOS1	1.0	
+Glioblastoma	SQSTM1	1.0	
+Glioblastoma	SRC	1.0	
+Glioblastoma	TRAF2	1.0	
+Glioblastoma	UBE2V1	1.0	
+Glioblastoma	YES1	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	CHUK	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	IKBKG	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	MAP3K7	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	NFKB1	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	NFKBIA	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	SOS1	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	TAB2	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	TRAF6	1.0	
+Non-Hodgkin lymphoma	BCL10	1.0	
+Non-Hodgkin lymphoma	CHUK	1.0	
+Non-Hodgkin lymphoma	EPHB2	1.0	
+Non-Hodgkin lymphoma	IKBKB	1.0	
+Non-Hodgkin lymphoma	MALT1	1.0	
+Non-Hodgkin lymphoma	NFKB1	1.0	
+Non-Hodgkin lymphoma	NFKBIA	1.0	
+Non-Hodgkin lymphoma	NFKBIB	1.0	
+Non-Hodgkin lymphoma	NOD2	1.0	
+Non-Hodgkin lymphoma	REL	1.0	
+Non-Hodgkin lymphoma	RIPK1	1.0	
+Non-Hodgkin lymphoma	RIPK2	1.0	
+Non-Hodgkin lymphoma	TRAF2	1.0	
+Non-Hodgkin lymphoma	TRAF6	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	BCL10	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	CARD11	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	IKBKG	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	MALT1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NFKB1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NOD1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NOD2	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	RELA	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	TRAF2	1.0	
+B-cell lymphoma	BCL10	1.0	
+B-cell lymphoma	CARD11	1.0	
+B-cell lymphoma	CHUK	1.0	
+B-cell lymphoma	EPHB2	1.0	
+B-cell lymphoma	LYN	1.0	
+B-cell lymphoma	MALT1	1.0	
+B-cell lymphoma	NFKB1	1.0	
+B-cell lymphoma	NFKB2	1.0	
+B-cell lymphoma	NFKBIE	1.0	
+B-cell lymphoma	REL	1.0	
+B-cell lymphoma	RELA	1.0	
+B-cell lymphoma	RIPK1	1.0	
+B-cell lymphoma	RIPK2	1.0	
+B-cell lymphoma	SQSTM1	1.0	
+B-cell lymphoma	TRAF2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	BCL10	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	CARD11	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	IRAK1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	MALT1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NFKB1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NFKB2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NOD2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	REL	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	RIPK1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	RIPK2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	SOS1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	TRAF6	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	UBE2N	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	UBE2V1	1.0	
+Squamous cell carcinoma	BCL10	1.0	
+Squamous cell carcinoma	CALM3	1.0	
+Squamous cell carcinoma	CAMK2A	1.0	
+Squamous cell carcinoma	CHUK	1.0	
+Squamous cell carcinoma	EFNB2	1.0	
+Squamous cell carcinoma	EPHB1	1.0	
+Squamous cell carcinoma	EPHB2	1.0	
+Squamous cell carcinoma	EPHB3	1.0	
+Squamous cell carcinoma	EPHB4	1.0	
+Squamous cell carcinoma	FYN	1.0	
+Squamous cell carcinoma	GRIN2B	1.0	
+Squamous cell carcinoma	GRIN3A	1.0	
+Squamous cell carcinoma	HRAS	1.0	
+Squamous cell carcinoma	IKBKB	1.0	
+Squamous cell carcinoma	MAP3K7	1.0	
+Squamous cell carcinoma	NFKB1	1.0	
+Squamous cell carcinoma	NFKB2	1.0	
+Squamous cell carcinoma	NFKBIA	1.0	
+Squamous cell carcinoma	RELA	1.0	
+Squamous cell carcinoma	RIPK1	1.0	
+Squamous cell carcinoma	SOS1	1.0	
+Squamous cell carcinoma	SQSTM1	1.0	
+Squamous cell carcinoma	SRC	1.0	
+Squamous cell carcinoma	TRAF2	1.0	
+Squamous cell carcinoma	UBE2N	1.0	
+Fetal Diseases	CHUK	1.0	
+Fetal Diseases	NFKB1	1.0	
+Fetal Diseases	NFKB2	1.0	
+Fetal Diseases	NFKBIA	1.0	
+Fetal Diseases	NFKBIB	1.0	
+Fetal Diseases	NFKBIE	1.0	
+Fetal Diseases	NOD2	1.0	
+Fetal Diseases	TRAF2	1.0	
+Stomach Neoplasms	BCL10	1.0	
+Stomach Neoplasms	BTRC	1.0	
+Stomach Neoplasms	EFNB1	1.0	
+Stomach Neoplasms	EFNB2	1.0	
+Stomach Neoplasms	EPHB2	1.0	
+Stomach Neoplasms	FYN	1.0	
+Stomach Neoplasms	GRIN2B	1.0	
+Stomach Neoplasms	HRAS	1.0	
+Stomach Neoplasms	IRAK1	1.0	
+Stomach Neoplasms	MALT1	1.0	
+Stomach Neoplasms	MAP3K8	1.0	
+Stomach Neoplasms	NFKB1	1.0	
+Stomach Neoplasms	NFKBIA	1.0	
+Stomach Neoplasms	NOD2	1.0	
+Stomach Neoplasms	RELA	1.0	
+Stomach Neoplasms	SRC	1.0	
+Stomach Neoplasms	YES1	1.0	
+Breast carcinoma	BCL10	1.0	
+Breast carcinoma	BTRC	1.0	
+Breast carcinoma	CALM3	1.0	
+Breast carcinoma	CHUK	1.0	
+Breast carcinoma	CUL1	1.0	
+Breast carcinoma	EFNB2	1.0	
+Breast carcinoma	EPHB2	1.0	
+Breast carcinoma	EPHB4	1.0	
+Breast carcinoma	EPHB6	1.0	
+Breast carcinoma	FYN	1.0	
+Breast carcinoma	GRB2	1.0	
+Breast carcinoma	GRIN1	1.0	
+Breast carcinoma	HRAS	1.0	
+Breast carcinoma	IKBKB	1.0	
+Breast carcinoma	IKBKG	1.0	
+Breast carcinoma	IRAK1	1.0	
+Breast carcinoma	LYN	1.0	
+Breast carcinoma	MAP3K7	1.0	
+Breast carcinoma	MAP3K8	1.0	
+Breast carcinoma	NEFL	1.0	
+Breast carcinoma	NFKB1	1.0	
+Breast carcinoma	NFKBIA	1.0	
+Breast carcinoma	NOD1	1.0	
+Breast carcinoma	NOD2	1.0	
+Breast carcinoma	REL	1.0	
+Breast carcinoma	RELA	1.0	
+Breast carcinoma	RIPK1	1.0	
+Breast carcinoma	SHC1	1.0	
+Breast carcinoma	SLC7A11	1.0	
+Breast carcinoma	SLCO1B1	1.0	
+Breast carcinoma	SOS1	1.0	
+Breast carcinoma	SQSTM1	1.0	
+Breast carcinoma	SRC	1.0	
+Breast carcinoma	TAB2	1.0	
+Breast carcinoma	TIAM1	1.0	
+Breast carcinoma	TRAF2	1.0	
+Breast carcinoma	TRAF6	1.0	
+Breast carcinoma	UBE2N	1.0	
+Breast carcinoma	UBE2V1	1.0	
+Breast-ovarian cancer, familial 1	BCL10	1.0	
+Breast-ovarian cancer, familial 1	BTRC	1.0	
+Breast-ovarian cancer, familial 1	CALM3	1.0	
+Breast-ovarian cancer, familial 1	CHUK	1.0	
+Breast-ovarian cancer, familial 1	CUL1	1.0	
+Breast-ovarian cancer, familial 1	EFNB2	1.0	
+Breast-ovarian cancer, familial 1	EPHB2	1.0	
+Breast-ovarian cancer, familial 1	EPHB4	1.0	
+Breast-ovarian cancer, familial 1	EPHB6	1.0	
+Breast-ovarian cancer, familial 1	FYN	1.0	
+Breast-ovarian cancer, familial 1	GRB2	1.0	
+Breast-ovarian cancer, familial 1	GRIN1	1.0	
+Breast-ovarian cancer, familial 1	HRAS	1.0	
+Breast-ovarian cancer, familial 1	IKBKB	1.0	
+Breast-ovarian cancer, familial 1	IKBKG	1.0	
+Breast-ovarian cancer, familial 1	IRAK1	1.0	
+Breast-ovarian cancer, familial 1	LYN	1.0	
+Breast-ovarian cancer, familial 1	MAP3K7	1.0	
+Breast-ovarian cancer, familial 1	MAP3K8	1.0	
+Breast-ovarian cancer, familial 1	NEFL	1.0	
+Breast-ovarian cancer, familial 1	NFKB1	1.0	
+Breast-ovarian cancer, familial 1	NFKBIA	1.0	
+Breast-ovarian cancer, familial 1	NFKBIE	1.0	
+Breast-ovarian cancer, familial 1	NOD1	1.0	
+Breast-ovarian cancer, familial 1	NOD2	1.0	
+Breast-ovarian cancer, familial 1	REL	1.0	
+Breast-ovarian cancer, familial 1	RELA	1.0	
+Breast-ovarian cancer, familial 1	RIPK1	1.0	
+Breast-ovarian cancer, familial 1	SHC1	1.0	
+Breast-ovarian cancer, familial 1	SLC7A11	1.0	
+Breast-ovarian cancer, familial 1	SLCO1B1	1.0	
+Breast-ovarian cancer, familial 1	SOS1	1.0	
+Breast-ovarian cancer, familial 1	SQSTM1	1.0	
+Breast-ovarian cancer, familial 1	SRC	1.0	
+Breast-ovarian cancer, familial 1	TAB2	1.0	
+Breast-ovarian cancer, familial 1	TIAM1	1.0	
+Breast-ovarian cancer, familial 1	TRAF2	1.0	
+Breast-ovarian cancer, familial 1	TRAF6	1.0	
+Breast-ovarian cancer, familial 1	UBE2N	1.0	
+Breast-ovarian cancer, familial 1	UBE2V1	1.0	
+Multiple Myeloma	BCL10	1.0	
+Multiple Myeloma	CALM3	1.0	
+Multiple Myeloma	CHUK	1.0	
+Multiple Myeloma	EPHB2	1.0	
+Multiple Myeloma	GRB2	1.0	
+Multiple Myeloma	HRAS	1.0	
+Multiple Myeloma	IKBKB	1.0	
+Multiple Myeloma	MALT1	1.0	
+Multiple Myeloma	MAP3K7	1.0	
+Multiple Myeloma	MAP3K8	1.0	
+Multiple Myeloma	NFKB1	1.0	
+Multiple Myeloma	NFKB2	1.0	
+Multiple Myeloma	NFKBIA	1.0	
+Multiple Myeloma	NFKBIE	1.0	
+Multiple Myeloma	REL	1.0	
+Multiple Myeloma	RELA	1.0	
+Multiple Myeloma	SOS1	1.0	
+Multiple Myeloma	TRAF2	1.0	
+Multiple Myeloma	TRAF6	1.0	
+Musculoskeletal Diseases	NFKB1	1.0	
+Musculoskeletal Diseases	NFKB2	1.0	
+Musculoskeletal Diseases	NFKBIA	1.0	
+Musculoskeletal Diseases	NFKBIB	1.0	
+Musculoskeletal Diseases	NFKBIE	1.0	
+Musculoskeletal Diseases	NOD2	1.0	
+Musculoskeletal Diseases	TRAF2	1.0	
+Pregnancy Complications, Hematologic	NFKB1	1.0	
+Pregnancy Complications, Hematologic	NFKB2	1.0	
+Pregnancy Complications, Hematologic	NFKBIA	1.0	
+Pregnancy Complications, Hematologic	NFKBIB	1.0	
+Pregnancy Complications, Hematologic	NFKBIE	1.0	
+Pregnancy Complications, Hematologic	NOD2	1.0	
+Pregnancy Complications, Hematologic	TRAF2	1.0	
+Abnormal immunoglobulin level	BCL10	1.0	
+Abnormal immunoglobulin level	CARD11	1.0	
+Abnormal immunoglobulin level	IFIH1	1.0	
+Abnormal immunoglobulin level	IKBKB	1.0	
+Abnormal immunoglobulin level	IKBKG	1.0	
+Abnormal immunoglobulin level	NFKB1	1.0	
+Abnormal immunoglobulin level	NFKB2	1.0	
+Abnormality of B cell physiology	BCL10	1.0	
+Abnormality of B cell physiology	CARD11	1.0	
+Abnormality of B cell physiology	IFIH1	1.0	
+Abnormality of B cell physiology	IKBKB	1.0	
+Abnormality of B cell physiology	IKBKG	1.0	
+Abnormality of B cell physiology	NFKB1	1.0	
+Abnormality of B cell physiology	NFKB2	1.0	
+Abnormality of B cells	BCL10	1.0	
+Abnormality of B cells	CARD11	1.0	
+Abnormality of B cells	IFIH1	1.0	
+Abnormality of B cells	IKBKB	1.0	
+Abnormality of B cells	IKBKG	1.0	
+Abnormality of B cells	NFKB1	1.0	
+Abnormality of B cells	NFKB2	1.0	
+Carcinogenesis	BCL10	1.0	
+Carcinogenesis	BTRC	1.0	
+Carcinogenesis	CALM3	1.0	
+Carcinogenesis	CARD11	1.0	
+Carcinogenesis	CHUK	1.0	
+Carcinogenesis	EFNB1	1.0	
+Carcinogenesis	EFNB2	1.0	
+Carcinogenesis	EPHB1	1.0	
+Carcinogenesis	EPHB2	1.0	
+Carcinogenesis	EPHB4	1.0	
+Carcinogenesis	EPHB6	1.0	
+Carcinogenesis	GRB2	1.0	
+Carcinogenesis	HRAS	1.0	
+Carcinogenesis	IKBKB	1.0	
+Carcinogenesis	MALT1	1.0	
+Carcinogenesis	MAP3K7	1.0	
+Carcinogenesis	MAP3K8	1.0	
+Carcinogenesis	NEFL	1.0	
+Carcinogenesis	NFKB1	1.0	
+Carcinogenesis	NFKB2	1.0	
+Carcinogenesis	NFKBIA	1.0	
+Carcinogenesis	NOD2	1.0	
+Carcinogenesis	RELA	1.0	
+Carcinogenesis	RIPK1	1.0	
+Carcinogenesis	SHC1	1.0	
+Carcinogenesis	SLC7A11	1.0	
+Carcinogenesis	SOS1	1.0	
+Carcinogenesis	SQSTM1	1.0	
+Carcinogenesis	SRC	1.0	
+Carcinogenesis	TIAM1	1.0	
+Carcinogenesis	TRAF2	1.0	
+Carcinogenesis	TRAF6	1.0	
+Carcinogenesis	UBE2N	1.0	
+Carcinogenesis	UBE2V1	1.0	
+Carcinogenesis	YES1	1.0	
+Melanoma	BCL10	1.0	
+Melanoma	BTRC	1.0	
+Melanoma	CALM3	1.0	
+Melanoma	CAMK2B	1.0	
+Melanoma	CUL1	1.0	
+Melanoma	EPHB2	1.0	
+Melanoma	EPHB6	1.0	
+Melanoma	GRIN2A	1.0	
+Melanoma	HRAS	1.0	
+Melanoma	IFIH1	1.0	
+Melanoma	IKBKB	1.0	
+Melanoma	MAP3K7	1.0	
+Melanoma	MAP3K8	1.0	
+Melanoma	NFKB1	1.0	
+Melanoma	NFKBIA	1.0	
+Melanoma	NFKBIE	1.0	
+Melanoma	NOD2	1.0	
+Melanoma	RELA	1.0	
+Melanoma	RIPK1	1.0	
+Melanoma	SHC1	1.0	
+Melanoma	SOS1	1.0	
+Melanoma	SQSTM1	1.0	
+Melanoma	SRC	1.0	
+Melanoma	TIAM1	1.0	
+Melanoma	TRAF2	1.0	
+Melanoma	TRAF6	1.0	
+Melanoma	YES1	1.0	
+Colorectal cancer 1	BCL10	1.0	
+Colorectal cancer 1	BTRC	1.0	
+Colorectal cancer 1	CHUK	1.0	
+Colorectal cancer 1	EFNB1	1.0	
+Colorectal cancer 1	EFNB2	1.0	
+Colorectal cancer 1	EPHB1	1.0	
+Colorectal cancer 1	EPHB2	1.0	
+Colorectal cancer 1	EPHB3	1.0	
+Colorectal cancer 1	EPHB4	1.0	
+Colorectal cancer 1	EPHB6	1.0	
+Colorectal cancer 1	GRB2	1.0	
+Colorectal cancer 1	GRIN2A	1.0	
+Colorectal cancer 1	GRIN2B	1.0	
+Colorectal cancer 1	HRAS	1.0	
+Colorectal cancer 1	IFIH1	1.0	
+Colorectal cancer 1	IKBKB	1.0	
+Colorectal cancer 1	LYN	1.0	
+Colorectal cancer 1	MAP3K8	1.0	
+Colorectal cancer 1	NFKB1	1.0	
+Colorectal cancer 1	NFKBIA	1.0	
+Colorectal cancer 1	NOD2	1.0	
+Colorectal cancer 1	RELA	1.0	
+Colorectal cancer 1	RIPK1	1.0	
+Colorectal cancer 1	RIPK2	1.0	
+Colorectal cancer 1	SOS1	1.0	
+Colorectal cancer 1	SQSTM1	1.0	
+Colorectal cancer 1	SRC	1.0	
+Colorectal cancer 1	TIAM1	1.0	
+Decreased antibody level in blood	BCL10	1.0	
+Decreased antibody level in blood	CARD11	1.0	
+Decreased antibody level in blood	IKBKB	1.0	
+Decreased antibody level in blood	IKBKG	1.0	
+Decreased antibody level in blood	NFKB1	1.0	
+Decreased antibody level in blood	NFKB2	1.0	
+Atherosclerosis	CHUK	1.0	
+Atherosclerosis	EFNB1	1.0	
+Atherosclerosis	EPHB2	1.0	
+Atherosclerosis	GSS	1.0	
+Atherosclerosis	IKBKB	1.0	
+Atherosclerosis	IKBKG	1.0	
+Atherosclerosis	IRAK1	1.0	
+Atherosclerosis	NFKB1	1.0	
+Atherosclerosis	NFKB2	1.0	
+Atherosclerosis	NFKBIA	1.0	
+Atherosclerosis	NFKBIB	1.0	
+Atherosclerosis	NFKBIE	1.0	
+Atherosclerosis	NOD1	1.0	
+Atherosclerosis	NOD2	1.0	
+Atherosclerosis	RELA	1.0	
+Atherosclerosis	RIPK2	1.0	
+Atherosclerosis	SOS1	1.0	
+Atherosclerosis	SRC	1.0	
+Atherosclerosis	TRAF6	1.0	
+Colorectal Neoplasms	BCL10	1.0	
+Colorectal Neoplasms	CHUK	1.0	
+Colorectal Neoplasms	EPHB1	1.0	
+Colorectal Neoplasms	EPHB2	1.0	
+Colorectal Neoplasms	EPHB4	1.0	
+Colorectal Neoplasms	GRIN2A	1.0	
+Colorectal Neoplasms	HRAS	1.0	
+Colorectal Neoplasms	MAP3K8	1.0	
+Colorectal Neoplasms	NFKB1	1.0	
+Colorectal Neoplasms	NFKBIA	1.0	
+Colorectal Neoplasms	NOD2	1.0	
+Colorectal Neoplasms	RELA	1.0	
+Colorectal Neoplasms	SLCO1B1	1.0	
+Colorectal Neoplasms	SOS1	1.0	
+Colorectal Neoplasms	SRC	1.0	
+Colorectal Neoplasms	TIAM1	1.0	
+Colorectal Neoplasms	UBE2V1	1.0	
+Colorectal Neoplasms	YES1	1.0	
+Neuroblastoma	ACY1	1.0	
+Neuroblastoma	BTRC	1.0	
+Neuroblastoma	CALM3	1.0	
+Neuroblastoma	CUL1	1.0	
+Neuroblastoma	DLG4	1.0	
+Neuroblastoma	EFNB2	1.0	
+Neuroblastoma	EFNB3	1.0	
+Neuroblastoma	EPHB2	1.0	
+Neuroblastoma	EPHB6	1.0	
+Neuroblastoma	FBXW11	1.0	
+Neuroblastoma	FYN	1.0	
+Neuroblastoma	GRB2	1.0	
+Neuroblastoma	HRAS	1.0	
+Neuroblastoma	NEFL	1.0	
+Neuroblastoma	NFKB1	1.0	
+Neuroblastoma	RELA	1.0	
+Neuroblastoma	RIPK2	1.0	
+Neuroblastoma	SKP1	1.0	
+Neuroblastoma	SQSTM1	1.0	
+Neuroblastoma	SRC	1.0	
+Neuroblastoma	UBE2N	1.0	
+Abnormality of humoral immunity	BCL10	1.0	
+Abnormality of humoral immunity	CARD11	1.0	
+Abnormality of humoral immunity	IFIH1	1.0	
+Abnormality of humoral immunity	IKBKB	1.0	
+Abnormality of humoral immunity	IKBKG	1.0	
+Abnormality of humoral immunity	NFKB1	1.0	
+Abnormality of humoral immunity	NFKB2	1.0	
+Colorectal cancer	BCL10	1.0	
+Colorectal cancer	BTRC	1.0	
+Colorectal cancer	CHUK	1.0	
+Colorectal cancer	EFNB1	1.0	
+Colorectal cancer	EFNB2	1.0	
+Colorectal cancer	EPHB1	1.0	
+Colorectal cancer	EPHB2	1.0	
+Colorectal cancer	EPHB3	1.0	
+Colorectal cancer	EPHB4	1.0	
+Colorectal cancer	EPHB6	1.0	
+Colorectal cancer	GRB2	1.0	
+Colorectal cancer	HRAS	1.0	
+Colorectal cancer	IKBKB	1.0	
+Colorectal cancer	LYN	1.0	
+Colorectal cancer	MAP3K8	1.0	
+Colorectal cancer	NFKB1	1.0	
+Colorectal cancer	NFKBIA	1.0	
+Colorectal cancer	NOD1	1.0	
+Colorectal cancer	NOD2	1.0	
+Colorectal cancer	RELA	1.0	
+Colorectal cancer	RIPK1	1.0	
+Colorectal cancer	RIPK2	1.0	
+Colorectal cancer	SLCO1B1	1.0	
+Colorectal cancer	SOS1	1.0	
+Colorectal cancer	SQSTM1	1.0	
+Colorectal cancer	SRC	1.0	
+Colorectal cancer	TAB3	1.0	
+Colorectal cancer	TIAM1	1.0	
+Crohn Disease	EFNB2	1.0	
+Crohn Disease	EPHB2	1.0	
+Crohn Disease	GRB2	1.0	
+Crohn Disease	MAP3K7	1.0	
+Crohn Disease	MAP3K8	1.0	
+Crohn Disease	NFKB1	1.0	
+Crohn Disease	NFKB2	1.0	
+Crohn Disease	NFKBIA	1.0	
+Crohn Disease	NOD1	1.0	
+Crohn Disease	NOD2	1.0	
+Crohn Disease	RELA	1.0	
+Crohn Disease	RIPK2	1.0	
+Crohn Disease	SHC1	1.0	
+Crohn Disease	SLC22A6	1.0	
+Crohn Disease	TAB1	1.0	
+Crohn Disease	TRAF6	1.0	
+Xenograft Model	CALM3	1.0	
+Xenograft Model	EFNB2	1.0	
+Xenograft Model	EPHB2	1.0	
+Xenograft Model	EPHB4	1.0	
+Xenograft Model	EPHB6	1.0	
+Xenograft Model	NFKB1	1.0	
+Xenograft Model	NOD1	1.0	
+Xenograft Model	RELA	1.0	
+Xenograft Model	RIPK1	1.0	
+Xenograft Model	RIPK2	1.0	
+Xenograft Model	SLC7A11	1.0	
+Xenograft Model	TRAF6	1.0	
+Schizophrenia	CALM3	1.0	
+Schizophrenia	CAMK2A	1.0	
+Schizophrenia	CAMK2B	1.0	
+Schizophrenia	DLG4	1.0	
+Schizophrenia	EFNB1	1.0	
+Schizophrenia	EFNB2	1.0	
+Schizophrenia	EPHB2	1.0	
+Schizophrenia	FYN	1.0	
+Schizophrenia	GRB2	1.0	
+Schizophrenia	GRIN1	1.0	
+Schizophrenia	GRIN2A	1.0	
+Schizophrenia	GRIN2B	1.0	
+Schizophrenia	GRIN2C	1.0	
+Schizophrenia	GRIN2D	1.0	
+Schizophrenia	GRIN3A	1.0	
+Schizophrenia	MAP3K8	1.0	
+Schizophrenia	NEFL	1.0	
+Schizophrenia	NFKB1	1.0	
+Schizophrenia	REL	1.0	
+Schizophrenia	RELA	1.0	
+Schizophrenia	RIPK2	1.0	
+Schizophrenia	SOS1	1.0	
+Schizophrenia	UBE2N	1.0	
+Virus Diseases	EPHB2	1.0	
+Virus Diseases	HRAS	1.0	
+Virus Diseases	IFIH1	1.0	
+Virus Diseases	IKBKG	1.0	
+Virus Diseases	NFKB1	1.0	
+Virus Diseases	NFKBIA	1.0	
+Virus Diseases	NOD1	1.0	
+Virus Diseases	NOD2	1.0	
+Virus Diseases	REL	1.0	
+Virus Diseases	SKP1	1.0	
+Virus Diseases	SQSTM1	1.0	
+Virus Diseases	TRAF6	1.0	
+Virus Diseases	UBE2N	1.0	
+Virus Diseases	UBE2V1	1.0	
+Mesothelioma, malignant	BCL10	1.0	
+Mesothelioma, malignant	CALM3	1.0	
+Mesothelioma, malignant	EPHB2	1.0	
+Mesothelioma, malignant	EPHB4	1.0	
+Mesothelioma, malignant	FYN	1.0	
+Mesothelioma, malignant	LYN	1.0	
+Mesothelioma, malignant	RELA	1.0	
+Mesothelioma, malignant	SOS1	1.0	
+Mesothelioma, malignant	SRC	1.0	
+Mesothelioma, malignant	TRAF2	1.0	
+Abnormal respiratory system morphology	BCL10	1.0	
+Abnormal respiratory system morphology	CARD11	1.0	
+Abnormal respiratory system morphology	HRAS	1.0	
+Abnormal respiratory system morphology	IFIH1	1.0	
+Abnormal respiratory system morphology	IKBKB	1.0	
+Abnormal respiratory system morphology	IKBKG	1.0	
+Abnormal respiratory system morphology	MALT1	1.0	
+Abnormal respiratory system morphology	MAP3K7	1.0	
+Abnormal respiratory system morphology	MAP3K8	1.0	
+Abnormal respiratory system morphology	NFKB1	1.0	
+Abnormal respiratory system morphology	NFKB2	1.0	
+Abnormal respiratory system morphology	NFKBIA	1.0	
+Abnormal respiratory system morphology	SOS1	1.0	
+Abnormal respiratory system morphology	SQSTM1	1.0	
+Alcohol dependence	ACTN2	1.0	
+Alcohol dependence	CAMK2A	1.0	
+Alcohol dependence	CAMK2D	1.0	
+Alcohol dependence	DLG4	1.0	
+Alcohol dependence	FYN	1.0	
+Alcohol dependence	GRIN1	1.0	
+Alcohol dependence	GRIN2A	1.0	
+Alcohol dependence	GRIN2B	1.0	
+Alcohol dependence	NEFL	1.0	
+Alcohol dependence	NFKB1	1.0	
+Alcohol dependence	NFKB2	1.0	
+Alcohol dependence	NFKBIA	1.0	
+Alcohol dependence	RIPK2	1.0	
+Combined immunodeficiency, X-linked	BCL10	1.0	
+Combined immunodeficiency, X-linked	IKBKB	1.0	
+Combined immunodeficiency, X-linked	IKBKG	1.0	
+Combined immunodeficiency, X-linked	MALT1	1.0	
+Malignant neoplasm of lung	BCL10	1.0	
+Malignant neoplasm of lung	BTRC	1.0	
+Malignant neoplasm of lung	CALM3	1.0	
+Malignant neoplasm of lung	CHUK	1.0	
+Malignant neoplasm of lung	EFNB3	1.0	
+Malignant neoplasm of lung	EPHB1	1.0	
+Malignant neoplasm of lung	EPHB2	1.0	
+Malignant neoplasm of lung	EPHB4	1.0	
+Malignant neoplasm of lung	EPHB6	1.0	
+Malignant neoplasm of lung	GSS	1.0	
+Malignant neoplasm of lung	HRAS	1.0	
+Malignant neoplasm of lung	IKBKB	1.0	
+Malignant neoplasm of lung	MAP3K7	1.0	
+Malignant neoplasm of lung	MAP3K8	1.0	
+Malignant neoplasm of lung	NFKB1	1.0	
+Malignant neoplasm of lung	NFKBIA	1.0	
+Malignant neoplasm of lung	NFKBIE	1.0	
+Malignant neoplasm of lung	NOD2	1.0	
+Malignant neoplasm of lung	SHC1	1.0	
+Malignant neoplasm of lung	SLCO1B1	1.0	
+Malignant neoplasm of lung	SOS1	1.0	
+Malignant neoplasm of lung	SRC	1.0	
+Malignant neoplasm of lung	TIAM1	1.0	
+Malignant neoplasm of lung	TRAF2	1.0	
+Malignant neoplasm of lung	TRAF6	1.0	
+Malignant neoplasm of lung	UBE2N	1.0	
+Huntington's chorea	DLG4	1.0	
+Huntington's chorea	GRIN1	1.0	
+Huntington's chorea	GRIN2A	1.0	
+Huntington's chorea	GRIN2B	1.0	
+Huntington's chorea	GRIN3A	1.0	
+Huntington's chorea	NFKB1	1.0	
+Huntington's chorea	RIPK2	1.0	
+Huntington's chorea	SOS1	1.0	
+Huntington's chorea	TRAF6	1.0	
+Respiratory tract infection	BCL10	1.0	
+Respiratory tract infection	CARD11	1.0	
+Respiratory tract infection	EPHB1	1.0	
+Respiratory tract infection	IFIH1	1.0	
+Respiratory tract infection	IKBKB	1.0	
+Respiratory tract infection	IKBKG	1.0	
+Respiratory tract infection	MALT1	1.0	
+Respiratory tract infection	NFKB1	1.0	
+Respiratory tract infection	NFKB2	1.0	
+Respiratory tract infection	NFKBIA	1.0	
+Amyotrophy involving the shoulder musculature	ACTN2	1.0	
+Amyotrophy involving the shoulder musculature	CHUK	1.0	
+Amyotrophy involving the shoulder musculature	IKBKB	1.0	
+Amyotrophy involving the shoulder musculature	NEFL	1.0	
+Amyotrophy involving the shoulder musculature	NFKB1	1.0	
+Amyotrophy involving the shoulder musculature	SOS1	1.0	
+Amyotrophy involving the shoulder musculature	TRAF6	1.0	
+Chronic Lymphocytic Leukemia	BCL10	1.0	
+Chronic Lymphocytic Leukemia	CALM3	1.0	
+Chronic Lymphocytic Leukemia	CAMK2D	1.0	
+Chronic Lymphocytic Leukemia	EPHB2	1.0	
+Chronic Lymphocytic Leukemia	EPHB6	1.0	
+Chronic Lymphocytic Leukemia	IKBKB	1.0	
+Chronic Lymphocytic Leukemia	LYN	1.0	
+Chronic Lymphocytic Leukemia	MAP3K8	1.0	
+Chronic Lymphocytic Leukemia	NFKB1	1.0	
+Chronic Lymphocytic Leukemia	NFKB2	1.0	
+Chronic Lymphocytic Leukemia	NFKBIE	1.0	
+Chronic Lymphocytic Leukemia	NOD1	1.0	
+Chronic Lymphocytic Leukemia	NOD2	1.0	
+Chronic Lymphocytic Leukemia	REL	1.0	
+Chronic Lymphocytic Leukemia	RELA	1.0	
+Chronic Lymphocytic Leukemia	SRC	1.0	
+Chronic Lymphocytic Leukemia	TRAF2	1.0	
+Bipolar affective disorder	CAMK2A	1.0	
+Bipolar affective disorder	DLG4	1.0	
+Bipolar affective disorder	FYN	1.0	
+Bipolar affective disorder	GRIN1	1.0	
+Bipolar affective disorder	GRIN2A	1.0	
+Bipolar affective disorder	GRIN2B	1.0	
+Bipolar affective disorder	GRIN2C	1.0	
+Bipolar affective disorder	GRIN2D	1.0	
+Bipolar affective disorder	GRIN3A	1.0	
+Bipolar affective disorder	HRAS	1.0	
+Bipolar affective disorder	NFKB1	1.0	
+Bipolar affective disorder	NOD2	1.0	
+Bipolar affective disorder	SLC22A6	1.0	
+Bipolar affective disorder	SOS1	1.0	
+Neoplasm of the colon	ACY1	1.0	
+Neoplasm of the colon	CHUK	1.0	
+Neoplasm of the colon	EFNB2	1.0	
+Neoplasm of the colon	EPHB2	1.0	
+Neoplasm of the colon	HRAS	1.0	
+Neoplasm of the colon	IKBKB	1.0	
+Neoplasm of the colon	NFKB1	1.0	
+Neoplasm of the colon	NFKBIA	1.0	
+Neoplasm of the colon	NOD1	1.0	
+Neoplasm of the colon	NOD2	1.0	
+Neoplasm of the colon	RELA	1.0	
+Neoplasm of the colon	SHC1	1.0	
+Neoplasm of the colon	SRC	1.0	
+Neoplasm of the colon	TIAM1	1.0	
+Sepsis	CARD11	1.0	
+Sepsis	FYN	1.0	
+Sepsis	GRIN2A	1.0	
+Sepsis	IRAK1	1.0	
+Sepsis	NFKB1	1.0	
+Sepsis	NFKB2	1.0	
+Sepsis	NFKBIA	1.0	
+Sepsis	NOD1	1.0	
+Sepsis	NOD2	1.0	
+Sepsis	RELA	1.0	
+Sepsis	TAB3	1.0	
+Sepsis	TRAF6	1.0	
+Acute myeloid leukemia	BCL10	1.0	
+Acute myeloid leukemia	BTRC	1.0	
+Acute myeloid leukemia	CALM3	1.0	
+Acute myeloid leukemia	EPHB2	1.0	
+Acute myeloid leukemia	HRAS	1.0	
+Acute myeloid leukemia	IKBKG	1.0	
+Acute myeloid leukemia	LYN	1.0	
+Acute myeloid leukemia	MAP3K7	1.0	
+Acute myeloid leukemia	NFKB1	1.0	
+Acute myeloid leukemia	NFKB2	1.0	
+Acute myeloid leukemia	NOD2	1.0	
+Acute myeloid leukemia	REL	1.0	
+Acute myeloid leukemia	RELA	1.0	
+Acute myeloid leukemia	RIPK1	1.0	
+Acute myeloid leukemia	SOS1	1.0	
+Acute myeloid leukemia	SQSTM1	1.0	
+Acute myeloid leukemia	SRC	1.0	
+Acute myeloid leukemia	TIAM1	1.0	
+Acute myeloid leukemia	TRAF2	1.0	
+Acute myeloid leukemia	TRAF6	1.0	
+Acute myeloid leukemia	UBE2V1	1.0	
+Fibrosarcoma	CALM3	1.0	
+Fibrosarcoma	EPHB4	1.0	
+Fibrosarcoma	FBXW11	1.0	
+Fibrosarcoma	HRAS	1.0	
+Fibrosarcoma	NFKB1	1.0	
+Fibrosarcoma	RELA	1.0	
+Fibrosarcoma	RIPK1	1.0	
+Fibrosarcoma	TRAF2	1.0	
+Recurrent bacterial infection	IKBKG	1.0	
+Recurrent bacterial infection	NFKB1	1.0	
+Recurrent bacterial infection	NFKBIA	1.0	
+Recurrent bacterial infection	NOD1	1.0	
+Recurrent bacterial infection	NOD2	1.0	
+Recurrent bacterial infection	RELA	1.0	
+Recurrent bacterial infection	RIPK2	1.0	
+Recurrent bacterial infection	TRAF6	1.0	
+Sarcoma, Ewing	BCL10	1.0	
+Sarcoma, Ewing	EPHB2	1.0	
+Sarcoma, Ewing	EPHB4	1.0	
+Sarcoma, Ewing	FBXW11	1.0	
+Sarcoma, Ewing	FYN	1.0	
+Sarcoma, Ewing	HRAS	1.0	
+Sarcoma, Ewing	MAP3K7	1.0	
+Sarcoma, Ewing	NEFL	1.0	
+Sarcoma, Ewing	NFKB1	1.0	
+Sarcoma, Ewing	RELA	1.0	
+Sarcoma, Ewing	RIPK2	1.0	
+Sarcoma, Ewing	SOS1	1.0	
+Sarcoma, Ewing	SQSTM1	1.0	
+Sarcoma, Ewing	SRC	1.0	
+Epilepsy, Temporal Lobe	CALM3	1.0	
+Epilepsy, Temporal Lobe	DLG4	1.0	
+Epilepsy, Temporal Lobe	FYN	1.0	
+Epilepsy, Temporal Lobe	GRIN1	1.0	
+Epilepsy, Temporal Lobe	GRIN2A	1.0	
+Epilepsy, Temporal Lobe	GRIN2B	1.0	
+Epilepsy, Temporal Lobe	NFKB1	1.0	
+Tuberous sclerosis syndrome	CALM3	1.0	
+Tuberous sclerosis syndrome	EPHB2	1.0	
+Tuberous sclerosis syndrome	GRIN2C	1.0	
+Tuberous sclerosis syndrome	HRAS	1.0	
+Tuberous sclerosis syndrome	IKBKB	1.0	
+Tuberous sclerosis syndrome	NEFL	1.0	
+Tuberous sclerosis syndrome	NFKB1	1.0	
+Renal ischaemia	FYN	1.0	
+Renal ischaemia	NFKB1	1.0	
+Renal ischaemia	NOD1	1.0	
+Renal ischaemia	NOD2	1.0	
+Renal ischaemia	RIPK2	1.0	
+Abnormality of lymphocytes	BCL10	1.0	
+Abnormality of lymphocytes	CARD11	1.0	
+Abnormality of lymphocytes	IFIH1	1.0	
+Abnormality of lymphocytes	IKBKB	1.0	
+Abnormality of lymphocytes	IKBKG	1.0	
+Abnormality of lymphocytes	NFKB1	1.0	
+Abnormality of lymphocytes	NFKB2	1.0	
+Connective Tissue Diseases	NFKB1	1.0	
+Connective Tissue Diseases	NFKB2	1.0	
+Connective Tissue Diseases	NFKBIA	1.0	
+Connective Tissue Diseases	NFKBIB	1.0	
+Connective Tissue Diseases	NFKBIE	1.0	
+Connective Tissue Diseases	NOD2	1.0	
+Connective Tissue Diseases	TRAF2	1.0	
+Thickened nuchal skin fold	EFNB1	1.0	
+Thickened nuchal skin fold	HRAS	1.0	
+Thickened nuchal skin fold	SOS1	1.0	
+Thickened nuchal skin fold	SQSTM1	1.0	
+Secondary hypertriglyceridemia	BCL10	1.0	
+Secondary hypertriglyceridemia	BTRC	1.0	
+Secondary hypertriglyceridemia	CALM3	1.0	
+Secondary hypertriglyceridemia	CHUK	1.0	
+Secondary hypertriglyceridemia	EFNB2	1.0	
+Secondary hypertriglyceridemia	EPHB1	1.0	
+Secondary hypertriglyceridemia	EPHB2	1.0	
+Secondary hypertriglyceridemia	EPHB3	1.0	
+Secondary hypertriglyceridemia	EPHB4	1.0	
+Secondary hypertriglyceridemia	EPHB6	1.0	
+Secondary hypertriglyceridemia	FYN	1.0	
+Secondary hypertriglyceridemia	GRB2	1.0	
+Secondary hypertriglyceridemia	HRAS	1.0	
+Secondary hypertriglyceridemia	IKBKB	1.0	
+Secondary hypertriglyceridemia	MAP3K7	1.0	
+Secondary hypertriglyceridemia	MAP3K8	1.0	
+Secondary hypertriglyceridemia	NEFL	1.0	
+Secondary hypertriglyceridemia	NFKB1	1.0	
+Secondary hypertriglyceridemia	NFKBIA	1.0	
+Secondary hypertriglyceridemia	NFKBIB	1.0	
+Secondary hypertriglyceridemia	RELA	1.0	
+Secondary hypertriglyceridemia	SHC1	1.0	
+Secondary hypertriglyceridemia	SLC7A11	1.0	
+Secondary hypertriglyceridemia	SOS1	1.0	
+Secondary hypertriglyceridemia	SRC	1.0	
+Secondary hypertriglyceridemia	TIAM1	1.0	
+Secondary hypertriglyceridemia	TRAF2	1.0	
+Secondary hypertriglyceridemia	TRAF6	1.0	
+Secondary hypertriglyceridemia	UBE2N	1.0	
+Secondary hypertriglyceridemia	UBE2V1	1.0	
+Secondary hypertriglyceridemia	YES1	1.0	
+Neoplasms	BCL10	1.0	
+Neoplasms	HRAS	1.0	
+Neoplasms	IKBKG	1.0	
+Neoplasms	MALT1	1.0	
+Neoplasms	MAP3K8	1.0	
+Neoplasms	NFKB1	1.0	
+Neoplasms	NFKB2	1.0	
+Neoplasms	NOD2	1.0	
+Neoplasms	SLCO1B1	1.0	
+Neoplasms	SOS1	1.0	
+Neoplasms	SQSTM1	1.0	
+Neoplasms	SRC	1.0	
+Inflammation	CAMK2A	1.0	
+Inflammation	EFNB1	1.0	
+Inflammation	NFKB1	1.0	
+Inflammation	NFKB2	1.0	
+Inflammation	NFKBIA	1.0	
+Inflammation	NFKBIB	1.0	
+Inflammation	NFKBIE	1.0	
+Inflammation	NOD1	1.0	
+Inflammation	NOD2	1.0	
+Inflammation	REL	1.0	
+Inflammation	RELA	1.0	
+Inflammation	TRAF2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	BCL10	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CALM3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CUL1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	EPHB2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	EPHB4	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	HRAS	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	IKBKB	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	IRAK1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	MAP3K7	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	MAP3K8	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NFKB1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NFKB2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NFKBIA	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NFKBIB	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NOD2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	RELA	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	RIPK1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SOS1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SQSTM1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SRC	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	UBE2N	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	YES1	1.0	
+Abnormality of lung morphology	BCL10	1.0	
+Abnormality of lung morphology	CARD11	1.0	
+Abnormality of lung morphology	HRAS	1.0	
+Abnormality of lung morphology	IFIH1	1.0	
+Abnormality of lung morphology	IKBKB	1.0	
+Abnormality of lung morphology	IKBKG	1.0	
+Abnormality of lung morphology	MALT1	1.0	
+Abnormality of lung morphology	MAP3K8	1.0	
+Abnormality of lung morphology	NFKB1	1.0	
+Abnormality of lung morphology	NFKB2	1.0	
+Abnormality of lung morphology	NFKBIA	1.0	
+Abnormality of lung morphology	SOS1	1.0	
+Esophageal Squamous Cell Carcinoma	BCL10	1.0	
+Esophageal Squamous Cell Carcinoma	EFNB2	1.0	
+Esophageal Squamous Cell Carcinoma	EPHB2	1.0	
+Esophageal Squamous Cell Carcinoma	EPHB4	1.0	
+Esophageal Squamous Cell Carcinoma	GRB2	1.0	
+Esophageal Squamous Cell Carcinoma	GRIN2B	1.0	
+Esophageal Squamous Cell Carcinoma	MAP3K7	1.0	
+Esophageal Squamous Cell Carcinoma	NFKB1	1.0	
+Esophageal Squamous Cell Carcinoma	NFKBIA	1.0	
+Esophageal Squamous Cell Carcinoma	RELA	1.0	
+Esophageal Squamous Cell Carcinoma	SOS1	1.0	
+Esophageal Squamous Cell Carcinoma	TIAM1	1.0	
+Esophageal Squamous Cell Carcinoma	TRAF6	1.0	
+Esophageal Squamous Cell Carcinoma	UBE2N	1.0	
+Renal cell carcinoma, nonpapillary	ACY1	1.0	
+Renal cell carcinoma, nonpapillary	CALM3	1.0	
+Renal cell carcinoma, nonpapillary	CARD11	1.0	
+Renal cell carcinoma, nonpapillary	EPHB2	1.0	
+Renal cell carcinoma, nonpapillary	EPHB4	1.0	
+Renal cell carcinoma, nonpapillary	IKBKB	1.0	
+Renal cell carcinoma, nonpapillary	MAP3K8	1.0	
+Renal cell carcinoma, nonpapillary	NFKB1	1.0	
+Renal cell carcinoma, nonpapillary	NFKB2	1.0	
+Renal cell carcinoma, nonpapillary	NOD2	1.0	
+Renal cell carcinoma, nonpapillary	RELA	1.0	
+Renal cell carcinoma, nonpapillary	RIPK2	1.0	
+Renal cell carcinoma, nonpapillary	SLCO1B1	1.0	
+Renal cell carcinoma, nonpapillary	SOS1	1.0	
+Renal cell carcinoma, nonpapillary	SQSTM1	1.0	
+Renal cell carcinoma, nonpapillary	SRC	1.0	
+Renal cell carcinoma, nonpapillary	TIAM1	1.0	
+Renal cell carcinoma, nonpapillary	TRAF2	1.0	
+Carcinoma of colon	BCL10	1.0	
+Carcinoma of colon	CALM3	1.0	
+Carcinoma of colon	EFNB2	1.0	
+Carcinoma of colon	EPHB2	1.0	
+Carcinoma of colon	EPHB4	1.0	
+Carcinoma of colon	GRIN2A	1.0	
+Carcinoma of colon	GSS	1.0	
+Carcinoma of colon	HRAS	1.0	
+Carcinoma of colon	MAP3K8	1.0	
+Carcinoma of colon	NFKB1	1.0	
+Carcinoma of colon	NFKB2	1.0	
+Carcinoma of colon	NFKBIA	1.0	
+Carcinoma of colon	NOD2	1.0	
+Carcinoma of colon	RIPK1	1.0	
+Carcinoma of colon	SLCO1B1	1.0	
+Carcinoma of colon	SOS1	1.0	
+Carcinoma of colon	SRC	1.0	
+Carcinoma of colon	TIAM1	1.0	
+Carcinoma of colon	TRAF2	1.0	
+Carcinoma of colon	TRAF6	1.0	
+Carcinoma of colon	YES1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	CHUK	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	EPHB2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	HRAS	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	MAP3K8	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NFKB1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NFKBIA	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NFKBIB	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	RELA	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	SOS1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	TIAM1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	TRAF2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	UBE2N	1.0	
+Ovarian epithelial cancer	BCL10	1.0	
+Ovarian epithelial cancer	CALM3	1.0	
+Ovarian epithelial cancer	CAMK2D	1.0	
+Ovarian epithelial cancer	CARD11	1.0	
+Ovarian epithelial cancer	EPHB2	1.0	
+Ovarian epithelial cancer	EPHB4	1.0	
+Ovarian epithelial cancer	HRAS	1.0	
+Ovarian epithelial cancer	IKBKB	1.0	
+Ovarian epithelial cancer	IRAK1	1.0	
+Ovarian epithelial cancer	MAP3K7	1.0	
+Ovarian epithelial cancer	MAP3K8	1.0	
+Ovarian epithelial cancer	NFKB1	1.0	
+Ovarian epithelial cancer	NFKBIA	1.0	
+Ovarian epithelial cancer	NFKBIB	1.0	
+Ovarian epithelial cancer	RELA	1.0	
+Ovarian epithelial cancer	RIPK1	1.0	
+Ovarian epithelial cancer	SLCO1B1	1.0	
+Ovarian epithelial cancer	SOS1	1.0	
+Ovarian epithelial cancer	SQSTM1	1.0	
+Ovarian epithelial cancer	SRC	1.0	
+Ovarian epithelial cancer	TRAF2	1.0	
+Ovarian epithelial cancer	UBE2N	1.0	
+Ovarian epithelial cancer	YES1	1.0	
+Neoplasm of the liver	BCL10	1.0	
+Neoplasm of the liver	CHUK	1.0	
+Neoplasm of the liver	EFNB2	1.0	
+Neoplasm of the liver	EPHB2	1.0	
+Neoplasm of the liver	EPHB4	1.0	
+Neoplasm of the liver	EPHB6	1.0	
+Neoplasm of the liver	HRAS	1.0	
+Neoplasm of the liver	MALT1	1.0	
+Neoplasm of the liver	MAP3K7	1.0	
+Neoplasm of the liver	MAP3K8	1.0	
+Neoplasm of the liver	NFKB1	1.0	
+Neoplasm of the liver	NFKBIA	1.0	
+Neoplasm of the liver	SHC1	1.0	
+Neoplasm of the liver	SOS1	1.0	
+Neoplasm of the liver	SQSTM1	1.0	
+Neoplasm of the liver	SRC	1.0	
+Neoplasm of the liver	TIAM1	1.0	
+Astrocytoma	BTRC	1.0	
+Astrocytoma	CALM3	1.0	
+Astrocytoma	EFNB1	1.0	
+Astrocytoma	EFNB2	1.0	
+Astrocytoma	EPHB2	1.0	
+Astrocytoma	HRAS	1.0	
+Astrocytoma	NEFL	1.0	
+Astrocytoma	NFKB1	1.0	
+Astrocytoma	RIPK2	1.0	
+Astrocytoma	SRC	1.0	
+Astrocytoma	UBE2N	1.0	
+Astrocytoma	UBE2V1	1.0	
+Immunodeficiency due to defect in CD3-gamma	BCL10	1.0	
+Immunodeficiency due to defect in CD3-gamma	CARD11	1.0	
+Immunodeficiency due to defect in CD3-gamma	CHUK	1.0	
+Immunodeficiency due to defect in CD3-gamma	EPHB2	1.0	
+Immunodeficiency due to defect in CD3-gamma	EPHB6	1.0	
+Immunodeficiency due to defect in CD3-gamma	HRAS	1.0	
+Immunodeficiency due to defect in CD3-gamma	IKBKB	1.0	
+Immunodeficiency due to defect in CD3-gamma	IKBKG	1.0	
+Immunodeficiency due to defect in CD3-gamma	MALT1	1.0	
+Immunodeficiency due to defect in CD3-gamma	NFKB1	1.0	
+Immunodeficiency due to defect in CD3-gamma	NFKB2	1.0	
+Colon cancer	BCL10	1.0	
+Colon cancer	EFNB2	1.0	
+Colon cancer	EPHB2	1.0	
+Colon cancer	EPHB4	1.0	
+Colon cancer	GRIN2A	1.0	
+Colon cancer	GSS	1.0	
+Colon cancer	HRAS	1.0	
+Colon cancer	MAP3K7	1.0	
+Colon cancer	MAP3K8	1.0	
+Colon cancer	NFKB1	1.0	
+Colon cancer	NFKB2	1.0	
+Colon cancer	NFKBIA	1.0	
+Colon cancer	NOD2	1.0	
+Colon cancer	RIPK1	1.0	
+Colon cancer	SLCO1B1	1.0	
+Colon cancer	SOS1	1.0	
+Colon cancer	SRC	1.0	
+Colon cancer	TRAF2	1.0	
+Colon cancer	TRAF6	1.0	
+Colon cancer	YES1	1.0	
+Respiratory Syncytial Virus Infections	CHUK	1.0	
+Respiratory Syncytial Virus Infections	IFIH1	1.0	
+Respiratory Syncytial Virus Infections	IKBKB	1.0	
+Respiratory Syncytial Virus Infections	IKBKG	1.0	
+Respiratory Syncytial Virus Infections	NFKB1	1.0	
+Respiratory Syncytial Virus Infections	NFKB2	1.0	
+Respiratory Syncytial Virus Infections	NFKBIA	1.0	
+Respiratory Syncytial Virus Infections	NOD2	1.0	
+T-cell lymphoma	BCL10	1.0	
+T-cell lymphoma	IKBKB	1.0	
+T-cell lymphoma	MALT1	1.0	
+T-cell lymphoma	MAP3K8	1.0	
+T-cell lymphoma	NFKB1	1.0	
+T-cell lymphoma	NFKB2	1.0	
+T-cell lymphoma	SOS1	1.0	
+T-cell lymphoma	TIAM1	1.0	
+Amyotrophic Lateral Sclerosis	BCL10	1.0	
+Amyotrophic Lateral Sclerosis	GRIN2A	1.0	
+Amyotrophic Lateral Sclerosis	GRIN2B	1.0	
+Amyotrophic Lateral Sclerosis	MAP3K8	1.0	
+Amyotrophic Lateral Sclerosis	NEFL	1.0	
+Amyotrophic Lateral Sclerosis	NFKB1	1.0	
+Amyotrophic Lateral Sclerosis	RELA	1.0	
+Amyotrophic Lateral Sclerosis	SLC7A11	1.0	
+Amyotrophic Lateral Sclerosis	SOS1	1.0	
+Amyotrophic Lateral Sclerosis	SQSTM1	1.0	
+Amyotrophic Lateral Sclerosis	TAB3	1.0	
+Amyotrophic Lateral Sclerosis	TIAM1	1.0	
+Amyotrophic Lateral Sclerosis	UBE2V1	1.0	
+Placental Insufficiency	GRIN1	1.0	
+Placental Insufficiency	GRIN2A	1.0	
+Placental Insufficiency	GRIN2B	1.0	
+Fetal ultrasound soft marker	EFNB1	1.0	
+Fetal ultrasound soft marker	HRAS	1.0	
+Fetal ultrasound soft marker	SOS1	1.0	
+Fetal ultrasound soft marker	SQSTM1	1.0	
+Familial adenomatous polyposis 1	BTRC	1.0	
+Familial adenomatous polyposis 1	EFNB2	1.0	
+Familial adenomatous polyposis 1	EPHB2	1.0	
+Familial adenomatous polyposis 1	EPHB3	1.0	
+Familial adenomatous polyposis 1	EPHB4	1.0	
+Familial adenomatous polyposis 1	FBXW11	1.0	
+Familial adenomatous polyposis 1	GSS	1.0	
+Familial adenomatous polyposis 1	RELA	1.0	
+Familial adenomatous polyposis 1	SOS1	1.0	
+Shigella Infections	IKBKG	1.0	
+Shigella Infections	NFKB1	1.0	
+Shigella Infections	SQSTM1	1.0	
+Shigella Infections	UBE2N	1.0	
+Hormone receptor positive tumor	EPHB2	1.0	
+Hormone receptor positive tumor	LYN	1.0	
+Hormone receptor positive tumor	NFKB1	1.0	
+Hormone receptor positive tumor	SRC	1.0	
+Abnormal leukocyte count	ACTN2	1.0	
+Abnormal leukocyte count	BCL10	1.0	
+Abnormal leukocyte count	CARD11	1.0	
+Abnormal leukocyte count	GSS	1.0	
+Abnormal leukocyte count	IFIH1	1.0	
+Abnormal leukocyte count	IKBKB	1.0	
+Abnormal leukocyte count	IKBKG	1.0	
+Abnormal leukocyte count	NFKB1	1.0	
+Abnormal leukocyte count	NFKB2	1.0	
+Abnormality of cellular immune system	ACTN2	1.0	
+Abnormality of cellular immune system	BCL10	1.0	
+Abnormality of cellular immune system	CARD11	1.0	
+Abnormality of cellular immune system	GSS	1.0	
+Abnormality of cellular immune system	IFIH1	1.0	
+Abnormality of cellular immune system	IKBKB	1.0	
+Abnormality of cellular immune system	IKBKG	1.0	
+Abnormality of cellular immune system	NFKB1	1.0	
+Abnormality of cellular immune system	NFKB2	1.0	
+Recurrent respiratory infections	BCL10	1.0	
+Recurrent respiratory infections	CARD11	1.0	
+Recurrent respiratory infections	IFIH1	1.0	
+Recurrent respiratory infections	IKBKG	1.0	
+Recurrent respiratory infections	MALT1	1.0	
+Recurrent respiratory infections	NFKB1	1.0	
+Recurrent respiratory infections	NFKB2	1.0	
+Recurrent respiratory infections	NFKBIA	1.0	
+Bladder carcinoma	CALM3	1.0	
+Bladder carcinoma	EPHB2	1.0	
+Bladder carcinoma	EPHB4	1.0	
+Bladder carcinoma	FBXW11	1.0	
+Bladder carcinoma	GRB2	1.0	
+Bladder carcinoma	HRAS	1.0	
+Bladder carcinoma	IRAK1	1.0	
+Bladder carcinoma	MAP3K7	1.0	
+Bladder carcinoma	NFKB1	1.0	
+Bladder carcinoma	RELA	1.0	
+Bladder carcinoma	SOS1	1.0	
+Bladder carcinoma	SRC	1.0	
+Bladder carcinoma	TRAF2	1.0	
+Bladder carcinoma	TRAF6	1.0	
+Bladder carcinoma	UBE2N	1.0	
+Tumor necrosis	IKBKB	1.0	
+Tumor necrosis	IKBKG	1.0	
+Tumor necrosis	NFKB1	1.0	
+Tumor necrosis	RIPK1	1.0	
+Tumor necrosis	TRAF2	1.0	
+Tumor necrosis	TRAF6	1.0	
+Pain	BCL10	1.0	
+Pain	GRIN1	1.0	
+Pain	GRIN2B	1.0	
+Pain	GSS	1.0	
+Pain	IRAK1	1.0	
+Pain	MALT1	1.0	
+Pain	NFKB1	1.0	
+Pain	NFKB2	1.0	
+Pain	NOD2	1.0	
+Pain	SLCO1B1	1.0	
+Pain	SQSTM1	1.0	
+Hypoxia-Ischemia, Brain	GRIN1	1.0	
+Hypoxia-Ischemia, Brain	GRIN2A	1.0	
+Hypoxia-Ischemia, Brain	GRIN2B	1.0	
+Hypoxia-Ischemia, Brain	IRAK1	1.0	
+Non-small cell lung carcinoma	ACY1	1.0	
+Non-small cell lung carcinoma	BCL10	1.0	
+Non-small cell lung carcinoma	CALM3	1.0	
+Non-small cell lung carcinoma	CAMK2D	1.0	
+Non-small cell lung carcinoma	EFNB3	1.0	
+Non-small cell lung carcinoma	EPHB2	1.0	
+Non-small cell lung carcinoma	EPHB3	1.0	
+Non-small cell lung carcinoma	EPHB6	1.0	
+Non-small cell lung carcinoma	GRIN2B	1.0	
+Non-small cell lung carcinoma	HRAS	1.0	
+Non-small cell lung carcinoma	IKBKB	1.0	
+Non-small cell lung carcinoma	NFKB1	1.0	
+Non-small cell lung carcinoma	NFKBIA	1.0	
+Non-small cell lung carcinoma	RELA	1.0	
+Non-small cell lung carcinoma	RIPK1	1.0	
+Non-small cell lung carcinoma	RIPK2	1.0	
+Non-small cell lung carcinoma	SLCO1B1	1.0	
+Non-small cell lung carcinoma	SOS1	1.0	
+Non-small cell lung carcinoma	SQSTM1	1.0	
+Non-small cell lung carcinoma	SRC	1.0	
+Non-small cell lung carcinoma	UBE2N	1.0	
+Metastatic melanoma	CALM3	1.0	
+Metastatic melanoma	CAMK2B	1.0	
+Metastatic melanoma	EPHB2	1.0	
+Metastatic melanoma	EPHB6	1.0	
+Metastatic melanoma	NFKB1	1.0	
+Metastatic melanoma	SOS1	1.0	
+Metastatic melanoma	TIAM1	1.0	
+Metastatic melanoma	TRAF2	1.0	
+Abnormality of the respiratory system	BCL10	1.0	
+Abnormality of the respiratory system	CARD11	1.0	
+Abnormality of the respiratory system	HRAS	1.0	
+Abnormality of the respiratory system	IFIH1	1.0	
+Abnormality of the respiratory system	IKBKB	1.0	
+Abnormality of the respiratory system	IKBKG	1.0	
+Abnormality of the respiratory system	MALT1	1.0	
+Abnormality of the respiratory system	MAP3K7	1.0	
+Abnormality of the respiratory system	MAP3K8	1.0	
+Abnormality of the respiratory system	NFKB1	1.0	
+Abnormality of the respiratory system	NFKB2	1.0	
+Abnormality of the respiratory system	NFKBIA	1.0	
+Abnormality of the respiratory system	NOD2	1.0	
+Abnormality of the respiratory system	SOS1	1.0	
+Abnormality of the respiratory system	SQSTM1	1.0	
+Alcohol withdrawal syndrome	GRIN1	1.0	
+Alcohol withdrawal syndrome	GRIN2B	1.0	
+Alcohol withdrawal syndrome	RIPK2	1.0	
+HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	IKBKG	1.0	
+HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	NFKBIA	1.0	
+HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	TRAF2	1.0	
+Pancreatic Neoplasms	BTRC	1.0	
+Pancreatic Neoplasms	CHUK	1.0	
+Pancreatic Neoplasms	EPHB2	1.0	
+Pancreatic Neoplasms	HRAS	1.0	
+Pancreatic Neoplasms	NFKB1	1.0	
+Pancreatic Neoplasms	NFKB2	1.0	
+Pancreatic Neoplasms	NFKBIA	1.0	
+Pancreatic Neoplasms	RELA	1.0	
+Pancreatic Neoplasms	SLC7A11	1.0	
+Pancreatic Neoplasms	SRC	1.0	
+Pancreatic Neoplasms	TIAM1	1.0	
+Pancreatic Neoplasms	TRAF2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ACTN2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CARD11	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN2A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN2B	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HRAS	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	IFIH1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MAP3K7	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NEFL	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NFKB1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NFKB2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NFKBIA	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NOD2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SOS1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SQSTM1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SRC	1.0	
+Small cell lung cancer	ACY1	1.0	
+Small cell lung cancer	BCL10	1.0	
+Small cell lung cancer	CALM3	1.0	
+Small cell lung cancer	EPHB1	1.0	
+Small cell lung cancer	EPHB2	1.0	
+Small cell lung cancer	FBXW11	1.0	
+Small cell lung cancer	HRAS	1.0	
+Small cell lung cancer	NFKB1	1.0	
+Small cell lung cancer	SOS1	1.0	
+Small cell lung cancer	SRC	1.0	
+Small cell lung cancer	TRAF2	1.0	
+Alzheimer Disease	CAMK2A	1.0	
+Alzheimer Disease	CAMK2G	1.0	
+Alzheimer Disease	DLG4	1.0	
+Alzheimer Disease	EPHB2	1.0	
+Alzheimer Disease	FYN	1.0	
+Alzheimer Disease	GRB2	1.0	
+Alzheimer Disease	GRIN1	1.0	
+Alzheimer Disease	GRIN2A	1.0	
+Alzheimer Disease	GRIN2B	1.0	
+Alzheimer Disease	GRIN3A	1.0	
+Alzheimer Disease	IKBKB	1.0	
+Alzheimer Disease	NEFL	1.0	
+Alzheimer Disease	NFKB1	1.0	
+Alzheimer Disease	NFKBIA	1.0	
+Alzheimer Disease	RELA	1.0	
+Alzheimer Disease	SQSTM1	1.0	
+Alzheimer Disease	TAB3	1.0	
+Alzheimer Disease	TRAF2	1.0	
+Alzheimer Disease	TRAF6	1.0	
+Phenotypic variability	ACTN2	1.0	
+Phenotypic variability	ACY1	1.0	
+Phenotypic variability	GRIN2A	1.0	
+Phenotypic variability	GRIN2B	1.0	
+Phenotypic variability	IFIH1	1.0	
+Phenotypic variability	NEFL	1.0	
+Phenotypic variability	NFKB1	1.0	
+Phenotypic variability	NFKB2	1.0	
+Phenotypic variability	SQSTM1	1.0	
+Kaposi's sarcoma	EFNB2	1.0	
+Kaposi's sarcoma	EPHB2	1.0	
+Kaposi's sarcoma	EPHB4	1.0	
+Kaposi's sarcoma	IRAK1	1.0	
+Kaposi's sarcoma	REL	1.0	
+Kaposi's sarcoma	SOS1	1.0	
+Anaplastic large cell lymphoma, ALK negative	BCL10	1.0	
+Anaplastic large cell lymphoma, ALK negative	CALM3	1.0	
+Anaplastic large cell lymphoma, ALK negative	NFKB1	1.0	
+Anaplastic large cell lymphoma, ALK negative	NFKB2	1.0	
+Anaplastic large cell lymphoma, ALK negative	RIPK1	1.0	
+Anaplastic large cell lymphoma, ALK negative	TRAF2	1.0	
+Anaplastic large cell lymphoma, ALK negative	UBE2V1	1.0	
+Lung Neoplasms	BTRC	1.0	
+Lung Neoplasms	EPHB2	1.0	
+Lung Neoplasms	EPHB4	1.0	
+Lung Neoplasms	GSS	1.0	
+Lung Neoplasms	HRAS	1.0	
+Lung Neoplasms	IKBKB	1.0	
+Lung Neoplasms	IKBKG	1.0	
+Lung Neoplasms	MAP3K8	1.0	
+Lung Neoplasms	NFKB1	1.0	
+Lung Neoplasms	NFKBIA	1.0	
+Lung Neoplasms	NOD2	1.0	
+Lung Neoplasms	RELA	1.0	
+Lung Neoplasms	RIPK1	1.0	
+Lung Neoplasms	RIPK2	1.0	
+Lung Neoplasms	UBE2N	1.0	
+Lymphadenopathy	BCL10	1.0	
+Lymphadenopathy	MALT1	1.0	
+Lymphadenopathy	NFKB1	1.0	
+Lymphadenopathy	NFKB2	1.0	
+Lymphadenopathy	NOD2	1.0	
+latent infection	MAP3K8	1.0	
+latent infection	NFKB1	1.0	
+latent infection	NFKB2	1.0	
+latent infection	TRAF2	1.0	
+Gallbladder Carcinoma	CALM3	1.0	
+Gallbladder Carcinoma	EPHB2	1.0	
+Gallbladder Carcinoma	NFKB1	1.0	
+Gallbladder Carcinoma	RIPK1	1.0	
+Gallbladder Carcinoma	RIPK2	1.0	
+Gallbladder Carcinoma	UBE2N	1.0	
+Cocaine delirium	CALM3	1.0	
+Cocaine delirium	GRIN2B	1.0	
+Cocaine delirium	GRIN3A	1.0	
+Asymmetric growth	EFNB1	1.0	
+Asymmetric growth	HRAS	1.0	
+Asymmetric growth	IKBKG	1.0	
+Asthma	CALM3	1.0	
+Asthma	CHUK	1.0	
+Asthma	EPHB2	1.0	
+Asthma	FYN	1.0	
+Asthma	IFIH1	1.0	
+Asthma	IKBKB	1.0	
+Asthma	IRAK1	1.0	
+Asthma	NFKB1	1.0	
+Asthma	NFKB2	1.0	
+Asthma	NFKBIA	1.0	
+Asthma	NOD1	1.0	
+Asthma	NOD2	1.0	
+Asthma	RELA	1.0	
+Asthma	RIPK2	1.0	
+Asthma	SQSTM1	1.0	
+Asthma	TAB1	1.0	
+Asthma	TRAF2	1.0	
+Precancerous Conditions	ACY1	1.0	
+Precancerous Conditions	EFNB2	1.0	
+Precancerous Conditions	EPHB2	1.0	
+Precancerous Conditions	HRAS	1.0	
+Precancerous Conditions	NFKBIA	1.0	
+Precancerous Conditions	NOD2	1.0	
+Precancerous Conditions	SOS1	1.0	
+Precancerous Conditions	TRAF2	1.0	
+Precancerous Conditions	YES1	1.0	
+Abnormality of the lymph nodes	BCL10	1.0	
+Abnormality of the lymph nodes	MALT1	1.0	
+Abnormality of the lymph nodes	NFKB1	1.0	
+Abnormality of the lymph nodes	NFKB2	1.0	
+Abnormality of the lymph nodes	NOD2	1.0	
+Dermatitis and eczema	NFKB1	1.0	
+Dermatitis and eczema	NOD1	1.0	
+Dermatitis and eczema	NOD2	1.0	
+Inflammatory disorder	NFKB1	1.0	
+Inflammatory disorder	NOD2	1.0	
+Inflammatory disorder	RELA	1.0	
+Inflammatory disorder	RIPK1	1.0	
+Inflammatory disorder	RIPK2	1.0	
+Inflammatory disorder	TRAF6	1.0	
+Inflammatory disorder	UBE2V1	1.0	
+T-cell acute lymphoblastic leukemias	BCL10	1.0	
+T-cell acute lymphoblastic leukemias	CARD11	1.0	
+T-cell acute lymphoblastic leukemias	HRAS	1.0	
+T-cell acute lymphoblastic leukemias	MALT1	1.0	
+T-cell acute lymphoblastic leukemias	MAP3K8	1.0	
+T-cell acute lymphoblastic leukemias	NFKB1	1.0	
+T-cell acute lymphoblastic leukemias	SRC	1.0	
+T-cell acute lymphoblastic leukemias	UBE2V1	1.0	
+Neoplasm by anatomical site	BCL10	1.0	
+Neoplasm by anatomical site	HRAS	1.0	
+Neoplasm by anatomical site	IKBKG	1.0	
+Neoplasm by anatomical site	MALT1	1.0	
+Neoplasm by anatomical site	MAP3K8	1.0	
+Neoplasm by anatomical site	NFKB1	1.0	
+Neoplasm by anatomical site	NFKB2	1.0	
+Neoplasm by anatomical site	NOD2	1.0	
+Neoplasm by anatomical site	SQSTM1	1.0	
+Neoplasm by anatomical site	SRC	1.0	
+Arthritis, Psoriatic	IFIH1	1.0	
+Arthritis, Psoriatic	IRAK1	1.0	
+Arthritis, Psoriatic	NFKB1	1.0	
+Arthritis, Psoriatic	NFKBIA	1.0	
+Arthritis, Psoriatic	NOD2	1.0	
+Arthritis, Psoriatic	REL	1.0	
+Variable expressivity	GRIN2A	1.0	
+Variable expressivity	GRIN2B	1.0	
+Variable expressivity	IFIH1	1.0	
+Variable expressivity	NEFL	1.0	
+Variable expressivity	NFKB1	1.0	
+Variable expressivity	NFKB2	1.0	
+Premature Birth	HRAS	1.0	
+Premature Birth	NFKB1	1.0	
+Premature Birth	NFKB2	1.0	
+Premature Birth	NFKBIA	1.0	
+Premature Birth	NFKBIB	1.0	
+Premature Birth	NFKBIE	1.0	
+Premature Birth	NOD2	1.0	
+Premature Birth	TRAF2	1.0	
+Osteoarthritis	CALM3	1.0	
+Osteoarthritis	CAMK2B	1.0	
+Osteoarthritis	CHUK	1.0	
+Osteoarthritis	EFNB2	1.0	
+Osteoarthritis	EPHB2	1.0	
+Osteoarthritis	EPHB4	1.0	
+Osteoarthritis	IKBKB	1.0	
+Osteoarthritis	MAP3K7	1.0	
+Osteoarthritis	NFKB1	1.0	
+Osteoarthritis	NOD1	1.0	
+Osteoarthritis	RELA	1.0	
+Osteoarthritis	SOS1	1.0	
+Osteoarthritis	TRAF2	1.0	
+Plagiocephaly	EFNB1	1.0	
+Plagiocephaly	HRAS	1.0	
+Plagiocephaly	IFIH1	1.0	
+Rhinovirus infection	IFIH1	1.0	
+Rhinovirus infection	NFKB1	1.0	
+Rhinovirus infection	RELA	1.0	
+Squamous cell carcinoma of the head and neck	BCL10	1.0	
+Squamous cell carcinoma of the head and neck	EPHB2	1.0	
+Squamous cell carcinoma of the head and neck	EPHB4	1.0	
+Squamous cell carcinoma of the head and neck	HRAS	1.0	
+Squamous cell carcinoma of the head and neck	MAP3K8	1.0	
+Squamous cell carcinoma of the head and neck	NFKB1	1.0	
+Squamous cell carcinoma of the head and neck	NFKB2	1.0	
+Squamous cell carcinoma of the head and neck	REL	1.0	
+Squamous cell carcinoma of the head and neck	RELA	1.0	
+Squamous cell carcinoma of the head and neck	RIPK1	1.0	
+Squamous cell carcinoma of the head and neck	SOS1	1.0	
+Squamous cell carcinoma of the head and neck	SQSTM1	1.0	
+Chlamydia Infections	NFKB1	1.0	
+Chlamydia Infections	NOD1	1.0	
+Chlamydia Infections	RIPK2	1.0	
+Chlamydia Infections	SHC1	1.0	
+Arterial Occlusive Diseases	NOD2	1.0	
+Arterial Occlusive Diseases	SLCO1B1	1.0	
+Arterial Occlusive Diseases	SOS1	1.0	
+Gonorrhea	IFIH1	1.0	
+Gonorrhea	NOD1	1.0	
+Gonorrhea	NOD2	1.0	
+Experimental Autoimmune Encephalomyelitis	EPHB2	1.0	
+Experimental Autoimmune Encephalomyelitis	MALT1	1.0	
+Experimental Autoimmune Encephalomyelitis	NEFL	1.0	
+Experimental Autoimmune Encephalomyelitis	NFKB1	1.0	
+Experimental Autoimmune Encephalomyelitis	NOD1	1.0	
+Experimental Autoimmune Encephalomyelitis	NOD2	1.0	
+Experimental Autoimmune Encephalomyelitis	RIPK2	1.0	
+Experimental Autoimmune Encephalomyelitis	UBE2V1	1.0	
+Ulcerative colitis	EPHB2	1.0	
+Ulcerative colitis	HRAS	1.0	
+Ulcerative colitis	LYN	1.0	
+Ulcerative colitis	NFKB1	1.0	
+Ulcerative colitis	NFKB2	1.0	
+Ulcerative colitis	NFKBIA	1.0	
+Ulcerative colitis	NOD1	1.0	
+Ulcerative colitis	NOD2	1.0	
+Ulcerative colitis	REL	1.0	
+Ulcerative colitis	RELA	1.0	
+Ulcerative colitis	RIPK2	1.0	
+Ulcerative colitis	SLC22A6	1.0	
+Reperfusion Injury	EFNB2	1.0	
+Reperfusion Injury	GRIN2A	1.0	
+Reperfusion Injury	GRIN2B	1.0	
+Reperfusion Injury	MAP3K8	1.0	
+Reperfusion Injury	NOD2	1.0	
+Reperfusion Injury	RELA	1.0	
+Reperfusion Injury	SRC	1.0	
+Increased body weight	CAMK2A	1.0	
+Increased body weight	CAMK2B	1.0	
+Increased body weight	GRIN1	1.0	
+Increased body weight	GRIN2A	1.0	
+Increased body weight	GRIN2B	1.0	
+Increased body weight	GRIN2C	1.0	
+Increased body weight	GRIN2D	1.0	
+Increased body weight	GRIN3A	1.0	
+Increased body weight	SRC	1.0	
+Hippocampal sclerosis	GRIN1	1.0	
+Hippocampal sclerosis	GRIN2A	1.0	
+Hippocampal sclerosis	NFKB1	1.0	
+Abnormality of cell physiology	BCL10	1.0	
+Abnormality of cell physiology	CARD11	1.0	
+Abnormality of cell physiology	IFIH1	1.0	
+Abnormality of cell physiology	IKBKB	1.0	
+Abnormality of cell physiology	IKBKG	1.0	
+Abnormality of cell physiology	NFKB1	1.0	
+Abnormality of cell physiology	NFKB2	1.0	
+Uveitis	BCL10	1.0	
+Uveitis	IKBKG	1.0	
+Uveitis	MALT1	1.0	
+Uveitis	NOD2	1.0	
+Uveitis	RELA	1.0	
+Measles	CALM3	1.0	
+Measles	IFIH1	1.0	
+Measles	MAP3K7	1.0	
+Measles	NFKBIA	1.0	
+Measles	SQSTM1	1.0	
+Abnormality of upper limb joint	EFNB1	1.0	
+Abnormality of upper limb joint	HRAS	1.0	
+Abnormality of upper limb joint	IKBKG	1.0	
+Abnormality of upper limb joint	MAP3K7	1.0	
+Abnormality of upper limb joint	NOD2	1.0	
+Abnormality of upper limb joint	SOS1	1.0	
+Abnormality of upper limb joint	SQSTM1	1.0	
+Hypsarrhythmia	GRIN1	1.0	
+Hypsarrhythmia	GRIN2A	1.0	
+Hypsarrhythmia	GRIN2B	1.0	
+Hypsarrhythmia	SOS1	1.0	
+Parkinsonism	FYN	1.0	
+Parkinsonism	LYN	1.0	
+Parkinsonism	NEFL	1.0	
+Parkinsonism	NFKB2	1.0	
+Parkinsonism	RELA	1.0	
+Parkinsonism	SRC	1.0	
+Lung cancer	BCL10	1.0	
+Lung cancer	BTRC	1.0	
+Lung cancer	CALM3	1.0	
+Lung cancer	CHUK	1.0	
+Lung cancer	EPHB2	1.0	
+Lung cancer	EPHB4	1.0	
+Lung cancer	EPHB6	1.0	
+Lung cancer	HRAS	1.0	
+Lung cancer	IKBKB	1.0	
+Lung cancer	MAP3K7	1.0	
+Lung cancer	MAP3K8	1.0	
+Lung cancer	NFKB1	1.0	
+Lung cancer	NFKBIA	1.0	
+Lung cancer	NOD2	1.0	
+Lung cancer	SHC1	1.0	
+Lung cancer	SOS1	1.0	
+Lung cancer	SRC	1.0	
+Lung cancer	TIAM1	1.0	
+Lung cancer	TRAF2	1.0	
+Lung cancer	TRAF6	1.0	
+Lung cancer	UBE2N	1.0	
+Lip and Oral Cavity Carcinoma	BCL10	1.0	
+Lip and Oral Cavity Carcinoma	EPHB2	1.0	
+Lip and Oral Cavity Carcinoma	HRAS	1.0	
+Lip and Oral Cavity Carcinoma	MALT1	1.0	
+Lip and Oral Cavity Carcinoma	NFKB1	1.0	
+Lip and Oral Cavity Carcinoma	NFKBIA	1.0	
+Lip and Oral Cavity Carcinoma	RELA	1.0	
+Lip and Oral Cavity Carcinoma	SQSTM1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	BCL10	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CALM3	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	EFNB1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	EFNB2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	EPHB2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	EPHB4	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	GRB2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	HRAS	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	IKBKG	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	LYN	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	MAP3K7	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NFKB1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NFKB2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NOD2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	RELA	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	SOS1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	SRC	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	TNIP2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	UBE2V1	1.0	
+Gastritis	BCL10	1.0	
+Gastritis	MALT1	1.0	
+Gastritis	NFKB1	1.0	
+Gastritis	NFKBIA	1.0	
+Gastritis	NOD1	1.0	
+Gastritis	NOD2	1.0	
+Shy-Drager syndrome	FYN	1.0	
+Shy-Drager syndrome	NEFL	1.0	
+Shy-Drager syndrome	NFKBIA	1.0	
+Shy-Drager syndrome	SQSTM1	1.0	
+Abnormality of the lymphatic system	BCL10	1.0	
+Abnormality of the lymphatic system	CARD11	1.0	
+Abnormality of the lymphatic system	IFIH1	1.0	
+Abnormality of the lymphatic system	MALT1	1.0	
+Abnormality of the lymphatic system	NFKB1	1.0	
+Abnormality of the lymphatic system	NFKB2	1.0	
+Abnormality of the lymphatic system	NOD2	1.0	
+Abnormality of the lymphatic system	SOS1	1.0	
+Ischemia	EFNB2	1.0	
+Ischemia	GRIN2A	1.0	
+Ischemia	GRIN2B	1.0	
+Ischemia	IKBKG	1.0	
+Ischemia	IRAK1	1.0	
+Ischemia	NFKB1	1.0	
+Ischemia	NFKBIA	1.0	
+Ischemia	NOD2	1.0	
+Ischemia	RELA	1.0	
+Ischemia	SOS1	1.0	
+Encephalitis	BCL10	1.0	
+Encephalitis	IKBKG	1.0	
+Encephalitis	NFKB1	1.0	
+Encephalitis	NFKBIA	1.0	
+Encephalitis	RELA	1.0	
+Medulloblastoma	BTRC	1.0	
+Medulloblastoma	CALM3	1.0	
+Medulloblastoma	EFNB1	1.0	
+Medulloblastoma	EPHB2	1.0	
+Medulloblastoma	GRB2	1.0	
+Medulloblastoma	NFKB1	1.0	
+Medulloblastoma	NFKBIA	1.0	
+Medulloblastoma	RELA	1.0	
+Medulloblastoma	SOS1	1.0	
+Cerebral Hemorrhage	CHUK	1.0	
+Cerebral Hemorrhage	IRAK1	1.0	
+Cerebral Hemorrhage	NFKB1	1.0	
+Cerebral Hemorrhage	NFKB2	1.0	
+Cerebral Hemorrhage	NFKBIA	1.0	
+Cerebral Hemorrhage	RELA	1.0	
+Leukemogenesis	BCL10	1.0	
+Leukemogenesis	CALM3	1.0	
+Leukemogenesis	EPHB2	1.0	
+Leukemogenesis	MALT1	1.0	
+Leukemogenesis	NFKB1	1.0	
+Leukemogenesis	NFKB2	1.0	
+Leukemogenesis	REL	1.0	
+Leukemogenesis	RIPK1	1.0	
+Leukemogenesis	SOS1	1.0	
+Leukemogenesis	TIAM1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	EPHB2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	HRAS	1.0	
+Severe combined immunodeficiency due to ADA deficiency	IKBKB	1.0	
+Severe combined immunodeficiency due to ADA deficiency	NFKB2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	NOD1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	RIPK1	1.0	
+Severe combined immunodeficiency due to ADA deficiency	RIPK2	1.0	
+Severe combined immunodeficiency due to ADA deficiency	TRAF6	1.0	
+Severe combined immunodeficiency due to ADA deficiency	UBE2V1	1.0	
+Bone Diseases	FYN	1.0	
+Bone Diseases	NFKB1	1.0	
+Bone Diseases	RELA	1.0	
+Bone Diseases	SOS1	1.0	
+Bone Diseases	SQSTM1	1.0	
+Abnormality of blood and blood-forming tissues	ACTN2	1.0	
+Abnormality of blood and blood-forming tissues	BCL10	1.0	
+Abnormality of blood and blood-forming tissues	CARD11	1.0	
+Abnormality of blood and blood-forming tissues	GSS	1.0	
+Abnormality of blood and blood-forming tissues	HRAS	1.0	
+Abnormality of blood and blood-forming tissues	IFIH1	1.0	
+Abnormality of blood and blood-forming tissues	IKBKB	1.0	
+Abnormality of blood and blood-forming tissues	IKBKG	1.0	
+Abnormality of blood and blood-forming tissues	MALT1	1.0	
+Abnormality of blood and blood-forming tissues	NFKB1	1.0	
+Abnormality of blood and blood-forming tissues	NFKB2	1.0	
+Abnormality of blood and blood-forming tissues	NOD2	1.0	
+Abnormality of blood and blood-forming tissues	SOS1	1.0	
+Abnormality of blood and blood-forming tissues	SRC	1.0	
+Abnormality of blood and blood-forming tissues	TAB2	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	MALT1	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	NOD1	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	NOD2	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	SOS1	1.0	
+Rhabdoid Tumor of the Kidney	EPHB1	1.0	
+Rhabdoid Tumor of the Kidney	EPHB2	1.0	
+Rhabdoid Tumor of the Kidney	HRAS	1.0	
+Rhabdoid Tumor of the Kidney	SRC	1.0	
+Diabetes mellitus type 2	CALM3	1.0	
+Diabetes mellitus type 2	EFNB2	1.0	
+Diabetes mellitus type 2	EPHB1	1.0	
+Diabetes mellitus type 2	GRB2	1.0	
+Diabetes mellitus type 2	HRAS	1.0	
+Diabetes mellitus type 2	IFIH1	1.0	
+Diabetes mellitus type 2	IKBKB	1.0	
+Diabetes mellitus type 2	IRAK1	1.0	
+Diabetes mellitus type 2	NFKB1	1.0	
+Diabetes mellitus type 2	NOD1	1.0	
+Diabetes mellitus type 2	NOD2	1.0	
+Diabetes mellitus type 2	RELA	1.0	
+Diabetes mellitus type 2	RIPK2	1.0	
+Diabetes mellitus type 2	SHC1	1.0	
+Diabetes mellitus type 2	SLCO1B1	1.0	
+Diabetes mellitus type 2	SOS1	1.0	
+Diabetes mellitus type 2	SQSTM1	1.0	
+Diabetes mellitus type 2	SRC	1.0	
+Diabetes mellitus type 2	UBE2V1	1.0	
+Cutaneous T-cell lymphoma	CARD11	1.0	
+Cutaneous T-cell lymphoma	EPHB2	1.0	
+Cutaneous T-cell lymphoma	IKBKB	1.0	
+Cutaneous T-cell lymphoma	NFKB1	1.0	
+Cutaneous T-cell lymphoma	NFKB2	1.0	
+Cutaneous T-cell lymphoma	TRAF2	1.0	
+Papillary thyroid carcinoma	BTRC	1.0	
+Papillary thyroid carcinoma	CALM3	1.0	
+Papillary thyroid carcinoma	EPHB2	1.0	
+Papillary thyroid carcinoma	EPHB4	1.0	
+Papillary thyroid carcinoma	HRAS	1.0	
+Papillary thyroid carcinoma	MAP3K8	1.0	
+Papillary thyroid carcinoma	NFKB1	1.0	
+Papillary thyroid carcinoma	SOS1	1.0	
+Synovial sarcoma	EPHB2	1.0	
+Synovial sarcoma	EPHB4	1.0	
+Synovial sarcoma	NFKB1	1.0	
+Synovial sarcoma	SOS1	1.0	
+Synovial sarcoma	SRC	1.0	
+Ovarian Neoplasms	BCL10	1.0	
+Ovarian Neoplasms	EPHB2	1.0	
+Ovarian Neoplasms	EPHB4	1.0	
+Ovarian Neoplasms	GRB2	1.0	
+Ovarian Neoplasms	HRAS	1.0	
+Ovarian Neoplasms	MAP3K8	1.0	
+Ovarian Neoplasms	NFKB1	1.0	
+Ovarian Neoplasms	RELA	1.0	
+Ovarian Neoplasms	SOS1	1.0	
+Ovarian Neoplasms	SRC	1.0	
+Ovarian Neoplasms	TRAF2	1.0	
+Ovarian Neoplasms	UBE2V1	1.0	
+Malignant tumor of urinary bladder	CALM3	1.0	
+Malignant tumor of urinary bladder	EFNB3	1.0	
+Malignant tumor of urinary bladder	EPHB2	1.0	
+Malignant tumor of urinary bladder	EPHB4	1.0	
+Malignant tumor of urinary bladder	GRB2	1.0	
+Malignant tumor of urinary bladder	HRAS	1.0	
+Malignant tumor of urinary bladder	IRAK1	1.0	
+Malignant tumor of urinary bladder	MAP3K7	1.0	
+Malignant tumor of urinary bladder	NFKB1	1.0	
+Malignant tumor of urinary bladder	NFKBIE	1.0	
+Malignant tumor of urinary bladder	NOD2	1.0	
+Malignant tumor of urinary bladder	RELA	1.0	
+Malignant tumor of urinary bladder	SOS1	1.0	
+Malignant tumor of urinary bladder	TRAF6	1.0	
+Malignant tumor of urinary bladder	UBE2N	1.0	
+Abnormality of the digestive system	BCL10	1.0	
+Abnormality of the digestive system	CARD11	1.0	
+Abnormality of the digestive system	CHUK	1.0	
+Abnormality of the digestive system	EFNB1	1.0	
+Abnormality of the digestive system	HRAS	1.0	
+Abnormality of the digestive system	IFIH1	1.0	
+Abnormality of the digestive system	IKBKB	1.0	
+Abnormality of the digestive system	IKBKG	1.0	
+Abnormality of the digestive system	MALT1	1.0	
+Abnormality of the digestive system	NFKB1	1.0	
+Abnormality of the digestive system	NFKB2	1.0	
+Abnormality of the digestive system	NFKBIA	1.0	
+Abnormality of the digestive system	NOD2	1.0	
+Abnormality of the digestive system	SLCO1B1	1.0	
+Abnormality of the digestive system	SOS1	1.0	
+Abnormality of the digestive system	SQSTM1	1.0	
+Abnormality of the digestive system	SRC	1.0	
+Seborheic dermatitis	IFIH1	1.0	
+Seborheic dermatitis	IRAK1	1.0	
+Seborheic dermatitis	NFKB1	1.0	
+Seborheic dermatitis	NFKBIA	1.0	
+Seborheic dermatitis	NOD2	1.0	
+Scleroderma	EPHB2	1.0	
+Scleroderma	HRAS	1.0	
+Scleroderma	IRAK1	1.0	
+Scleroderma	NFKB1	1.0	
+Scleroderma	RELA	1.0	
+Scleroderma	SOS1	1.0	
+Scleroderma	TAB1	1.0	
+Scleroderma	TRAF6	1.0	
+Scleroderma	UBE2V1	1.0	
+Tumor Initiation	CHUK	1.0	
+Tumor Initiation	EPHB2	1.0	
+Tumor Initiation	MAP3K7	1.0	
+Tumor Initiation	NFKB1	1.0	
+Tumor Initiation	SOS1	1.0	
+Chronic myeloid leukemia	BCL10	1.0	
+Chronic myeloid leukemia	CALM3	1.0	
+Chronic myeloid leukemia	CHUK	1.0	
+Chronic myeloid leukemia	EPHB2	1.0	
+Chronic myeloid leukemia	GRB2	1.0	
+Chronic myeloid leukemia	HRAS	1.0	
+Chronic myeloid leukemia	LYN	1.0	
+Chronic myeloid leukemia	NFKB1	1.0	
+Chronic myeloid leukemia	SOS1	1.0	
+Chronic myeloid leukemia	SQSTM1	1.0	
+Chronic myeloid leukemia	SRC	1.0	
+Vasculitis	EPHB1	1.0	
+Vasculitis	IFIH1	1.0	
+Vasculitis	NFKB1	1.0	
+Vasculitis	NFKB2	1.0	
+Vasculitis	NOD2	1.0	
+Secondary malignant neoplasm of pancreas	BCL10	1.0	
+Secondary malignant neoplasm of pancreas	CALM3	1.0	
+Secondary malignant neoplasm of pancreas	EFNB2	1.0	
+Secondary malignant neoplasm of pancreas	EPHB1	1.0	
+Secondary malignant neoplasm of pancreas	EPHB2	1.0	
+Secondary malignant neoplasm of pancreas	EPHB4	1.0	
+Secondary malignant neoplasm of pancreas	EPHB6	1.0	
+Secondary malignant neoplasm of pancreas	HRAS	1.0	
+Secondary malignant neoplasm of pancreas	MAP3K7	1.0	
+Secondary malignant neoplasm of pancreas	NEFL	1.0	
+Secondary malignant neoplasm of pancreas	NFKB1	1.0	
+Secondary malignant neoplasm of pancreas	SOS1	1.0	
+Secondary malignant neoplasm of pancreas	SRC	1.0	
+Secondary malignant neoplasm of pancreas	TAB2	1.0	
+Secondary malignant neoplasm of pancreas	TIAM1	1.0	
+Secondary malignant neoplasm of pancreas	YES1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	BCL10	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CALM3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CHUK	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	EFNB1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	EPHB2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	FYN	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GSS	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	HRAS	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	IKBKB	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NFKB1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NFKB2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NFKBIA	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	RELA	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	RIPK2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	SOS1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	SQSTM1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	UBE2N	1.0	
+Juvenile myelomonocytic leukemia	EPHB2	1.0	
+Juvenile myelomonocytic leukemia	REL	1.0	
+Juvenile myelomonocytic leukemia	SOS1	1.0	
+Juvenile myelomonocytic leukemia	SRC	1.0	
+Hepatocarcinogenesis	HRAS	1.0	
+Hepatocarcinogenesis	IKBKG	1.0	
+Hepatocarcinogenesis	MAP3K7	1.0	
+Hepatocarcinogenesis	NFKB1	1.0	
+Hepatocarcinogenesis	NFKBIA	1.0	
+Hepatocarcinogenesis	SOS1	1.0	
+Hepatocarcinogenesis	UBE2N	1.0	
+Hepatocarcinogenesis	UBE2V1	1.0	
+Neurodegenerative Diseases	CALM3	1.0	
+Neurodegenerative Diseases	DLG4	1.0	
+Neurodegenerative Diseases	EPHB2	1.0	
+Neurodegenerative Diseases	FYN	1.0	
+Neurodegenerative Diseases	GSS	1.0	
+Neurodegenerative Diseases	NFKB1	1.0	
+Neurodegenerative Diseases	NFKBIA	1.0	
+Neurodegenerative Diseases	SOS1	1.0	
+Neurodegenerative Diseases	SQSTM1	1.0	
+Neurodegenerative Diseases	UBE2V1	1.0	
+Prostate carcinoma	BCL10	1.0	
+Prostate carcinoma	CALM3	1.0	
+Prostate carcinoma	CHUK	1.0	
+Prostate carcinoma	EPHB2	1.0	
+Prostate carcinoma	EPHB4	1.0	
+Prostate carcinoma	FYN	1.0	
+Prostate carcinoma	HRAS	1.0	
+Prostate carcinoma	IRAK1	1.0	
+Prostate carcinoma	LYN	1.0	
+Prostate carcinoma	MAP3K7	1.0	
+Prostate carcinoma	MAP3K8	1.0	
+Prostate carcinoma	NFKB1	1.0	
+Prostate carcinoma	NFKB2	1.0	
+Prostate carcinoma	NFKBIA	1.0	
+Prostate carcinoma	RELA	1.0	
+Prostate carcinoma	RIPK2	1.0	
+Prostate carcinoma	SHC1	1.0	
+Prostate carcinoma	SOS1	1.0	
+Prostate carcinoma	SQSTM1	1.0	
+Prostate carcinoma	SRC	1.0	
+Prostate carcinoma	TRAF2	1.0	
+Prostate carcinoma	TRAF6	1.0	
+Prostate carcinoma	UBE2V1	1.0	
+Failure to thrive in infancy	HRAS	1.0	
+Failure to thrive in infancy	NFKB1	1.0	
+Failure to thrive in infancy	NFKB2	1.0	
+Camptodactyly of finger	EFNB1	1.0	
+Camptodactyly of finger	IKBKG	1.0	
+Camptodactyly of finger	MAP3K7	1.0	
+Camptodactyly of finger	NOD2	1.0	
+Abnormality of the uvea	BCL10	1.0	
+Abnormality of the uvea	BTRC	1.0	
+Abnormality of the uvea	HRAS	1.0	
+Abnormality of the uvea	IKBKG	1.0	
+Abnormality of the uvea	MALT1	1.0	
+Abnormality of the uvea	NOD2	1.0	
+Abnormality of the uvea	SOS1	1.0	
+Inflammatory abnormality of the skin	IFIH1	1.0	
+Inflammatory abnormality of the skin	IKBKG	1.0	
+Inflammatory abnormality of the skin	NFKB1	1.0	
+Inflammatory abnormality of the skin	NFKB2	1.0	
+Inflammatory abnormality of the skin	NOD2	1.0	
+Inflammatory abnormality of the skin	REL	1.0	
+Cardiomegaly	CAMK2D	1.0	
+Cardiomegaly	IFIH1	1.0	
+Cardiomegaly	LYN	1.0	
+Cardiomegaly	RELA	1.0	
+Cardiomegaly	SHC1	1.0	
+Cardiomegaly	SRC	1.0	
+Inflammatory Bowel Diseases	CAMK2G	1.0	
+Inflammatory Bowel Diseases	EPHB4	1.0	
+Inflammatory Bowel Diseases	IFIH1	1.0	
+Inflammatory Bowel Diseases	MAP3K7	1.0	
+Inflammatory Bowel Diseases	MAP3K8	1.0	
+Inflammatory Bowel Diseases	NFKB1	1.0	
+Inflammatory Bowel Diseases	NFKBIA	1.0	
+Inflammatory Bowel Diseases	NOD1	1.0	
+Inflammatory Bowel Diseases	NOD2	1.0	
+Inflammatory Bowel Diseases	RELA	1.0	
+Inflammatory Bowel Diseases	RIPK2	1.0	
+Inflammatory Bowel Diseases	SOS1	1.0	
+Dermatosis NOS	IKBKG	1.0	
+Dermatosis NOS	NFKB1	1.0	
+Dermatosis NOS	NFKB2	1.0	
+Dermatosis NOS	NFKBIA	1.0	
+Dermatosis NOS	NFKBIB	1.0	
+Dermatosis NOS	NFKBIE	1.0	
+Dermatosis NOS	NOD2	1.0	
+Dermatosis NOS	TRAF2	1.0	
+Ependymoma	EPHB2	1.0	
+Ependymoma	NEFL	1.0	
+Ependymoma	NFKB1	1.0	
+Ependymoma	RELA	1.0	
+Interphalangeal joint contracture of finger	EFNB1	1.0	
+Interphalangeal joint contracture of finger	IKBKG	1.0	
+Interphalangeal joint contracture of finger	MAP3K7	1.0	
+Interphalangeal joint contracture of finger	NOD2	1.0	
+Hepatitis	IKBKG	1.0	
+Hepatitis	NFKB1	1.0	
+Hepatitis	NOD2	1.0	
+Hepatitis	RELA	1.0	
+Hepatitis	RIPK1	1.0	
+Hepatitis	SLCO1B1	1.0	
+Hepatitis	SOS1	1.0	
+gliosarcoma	NFKBIA	1.0	
+gliosarcoma	RIPK2	1.0	
+gliosarcoma	SOS1	1.0	
+Flexion contracture of finger	EFNB1	1.0	
+Flexion contracture of finger	IKBKG	1.0	
+Flexion contracture of finger	MAP3K7	1.0	
+Flexion contracture of finger	NOD2	1.0	
+Abnormality of hair texture	EFNB1	1.0	
+Abnormality of hair texture	HRAS	1.0	
+Abnormality of hair texture	IKBKG	1.0	
+Abnormality of hair texture	SOS1	1.0	
+Noonan syndrome 1	EPHB2	1.0	
+Noonan syndrome 1	HRAS	1.0	
+Noonan syndrome 1	SOS1	1.0	
+Classical Hodgkin's Lymphoma	EPHB2	1.0	
+Classical Hodgkin's Lymphoma	NFKB1	1.0	
+Classical Hodgkin's Lymphoma	NFKBIA	1.0	
+Classical Hodgkin's Lymphoma	REL	1.0	
+Abnormality of phalangeal joints of the hand	EFNB1	1.0	
+Abnormality of phalangeal joints of the hand	IKBKG	1.0	
+Abnormality of phalangeal joints of the hand	MAP3K7	1.0	
+Abnormality of phalangeal joints of the hand	NOD2	1.0	
+Abnormality of metabolism/homeostasis	ACTN2	1.0	
+Abnormality of metabolism/homeostasis	BCL10	1.0	
+Abnormality of metabolism/homeostasis	CARD11	1.0	
+Abnormality of metabolism/homeostasis	GSS	1.0	
+Abnormality of metabolism/homeostasis	HRAS	1.0	
+Abnormality of metabolism/homeostasis	IFIH1	1.0	
+Abnormality of metabolism/homeostasis	IKBKB	1.0	
+Abnormality of metabolism/homeostasis	IKBKG	1.0	
+Abnormality of metabolism/homeostasis	MALT1	1.0	
+Abnormality of metabolism/homeostasis	NFKB1	1.0	
+Abnormality of metabolism/homeostasis	NFKB2	1.0	
+Abnormality of metabolism/homeostasis	NFKBIA	1.0	
+Abnormality of metabolism/homeostasis	NOD2	1.0	
+Abnormality of metabolism/homeostasis	SLCO1B1	1.0	
+Abnormality of metabolism/homeostasis	SOS1	1.0	
+Abnormality of metabolism/homeostasis	SQSTM1	1.0	
+Leprosy, Paucibacillary	NOD2	1.0	
+Leprosy, Paucibacillary	RIPK2	1.0	
+Neoplasms, Intracranial	HRAS	1.0	
+Neoplasms, Intracranial	NFKB1	1.0	
+Neoplasms, Intracranial	SOS1	1.0	
+Abnormality of the frontal hairline	EFNB1	1.0	
+Abnormality of the frontal hairline	IFIH1	1.0	
+Abnormality of the frontal hairline	SOS1	1.0	
+Giant cell arteritis	IKBKB	1.0	
+Giant cell arteritis	IRAK1	1.0	
+Giant cell arteritis	NFKB1	1.0	
+Giant cell arteritis	TRAF6	1.0	
+Abnormality of the tracheobronchial system	HRAS	1.0	
+Abnormality of the tracheobronchial system	MAP3K7	1.0	
+Abnormality of the tracheobronchial system	MAP3K8	1.0	
+Abnormality of the tracheobronchial system	NFKB1	1.0	
+Abnormality of the tracheobronchial system	NFKB2	1.0	
+Common variable immunodeficiency 2	CARD11	1.0	
+Common variable immunodeficiency 2	NFKB1	1.0	
+Common variable immunodeficiency 2	NFKB2	1.0	
+Common variable immunodeficiency 2	NOD2	1.0	
+Abnormality of the immune system	ACTN2	1.0	
+Abnormality of the immune system	BCL10	1.0	
+Abnormality of the immune system	CARD11	1.0	
+Abnormality of the immune system	GSS	1.0	
+Abnormality of the immune system	IFIH1	1.0	
+Abnormality of the immune system	IKBKB	1.0	
+Abnormality of the immune system	IKBKG	1.0	
+Abnormality of the immune system	MALT1	1.0	
+Abnormality of the immune system	NFKB1	1.0	
+Abnormality of the immune system	NFKB2	1.0	
+Abnormality of the immune system	NFKBIA	1.0	
+Abnormality of the immune system	NOD2	1.0	
+Abnormality of the immune system	SOS1	1.0	
+Behavior Disorders	EPHB1	1.0	
+Behavior Disorders	SQSTM1	1.0	
+Lupus Erythematosus, Systemic	EPHB2	1.0	
+Lupus Erythematosus, Systemic	FYN	1.0	
+Lupus Erythematosus, Systemic	IFIH1	1.0	
+Lupus Erythematosus, Systemic	IKBKB	1.0	
+Lupus Erythematosus, Systemic	IRAK1	1.0	
+Lupus Erythematosus, Systemic	LYN	1.0	
+Lupus Erythematosus, Systemic	NFKB1	1.0	
+Lupus Erythematosus, Systemic	NFKBIA	1.0	
+Lupus Erythematosus, Systemic	NOD2	1.0	
+Lupus Erythematosus, Systemic	REL	1.0	
+Lupus Erythematosus, Systemic	RELA	1.0	
+Lupus Erythematosus, Systemic	RIPK2	1.0	
+Lupus Erythematosus, Systemic	SOS1	1.0	
+Lupus Erythematosus, Systemic	TRAF2	1.0	
+Lupus Erythematosus, Systemic	TRAF6	1.0	
+Ischaemic cerebral infarction	CALM3	1.0	
+Ischaemic cerebral infarction	DLG4	1.0	
+Ischaemic cerebral infarction	IRAK1	1.0	
+Ischaemic cerebral infarction	NFKB1	1.0	
+Ischaemic cerebral infarction	SOS1	1.0	
+Ischaemic cerebral infarction	TAB3	1.0	
+Helicobacter pylori infection	IFIH1	1.0	
+Helicobacter pylori infection	MALT1	1.0	
+Helicobacter pylori infection	NFKB1	1.0	
+Helicobacter pylori infection	NOD1	1.0	
+Helicobacter pylori infection	NOD2	1.0	
+Helicobacter pylori infection	RELA	1.0	
+Psoriasis vulgaris	NFKB1	1.0	
+Psoriasis vulgaris	NOD2	1.0	
+Psoriasis vulgaris	REL	1.0	
+Psoriasis vulgaris	TRAF6	1.0	

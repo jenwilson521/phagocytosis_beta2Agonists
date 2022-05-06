@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00276	drug	
+TOP2A	drug_target	
+CYP2D6	drug_target	
+ABCB1	drug_target	
+KCNH2	drug_target	
+Gastroparesis	phenotype	

@@ -1,0 +1,47 @@
+node1	node2	edge_score	
+DB06756	BCHE	1.0	
+BCHE	rs1799807	0.99
+BCHE	rs28933389	0.99
+BCHE	rs1803274	0.99
+BCHE		1
+BCHE	rs28933390	0.99
+Enzyme inhibition disorder	BCHE	1.0	
+childhood brain tumor	BCHE	1.0	
+Churg-Strauss Syndrome	BCHE	1.0	
+Neurotoxicity Syndromes	BCHE	1.0	
+Gestational trophoblastic disease	BCHE	1.0	
+Malignant hyperthermia susceptibility	BCHE	1.0	
+Cerebral Amyloid Angiopathy	BCHE	1.0	
+Leptospirosis	BCHE	1.0	
+Aural atresia, congenital	BCHE	1.0	
+Refractory anemia	BCHE	1.0	
+Refractory anaemia with excess blasts	BCHE	1.0	
+Cocaine Dependence	BCHE	1.0	
+Adverse drug events and drug allergies	BCHE	1.0	
+Memory Loss	BCHE	1.0	
+Congenital myasthenic syndrome	BCHE	1.0	
+Cognition Disorders	BCHE	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	BCHE	1.0	
+Fasciculations	BCHE	1.0	
+Sleep apnea	BCHE	1.0	
+Postoperative Complications	BCHE	1.0	
+Congenital disorder of glycosylation	BCHE	1.0	
+Paralysis	BCHE	1.0	
+body mass	BCHE	1.0	
+Spastic syndrome	BCHE	1.0	
+Methamphetamine abuse	BCHE	1.0	
+Thrombocytosis, benign familial microcytic	BCHE	1.0	
+early pregnancy	BCHE	1.0	
+Chronic myelomonocytic leukemia	BCHE	1.0	
+Hereditary hyperhomocysteinemia	BCHE	1.0	
+Cocaine-Related Disorders	BCHE	1.0	
+Hypertriglyceridemia	BCHE	1.0	
+Adult onset ataxia with oculomotor apraxia	BCHE	1.0	
+Lewy Body Disease	BCHE	1.0	
+Thyroiditis	BCHE	1.0	
+Neoplasm of the nervous system	BCHE	1.0	
+Mild cognitive impairment	BCHE	1.0	
+Sporadic Breast Carcinoma	BCHE	1.0	
+Tachycardia	BCHE	1.0	
+Weight Gain Adverse Event	BCHE	1.0	
+Apnea	BCHE	1.0	

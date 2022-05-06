@@ -1,0 +1,89 @@
+Gene	CUI	Phenotype	Source Databases	
+KCNA4	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNA5	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNB1	C0023976	Acquired long QT syndrome	DisGeNet	
+KCND2	C0023976	Acquired long QT syndrome	DisGeNet	
+KCND3	C0023976	Acquired long QT syndrome	DisGeNet	
+KCNA2	C1720983	Channelopathies	DisGeNet	
+KCNA4	C1720983	Channelopathies	DisGeNet	
+KCNA5	C1720983	Channelopathies	DisGeNet	
+KCNA4	C0035828	Romano-Ward syndrome	DisGeNet	
+KCNA5	C0035828	Romano-Ward syndrome	DisGeNet	
+KCNA1	C1720189	Episodic ataxia	ClinVar,DisGeNet,HumPhenOnt	
+KCND3	C1720189	Episodic ataxia	DisGeNet	
+KCNA4	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+KCNA5	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+KCND3	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+KCNA5	C0030252	Palpitations	HumPhenOnt	
+KCND3	C0030252	Palpitations	HumPhenOnt	
+KCNA4	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNA5	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNA2	C0007758	Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	DisGeNet	
+KCNC3	C0007758	Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	DisGeNet	
+KCND3	C0007758	Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	DisGeNet	
+KCNC3	C0393525	Progressive cerebellar ataxia	HumPhenOnt	
+KCND3	C0393525	Progressive cerebellar ataxia	HumPhenOnt	
+KCNC3	C0750937	Limb ataxia	HumPhenOnt	
+KCND3	C0750937	Limb ataxia	HumPhenOnt	
+KCNA1	C0087012	Spinocerebellar ataxia, autosomal recessive 17	DisGeNet	
+KCNC3	C0087012	Spinocerebellar ataxia, autosomal recessive 17	DisGeNet	
+KCND3	C0087012	Spinocerebellar ataxia, autosomal recessive 17	DisGeNet	
+KCNA2	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+KCNC1	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+KCND3	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+KCNA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNA2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNA5	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNB1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNC1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNC3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCND3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNA1	C4023353	Abnormality of coordination	HumPhenOnt	
+KCNA2	C4023353	Abnormality of coordination	HumPhenOnt	
+KCNC1	C4023353	Abnormality of coordination	HumPhenOnt	
+KCNC3	C4023353	Abnormality of coordination	HumPhenOnt	
+KCND3	C4023353	Abnormality of coordination	HumPhenOnt	
+KCNA1	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+KCNA2	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+KCNC1	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+KCND3	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+KCND2	C1142166	Brugada Syndrome	DisGeNet	
+KCND3	C1142166	Brugada Syndrome	DisGeNet	
+KCNA2	C0019284	Diaphragmatic hernia	DisGeNet	
+KCNB1	C0019284	Diaphragmatic hernia	DisGeNet	
+KCNC1	C0740279	Cerebellar atrophy, visual impairment, and psychomotor retardation	HumPhenOnt	
+KCNC3	C0740279	Cerebellar atrophy, visual impairment, and psychomotor retardation	DisGeNet,HumPhenOnt	
+KCND3	C0740279	Cerebellar atrophy, visual impairment, and psychomotor retardation	HumPhenOnt	
+KCNA1	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+KCNA2	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+KCNC1	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	HumPhenOnt	
+KCNC3	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+KCND3	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	DisGeNet,HumPhenOnt	
+KCNC3	C0751837	Gait ataxia	HumPhenOnt	
+KCND3	C0751837	Gait ataxia	HumPhenOnt	
+KCNA1	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+KCNA2	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+KCNC1	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+KCNC3	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+KCND3	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+KCNA1	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+KCNA2	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+KCNC1	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+KCNC3	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+KCND3	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+KCNA1	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+KCNA2	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+KCNC1	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+KCNC3	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+KCND3	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+KCNA1	C0427086	Involuntary movements	HumPhenOnt	
+KCNA2	C0427086	Involuntary movements	HumPhenOnt	
+KCNC1	C0427086	Involuntary movements	HumPhenOnt	
+KCND3	C0427086	Involuntary movements	HumPhenOnt	
+KCNA2	C0543888	Epileptic encephalopathy, early infantile, 29	ClinVar,DisGeNet,HumPhenOnt	
+KCNB1	C0543888	Epileptic encephalopathy, early infantile, 29	DisGeNet,HumPhenOnt	
+KCNC1	C4025580	Pace of progression	HumPhenOnt	
+KCNC3	C4025580	Pace of progression	HumPhenOnt	
+KCND3	C4025580	Pace of progression	HumPhenOnt	
+KCNC3	C1854494	Slow progression	HumPhenOnt	
+KCND3	C1854494	Slow progression	HumPhenOnt	

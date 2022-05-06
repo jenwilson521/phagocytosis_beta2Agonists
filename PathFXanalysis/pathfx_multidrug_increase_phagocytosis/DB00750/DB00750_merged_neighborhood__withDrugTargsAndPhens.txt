@@ -1,0 +1,450 @@
+node1	node2	edge_score	
+DB00750	SCN5A	1.0	
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ITIH1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SGOL2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCDH1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTAGE5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PEG3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RLF	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TSC22D1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SETX	0.818984274335209
+APOC1	rs7412	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TLN2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PDZRN4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TRAPPC11	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF232	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CHKB	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RANBP3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPATA31A7	0.818984274335209
+SCN5A	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOC1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PHC3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KCNMA1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	MYLK3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AMPD3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA1551	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	FAM71E2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CST3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA0232	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PRSS3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OBSL1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GCN1L1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTPAL	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DCD	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SCAF1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC9A8	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC25A13	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CEP44	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HP	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:q6IZvGeHHY4cOWPHVW3Z7k177/w32630	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTSL	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CLCA2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF292	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DGKG	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	JARID2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PF4V1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	THRAP3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCED1B	0.818984274335209
+SCN5A		1
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GFAP	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOE	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NLRC4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	IGDCC4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KLK3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SH3BP5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CRB1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AP4E1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:x6cpThd263Mg5MI1OElxwfuSmiY9606	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CNOT1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NCOA3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR3A2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	BBC3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CACNA1I	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:Ze+0W0eVhC83twMz3vRT3padrsk9606	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC1A5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PLAG1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPAST	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GJC2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CABLES1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CROT	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CDCP1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SERPING1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SACS	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	refseq:NP_001914	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LDB3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AHSG	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLA2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CAMTA1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR2T6	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HPX	0.818984274335209
+APOC1	rs429358	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GSN	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:xz86zyvibNFDhT+J8v28Znx5/2M9913	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	QTRTD1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	EXOC6	0.818984274335209
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	AP4E1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APOE	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CAMTA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CST3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GFAP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GJC2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GSN	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNMA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT9	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	LDB3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NLRC4	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PLAG1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SCN5A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SERPING1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SETX	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SPAST	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Guillain-Barre syndrome, familial	APOE	1.0	
+Guillain-Barre syndrome, familial	GFAP	1.0	
+Guillain-Barre syndrome, familial	SERPING1	1.0	
+Cognition Disorders	APOC1	1.0	
+Cognition Disorders	APOE	1.0	
+Cognition Disorders	CST3	1.0	
+Cognition Disorders	SPAST	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	GFAP	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Abnormality of nervous system morphology	AP4E1	1.0	
+Abnormality of nervous system morphology	APOE	1.0	
+Abnormality of nervous system morphology	CAMTA1	1.0	
+Abnormality of nervous system morphology	CHKB	1.0	
+Abnormality of nervous system morphology	CRB1	1.0	
+Abnormality of nervous system morphology	CST3	1.0	
+Abnormality of nervous system morphology	GFAP	1.0	
+Abnormality of nervous system morphology	GJC2	1.0	
+Abnormality of nervous system morphology	GSN	1.0	
+Abnormality of nervous system morphology	LDB3	1.0	
+Abnormality of nervous system morphology	NLRC4	1.0	
+Abnormality of nervous system morphology	OBSL1	1.0	
+Abnormality of nervous system morphology	SACS	1.0	
+Abnormality of nervous system morphology	SCN5A	1.0	
+Abnormality of nervous system morphology	SERPING1	1.0	
+Abnormality of nervous system morphology	SETX	1.0	
+Abnormality of nervous system morphology	SLC25A13	1.0	
+Abnormality of nervous system morphology	SPAST	1.0	
+Abnormality of nervous system morphology	TRAPPC11	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOE	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSN	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	LDB3	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SACS	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SERPING1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SETX	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	APOE	1.0	
+Abnormality of metabolism/homeostasis	CAMTA1	1.0	
+Abnormality of metabolism/homeostasis	CHKB	1.0	
+Abnormality of metabolism/homeostasis	CRB1	1.0	
+Abnormality of metabolism/homeostasis	CST3	1.0	
+Abnormality of metabolism/homeostasis	GJC2	1.0	
+Abnormality of metabolism/homeostasis	GSN	1.0	
+Abnormality of metabolism/homeostasis	KRT1	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Abnormality of metabolism/homeostasis	LDB3	1.0	
+Abnormality of metabolism/homeostasis	NLRC4	1.0	
+Abnormality of metabolism/homeostasis	SCN5A	1.0	
+Abnormality of metabolism/homeostasis	SERPING1	1.0	
+Abnormality of metabolism/homeostasis	SETX	1.0	
+Abnormality of metabolism/homeostasis	SLC25A13	1.0	
+Abnormality of metabolism/homeostasis	TRAPPC11	1.0	
+Impaired vibratory sensation	SACS	1.0	
+Impaired vibratory sensation	SETX	1.0	
+Impaired vibratory sensation	SPAST	1.0	
+Alzheimer Disease, Late Onset	APOC1	1.0	
+Alzheimer Disease, Late Onset	APOE	1.0	
+Alzheimer Disease, Late Onset	CST3	1.0	
+Alzheimer Disease, Late Onset	GFAP	1.0	
+Dysmetria	CAMTA1	1.0	
+Dysmetria	GJC2	1.0	
+Dysmetria	SACS	1.0	
+Dysmetria	SETX	1.0	
+Motor Neuron Disease	APOE	1.0	
+Motor Neuron Disease	GFAP	1.0	
+Motor Neuron Disease	HP	1.0	
+Motor Neuron Disease	SETX	1.0	
+Motor Neuron Disease	SPAST	1.0	
+Corneal Diseases	APOE	1.0	
+Corneal Diseases	GFAP	1.0	
+Corneal Diseases	GSN	1.0	
+Spastic	APOE	1.0	
+Spastic	GJC2	1.0	
+Spastic	SPAST	1.0	
+Azorean disease	APOE	1.0	
+Azorean disease	BBC3	1.0	
+Azorean disease	CST3	1.0	
+Azorean disease	GFAP	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	APOE	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GFAP	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GJC2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSN	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	LDB3	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	NLRC4	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SACS	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SERPING1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SETX	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SPAST	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	TLN2	1.0	
+Alcoholic Steatohepatitis	APOE	1.0	
+Alcoholic Steatohepatitis	BBC3	1.0	
+Alcoholic Steatohepatitis	NLRC4	1.0	
+Babinski sign	AP4E1	1.0	
+Babinski sign	GJC2	1.0	
+Babinski sign	SACS	1.0	
+Babinski sign	SETX	1.0	
+Babinski sign	SPAST	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Plaque, Atherosclerotic	APOE	1.0	
+Plaque, Atherosclerotic	CST3	1.0	
+Plaque, Atherosclerotic	GFAP	1.0	
+Plaque, Atherosclerotic	GSN	1.0	
+Plaque, Atherosclerotic	SERPING1	1.0	
+Erythroblastosis	GSN	1.0	
+Erythroblastosis	KLK3	1.0	
+Erythroblastosis	PLAG1	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	GSN	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	LDB3	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	SETX	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	APOE	1.0	
+Nephrotic Syndrome, Minimal Change	HPX	1.0	
+Pointed chin	AP4E1	1.0	
+Pointed chin	CAMTA1	1.0	
+Pointed chin	OBSL1	1.0	
+Albuminuria	ALB	1.0	
+Albuminuria	APOE	1.0	
+Albuminuria	CST3	1.0	
+Albuminuria	CTSL	1.0	
+Albuminuria	HP	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	APOE	1.0	
+Myopathy, scapulohumeroperoneal	CHKB	1.0	
+Myopathy, scapulohumeroperoneal	GFAP	1.0	
+Myopathy, scapulohumeroperoneal	LDB3	1.0	
+Myopathy, scapulohumeroperoneal	OBSL1	1.0	
+Myopathy, scapulohumeroperoneal	SCN5A	1.0	
+Myopathy, scapulohumeroperoneal	TRAPPC11	1.0	
+Increased antibody level in blood	KRT1	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Increased antibody level in blood	SETX	1.0	
+Cerebral Amyloid Angiopathy	APOE	1.0	
+Cerebral Amyloid Angiopathy	CST3	1.0	
+Cerebral Amyloid Angiopathy	GSN	1.0	
+Aural atresia, congenital	APOE	1.0	
+Aural atresia, congenital	CST3	1.0	
+Aural atresia, congenital	GSN	1.0	
+Abnormal peripheral nervous system morphology	CHKB	1.0	
+Abnormal peripheral nervous system morphology	GJC2	1.0	
+Abnormal peripheral nervous system morphology	GSN	1.0	
+Abnormal peripheral nervous system morphology	LDB3	1.0	
+Abnormal peripheral nervous system morphology	NLRC4	1.0	
+Abnormal peripheral nervous system morphology	SACS	1.0	
+Abnormal peripheral nervous system morphology	SERPING1	1.0	
+Abnormal peripheral nervous system morphology	SETX	1.0	
+Abnormal peripheral nervous system morphology	SPAST	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Drug Resistant Epilepsy	APOE	1.0	
+Drug Resistant Epilepsy	GFAP	1.0	
+Chorea, childhood-onset, with psychomotor retardation	GJC2	1.0	
+Chorea, childhood-onset, with psychomotor retardation	KCNMA1	1.0	
+Chorea, childhood-onset, with psychomotor retardation	SETX	1.0	
+Chorea, childhood-onset, with psychomotor retardation	TRAPPC11	1.0	
+Abnormality of circulating protein level	ALB	1.0	
+Abnormality of circulating protein level	CHKB	1.0	
+Abnormality of circulating protein level	LDB3	1.0	
+Abnormality of circulating protein level	SCN5A	1.0	
+Abnormality of circulating protein level	SETX	1.0	
+Abnormality of circulating protein level	TRAPPC11	1.0	
+Chronic Kidney Insufficiency	AHSG	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	APOE	1.0	
+Chronic Kidney Insufficiency	CST3	1.0	
+Chronic Kidney Insufficiency	HP	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hereditary pancreatitis	APOE	1.0	
+Hereditary pancreatitis	HP	1.0	
+Hereditary pancreatitis	KLK3	1.0	
+Hereditary pancreatitis	PLAG1	1.0	
+Hereditary pancreatitis	PRSS3	1.0	
+Hereditary pancreatitis	TSC22D1	1.0	
+Spastic paraplegia 9	AP4E1	1.0	
+Spastic paraplegia 9	GFAP	1.0	
+Spastic paraplegia 9	GJC2	1.0	
+Spastic paraplegia 9	SPAST	1.0	
+Macular Degeneration	APOC1	1.0	
+Macular Degeneration	APOE	1.0	
+Macular Degeneration	CRB1	1.0	
+Macular Degeneration	CST3	1.0	
+Macular Degeneration	SERPING1	1.0	
+Abnormality of circulating enzyme level	CHKB	1.0	
+Abnormality of circulating enzyme level	LDB3	1.0	
+Abnormality of circulating enzyme level	SCN5A	1.0	
+Abnormality of circulating enzyme level	SETX	1.0	
+Abnormality of circulating enzyme level	TRAPPC11	1.0	
+Elevated serum creatine phosphokinase	CHKB	1.0	
+Elevated serum creatine phosphokinase	LDB3	1.0	
+Elevated serum creatine phosphokinase	SCN5A	1.0	
+Elevated serum creatine phosphokinase	SETX	1.0	
+Elevated serum creatine phosphokinase	TRAPPC11	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	APOC1	1.0	
+Hyperlipidemia, combined, 1	APOE	1.0	
+Hyperlipidemia, combined, 1	CDCP1	1.0	
+Hyperlipidemia, combined, 1	HP	1.0	
+Hyperlipidemia, combined, 1	SLC25A13	1.0	
+Erythema	KRT1	1.0	
+Erythema	KRT9	1.0	
+Erythema	NLRC4	1.0	
+Erythema	SERPING1	1.0	
+Abnormality of the nervous system	AP4E1	1.0	
+Abnormality of the nervous system	APOE	1.0	
+Abnormality of the nervous system	CAMTA1	1.0	
+Abnormality of the nervous system	CHKB	1.0	
+Abnormality of the nervous system	CRB1	1.0	
+Abnormality of the nervous system	CST3	1.0	
+Abnormality of the nervous system	GFAP	1.0	
+Abnormality of the nervous system	GJC2	1.0	
+Abnormality of the nervous system	GSN	1.0	
+Abnormality of the nervous system	KCNMA1	1.0	
+Abnormality of the nervous system	LDB3	1.0	
+Abnormality of the nervous system	NLRC4	1.0	
+Abnormality of the nervous system	OBSL1	1.0	
+Abnormality of the nervous system	SACS	1.0	
+Abnormality of the nervous system	SCN5A	1.0	
+Abnormality of the nervous system	SERPING1	1.0	
+Abnormality of the nervous system	SETX	1.0	
+Abnormality of the nervous system	SLC25A13	1.0	
+Abnormality of the nervous system	SPAST	1.0	
+Abnormality of the nervous system	TRAPPC11	1.0	
+Dementia familial British	ALB	1.0	
+Dementia familial British	APOC1	1.0	
+Dementia familial British	APOE	1.0	
+Dementia familial British	CST3	1.0	
+Dementia familial British	GFAP	1.0	
+Dementia familial British	SPAST	1.0	
+Amyloidosis	APOE	1.0	
+Amyloidosis	CST3	1.0	
+Amyloidosis	GSN	1.0	
+Amyloidosis	HP	1.0	
+Diabetes mellitus type 2	AHSG	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Diabetes mellitus type 2	APOC1	1.0	
+Diabetes mellitus type 2	APOE	1.0	
+Diabetes mellitus type 2	CAMTA1	1.0	
+Diabetes mellitus type 2	CRB1	1.0	
+Diabetes mellitus type 2	CST3	1.0	
+Diabetes mellitus type 2	CTSL	1.0	
+Diabetes mellitus type 2	DCD	1.0	
+Diabetes mellitus type 2	DGKG	1.0	
+Diabetes mellitus type 2	GSN	1.0	
+Diabetes mellitus type 2	HP	1.0	
+Diabetes mellitus type 2	HPX	1.0	
+Diabetes mellitus type 2	PEG3	1.0	
+Diabetes mellitus type 2	SCN5A	1.0	
+Diabetes mellitus type 2	THRAP3	1.0	
+Diabetes mellitus type 2	TSC22D1	1.0	
+Shock, Septic	APOE	1.0	
+Shock, Septic	HP	1.0	
+Shock, Septic	SCN5A	1.0	
+Sleep apnea	APOE	1.0	
+Sleep apnea	GSN	1.0	
+Sleep apnea	HP	1.0	
+Inclusion Body Myositis (disorder)	APOE	1.0	
+Inclusion Body Myositis (disorder)	CST3	1.0	
+Inclusion Body Myositis (disorder)	GSN	1.0	
+Peripheral axonal neuropathy	GJC2	1.0	
+Peripheral axonal neuropathy	SERPING1	1.0	
+Peripheral axonal neuropathy	SETX	1.0	
+Hepatic steatosis	AHSG	1.0	
+Hepatic steatosis	ALB	1.0	
+Hepatic steatosis	APOC1	1.0	
+Hepatic steatosis	APOE	1.0	
+Hepatic steatosis	HP	1.0	
+Hepatic steatosis	NCOA3	1.0	
+Hepatic steatosis	SLC25A13	1.0	
+Abnormal pyramidal signs	AP4E1	1.0	
+Abnormal pyramidal signs	GJC2	1.0	
+Abnormal pyramidal signs	SACS	1.0	
+Abnormal pyramidal signs	SETX	1.0	
+Abnormal pyramidal signs	SPAST	1.0	
+Myoepithelioma	GFAP	1.0	
+Myoepithelioma	PLAG1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	APOC1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	KRT1	1.0	
+Left ventricular noncompaction	LDB3	1.0	
+Left ventricular noncompaction	SCN5A	1.0	
+Bulbous nose	AP4E1	1.0	
+Bulbous nose	CAMTA1	1.0	
+Bulbous nose	OBSL1	1.0	
+Steatohepatitis	AHSG	1.0	
+Steatohepatitis	APOC1	1.0	
+Steatohepatitis	APOE	1.0	
+Steatohepatitis	NCOA3	1.0	
+Steatohepatitis	SLC25A13	1.0	
+Palmar hyperkeratosis	KRT1	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Complicated hereditary spastic paraplegia	AP4E1	1.0	
+Complicated hereditary spastic paraplegia	GJC2	1.0	
+Complicated hereditary spastic paraplegia	SPAST	1.0	
+Complications of Diabetes Mellitus	ALB	1.0	
+Complications of Diabetes Mellitus	APOE	1.0	
+Complications of Diabetes Mellitus	HP	1.0	
+Limb-girdle muscular dystrophy, type 2L	LDB3	1.0	
+Limb-girdle muscular dystrophy, type 2L	OBSL1	1.0	
+Limb-girdle muscular dystrophy, type 2L	TRAPPC11	1.0	
+Oncocytoma, renal	KLK3	1.0	
+Oncocytoma, renal	PLAG1	1.0	
+Neurodegenerative Diseases	AHSG	1.0	
+Neurodegenerative Diseases	APOE	1.0	
+Neurodegenerative Diseases	CST3	1.0	
+Neurodegenerative Diseases	GFAP	1.0	
+Neurodegenerative Diseases	GSN	1.0	
+Neurodegenerative Diseases	KCNMA1	1.0	
+Neurodegenerative Diseases	SACS	1.0	
+Neurodegenerative Diseases	SETX	1.0	
+Neurodegenerative Diseases	SPAST	1.0	
+Ichthyosis bullosa of Siemens	KRT1	1.0	
+Ichthyosis bullosa of Siemens	PRSS3	1.0	
+Ichthyosis bullosa of Siemens	SCN5A	1.0	
+Onset	AP4E1	1.0	
+Onset	APOE	1.0	
+Onset	CHKB	1.0	
+Onset	GFAP	1.0	
+Onset	GJC2	1.0	
+Onset	GSN	1.0	
+Onset	LDB3	1.0	
+Onset	SACS	1.0	
+Onset	SCN5A	1.0	
+Verrucae	KRT1	1.0	
+Verrucae	KRT9	1.0	
+Chromophobe Renal Cell Carcinoma	KLK3	1.0	
+Chromophobe Renal Cell Carcinoma	PLAG1	1.0	
+Stage 5 chronic kidney disease	AHSG	1.0	
+Stage 5 chronic kidney disease	ALB	1.0	
+Stage 5 chronic kidney disease	APOE	1.0	
+Stage 5 chronic kidney disease	GSN	1.0	
+Stage 5 chronic kidney disease	KLK3	1.0	
+Cardiomyopathy, Dilated	APOE	1.0	
+Cardiomyopathy, Dilated	CHKB	1.0	
+Cardiomyopathy, Dilated	CTSL	1.0	
+Cardiomyopathy, Dilated	GFAP	1.0	
+Cardiomyopathy, Dilated	KRT9	1.0	
+Cardiomyopathy, Dilated	LDB3	1.0	
+Cardiomyopathy, Dilated	SCN5A	1.0	
+Other disorders of the nervous system	APOE	1.0	
+Other disorders of the nervous system	CST3	1.0	
+Other disorders of the nervous system	GFAP	1.0	
+Other disorders of the nervous system	SACS	1.0	
+Other disorders of the nervous system	SCAF1	1.0	
+Other disorders of the nervous system	SETX	1.0	
+Other disorders of the nervous system	SPAST	1.0	

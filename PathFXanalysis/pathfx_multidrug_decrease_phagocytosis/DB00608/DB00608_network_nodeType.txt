@@ -1,0 +1,50 @@
+node_name	node_type	
+DB00608	drug	
+TLR9	drug_target	
+TNF	drug_target	
+CYP1A1	drug_target	
+CYP3A4	drug_target	
+ABCB1	drug_target	
+CYP2D6	drug_target	
+CYP2C8	drug_target	
+GSTA2	drug_target	
+CYP3A5	drug_target	
+Drug Allergy	phenotype	
+Acute postoperative pain	phenotype	
+Neoplasm of the larynx	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pain insensitivity	phenotype	
+Herpes simplex encephalitis, susceptibility to, 7	phenotype	
+Tumor necrosis	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Systemic aspergillosis	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Malaria, Falciparum	phenotype	
+Fetal Diseases	phenotype	
+Postoperative Complications	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Peripheral T-Cell Lymphoma	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Hypersensitivity	phenotype	
+RNA Virus Infections	phenotype	
+Lung Injury	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Femur Head Necrosis	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Oral Submucous Fibrosis	phenotype	
+ {Septic shock, susceptibility to} (3)	phenotype	
+Connective Tissue Diseases	phenotype	
+Oral aphthae	phenotype	
+Malaria	phenotype	
+Chronic leukemia	phenotype	
+Advanced cancer	phenotype	
+Primary biliary cirrhosis	phenotype	
+Hypohidrotic X-linked ectodermal dysplasia	phenotype	
+Tardive Dyskinesia	phenotype	
+Head and Neck Neoplasms	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	

@@ -1,0 +1,97 @@
+node_name	node_type	
+DB00252	drug	
+ABCC2	drug_target	
+CYP2C19	drug_target	
+CYP2C8	drug_target	
+SCN5A	drug_target	
+CYP2C18	drug_target	
+CYP3A4	drug_target	
+CYP3A5	drug_target	
+ALB	drug_target	
+CYP2C9	drug_target	
+SCN1A	drug_target	
+CYP2B6	drug_target	
+ABCB1	drug_target	
+SLCO1C1	drug_target	
+Hyperlipidemia, combined, 1	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Plantar hyperkeratosis	phenotype	
+Kidney Failure, Chronic	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Myofibrillar myopathy, BAG3-related	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Acute Coronary Syndrome	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Coronary heart disease 7	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Hyperkeratosis	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hypertriglyceridemia result	phenotype	
+Kidney Diseases	phenotype	
+Old myocardial infarction	phenotype	
+Acute myocardial ischemia	phenotype	
+Thromboembolism	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Diabetes mellitus type 2	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Abnormal blistering of the skin	phenotype	
+Chronic kidney disease	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Hyperhidrosis	phenotype	
+Acute kidney injury	phenotype	
+Epidermal thickening	phenotype	
+Drug Allergy	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Cholecystolithiasis	phenotype	
+Myocardial Infarction	phenotype	
+Drug Eruptions	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Thickened skin	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Ichthyosis, congenital, autosomal recessive 12	phenotype	
+Hippocampal sclerosis	phenotype	
+Skin Diseases, Genetic	phenotype	
+cardiac event	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Insulin resistance syndrome	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Acute myocardial infarction	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Oral leukoplakia	phenotype	
+Nephrosis	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Abnormality of the level of lipoprotein cholesterol	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Age-related macular degeneration 2	phenotype	
+Azorean disease	phenotype	
+Mild cognitive impairment	phenotype	
+Epilepsy	phenotype	
+Neoplasm of the liver	phenotype	
+Geographic Atrophy	phenotype	
+Bleeding disorder, platelet-type, 21	phenotype	
+Carotid Atherosclerosis	phenotype	
+Coronary Artery Disease	phenotype	
+Familial hypercholesterolemia	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Hepatoblastoma	phenotype	
+Restenosis	phenotype	
+Neoplasm of the skin	phenotype	
+Liver Diseases	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Systemic arterial pressure	phenotype	
+Hypohidrosis	phenotype	
+Cardiovascular Diseases	phenotype	
+Lupus Nephritis	phenotype	
+Diabetic Angiopathies	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Hypertriglyceridemia	phenotype	
+Dyslipidemias	phenotype	
+Nail dystrophy	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	

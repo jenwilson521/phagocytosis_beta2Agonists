@@ -1,0 +1,5 @@
+node_name	node_type	
+DB06693	drug	
+HMGCR	drug_target	
+CES1	drug_target	
+Latent Tuberculosis	phenotype	

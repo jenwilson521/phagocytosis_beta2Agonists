@@ -1,0 +1,129 @@
+node1	node2	edge_score	
+DB06637	KCNA6	1.0	
+DB06637	KCNA5	1.0	
+DB06637	KCNA4	1.0	
+DB06637	KCNA2	1.0	
+DB06637	KCNA1	1.0	
+DB06637	KCNB1	1.0	
+DB06637	KCNC2	1.0	
+DB06637	KCNB2	1.0	
+DB06637	CYP2E1	1.0	
+DB06637	KCND2	1.0	
+DB06637	KCNC1	1.0	
+DB06637	KCND1	1.0	
+DB06637	KCNA3	1.0	
+DB06637	KCNC3	1.0	
+DB06637	KCNA7	1.0	
+DB06637	KCNA10	1.0	
+DB06637	KCND3	1.0	
+KCNA6		1
+KCNA5		1
+KCNA4		1
+KCNA2		1
+KCNA1		1
+KCNB1		1
+KCNC2		1
+KCNB2		1
+CYP2E1	rs2070676	0.99
+CYP2E1	rs6413432	0.99
+CYP2E1	rs2031920	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP2E1		1
+CYP2E1	rs2515641	0.99
+CYP2E1	rs2070673	0.99
+KCND2		1
+KCNC1		1
+KCND1		1
+KCNA3		1
+KCNC3		1
+KCNA7		1
+KCNA10		1
+KCND3		1
+Acquired long QT syndrome	KCNA4	1.0	
+Acquired long QT syndrome	KCNA5	1.0	
+Acquired long QT syndrome	KCNB1	1.0	
+Acquired long QT syndrome	KCND2	1.0	
+Acquired long QT syndrome	KCND3	1.0	
+Channelopathies	KCNA2	1.0	
+Channelopathies	KCNA4	1.0	
+Channelopathies	KCNA5	1.0	
+Romano-Ward syndrome	KCNA4	1.0	
+Romano-Ward syndrome	KCNA5	1.0	
+Episodic ataxia	KCNA1	1.0	
+Episodic ataxia	KCND3	1.0	
+SUDDEN INFANT DEATH SYNDROME	KCNA4	1.0	
+SUDDEN INFANT DEATH SYNDROME	KCNA5	1.0	
+SUDDEN INFANT DEATH SYNDROME	KCND3	1.0	
+Palpitations	KCNA5	1.0	
+Palpitations	KCND3	1.0	
+Congenital long QT syndrome	KCNA4	1.0	
+Congenital long QT syndrome	KCNA5	1.0	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	KCNA2	1.0	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	KCNC3	1.0	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	KCND3	1.0	
+Progressive cerebellar ataxia	KCNC3	1.0	
+Progressive cerebellar ataxia	KCND3	1.0	
+Limb ataxia	KCNC3	1.0	
+Limb ataxia	KCND3	1.0	
+Spinocerebellar ataxia, autosomal recessive 17	KCNA1	1.0	
+Spinocerebellar ataxia, autosomal recessive 17	KCNC3	1.0	
+Spinocerebellar ataxia, autosomal recessive 17	KCND3	1.0	
+Myoclonus, intractable, neonatal	KCNA2	1.0	
+Myoclonus, intractable, neonatal	KCNC1	1.0	
+Myoclonus, intractable, neonatal	KCND3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNA2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNA5	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNB1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNC1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNC3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCND3	1.0	
+Abnormality of coordination	KCNA1	1.0	
+Abnormality of coordination	KCNA2	1.0	
+Abnormality of coordination	KCNC1	1.0	
+Abnormality of coordination	KCNC3	1.0	
+Abnormality of coordination	KCND3	1.0	
+Tremor, hereditary essential, 5	KCNA1	1.0	
+Tremor, hereditary essential, 5	KCNA2	1.0	
+Tremor, hereditary essential, 5	KCNC1	1.0	
+Tremor, hereditary essential, 5	KCND3	1.0	
+Brugada Syndrome	KCND2	1.0	
+Brugada Syndrome	KCND3	1.0	
+Diaphragmatic hernia	KCNA2	1.0	
+Diaphragmatic hernia	KCNB1	1.0	
+Cerebellar atrophy, visual impairment, and psychomotor retardation	KCNC1	1.0	
+Cerebellar atrophy, visual impairment, and psychomotor retardation	KCNC3	1.0	
+Cerebellar atrophy, visual impairment, and psychomotor retardation	KCND3	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	KCNA1	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	KCNA2	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	KCNC1	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	KCNC3	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	KCND3	1.0	
+Gait ataxia	KCNC3	1.0	
+Gait ataxia	KCND3	1.0	
+Abnormality of the cerebellum	KCNA1	1.0	
+Abnormality of the cerebellum	KCNA2	1.0	
+Abnormality of the cerebellum	KCNC1	1.0	
+Abnormality of the cerebellum	KCNC3	1.0	
+Abnormality of the cerebellum	KCND3	1.0	
+Abnormality of hindbrain morphology	KCNA1	1.0	
+Abnormality of hindbrain morphology	KCNA2	1.0	
+Abnormality of hindbrain morphology	KCNC1	1.0	
+Abnormality of hindbrain morphology	KCNC3	1.0	
+Abnormality of hindbrain morphology	KCND3	1.0	
+Abnormality of the metencephalon	KCNA1	1.0	
+Abnormality of the metencephalon	KCNA2	1.0	
+Abnormality of the metencephalon	KCNC1	1.0	
+Abnormality of the metencephalon	KCNC3	1.0	
+Abnormality of the metencephalon	KCND3	1.0	
+Involuntary movements	KCNA1	1.0	
+Involuntary movements	KCNA2	1.0	
+Involuntary movements	KCNC1	1.0	
+Involuntary movements	KCND3	1.0	
+Epileptic encephalopathy, early infantile, 29	KCNA2	1.0	
+Epileptic encephalopathy, early infantile, 29	KCNB1	1.0	
+Pace of progression	KCNC1	1.0	
+Pace of progression	KCNC3	1.0	
+Pace of progression	KCND3	1.0	
+Slow progression	KCNC3	1.0	
+Slow progression	KCND3	1.0	

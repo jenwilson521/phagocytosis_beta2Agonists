@@ -1,0 +1,36 @@
+Gene	CUI	Phenotype	Source Databases	
+DHFR	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DisGeNet,HumPhenOnt	
+SLC46A1	C0002888	Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	HumPhenOnt	
+DHFR	C0016412	Folic Acid Deficiency	DisGeNet	
+SLC46A1	C0016412	Folic Acid Deficiency	DisGeNet	
+DHFR	C0002886	Macrocytic anemia	HumPhenOnt	
+SLC46A1	C0002886	Macrocytic anemia	HumPhenOnt	
+DHFR	C0025521	Inborn Errors of Metabolism	DisGeNet	
+SLC46A1	C0025521	Inborn Errors of Metabolism	DisGeNet	
+DHFR	C0030232	Pallor	HumPhenOnt	
+SLC46A1	C0030232	Pallor	HumPhenOnt	
+DHFR	C0000772	Abnormality of multiple cell lineages in the bone marrow	HumPhenOnt	
+SLC46A1	C0000772	Abnormality of multiple cell lineages in the bone marrow	HumPhenOnt	
+DHFR	C0678199	Anemia of inadequate production	HumPhenOnt	
+SLC46A1	C0678199	Anemia of inadequate production	HumPhenOnt	
+DHFR	C0030312	Pancytopenia	DisGeNet,HumPhenOnt	
+SLC46A1	C0030312	Pancytopenia	DisGeNet,HumPhenOnt	
+SLC46A1	C1389280	Basal ganglia calcification, idiopathic, 6	HumPhenOnt	
+DHFR	C4021634	Abnormality of bone marrow cell morphology	HumPhenOnt	
+SLC46A1	C4021634	Abnormality of bone marrow cell morphology	HumPhenOnt	
+SLC46A1	C0149745	Oral ulcer	HumPhenOnt	
+SLC46A1	C0025229	Melioidosis, susceptibility to	DisGeNet	
+SLC46A1	C4025738	Abnormality of eosinophils	HumPhenOnt	
+DHFR	C0580317	Abnormal platelet count	HumPhenOnt	
+SLC46A1	C0580317	Abnormal platelet count	HumPhenOnt	
+DHFR	C0024537	Malaria, Vivax	DisGeNet	
+DHFR	C0276496	Familial Alzheimer Disease (FAD)	DisGeNet	
+DHFR	C0275522	Asymptomatic Infections	DisGeNet	
+DHFR	C0854467	Myelosuppression	DisGeNet	
+DHFR	C0268135	Xeroderma pigmentosum, group A	DisGeNet	
+DHFR	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+SLC46A1	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+DHFR	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	HumPhenOnt	
+SLC46A1	C0040034	Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	HumPhenOnt	
+DHFR	C4023515	Dialeptic seizures	HumPhenOnt	
+DHFR	C1847514	Microcephaly, postnatal progressive, with seizures and brain atrophy	HumPhenOnt	

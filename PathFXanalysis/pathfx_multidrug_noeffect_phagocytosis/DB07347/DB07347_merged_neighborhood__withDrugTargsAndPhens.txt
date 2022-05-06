@@ -1,0 +1,148 @@
+node1	node2	edge_score	
+DB07347	GAPDH	1.0	
+DB07347	ATP6V1B2	1.0	
+GAPDH		1
+ATP6V1B2		1
+IgA nephropathy, susceptibility to, 3	ATP6V1B2	1.0	
+IgA nephropathy, susceptibility to, 3	GAPDH	1.0	
+Osteoarthritis	ATP6V1B2	1.0	
+Osteoarthritis	GAPDH	1.0	
+High altitude pulmonary edema	GAPDH	1.0	
+Deep philtrum	ATP6V1B2	1.0	
+Bacterial endocarditis	GAPDH	1.0	
+Severe myoclonic epilepsy in infancy	GAPDH	1.0	
+Triploidy syndrome	GAPDH	1.0	
+Chronic viral hepatitis	GAPDH	1.0	
+Pregnancy in Diabetics	GAPDH	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GAPDH	1.0	
+HELLP Syndrome	GAPDH	1.0	
+Pituitary corticotropic cell adenoma	GAPDH	1.0	
+Anonychia	ATP6V1B2	1.0	
+Congenital absence of germinal epithelium of testes	GAPDH	1.0	
+Rous Sarcoma	GAPDH	1.0	
+Ganglioneuroblastoma	GAPDH	1.0	
+Triphalangeal thumb	ATP6V1B2	1.0	
+Idiopathic Membranous Glomerulonephritis	GAPDH	1.0	
+Hepatitis, Alcoholic	GAPDH	1.0	
+Hepatitis D Infection	GAPDH	1.0	
+Ganglioneuroma	GAPDH	1.0	
+Necrosis	GAPDH	1.0	
+Hormone receptor positive tumor	GAPDH	1.0	
+Meningococcal Infections	GAPDH	1.0	
+Synophrys	ATP6V1B2	1.0	
+Underdeveloped nasal alae	ATP6V1B2	1.0	
+Thick eyebrow	ATP6V1B2	1.0	
+Generalized hypotonia	ATP6V1B2	1.0	
+Hepatosplenic schistosomiasis	GAPDH	1.0	
+Microalbuminuria	GAPDH	1.0	
+Facial hypertrichosis	ATP6V1B2	1.0	
+Abnormality of the frontal hairline	ATP6V1B2	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	GAPDH	1.0	
+Viral hepatitis	GAPDH	1.0	
+Ischemic cardiomyopathy	GAPDH	1.0	
+Complications of Diabetes Mellitus	GAPDH	1.0	
+Gingival overgrowth	ATP6V1B2	1.0	
+Alzheimer Disease, Late Onset	GAPDH	1.0	
+Mycoplasma Infections	GAPDH	1.0	
+Small nail	ATP6V1B2	1.0	
+Undifferentiated carcinoma	GAPDH	1.0	
+Adrenocortical adenoma	GAPDH	1.0	
+Nail dystrophy	ATP6V1B2	1.0	
+Thyroid associated opthalmopathies	GAPDH	1.0	
+Macroglossia	ATP6V1B2	1.0	
+Parathyroid adenoma	GAPDH	1.0	
+Follicular adenoma	GAPDH	1.0	
+Prolactinoma, familial	GAPDH	1.0	
+Oxyphilic Adenoma	GAPDH	1.0	
+Hemochromatosis	GAPDH	1.0	
+Severe Acute Respiratory Syndrome	GAPDH	1.0	
+Melanoma, B16	GAPDH	1.0	
+Abnormality of thumb phalanx	ATP6V1B2	1.0	
+Triangular shaped phalanges of the hand	ATP6V1B2	1.0	
+Hypertrichosis	ATP6V1B2	1.0	
+Abnormality of the hairline	ATP6V1B2	1.0	
+Skeletal muscle hypertrophy	ATP6V1B2	1.0	
+Thick vermilion border	ATP6V1B2	1.0	
+Aplasia/Hypoplasia of the nails	ATP6V1B2	1.0	
+Toe syndactyly	ATP6V1B2	1.0	
+Abnormality of the gingiva	ATP6V1B2	1.0	
+Congenital abnormal hair pattern	ATP6V1B2	1.0	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	ATP6V1B2	1.0	
+Abnormality of the nasal tip	ATP6V1B2	1.0	
+Aortic valve stenosis	GAPDH	1.0	
+Abnormal hair pattern	ATP6V1B2	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	GAPDH	1.0	
+Reduced number of teeth	ATP6V1B2	1.0	
+Thymoma	GAPDH	1.0	
+Trisomy	GAPDH	1.0	
+Non-Malignant Ascites Adverse Event	GAPDH	1.0	
+Eclampsia	GAPDH	1.0	
+Congenital onset	ATP6V1B2	1.0	
+Spinal muscular atrophy with congenital bone fractures 2	ATP6V1B2	1.0	
+Abnormality of the scalp hair	ATP6V1B2	1.0	
+Abnormal number of teeth	ATP6V1B2	1.0	
+Abnormality of oral mucosa	ATP6V1B2	1.0	
+Abnormal tongue morphology	ATP6V1B2	1.0	
+Dilated cardiomyopathy 1A	GAPDH	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	GAPDH	1.0	
+Abnormality of the scalp	ATP6V1B2	1.0	
+Death, Sudden, Cardiac	GAPDH	1.0	
+Abnormality of the thumb	ATP6V1B2	1.0	
+Abnormality of the tongue	ATP6V1B2	1.0	
+Short neck	ATP6V1B2	1.0	
+Testicular seminoma	GAPDH	1.0	
+Neoplasm of the oral cavity	GAPDH	1.0	
+Carcinoma, Papillary	GAPDH	1.0	
+Abnormality of the cervical spine	ATP6V1B2	1.0	
+Brachydactyly, type a1, d	ATP6V1B2	1.0	
+Deafness, autosomal recessive 44	ATP6V1B2	1.0	
+Azoospermia	GAPDH	1.0	
+Cutaneous malignant melanoma 3	GAPDH	1.0	
+Kyphosis	ATP6V1B2	1.0	
+Diabetic Retinopathy	GAPDH	1.0	
+Anemia, Sickle Cell	GAPDH	1.0	
+Choriocarcinoma	GAPDH	1.0	
+Syndactyly type 9	ATP6V1B2	1.0	
+Retinal degeneration	GAPDH	1.0	
+Abnormality of the nail	ATP6V1B2	1.0	
+Abnormality of the philtrum	ATP6V1B2	1.0	
+Huntington's chorea	GAPDH	1.0	
+Pancreatic adenocarcinoma	GAPDH	1.0	
+Acute Coronary Syndrome	GAPDH	1.0	
+Short digit	ATP6V1B2	1.0	
+Wide nasal bridge	ATP6V1B2	1.0	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	GAPDH	1.0	
+Abnormality of the eyebrow	ATP6V1B2	1.0	
+Metastatic melanoma	GAPDH	1.0	
+Hypoxia	GAPDH	1.0	
+Renal neoplasm	GAPDH	1.0	
+Hereditary pancreatitis	GAPDH	1.0	
+Abnormality of the neck	ATP6V1B2	1.0	
+Septicemia	GAPDH	1.0	
+Lymphoma, Follicular	GAPDH	1.0	
+Abnormality of the nasal alae	ATP6V1B2	1.0	
+Abnormal hair quantity	ATP6V1B2	1.0	
+Abnormality of toe	ATP6V1B2	1.0	
+Vascular Diseases	GAPDH	1.0	
+Abnormality of the periorbital region	ATP6V1B2	1.0	
+Benign Prostatic Hyperplasia	GAPDH	1.0	
+Abnormality of phalanx of finger	ATP6V1B2	1.0	
+Phenotypic variability	ATP6V1B2	1.0	
+Mental disorders	ATP6V1B2	1.0	
+Meningioma	GAPDH	1.0	
+Thyroid cancer, nonmedullary, 4	GAPDH	1.0	
+Cardiomyopathy, Dilated	GAPDH	1.0	
+Abnormality of skeletal muscles	ATP6V1B2	1.0	
+Abnormality of upper lip	ATP6V1B2	1.0	
+Abnormality of muscle size	ATP6V1B2	1.0	
+Down Syndrome	GAPDH	1.0	
+Thyroid Neoplasms	GAPDH	1.0	
+Major depressive disorder	ATP6V1B2	1.0	
+Influenza	GAPDH	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	GAPDH	1.0	
+Abnormality of the forehead	ATP6V1B2	1.0	
+Abnormality of the external nose	ATP6V1B2	1.0	
+Scleroderma	GAPDH	1.0	
+Abnormality of dental morphology	ATP6V1B2	1.0	
+Abnormal nasal morphology	ATP6V1B2	1.0	
+Liver Diseases	GAPDH	1.0	

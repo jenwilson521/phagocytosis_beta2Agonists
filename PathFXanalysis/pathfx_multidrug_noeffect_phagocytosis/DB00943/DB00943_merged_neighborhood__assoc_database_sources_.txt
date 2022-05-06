@@ -1,0 +1,8 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	

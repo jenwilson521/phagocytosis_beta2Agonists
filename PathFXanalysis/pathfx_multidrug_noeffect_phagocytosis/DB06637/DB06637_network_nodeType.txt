@@ -1,0 +1,46 @@
+node_name	node_type	
+DB06637	drug	
+KCNA6	drug_target	
+KCNA5	drug_target	
+KCNA4	drug_target	
+KCNA2	drug_target	
+KCNA1	drug_target	
+KCNB1	drug_target	
+KCNC2	drug_target	
+KCNB2	drug_target	
+CYP2E1	drug_target	
+KCND2	drug_target	
+KCNC1	drug_target	
+KCND1	drug_target	
+KCNA3	drug_target	
+KCNC3	drug_target	
+KCNA7	drug_target	
+KCNA10	drug_target	
+KCND3	drug_target	
+Acquired long QT syndrome	phenotype	
+Channelopathies	phenotype	
+Romano-Ward syndrome	phenotype	
+Episodic ataxia	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Palpitations	phenotype	
+Congenital long QT syndrome	phenotype	
+Cerebellar ataxia, areflexia, pes cavus, optic atrophy and sensorinural hearing loss	phenotype	
+Progressive cerebellar ataxia	phenotype	
+Limb ataxia	phenotype	
+Spinocerebellar ataxia, autosomal recessive 17	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Abnormality of coordination	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Brugada Syndrome	phenotype	
+Diaphragmatic hernia	phenotype	
+Cerebellar atrophy, visual impairment, and psychomotor retardation	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Gait ataxia	phenotype	
+Abnormality of the cerebellum	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of the metencephalon	phenotype	
+Involuntary movements	phenotype	
+Epileptic encephalopathy, early infantile, 29	phenotype	
+Pace of progression	phenotype	
+Slow progression	phenotype	

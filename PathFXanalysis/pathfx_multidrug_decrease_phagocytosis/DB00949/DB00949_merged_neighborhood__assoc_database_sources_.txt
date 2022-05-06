@@ -1,0 +1,139 @@
+Gene	CUI	Phenotype	Source Databases	
+CAMK2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+CAMK2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2C	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2D	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN3A	C2911647	Weight Gain Adverse Event	DisGeNet	
+SRC	C2911647	Weight Gain Adverse Event	DisGeNet	
+CALM3	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP2C19	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP2E1	C0025500	Mesothelioma, malignant	DisGeNet	
+CYP3A4	C0025500	Mesothelioma, malignant	DisGeNet	
+EPHB2	C0025500	Mesothelioma, malignant	DisGeNet	
+EPHB4	C0025500	Mesothelioma, malignant	DisGeNet	
+FYN	C0025500	Mesothelioma, malignant	DisGeNet	
+LYN	C0025500	Mesothelioma, malignant	DisGeNet	
+SOS1	C0025500	Mesothelioma, malignant	DisGeNet	
+SRC	C0025500	Mesothelioma, malignant	DisGeNet	
+CALM3	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+CALM3	C0036341	Schizophrenia	DisGeNet	
+CAMK2A	C0036341	Schizophrenia	DisGeNet	
+CAMK2B	C0036341	Schizophrenia	DisGeNet	
+CYP2C19	C0036341	Schizophrenia	DisGeNet	
+CYP2E1	C0036341	Schizophrenia	DisGeNet	
+CYP3A4	C0036341	Schizophrenia	DisGeNet	
+DLG4	C0036341	Schizophrenia	DisGeNet	
+EFNB1	C0036341	Schizophrenia	PheGenI	
+EFNB2	C0036341	Schizophrenia	DisGeNet	
+EPHB2	C0036341	Schizophrenia	DisGeNet	
+FYN	C0036341	Schizophrenia	DisGeNet	
+GRB2	C0036341	Schizophrenia	DisGeNet	
+GRIN1	C0036341	Schizophrenia	DisGeNet	
+GRIN2A	C0036341	Schizophrenia	DisGeNet	
+GRIN2B	C0036341	Schizophrenia	DisGeNet	
+GRIN2C	C0036341	Schizophrenia	DisGeNet	
+GRIN2D	C0036341	Schizophrenia	DisGeNet	
+GRIN3A	C0036341	Schizophrenia	DisGeNet	
+NEFL	C0036341	Schizophrenia	DisGeNet	
+SOS1	C0036341	Schizophrenia	DisGeNet	
+GRIN1	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2A	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+CALM3	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+DLG4	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+FYN	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2A	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+CAMK2A	C0043094	Increased body weight	DisGeNet	
+CAMK2B	C0043094	Increased body weight	DisGeNet	
+GRIN1	C0043094	Increased body weight	DisGeNet	
+GRIN2A	C0043094	Increased body weight	DisGeNet	
+GRIN2B	C0043094	Increased body weight	DisGeNet	
+GRIN2C	C0043094	Increased body weight	DisGeNet	
+GRIN2D	C0043094	Increased body weight	DisGeNet	
+GRIN3A	C0043094	Increased body weight	DisGeNet	
+SRC	C0043094	Increased body weight	DisGeNet	
+CAMK2D	C0014544	Epilepsy	DisGeNet	
+CYP2C19	C0014544	Epilepsy	DisGeNet	
+CYP3A4	C0014544	Epilepsy	DisGeNet	
+DLG4	C0014544	Epilepsy	DisGeNet	
+EPHB2	C0014544	Epilepsy	DisGeNet	
+GRIN1	C0014544	Epilepsy	DisGeNet	
+GRIN2A	C0014544	Epilepsy	DisGeNet	
+GRIN2B	C0014544	Epilepsy	DisGeNet	
+GRIN2C	C0014544	Epilepsy	DisGeNet	
+SOS1	C0014544	Epilepsy	DisGeNet	
+ACTN2	C0001973	Alcohol dependence	DisGeNet	
+CAMK2A	C0001973	Alcohol dependence	DisGeNet	
+CAMK2D	C0001973	Alcohol dependence	DisGeNet	
+CYP2E1	C0001973	Alcohol dependence	DisGeNet	
+DLG4	C0001973	Alcohol dependence	DisGeNet	
+FYN	C0001973	Alcohol dependence	DisGeNet	
+GRIN1	C0001973	Alcohol dependence	DisGeNet	
+GRIN2A	C0001973	Alcohol dependence	DisGeNet	
+GRIN2B	C0001973	Alcohol dependence	DisGeNet	
+NEFL	C0001973	Alcohol dependence	DisGeNet	
+GRIN1	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2A	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2B	C0037769	Hypsarrhythmia	DisGeNet	
+SOS1	C0037769	Hypsarrhythmia	DisGeNet	
+CAMK2A	C0005586	Bipolar affective disorder	DisGeNet	
+DLG4	C0005586	Bipolar affective disorder	DisGeNet	
+FYN	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2A	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2B	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2C	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2D	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN3A	C0005586	Bipolar affective disorder	DisGeNet	
+HRAS	C0005586	Bipolar affective disorder	DisGeNet	
+SOS1	C0005586	Bipolar affective disorder	DisGeNet	
+CYP2E1	C0085762	Alcohol abuse	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+FYN	C0085762	Alcohol abuse	DisGeNet	
+GRIN2B	C0085762	Alcohol abuse	DisGeNet	
+EFNB1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+HRAS	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+SOS1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+EPHB1	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+EPHB2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+HRAS	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+SRC	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GRIN1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GRIN2A	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CALM3	C0007137	Squamous cell carcinoma	DisGeNet	
+CAMK2A	C0007137	Squamous cell carcinoma	DisGeNet	
+CYP2C19	C0007137	Squamous cell carcinoma	DisGeNet	
+CYP2E1	C0007137	Squamous cell carcinoma	DisGeNet	
+CYP3A4	C0007137	Squamous cell carcinoma	DisGeNet	
+EFNB2	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB1	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB2	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB3	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB4	C0007137	Squamous cell carcinoma	DisGeNet	
+FYN	C0007137	Squamous cell carcinoma	DisGeNet	
+GRIN2B	C0007137	Squamous cell carcinoma	DisGeNet	
+GRIN3A	C0007137	Squamous cell carcinoma	DisGeNet	
+HRAS	C0007137	Squamous cell carcinoma	DisGeNet	
+MGST1	C0007137	Squamous cell carcinoma	DisGeNet	
+SOS1	C0007137	Squamous cell carcinoma	DisGeNet	
+SRC	C0007137	Squamous cell carcinoma	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+GRIN2A	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	ClinVar,DisGeNet	
+GRIN2B	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+EFNB1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+HRAS	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+SOS1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+CALM3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+EPHB2	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+GRIN2C	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+HRAS	C0041341	Tuberous sclerosis syndrome	HumPhenOnt	
+NEFL	C0041341	Tuberous sclerosis syndrome	DisGeNet	

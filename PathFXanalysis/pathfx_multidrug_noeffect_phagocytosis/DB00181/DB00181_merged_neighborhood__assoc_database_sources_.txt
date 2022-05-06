@@ -1,0 +1,162 @@
+Gene	CUI	Phenotype	Source Databases	
+APP	C0002622	Memory Loss	DisGeNet	
+GNAI1	C0002622	Memory Loss	DisGeNet	
+GNAI3	C0002622	Memory Loss	DisGeNet	
+POMC	C0002622	Memory Loss	DisGeNet	
+ANXA1	C0004096	Asthma	DisGeNet	
+APP	C0004096	Asthma	DisGeNet	
+CCL23	C0004096	Asthma	DisGeNet	
+CXCL6	C0004096	Asthma	DisGeNet	
+GABBR2	C0004096	Asthma	DisGeNet	
+GNB1	C0004096	Asthma	DisGeNet	
+PMCH	C0004096	Asthma	DisGeNet	
+POMC	C0004096	Asthma	DisGeNet	
+PPBP	C0004096	Asthma	DisGeNet	
+ANXA1	C0233794	Memory impairment	DisGeNet	
+APP	C0233794	Memory impairment	DisGeNet,HumPhenOnt	
+GABBR1	C0233794	Memory impairment	DisGeNet	
+POMC	C0233794	Memory impairment	DisGeNet	
+APP	C1269683	Major depressive disorder	DisGeNet	
+GABBR1	C1269683	Major depressive disorder	DisGeNet	
+GABBR2	C1269683	Major depressive disorder	DisGeNet	
+GNAI3	C1269683	Major depressive disorder	DisGeNet	
+POMC	C1269683	Major depressive disorder	DisGeNet	
+GNAI2	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+POMC	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+GNAI2	C0001624	Neoplasm of the adrenal gland	DisGeNet	
+PMCH	C0001624	Neoplasm of the adrenal gland	DisGeNet	
+POMC	C0001624	Neoplasm of the adrenal gland	DisGeNet	
+ANXA1	C0220756	Niemann-Pick disease, type C	DisGeNet	
+APP	C0220756	Niemann-Pick disease, type C	DisGeNet	
+GNAI2	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+POMC	C1857451	Acth-Independent Macronodular Adrenal Hyperplasia	DisGeNet	
+POMC	C0020507	Hyperplasia	DisGeNet	
+RLN3	C0020507	Hyperplasia	DisGeNet	
+SAA1	C0020507	Hyperplasia	DisGeNet	
+ANXA1	C0020676	Hypothyroidism	DisGeNet	
+APP	C0020676	Hypothyroidism	DisGeNet	
+POMC	C0020676	Hypothyroidism	HumPhenOnt	
+SAA1	C0020676	Hypothyroidism	HumPhenOnt	
+GNAI2	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+POMC	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+ANXA1	C0021368	Inflammation	DisGeNet	
+APP	C0021368	Inflammation	DisGeNet	
+CXCL6	C0021368	Inflammation	DisGeNet	
+POMC	C0021368	Inflammation	DisGeNet	
+SAA1	C0021368	Inflammation	DisGeNet	
+APP	C0014038	Encephalitis	DisGeNet	
+GABBR1	C0014038	Encephalitis	DisGeNet	
+POMC	C0014038	Encephalitis	DisGeNet	
+GNAI2	C0428977	Bradycardia	DisGeNet	
+POMC	C0428977	Bradycardia	DisGeNet	
+POMC	C0027497	Nausea	DisGeNet	
+SAA1	C0027497	Nausea	HumPhenOnt	
+APP	C0027540	Necrosis	DisGeNet	
+POMC	C0027540	Necrosis	DisGeNet	
+APP	C0041696	Unipolar Depression	DisGeNet	
+GABBR1	C0041696	Unipolar Depression	DisGeNet	
+GABBR2	C0041696	Unipolar Depression	DisGeNet	
+POMC	C0041696	Unipolar Depression	DisGeNet	
+APP	C0018553	Cowden syndrome 1	DisGeNet	
+POMC	C0018553	Cowden syndrome 1	DisGeNet	
+ANXA1	C0020538	Hypertension	DisGeNet	
+APP	C0020538	Hypertension	DisGeNet	
+GABBR1	C0020538	Hypertension	DisGeNet	
+GNAI2	C0020538	Hypertension	DisGeNet	
+POMC	C0020538	Hypertension	DisGeNet	
+PPBP	C0020538	Hypertension	DisGeNet	
+SAA1	C0020538	Hypertension	DisGeNet	
+APP	C0041671	Attention Deficit Disorder	DisGeNet	
+POMC	C0041671	Attention Deficit Disorder	DisGeNet	
+CCL23	C0006274	Bronchiolitis, Viral	DisGeNet	
+CXCL6	C0006274	Bronchiolitis, Viral	DisGeNet	
+PPBP	C0006274	Bronchiolitis, Viral	DisGeNet	
+APP	C0011389	Plaque, Atherosclerotic	DisGeNet	
+GNAI1	C0011389	Plaque, Atherosclerotic	DisGeNet	
+SAA1	C0011389	Plaque, Atherosclerotic	DisGeNet	
+GNAI1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+POMC	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+ANXA1	C2937358	Cerebral Hemorrhage	DisGeNet	
+APP	C2937358	Cerebral Hemorrhage	DisGeNet,HumPhenOnt	
+POMC	C2937358	Cerebral Hemorrhage	DisGeNet	
+ANXA1	C0022660	Acute kidney injury	DisGeNet	
+SAA1	C0022660	Acute kidney injury	HumPhenOnt	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+GABBR1	C0027796	Neuralgia	DisGeNet	
+POMC	C0027796	Neuralgia	DisGeNet	
+PMCH	C0518010	body mass	DisGeNet	
+POMC	C0518010	body mass	DisGeNet	
+POMC	C0343401	Methicillin resistant Staphylococcus aureus	DisGeNet	
+PPBP	C0343401	Methicillin resistant Staphylococcus aureus	DisGeNet	
+ANXA1	C0036341	Schizophrenia	DisGeNet	
+APP	C0036341	Schizophrenia	DisGeNet	
+GABBR1	C0036341	Schizophrenia	DisGeNet	
+GABBR2	C0036341	Schizophrenia	DisGeNet	
+GNAI2	C0036341	Schizophrenia	DisGeNet	
+GNB1	C0036341	Schizophrenia	DisGeNet	
+POMC	C0036341	Schizophrenia	DisGeNet	
+CCL23	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+CXCL6	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+PPBP	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+ANXA1	C0016667	Fragile X syndrome	DisGeNet	
+APP	C0016667	Fragile X syndrome	DisGeNet	
+GABBR1	C0028043	Nicotine Dependence	DisGeNet	
+GABBR2	C0028043	Nicotine Dependence	DisGeNet	
+POMC	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+SAA1	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+POMC	C0001623	Adrenal insufficiency	DisGeNet,HumPhenOnt	
+SAA1	C0001623	Adrenal insufficiency	HumPhenOnt	
+GABBR1	C0236736	Cocaine-Related Disorders	DisGeNet	
+POMC	C0236736	Cocaine-Related Disorders	DisGeNet	
+APP	C0524620	Metabolic Syndrome X	DisGeNet	
+GNAI2	C0524620	Metabolic Syndrome X	DisGeNet	
+GNAT3	C0524620	Metabolic Syndrome X	DisGeNet	
+POMC	C0524620	Metabolic Syndrome X	DisGeNet	
+POMC	C0162429	Malnutrition	DisGeNet	
+SAA1	C0162429	Malnutrition	HumPhenOnt	
+APP	C0241910	Hepatitis, Autoimmune	DisGeNet	
+POMC	C0241910	Hepatitis, Autoimmune	DisGeNet	
+APP	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+SAA1	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+POMC	C0020649	Hypotension	DisGeNet	
+SAA1	C0020649	Hypotension	HumPhenOnt	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ANXA1	C0020550	Hyperthyroidism	DisGeNet	
+APP	C0020550	Hyperthyroidism	DisGeNet	
+APP	C1270972	Mild cognitive impairment	DisGeNet	
+SAA1	C1270972	Mild cognitive impairment	DisGeNet	
+CXCL6	C0042487	Venous thrombosis	DisGeNet	
+SAA1	C0042487	Venous thrombosis	HumPhenOnt	
+POMC	C0014848	Achalasia	DisGeNet	
+POMC	C0220766	Congenital adrenal hypoplasia, X-linked	DisGeNet	
+POMC	C0346402	Malignant neoplasm of adrenal cortex	DisGeNet	
+APP	C1832200	Peroxisome biogenesis disorders	DisGeNet	
+ANXA1	C1848199	 Lissencephaly, X-linked 2, 300215 (3)	DisGeNet	
+APP	C0003469	Anxiety Disorders	DisGeNet	
+GNB1	C0003469	Anxiety Disorders	DisGeNet	
+POMC	C0003469	Anxiety Disorders	DisGeNet	
+POMC	C0015923	Fetal Alcohol Syndrome	DisGeNet	
+APP	C0031485	Phenylketonuria	DisGeNet	
+PPBP	C0032300	Lobar Pneumonia	DisGeNet	
+APP	C3827868	Tachycardia	DisGeNet	
+GNAI2	C3827868	Tachycardia	HumPhenOnt	
+POMC	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+GABBR2	C0020071	Hereditary Sensory Autonomic Neuropathy, Type 1	DisGeNet	
+ANXA1	C0036916	Sexually Transmitted Diseases	DisGeNet	
+SAA1	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+ANXA1	C0042164	Uveitis	DisGeNet	
+POMC	C0042164	Uveitis	DisGeNet	
+POMC	C0015814	Femur Head Necrosis	DisGeNet	
+POMC	C0553730	Chondrocalcinosis	DisGeNet	
+GNAI3	C1533124	Cupped ear	HumPhenOnt	
+ANXA1	C0022658	Kidney Diseases	DisGeNet	
+POMC	C0022658	Kidney Diseases	DisGeNet	
+SAA1	C0022658	Kidney Diseases	HumPhenOnt	
+SLC22A8	C0022658	Kidney Diseases	DisGeNet	
+POMC	C3714796	Isolated somatotropin deficiency	DisGeNet	
+APP	C0677932	Progressive Neoplastic Disease	DisGeNet	
+POMC	C0677932	Progressive Neoplastic Disease	DisGeNet	
+APP	C3539781	Progressive cGVHD	DisGeNet	
+POMC	C3539781	Progressive cGVHD	DisGeNet	
+POMC	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+SAA1	C4021794	Abnormality of the adrenal glands	HumPhenOnt	

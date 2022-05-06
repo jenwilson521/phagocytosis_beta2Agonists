@@ -1,0 +1,70 @@
+node_name	node_type	
+DB00750	drug	
+SCN5A	drug_target	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Cognition Disorders	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Impaired vibratory sensation	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Dysmetria	phenotype	
+Motor Neuron Disease	phenotype	
+Corneal Diseases	phenotype	
+Spastic	phenotype	
+Azorean disease	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Alcoholic Steatohepatitis	phenotype	
+Babinski sign	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Erythroblastosis	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Pointed chin	phenotype	
+Albuminuria	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Increased antibody level in blood	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Aural atresia, congenital	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Abnormality of circulating protein level	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Hereditary pancreatitis	phenotype	
+Spastic paraplegia 9	phenotype	
+Macular Degeneration	phenotype	
+Abnormality of circulating enzyme level	phenotype	
+Elevated serum creatine phosphokinase	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Erythema	phenotype	
+Abnormality of the nervous system	phenotype	
+Dementia familial British	phenotype	
+Amyloidosis	phenotype	
+Diabetes mellitus type 2	phenotype	
+Shock, Septic	phenotype	
+Sleep apnea	phenotype	
+Inclusion Body Myositis (disorder)	phenotype	
+Peripheral axonal neuropathy	phenotype	
+Hepatic steatosis	phenotype	
+Abnormal pyramidal signs	phenotype	
+Myoepithelioma	phenotype	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	phenotype	
+Left ventricular noncompaction	phenotype	
+Bulbous nose	phenotype	
+Steatohepatitis	phenotype	
+Palmar hyperkeratosis	phenotype	
+Complicated hereditary spastic paraplegia	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Limb-girdle muscular dystrophy, type 2L	phenotype	
+Oncocytoma, renal	phenotype	
+Neurodegenerative Diseases	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Onset	phenotype	
+Verrucae	phenotype	
+Chromophobe Renal Cell Carcinoma	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Other disorders of the nervous system	phenotype	

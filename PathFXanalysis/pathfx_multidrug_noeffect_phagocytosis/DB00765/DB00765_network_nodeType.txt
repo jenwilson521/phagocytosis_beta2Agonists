@@ -1,0 +1,169 @@
+node_name	node_type	
+DB00765	drug	
+TH	drug_target	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Alcohol dependence	phenotype	
+Alzheimer Disease	phenotype	
+As If Personality	phenotype	
+Asthma	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Autism 15	phenotype	
+Autoimmune disease 1	phenotype	
+Mental disorders	phenotype	
+Bipolar affective disorder	phenotype	
+Ptosis, hereditary congenital 1	phenotype	
+Borderline Personality Disorder	phenotype	
+Brain Diseases	phenotype	
+Cardiovascular Diseases	phenotype	
+Brain Ischemia	phenotype	
+Hypoplasia of dental enamel	phenotype	
+Depressive Disorder	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+DiGeorge sequence	phenotype	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Dystonia 2, torsion, autosomal recessive	phenotype	
+Epilepsy	phenotype	
+Abnormality of the eye	phenotype	
+Fanconi anemia	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Ganglioneuroma	phenotype	
+Heart Diseases	phenotype	
+Heart Failure	phenotype	
+Herpes Simplex Infections	phenotype	
+Von Hippel-Lindau syndrome	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Hypertension	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Insulin Resistance	phenotype	
+Learning Disorders	phenotype	
+Acute myelomonocytic leukemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Azorean disease	phenotype	
+Malabsorption	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Multiple Endocrine Neoplasia Type 2a	phenotype	
+Abnormality of movement	phenotype	
+Multiple Sclerosis	phenotype	
+Hypotonia, infantile, with psychomotor retardation	phenotype	
+Rigidity	phenotype	
+Myocardial Infarction	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Other disorders of the nervous system	phenotype	
+Neuromuscular Diseases	phenotype	
+Nicotine Dependence	phenotype	
+Nodule	phenotype	
+Obesity	phenotype	
+Parkinson Disease	phenotype	
+Phenylketonuria	phenotype	
+Pheochromocytoma	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Prolactinoma, familial	phenotype	
+Prostatic Neoplasms	phenotype	
+Psychotic Disorders	phenotype	
+Rett syndrome, congenital variant	phenotype	
+Schizophrenia	phenotype	
+Paranoid Schizophrenia	phenotype	
+Spastic paraplegia 9	phenotype	
+Stomach Neoplasms	phenotype	
+Stroke	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Progressive supranuclear ophthalmoplegia	phenotype	
+C-like syndrome	phenotype	
+Tobacco Use Disorder	phenotype	
+Tourette Syndrome	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Uremia	phenotype	
+Virus Diseases	phenotype	
+Vitiligo	phenotype	
+Increased body weight	phenotype	
+WFS1-Related Disorders	phenotype	
+Essential hypertension	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	phenotype	
+Migraine Disorders	phenotype	
+Abnormal CSF metabolite level	phenotype	
+Malnutrition	phenotype	
+Onset	phenotype	
+Embryonal rhabdomyosarcoma	phenotype	
+Ganglioneuroblastoma	phenotype	
+Shprintzen syndrome	phenotype	
+Chronic schizophrenia	phenotype	
+Abnormality of extrapyramidal motor function	phenotype	
+Delayed speech and language development	phenotype	
+Parkinsonism	phenotype	
+Neoplasm, Residual	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+High altitude pulmonary edema	phenotype	
+Malignant tumor of prostate	phenotype	
+Dystonia Disorders	phenotype	
+Hyperactivity	phenotype	
+Mask-like facies	phenotype	
+Involuntary movements	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+body mass	phenotype	
+Motor delay	phenotype	
+Metabolic Syndrome X	phenotype	
+Mood Disorders	phenotype	
+Ewing's sarcoma	phenotype	
+Gait disturbance	phenotype	
+Prostate carcinoma	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Stomach cancer	phenotype	
+Neuroblastoma	phenotype	
+Dissecting aneurysm of the thoracic aorta	phenotype	
+Infarction, Middle Cerebral Artery	phenotype	
+Gait ataxia	phenotype	
+Lewy Body Disease	phenotype	
+Abnormal muscle tone	phenotype	
+Abnormality of head or neck	phenotype	
+Disseminated neuroblastoma	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Mild cognitive impairment	phenotype	
+Blood pressure finding	phenotype	
+Systemic arterial pressure	phenotype	
+Phenotypic variability	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+Variable expressivity	phenotype	
+Decreased facial expression	phenotype	
+Abnormality of the cerebellum	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Hepatocellular carcinoma	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Weight Gain Adverse Event	phenotype	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Abnormality of brain morphology	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of the musculature	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of the head	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of coordination	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of the metencephalon	phenotype	
+Abnormal facial expression	phenotype	
+Diminished movement	phenotype	
+Abnormality of the face	phenotype	

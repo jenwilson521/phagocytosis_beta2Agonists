@@ -1,0 +1,60 @@
+Gene	CUI	Phenotype	Source Databases	
+AKR1C3	C1691215	Penile hypospadias	DisGeNet	
+HSD3B1	C1691215	Penile hypospadias	DisGeNet	
+AKR1C3	C0008497	Choriocarcinoma	DisGeNet	
+HSD17B1	C0008497	Choriocarcinoma	DisGeNet	
+HSD3B1	C0008497	Choriocarcinoma	DisGeNet	
+HSD17B1	C1268717	Mammographic breast density	DisGeNet	
+HSD3B1	C1268717	Mammographic breast density	DisGeNet	
+AKR1C3	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+HSD17B1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+HSD3B1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+AKR1C3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+HSD17B1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+HSD3B1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+AKR1C3	C0014175	Endometriosis	DisGeNet	
+HSD17B1	C0014175	Endometriosis	DisGeNet	
+HSD3B1	C0014175	Endometriosis	DisGeNet	
+AKR1C3	C0005699	Blast Phase	DisGeNet	
+RBP2	C0005699	Blast Phase	DisGeNet	
+AKR1C3	C0036875	Disorders of Sex Development	DisGeNet	
+AKR1C3	C0029928	Ovarian Diseases	DisGeNet	
+HSD17B1	C0029928	Ovarian Diseases	DisGeNet	
+AKR1C3	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+HSD17B1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+HSD3B1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+AKR1C3	C0014170	Endometrial Neoplasms	DisGeNet	
+HSD17B1	C0014170	Endometrial Neoplasms	DisGeNet	
+AKR1C3	C0156344	Endometriosis of ovary	DisGeNet	
+AKR1C3	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+AKR1C3	C0242379	Malignant neoplasm of lung	DisGeNet	
+HSD17B1	C0242379	Malignant neoplasm of lung	DisGeNet	
+HSD3B1	C0242379	Malignant neoplasm of lung	DisGeNet	
+RBP2	C0242379	Malignant neoplasm of lung	DisGeNet	
+HSD3B1	C0042755	Virilism	DisGeNet	
+HSD17B1	C0677776	Hereditary breast and ovarian cancer syndrome	DisGeNet	
+HSD17B1	C0006145	Other specified disorders of breast	DisGeNet	
+AKR1C3	C1332977	Childhood Leukemia	DisGeNet	
+AKR1C3	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+HSD3B1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+HSD17B1	C0016034	Breast Fibrocystic Disease	DisGeNet	
+HSD17B1	C0027658	Neoplasms, Germ Cell and Embryonal	DisGeNet	
+AKR1C3	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+AKR1C3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HSD17B1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HSD3B1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HSD3B1	C0041948	Uremia	DisGeNet	
+HSD3B1	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+AKR1C3	C1868649	Panic disorder 1	DisGeNet	
+AKR1C3	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+HSD17B1	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+AKR1C3	C0153574	Uterine Corpus Cancer	DisGeNet	
+HSD17B1	C0153574	Uterine Corpus Cancer	DisGeNet	
+AKR1C3	C0206667	Adrenocortical adenoma	DisGeNet	
+HSD3B1	C0266362	Ambiguous genitalia	DisGeNet	
+HSD3B1	C0518010	body mass	DisGeNet	
+AKR1C3	C0033578	Prostatic Neoplasms	DisGeNet	
+HSD17B1	C0033578	Prostatic Neoplasms	DisGeNet	
+HSD3B1	C0033578	Prostatic Neoplasms	DisGeNet	
+HSD17B1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+AKR1C3	C0030319	Panic disorder syndrome 1 (2)	DisGeNet	

@@ -1,0 +1,21 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+PTGS1	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0038354	Stomach Diseases	DisGeNet	
+CYP2C9	C0038354	Stomach Diseases	DisGeNet	
+PTGS1	C0038354	Stomach Diseases	DisGeNet	
+ABCB1	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C9	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+ABCB1	C0079487	Helicobacter Infections	DisGeNet	
+CYP2C19	C0079487	Helicobacter Infections	DisGeNet	
+CYP2C9	C0079487	Helicobacter Infections	DisGeNet	
+PTGS1	C0079487	Helicobacter Infections	DisGeNet	

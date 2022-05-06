@@ -1,0 +1,827 @@
+Gene	CUI	Phenotype	Source Databases	
+GSTM1	C0028797	Occupational Diseases	DisGeNet	
+GSTP1	C0028797	Occupational Diseases	DisGeNet	
+GSTT1	C0028797	Occupational Diseases	DisGeNet	
+MPO	C0028797	Occupational Diseases	DisGeNet	
+NQO1	C0028797	Occupational Diseases	DisGeNet	
+SOD1	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+GSTM1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+GSTP1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+GSTT1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+NQO1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+GSTM1	C0003949	Asbestosis	DisGeNet	
+GSTP1	C0003949	Asbestosis	DisGeNet	
+GSTT1	C0003949	Asbestosis	DisGeNet	
+MPO	C0003949	Asbestosis	DisGeNet	
+GSTM1	C0011609	Drug Eruptions	DisGeNet	
+GSTP1	C0011609	Drug Eruptions	DisGeNet	
+GSTT1	C0011609	Drug Eruptions	DisGeNet	
+MPO	C0011609	Drug Eruptions	DisGeNet	
+GSTM1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTP1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTT1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+MPO	C0031347	Pharyngeal Neoplasms	DisGeNet	
+NQO1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ATP7A	C0019189	Chronic hepatitis	DisGeNet	
+CCS	C0019189	Chronic hepatitis	DisGeNet	
+GSTM1	C0019189	Chronic hepatitis	DisGeNet	
+GSTP1	C0019189	Chronic hepatitis	DisGeNet	
+GSTT1	C0019189	Chronic hepatitis	DisGeNet	
+MT1A	C0019189	Chronic hepatitis	DisGeNet	
+SOD1	C0019189	Chronic hepatitis	DisGeNet	
+GSTM1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+GSTP1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+GSTT1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+SOD1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+ABCC2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+GSTM1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+MPO	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ATP7B	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTM1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTP1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTT1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+MPO	C0026640	Neoplasm of the oral cavity	DisGeNet	
+MT1A	C0026640	Neoplasm of the oral cavity	DisGeNet	
+NQO1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTM1	C0038354	Stomach Diseases	DisGeNet	
+GSTP1	C0038354	Stomach Diseases	DisGeNet	
+GSTT1	C0038354	Stomach Diseases	DisGeNet	
+MPO	C0038354	Stomach Diseases	DisGeNet	
+ABCG2	C0018772	Hearing Loss, Partial	DisGeNet	
+GSTM1	C0018772	Hearing Loss, Partial	DisGeNet	
+GSTP1	C0018772	Hearing Loss, Partial	DisGeNet	
+GSTT1	C0018772	Hearing Loss, Partial	DisGeNet	
+SOD1	C0018772	Hearing Loss, Partial	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+GSTM1	C0036646	Age-related cataract	DisGeNet	
+GSTP1	C0036646	Age-related cataract	DisGeNet	
+GSTT1	C0036646	Age-related cataract	DisGeNet	
+SOD1	C0036646	Age-related cataract	DisGeNet	
+GSTM1	C0012860	DNA Damage	DisGeNet	
+GSTP1	C0012860	DNA Damage	DisGeNet	
+GSTT1	C0012860	DNA Damage	DisGeNet	
+MPO	C0012860	DNA Damage	DisGeNet	
+NQO1	C0012860	DNA Damage	DisGeNet	
+GSTM1	C0950124	Papillomavirus Infections	DisGeNet	
+GSTP1	C0950124	Papillomavirus Infections	DisGeNet	
+GSTT1	C0950124	Papillomavirus Infections	DisGeNet	
+NQO1	C0950124	Papillomavirus Infections	DisGeNet	
+GSTM1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+GSTP1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+GSTT1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+NQO1	C0033054	Prenatal Exposure Delayed Effects	DisGeNet	
+ABCG2	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GSTM1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GSTP1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GSTT1	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+MPO	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+GSTM1	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTP1	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTT1	C0023055	Neoplasm of the larynx	DisGeNet	
+MPO	C0023055	Neoplasm of the larynx	DisGeNet	
+NQO1	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTM1	C0041107	Trisomy	DisGeNet	
+GSTP1	C0041107	Trisomy	DisGeNet	
+GSTT1	C0041107	Trisomy	DisGeNet	
+MPO	C0041107	Trisomy	DisGeNet	
+NQO1	C0041107	Trisomy	DisGeNet	
+SOD1	C0041107	Trisomy	DisGeNet	
+GSTM1	C0035242	Respiratory Tract Diseases	DisGeNet	
+GSTP1	C0035242	Respiratory Tract Diseases	DisGeNet	
+GSTT1	C0035242	Respiratory Tract Diseases	DisGeNet	
+MPO	C0035242	Respiratory Tract Diseases	DisGeNet	
+GSTM1	C0079487	Helicobacter Infections	DisGeNet	
+GSTP1	C0079487	Helicobacter Infections	DisGeNet	
+GSTT1	C0079487	Helicobacter Infections	DisGeNet	
+MPO	C0079487	Helicobacter Infections	DisGeNet	
+NQO1	C0079487	Helicobacter Infections	DisGeNet	
+ATP7A	C0019202	Wilson disease	DisGeNet	
+ATP7B	C0019202	Wilson disease	ClinVar,DisGeNet	
+CCS	C0019202	Wilson disease	DisGeNet	
+SLC31A1	C0019202	Wilson disease	DisGeNet	
+GSTM1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTP1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTT1	C1827377	Slow acetylator due to N-acetyltransferase enzyme variant	DisGeNet	
+GSTM1	C1332977	Childhood Leukemia	DisGeNet	
+GSTP1	C1332977	Childhood Leukemia	DisGeNet	
+GSTT1	C1332977	Childhood Leukemia	DisGeNet	
+NQO1	C1332977	Childhood Leukemia	DisGeNet	
+GSTM1	C0033817	Pseudomonas Infections	DisGeNet	
+GSTP1	C0033817	Pseudomonas Infections	DisGeNet	
+GSTT1	C0033817	Pseudomonas Infections	DisGeNet	
+ABCC2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCG2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTM1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTP1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTT1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+SOD1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTM1	C0686347	Tardive Dyskinesia	DisGeNet	
+GSTT1	C0686347	Tardive Dyskinesia	DisGeNet	
+NQO1	C0686347	Tardive Dyskinesia	DisGeNet	
+SOD1	C0686347	Tardive Dyskinesia	DisGeNet	
+GSTM1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+GSTP1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+GSTT1	C0153405	Malignant neoplasm of pharynx	DisGeNet	
+GSTM1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+GSTP1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+GSTT1	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+MPO	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+GSTM1	C0040715	Chromosomal translocation	DisGeNet	
+GSTP1	C0040715	Chromosomal translocation	DisGeNet	
+GSTT1	C0040715	Chromosomal translocation	DisGeNet	
+ABCG2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+GSTM1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+GSTP1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+GSTM1	C0006277	Bronchitis	DisGeNet	
+GSTP1	C0006277	Bronchitis	DisGeNet	
+GSTT1	C0006277	Bronchitis	DisGeNet	
+MPO	C0006277	Bronchitis	DisGeNet	
+GSTM1	C0311375	Arsenic Poisoning	DisGeNet	
+GSTP1	C0311375	Arsenic Poisoning	DisGeNet	
+GSTT1	C0311375	Arsenic Poisoning	DisGeNet	
+MT1A	C0311375	Arsenic Poisoning	DisGeNet	
+GSTM1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+GSTP1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+GSTT1	C0007107	Malignant neoplasm of larynx	DisGeNet	
+MPO	C0007107	Malignant neoplasm of larynx	DisGeNet	
+MT2A	C0007107	Malignant neoplasm of larynx	DisGeNet	
+ABCC2	C0023892	Biliary cirrhosis	DisGeNet	
+ABCG2	C0023892	Biliary cirrhosis	DisGeNet	
+GSTM1	C0023892	Biliary cirrhosis	DisGeNet	
+GSTP1	C0023892	Biliary cirrhosis	DisGeNet	
+GSTT1	C0023892	Biliary cirrhosis	DisGeNet	
+GSTM1	C0152115	Orofacial dyskinesia	DisGeNet	
+GSTT1	C0152115	Orofacial dyskinesia	DisGeNet	
+NQO1	C0152115	Orofacial dyskinesia	DisGeNet	
+SOD1	C0152115	Orofacial dyskinesia	DisGeNet	
+ATP7A	C0085084	Motor Neuron Disease	DisGeNet	
+GSTM1	C0085084	Motor Neuron Disease	DisGeNet	
+GSTP1	C0085084	Motor Neuron Disease	DisGeNet	
+GSTT1	C0085084	Motor Neuron Disease	DisGeNet	
+SOD1	C0085084	Motor Neuron Disease	DisGeNet	
+GSTM1	C0008677	Bronchitis, Chronic	DisGeNet	
+GSTP1	C0008677	Bronchitis, Chronic	DisGeNet	
+GSTT1	C0008677	Bronchitis, Chronic	DisGeNet	
+MPO	C0008677	Bronchitis, Chronic	DisGeNet	
+GSTM1	C0035228	Respiratory Hypersensitivity	DisGeNet	
+GSTP1	C0035228	Respiratory Hypersensitivity	DisGeNet	
+GSTT1	C0035228	Respiratory Hypersensitivity	DisGeNet	
+GSTM1	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+GSTP1	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+GSTT1	C0268138	Xeroderma Pigmentosum, Complementation Group D	DisGeNet	
+ABCC2	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet,HumPhenOnt	
+ABCG2	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+ATP7A	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+ATP7B	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+GSTM1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+GSTP1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+NQO1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+ATP7A	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+GSTM1	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+GSTP1	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+GSTT1	C0013720	Ehlers-Danlos syndrome, type vii, autosomal recessive	DisGeNet	
+GSTM1	C1332153	Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	DisGeNet	
+GSTT1	C1332153	Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	DisGeNet	
+NQO1	C1332153	Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome	DisGeNet	
+GSTM1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+GSTP1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+GSTT1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+NQO1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+SOD1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+GSTM1	C0854912	Germinoma	DisGeNet	
+GSTP1	C0854912	Germinoma	DisGeNet	
+GSTT1	C0854912	Germinoma	DisGeNet	
+ATP7A	C0005695	Urinary Bladder Neoplasms	HumPhenOnt	
+GSTM1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+GSTP1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+GSTT1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+MPO	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+MT1A	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+MT2A	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+NQO1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+GSTM1	C0025568	Metaplasia	DisGeNet	
+GSTP1	C0025568	Metaplasia	DisGeNet	
+GSTT1	C0025568	Metaplasia	DisGeNet	
+NQO1	C0025568	Metaplasia	DisGeNet	
+GSTM1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTP1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTT1	C0008625	Chromosome Aberrations	DisGeNet	
+NQO1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTM1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+GSTP1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+GSTT1	C0035457	Rhinitis, Allergic, Perennial	DisGeNet	
+GSTM1	C0151514	Dermal atrophy	DisGeNet	
+GSTP1	C0151514	Dermal atrophy	DisGeNet	
+GSTT1	C0151514	Dermal atrophy	DisGeNet	
+MPO	C0151514	Dermal atrophy	DisGeNet	
+NQO1	C0151514	Dermal atrophy	DisGeNet	
+SOD1	C0151514	Dermal atrophy	DisGeNet	
+GSTM1	C0004763	Barrett Esophagus	DisGeNet	
+GSTP1	C0004763	Barrett Esophagus	DisGeNet	
+GSTT1	C0004763	Barrett Esophagus	DisGeNet	
+NQO1	C0004763	Barrett Esophagus	DisGeNet	
+SOD1	C0004763	Barrett Esophagus	DisGeNet	
+GSTM1	C0042900	Vitiligo	DisGeNet	
+GSTP1	C0042900	Vitiligo	DisGeNet	
+GSTT1	C0042900	Vitiligo	DisGeNet	
+MPO	C0042900	Vitiligo	DisGeNet	
+NQO1	C0042900	Vitiligo	DisGeNet	
+SOD1	C0042900	Vitiligo	DisGeNet	
+GSTM1	C0001857	AIDS related complex	DisGeNet	
+GSTP1	C0001857	AIDS related complex	DisGeNet	
+GSTT1	C0001857	AIDS related complex	DisGeNet	
+GSTM1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+GSTP1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+GSTT1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+NQO1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+SOD1	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+GSTM1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+GSTP1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+GSTT1	C0376670	Pancreatitis, Alcoholic	DisGeNet	
+GSTM1	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+GSTP1	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+GSTT1	C0677659	Gastro-esophageal reflux disease with esophagitis	DisGeNet	
+ABCG2	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+GSTM1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+GSTT1	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+MPO	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+ABCG2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+GSTM1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+GSTP1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+GSTT1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+SOD1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+ABCC2	C1302401	Adenoma of large intestine	DisGeNet	
+ABCG2	C1302401	Adenoma of large intestine	DisGeNet	
+GSTM1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTP1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTT1	C1302401	Adenoma of large intestine	DisGeNet	
+NQO1	C1302401	Adenoma of large intestine	DisGeNet	
+GSTM1	C0206368	Exfoliation Syndrome	DisGeNet	
+GSTP1	C0206368	Exfoliation Syndrome	DisGeNet	
+GSTT1	C0206368	Exfoliation Syndrome	DisGeNet	
+ABCC2	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+ABCG2	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GSTM1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GSTP1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GSTT1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MPO	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+NQO1	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+GSTM1	C0028840	Ocular Hypertension	DisGeNet	
+GSTT1	C0028840	Ocular Hypertension	DisGeNet	
+SOD1	C0028840	Ocular Hypertension	DisGeNet	
+GSTM1	C0018781	Noise-induced hearing loss	DisGeNet	
+GSTP1	C0018781	Noise-induced hearing loss	DisGeNet	
+GSTT1	C0018781	Noise-induced hearing loss	DisGeNet	
+GSTM1	C0042341	Varicocele	DisGeNet	
+GSTT1	C0042341	Varicocele	DisGeNet	
+NQO1	C0042341	Varicocele	DisGeNet	
+ABCG2	C0162739	HELLP Syndrome	DisGeNet	
+GSTM1	C0162739	HELLP Syndrome	DisGeNet	
+GSTT1	C0162739	HELLP Syndrome	DisGeNet	
+ABCG2	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+GSTM1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+GSTP1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+GSTT1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+MPO	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+NQO1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+GSTM1	C0030305	Pancreatitis	DisGeNet	
+GSTP1	C0030305	Pancreatitis	DisGeNet	
+GSTT1	C0030305	Pancreatitis	DisGeNet	
+MPO	C0030305	Pancreatitis	DisGeNet	
+SOD1	C0030305	Pancreatitis	DisGeNet	
+XDH	C0030305	Pancreatitis	DisGeNet	
+GSTM1	C0005956	Myelopathy	DisGeNet	
+GSTP1	C0005956	Myelopathy	DisGeNet	
+GSTT1	C0005956	Myelopathy	DisGeNet	
+GSTM1	C0014850	Esophageal atresia	DisGeNet	
+GSTP1	C0014850	Esophageal atresia	DisGeNet	
+GSTT1	C0014850	Esophageal atresia	DisGeNet	
+GSTP1	C0022650	Kidney Calculi	DisGeNet	
+SOD1	C0022650	Kidney Calculi	DisGeNet	
+XDH	C0022650	Kidney Calculi	DisGeNet	
+GSTM1	C0595989	Laryngeal carcinoma	DisGeNet	
+GSTP1	C0595989	Laryngeal carcinoma	DisGeNet	
+GSTT1	C0595989	Laryngeal carcinoma	DisGeNet	
+MPO	C0595989	Laryngeal carcinoma	DisGeNet	
+MT2A	C0595989	Laryngeal carcinoma	DisGeNet	
+GSTM1	C0264408	Childhood asthma	DisGeNet	
+GSTP1	C0264408	Childhood asthma	DisGeNet	
+GSTT1	C0264408	Childhood asthma	DisGeNet	
+NQO1	C0264408	Childhood asthma	DisGeNet	
+GSTM1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTP1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTT1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+GSTM1	C0016978	Neoplasm of the gallbladder	DisGeNet	
+GSTP1	C0016978	Neoplasm of the gallbladder	DisGeNet	
+GSTT1	C0016978	Neoplasm of the gallbladder	DisGeNet	
+GSTM1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTP1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTT1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTM1	C0577631	Carotid Atherosclerosis	DisGeNet	
+GSTP1	C0577631	Carotid Atherosclerosis	DisGeNet	
+GSTT1	C0577631	Carotid Atherosclerosis	DisGeNet	
+MPO	C0577631	Carotid Atherosclerosis	DisGeNet	
+GSTM1	C0014869	Peptic Esophagitis	DisGeNet	
+GSTP1	C0014869	Peptic Esophagitis	DisGeNet	
+GSTT1	C0014869	Peptic Esophagitis	DisGeNet	
+GSTM1	C0023531	Leukoplakia	DisGeNet	
+GSTP1	C0023531	Leukoplakia	DisGeNet	
+GSTT1	C0023531	Leukoplakia	DisGeNet	
+GSTM1	C0848332	Spots on skin	DisGeNet	
+GSTT1	C0848332	Spots on skin	DisGeNet	
+MPO	C0848332	Spots on skin	DisGeNet	
+NQO1	C0848332	Spots on skin	DisGeNet	
+SOD1	C0848332	Spots on skin	DisGeNet	
+ATP7A	C0042076	Urinary tract neoplasm	HumPhenOnt	
+GSTM1	C0042076	Urinary tract neoplasm	DisGeNet	
+GSTP1	C0042076	Urinary tract neoplasm	DisGeNet	
+GSTT1	C0042076	Urinary tract neoplasm	DisGeNet	
+GSTM1	C0017154	Chronic atrophic gastritis	DisGeNet	
+GSTP1	C0017154	Chronic atrophic gastritis	DisGeNet	
+GSTT1	C0017154	Chronic atrophic gastritis	DisGeNet	
+MPO	C0017154	Chronic atrophic gastritis	DisGeNet	
+GSTM1	C0004779	Gorlin syndrome	DisGeNet	
+GSTP1	C0004779	Gorlin syndrome	DisGeNet	
+GSTT1	C0004779	Gorlin syndrome	DisGeNet	
+ABCC2	C0023895	Liver Diseases	DisGeNet	
+ATP7B	C0023895	Liver Diseases	DisGeNet	
+GSTM1	C0023895	Liver Diseases	DisGeNet	
+GSTP1	C0023895	Liver Diseases	DisGeNet	
+GSTT1	C0023895	Liver Diseases	DisGeNet	
+MPO	C0023895	Liver Diseases	DisGeNet	
+NQO1	C0023895	Liver Diseases	DisGeNet	
+SOD1	C0023895	Liver Diseases	DisGeNet	
+GSTM1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTP1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTT1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTM1	C0013395	Dyspepsia	DisGeNet	
+GSTP1	C0013395	Dyspepsia	DisGeNet	
+GSTT1	C0013395	Dyspepsia	DisGeNet	
+GSTP1	C0027540	Necrosis	DisGeNet	
+SLC31A1	C0027540	Necrosis	DisGeNet	
+SOD1	C0027540	Necrosis	DisGeNet	
+ABCG2	C0014474	Ependymoma	DisGeNet	
+GSTM1	C0014474	Ependymoma	DisGeNet	
+GSTP1	C0014474	Ependymoma	DisGeNet	
+GSTT1	C0014474	Ependymoma	DisGeNet	
+GSTM1	C0030920	Peptic ulcer	DisGeNet	
+GSTP1	C0030920	Peptic ulcer	DisGeNet	
+GSTT1	C0030920	Peptic ulcer	DisGeNet	
+MPO	C0030920	Peptic ulcer	DisGeNet	
+ABCC2	C0027765	Other disorders of the nervous system	DisGeNet	
+ABCG2	C0027765	Other disorders of the nervous system	DisGeNet	
+ATP7B	C0027765	Other disorders of the nervous system	DisGeNet	
+GSTM1	C0027765	Other disorders of the nervous system	DisGeNet	
+GSTP1	C0027765	Other disorders of the nervous system	DisGeNet	
+GSTT1	C0027765	Other disorders of the nervous system	DisGeNet	
+SOD1	C0027765	Other disorders of the nervous system	DisGeNet	
+ABCG2	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTM1	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTP1	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTT1	C0018671	Head and Neck Neoplasms	DisGeNet	
+MPO	C0018671	Head and Neck Neoplasms	DisGeNet	
+NQO1	C0018671	Head and Neck Neoplasms	DisGeNet	
+ATP7A	C0007114	Skin cancer	DisGeNet	
+GSTM1	C0007114	Skin cancer	DisGeNet	
+GSTT1	C0007114	Skin cancer	DisGeNet	
+MPO	C0007114	Skin cancer	DisGeNet	
+NQO1	C0007114	Skin cancer	DisGeNet	
+ABCC2	C0032962	Pregnancy Complications	DisGeNet	
+GSTM1	C0032962	Pregnancy Complications	DisGeNet	
+GSTT1	C0032962	Pregnancy Complications	DisGeNet	
+NQO1	C0032962	Pregnancy Complications	DisGeNet	
+GSTM1	C0040137	Thyroid Nodule	DisGeNet	
+GSTP1	C0040137	Thyroid Nodule	DisGeNet	
+GSTT1	C0040137	Thyroid Nodule	DisGeNet	
+ATP7B	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+GSTP1	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+MPO	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+ABCC2	C0149925	Small cell lung cancer	DisGeNet	
+ABCG2	C0149925	Small cell lung cancer	DisGeNet	
+ATP7A	C0149925	Small cell lung cancer	DisGeNet	
+GSTM1	C0149925	Small cell lung cancer	DisGeNet	
+GSTP1	C0149925	Small cell lung cancer	DisGeNet	
+GSTT1	C0149925	Small cell lung cancer	DisGeNet	
+MPO	C0149925	Small cell lung cancer	DisGeNet	
+NQO1	C0149925	Small cell lung cancer	DisGeNet	
+ATP7A	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+ATP7B	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+GSTP1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+SLC31A1	C0023904	Liver Neoplasms, Experimental	DisGeNet	
+GSTM1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+GSTP1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+NQO1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+ABCG2	C0162309	Adrenoleukodystrophy	DisGeNet	
+GSTM1	C0162309	Adrenoleukodystrophy	DisGeNet	
+GSTP1	C0162309	Adrenoleukodystrophy	DisGeNet	
+GSTT1	C0162309	Adrenoleukodystrophy	DisGeNet	
+GSTM1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+GSTP1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+GSTT1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+MPO	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+NQO1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+GSTM1	C0018939	Hematological Disease	DisGeNet	
+GSTP1	C0018939	Hematological Disease	DisGeNet	
+GSTT1	C0018939	Hematological Disease	DisGeNet	
+MPO	C0018939	Hematological Disease	DisGeNet	
+ABCG2	C0015230	Exanthema	DisGeNet	
+GSTM1	C0015230	Exanthema	DisGeNet	
+GSTT1	C0015230	Exanthema	DisGeNet	
+MPO	C0015230	Exanthema	DisGeNet	
+NQO1	C0015230	Exanthema	DisGeNet	
+SOD1	C0015230	Exanthema	DisGeNet	
+GSTM1	C0242488	Acute Lung Injury	DisGeNet	
+GSTP1	C0242488	Acute Lung Injury	DisGeNet	
+GSTT1	C0242488	Acute Lung Injury	DisGeNet	
+ABCG2	C0006118	Brain neoplasm	DisGeNet	
+GSTM1	C0006118	Brain neoplasm	DisGeNet	
+GSTP1	C0006118	Brain neoplasm	DisGeNet	
+GSTT1	C0006118	Brain neoplasm	DisGeNet	
+MPO	C0006118	Brain neoplasm	DisGeNet	
+NQO1	C0006118	Brain neoplasm	DisGeNet	
+SOD1	C0006118	Brain neoplasm	DisGeNet	
+XDH	C0006118	Brain neoplasm	DisGeNet	
+GSTM1	C0015397	orbit (eye disorders)	DisGeNet	
+GSTP1	C0015397	orbit (eye disorders)	DisGeNet	
+GSTT1	C0015397	orbit (eye disorders)	DisGeNet	
+MPO	C0015397	orbit (eye disorders)	DisGeNet	
+GSTM1	C0027666	Neoplasms, Radiation-Induced	DisGeNet	
+GSTT1	C0027666	Neoplasms, Radiation-Induced	DisGeNet	
+ABCC2	C0019159	Hepatitis	DisGeNet	
+ABCG2	C0019159	Hepatitis	DisGeNet	
+ATP7B	C0019159	Hepatitis	DisGeNet,HumPhenOnt	
+GSTM1	C0019159	Hepatitis	DisGeNet	
+GSTP1	C0019159	Hepatitis	DisGeNet	
+GSTT1	C0019159	Hepatitis	DisGeNet	
+ATP7A	C0015934	Intrauterine growth retardation	HumPhenOnt	
+GSTM1	C0015934	Intrauterine growth retardation	DisGeNet	
+GSTP1	C0015934	Intrauterine growth retardation	DisGeNet	
+GSTT1	C0015934	Intrauterine growth retardation	DisGeNet	
+NQO1	C0015934	Intrauterine growth retardation	DisGeNet	
+SOD1	C0015934	Intrauterine growth retardation	DisGeNet	
+GSTM1	C0023532	Oral leukoplakia	DisGeNet	
+GSTP1	C0023532	Oral leukoplakia	DisGeNet	
+GSTT1	C0023532	Oral leukoplakia	DisGeNet	
+GSTM1	C0032787	Postoperative Complications	DisGeNet	
+GSTP1	C0032787	Postoperative Complications	DisGeNet	
+GSTT1	C0032787	Postoperative Complications	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+ABCG2	C0027947	Neutropenia	DisGeNet	
+GSTM1	C0027947	Neutropenia	DisGeNet	
+GSTP1	C0027947	Neutropenia	DisGeNet	
+GSTT1	C0027947	Neutropenia	DisGeNet	
+GSTM1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+GSTT1	C0027663	Neoplasms, Multiple Primary	DisGeNet	
+ABCG2	C0032229	Pleural Neoplasms	DisGeNet	
+GSTM1	C0032229	Pleural Neoplasms	DisGeNet	
+GSTM1	C0037090	Signs and Symptoms, Respiratory	DisGeNet	
+GSTP1	C0037090	Signs and Symptoms, Respiratory	DisGeNet	
+GSTM1	C0028960	Oligospermia	DisGeNet	
+GSTP1	C0028960	Oligospermia	DisGeNet	
+GSTT1	C0028960	Oligospermia	DisGeNet	
+SOD1	C0028960	Oligospermia	DisGeNet	
+GSTM1	C0085695	Chronic gastritis	DisGeNet	
+GSTP1	C0085695	Chronic gastritis	DisGeNet	
+GSTT1	C0085695	Chronic gastritis	DisGeNet	
+ABCG2	C0023470	Myeloid leukemia	DisGeNet	
+GSTM1	C0023470	Myeloid leukemia	DisGeNet	
+GSTP1	C0023470	Myeloid leukemia	DisGeNet	
+GSTT1	C0023470	Myeloid leukemia	DisGeNet	
+MPO	C0023470	Myeloid leukemia	DisGeNet	
+NQO1	C0023470	Myeloid leukemia	DisGeNet	
+SOD1	C0023470	Myeloid leukemia	DisGeNet	
+ABCG2	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+GSTP1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+GSTT1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+NQO1	C0153633	Malignant neoplasm of brain and nervous system	DisGeNet	
+GSTM1	C0035220	Neonatal respiratory distress	DisGeNet	
+GSTP1	C0035220	Neonatal respiratory distress	DisGeNet	
+GSTT1	C0035220	Neonatal respiratory distress	DisGeNet	
+ABCG2	C0220621	pediatric acute myeloblastic leukemia	DisGeNet	
+GSTM1	C0220621	pediatric acute myeloblastic leukemia	DisGeNet	
+MPO	C0220621	pediatric acute myeloblastic leukemia	DisGeNet	
+GSTM1	C0007868	Cervical dysplasia	DisGeNet	
+GSTT1	C0007868	Cervical dysplasia	DisGeNet	
+ABCC2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ABCG2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ATP7A	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ATP7B	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+GSTM1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+GSTP1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+GSTT1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+MPO	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+MT2A	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NQO1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SLC31A1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SLC31A2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SOD1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+XDH	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+GSTM1	C0013182	Drug Allergy	DisGeNet	
+GSTP1	C0013182	Drug Allergy	DisGeNet	
+ATP7A	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	HumPhenOnt	
+GSTM1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSTP1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSTT1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+NQO1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ABCC2	C0740457	Malignant neoplasm of kidney	DisGeNet	
+ABCG2	C0740457	Malignant neoplasm of kidney	DisGeNet	
+GSTM1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+GSTP1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+GSTT1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+NQO1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+GSTM1	C0035204	Respiration Disorders	DisGeNet	
+GSTP1	C0035204	Respiration Disorders	DisGeNet	
+GSTT1	C0035204	Respiration Disorders	DisGeNet	
+ATP7A	C0020672	Hypothermia	HumPhenOnt	
+SOD1	C0020672	Hypothermia	DisGeNet	
+ATP7A	C0553730	Chondrocalcinosis	HumPhenOnt	
+ATP7B	C0553730	Chondrocalcinosis	HumPhenOnt	
+GSTM1	C1962972	Proteinuria Adverse Event	DisGeNet	
+GSTT1	C1962972	Proteinuria Adverse Event	DisGeNet	
+NQO1	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+SOD1	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+XDH	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+GSTM1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTP1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTT1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTM1	C0027626	Neoplasm Invasiveness	DisGeNet	
+GSTP1	C0027626	Neoplasm Invasiveness	DisGeNet	
+GSTT1	C0027626	Neoplasm Invasiveness	DisGeNet	
+MT2A	C0027626	Neoplasm Invasiveness	DisGeNet	
+ABCG2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ATP7B	C0023890	Liver Cirrhosis, Biliary	DisGeNet,HumPhenOnt	
+GSTM1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+GSTP1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+GSTT1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+MPO	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+MT1A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+SOD1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+XDH	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+GSTM1	C0043144	Wheezing	DisGeNet	
+GSTP1	C0043144	Wheezing	DisGeNet	
+GSTT1	C0043144	Wheezing	DisGeNet	
+GSTM1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+GSTP1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+GSTT1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+NQO1	C0007873	Uterine Cervical Neoplasms	DisGeNet	
+GSTM1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+GSTP1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+GSTT1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+MT1A	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+GSTM1	C1838244	Distal myopathy Markesbery-Griggs type	DisGeNet	
+GSTT1	C1838244	Distal myopathy Markesbery-Griggs type	DisGeNet	
+GSTM1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+GSTP1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+GSTT1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+MT1A	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+MT2A	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+NQO1	C1704272	Benign Prostatic Hyperplasia	DisGeNet	
+GSTP1	C0011616	Contact Dermatitis	DisGeNet	
+NQO1	C0011616	Contact Dermatitis	DisGeNet	
+SOD1	C0011616	Contact Dermatitis	DisGeNet	
+MPO	C0027697	Nephritis	DisGeNet	
+MT1A	C0027697	Nephritis	DisGeNet	
+MT2A	C0027697	Nephritis	DisGeNet	
+XDH	C0027697	Nephritis	HumPhenOnt	
+ABCC2	C0015695	Hepatic steatosis	DisGeNet	
+ATP7B	C0015695	Hepatic steatosis	DisGeNet,HumPhenOnt	
+GSTM1	C0015695	Hepatic steatosis	DisGeNet	
+GSTP1	C0015695	Hepatic steatosis	DisGeNet	
+GSTT1	C0015695	Hepatic steatosis	DisGeNet	
+NQO1	C0015695	Hepatic steatosis	DisGeNet	
+ABCC2	C0022658	Kidney Diseases	DisGeNet	
+GSTM1	C0022658	Kidney Diseases	DisGeNet	
+GSTP1	C0022658	Kidney Diseases	DisGeNet	
+GSTT1	C0022658	Kidney Diseases	DisGeNet	
+MPO	C0022658	Kidney Diseases	DisGeNet	
+NQO1	C0022658	Kidney Diseases	DisGeNet	
+SOD1	C0022658	Kidney Diseases	DisGeNet	
+XDH	C0022658	Kidney Diseases	DisGeNet	
+GSTM1	C0022602	Actinic keratosis	DisGeNet	
+GSTP1	C0022602	Actinic keratosis	DisGeNet	
+GSTT1	C0022602	Actinic keratosis	DisGeNet	
+ATP7A	C0042485	Venous insufficiency	HumPhenOnt	
+GSTT1	C0042485	Venous insufficiency	DisGeNet	
+GSTM1	C2919828	Chronic ulcerative colitis	DisGeNet	
+GSTP1	C2919828	Chronic ulcerative colitis	DisGeNet	
+GSTT1	C2919828	Chronic ulcerative colitis	DisGeNet	
+ABCC2	C0023530	Leukopenia	DisGeNet	
+ABCG2	C0023530	Leukopenia	DisGeNet	
+GSTM1	C0023530	Leukopenia	DisGeNet	
+GSTP1	C0023530	Leukopenia	DisGeNet	
+GSTT1	C0023530	Leukopenia	DisGeNet	
+GSTM1	C0699893	Skin carcinoma	DisGeNet	
+GSTP1	C0699893	Skin carcinoma	DisGeNet	
+GSTT1	C0699893	Skin carcinoma	DisGeNet	
+GSTM1	C0020517	Hypersensitivity	DisGeNet	
+GSTP1	C0020517	Hypersensitivity	DisGeNet	
+GSTT1	C0020517	Hypersensitivity	DisGeNet	
+MPO	C0020517	Hypersensitivity	DisGeNet	
+ABCG2	C0042961	Volvulus	DisGeNet	
+SOD1	C0042961	Volvulus	DisGeNet	
+GSTM1	C0220603	childhood brain tumor	DisGeNet	
+GSTT1	C0220603	childhood brain tumor	DisGeNet	
+ABCG2	C0854467	Myelosuppression	DisGeNet	
+GSTP1	C0854467	Myelosuppression	DisGeNet	
+ABCG2	C0035126	Reperfusion Injury	DisGeNet	
+GSTM1	C0035126	Reperfusion Injury	DisGeNet	
+MPO	C0035126	Reperfusion Injury	DisGeNet	
+SOD1	C0035126	Reperfusion Injury	DisGeNet	
+XDH	C0035126	Reperfusion Injury	DisGeNet	
+ATP7A	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+ATP7B	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+GSTM1	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+GSTT1	C1319315	Adenocarcinoma of the large intestine	DisGeNet	
+GSTP1	C0007273	Carotid Artery Diseases	DisGeNet	
+GSTT1	C0007273	Carotid Artery Diseases	DisGeNet	
+MPO	C0007273	Carotid Artery Diseases	DisGeNet	
+XDH	C0007273	Carotid Artery Diseases	DisGeNet	
+ATP7B	C0016059	Fibrosis	DisGeNet	
+GSTM1	C0016059	Fibrosis	DisGeNet	
+GSTP1	C0016059	Fibrosis	DisGeNet	
+GSTT1	C0016059	Fibrosis	DisGeNet	
+GSTP1	C0018995	Hemochromatosis	DisGeNet	
+MPO	C0018995	Hemochromatosis	DisGeNet	
+SOD1	C0018995	Hemochromatosis	DisGeNet	
+ATP7B	C0345904	Hepatic cancer metastatic	DisGeNet	
+GSTM1	C0345904	Hepatic cancer metastatic	DisGeNet	
+GSTP1	C0345904	Hepatic cancer metastatic	DisGeNet	
+GSTT1	C0345904	Hepatic cancer metastatic	DisGeNet	
+MPO	C0345904	Hepatic cancer metastatic	DisGeNet	
+NQO1	C0345904	Hepatic cancer metastatic	DisGeNet	
+SOD1	C0345904	Hepatic cancer metastatic	DisGeNet	
+ABCG2	C0919532	Genomic Instability	DisGeNet	
+GSTM1	C0919532	Genomic Instability	DisGeNet	
+GSTM1	C0085183	Neoplasms, Second Primary	DisGeNet	
+GSTP1	C0085183	Neoplasms, Second Primary	DisGeNet	
+GSTT1	C0085183	Neoplasms, Second Primary	DisGeNet	
+NQO1	C0085183	Neoplasms, Second Primary	DisGeNet	
+GSTP1	C0032273	Simple pneumoconiosis	DisGeNet	
+GSTT1	C0032273	Simple pneumoconiosis	DisGeNet	
+ABCC2	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSTM1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSTP1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSTT1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+NQO1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+GSTM1	C0001339	Acute pancreatitis	DisGeNet	
+GSTT1	C0001339	Acute pancreatitis	DisGeNet	
+MPO	C0001339	Acute pancreatitis	DisGeNet	
+GSTM1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTP1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTT1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTM1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+GSTP1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+GSTT1	C1336708	Testicular Germ Cell Tumor	DisGeNet	
+ATP7A	C0002871	Anemia	DisGeNet	
+ATP7B	C0002871	Anemia	HumPhenOnt	
+GSTM1	C0002871	Anemia	DisGeNet	
+GSTP1	C0002871	Anemia	DisGeNet	
+GSTT1	C0002871	Anemia	DisGeNet	
+NQO1	C0002871	Anemia	DisGeNet	
+SOD1	C0002871	Anemia	DisGeNet	
+ABCC2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCG2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCG2	C0238462	Medullary thyroid carcinoma	DisGeNet	
+GSTP1	C0238462	Medullary thyroid carcinoma	DisGeNet	
+MT1A	C0238462	Medullary thyroid carcinoma	DisGeNet	
+SLC31A2	C0238462	Medullary thyroid carcinoma	DisGeNet	
+GSTM1	C0013146	Methamphetamine abuse	DisGeNet	
+GSTP1	C0013146	Methamphetamine abuse	DisGeNet	
+NQO1	C0013146	Methamphetamine abuse	DisGeNet	
+GSTM1	C0034885	Neoplasm of the rectum	DisGeNet	
+GSTP1	C0034885	Neoplasm of the rectum	DisGeNet	
+GSTT1	C0034885	Neoplasm of the rectum	DisGeNet	
+ABCC2	C0677886	Ovarian epithelial cancer	DisGeNet	
+ABCG2	C0677886	Ovarian epithelial cancer	DisGeNet	
+ATP7A	C0677886	Ovarian epithelial cancer	DisGeNet	
+ATP7B	C0677886	Ovarian epithelial cancer	DisGeNet	
+GSTM1	C0677886	Ovarian epithelial cancer	DisGeNet	
+GSTP1	C0677886	Ovarian epithelial cancer	DisGeNet	
+GSTT1	C0677886	Ovarian epithelial cancer	DisGeNet	
+MPO	C0677886	Ovarian epithelial cancer	DisGeNet	
+MT2A	C0677886	Ovarian epithelial cancer	DisGeNet	
+NQO1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SLC31A1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SLC31A2	C0677886	Ovarian epithelial cancer	DisGeNet	
+SOD1	C0677886	Ovarian epithelial cancer	DisGeNet	
+XDH	C0677886	Ovarian epithelial cancer	DisGeNet	
+ABCC2	C0009375	Neoplasm of the colon	DisGeNet	
+ABCG2	C0009375	Neoplasm of the colon	DisGeNet	
+ATP7A	C0009375	Neoplasm of the colon	DisGeNet	
+GSTM1	C0009375	Neoplasm of the colon	DisGeNet	
+GSTP1	C0009375	Neoplasm of the colon	DisGeNet	
+GSTT1	C0009375	Neoplasm of the colon	DisGeNet	
+MT1A	C0009375	Neoplasm of the colon	DisGeNet	
+NQO1	C0009375	Neoplasm of the colon	DisGeNet	
+GSTM1	C0018552	Hamartoma	DisGeNet	
+GSTP1	C0018552	Hamartoma	DisGeNet	
+GSTT1	C0018552	Hamartoma	DisGeNet	
+GSTM1	C0940937	precancerous lesions	DisGeNet	
+GSTP1	C0940937	precancerous lesions	DisGeNet	
+GSTT1	C0940937	precancerous lesions	DisGeNet	
+GSTT1	C0858970	Carcinogenicity	DisGeNet	
+NQO1	C0858970	Carcinogenicity	DisGeNet	
+GSTM1	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+GSTT1	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+MPO	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+GSTM1	C0262584	Carcinoma, Small Cell	DisGeNet	
+GSTP1	C0262584	Carcinoma, Small Cell	DisGeNet	
+GSTT1	C0262584	Carcinoma, Small Cell	DisGeNet	
+ATP7B	C0021368	Inflammation	DisGeNet	
+GSTM1	C0021368	Inflammation	DisGeNet	
+GSTP1	C0021368	Inflammation	DisGeNet	
+GSTT1	C0021368	Inflammation	DisGeNet	
+MPO	C0021368	Inflammation	DisGeNet	
+MT2A	C0021368	Inflammation	DisGeNet	
+SOD1	C0021368	Inflammation	DisGeNet	
+ATP7B	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	HumPhenOnt	
+GSTM1	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+GSTT1	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+SOD1	C0033687	Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	DisGeNet	
+GSTP1	C0003130	Hypoxia	DisGeNet	
+MPO	C0003130	Hypoxia	DisGeNet	
+MT2A	C0003130	Hypoxia	DisGeNet	
+SOD1	C0003130	Hypoxia	DisGeNet	
+XDH	C0003130	Hypoxia	DisGeNet	
+ABCC2	C0079731	B-cell lymphoma	DisGeNet	
+ABCG2	C0079731	B-cell lymphoma	DisGeNet	
+GSTM1	C0079731	B-cell lymphoma	DisGeNet	
+GSTP1	C0079731	B-cell lymphoma	DisGeNet	
+GSTT1	C0079731	B-cell lymphoma	DisGeNet	
+MPO	C0079731	B-cell lymphoma	DisGeNet	
+MT2A	C0079731	B-cell lymphoma	DisGeNet	
+GSTM1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+GSTP1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+GSTT1	C0017612	Glaucoma, Open-Angle	DisGeNet	
+ABCG2	C1561643	Chronic kidney disease	DisGeNet	
+GSTM1	C1561643	Chronic kidney disease	DisGeNet	
+GSTT1	C1561643	Chronic kidney disease	DisGeNet	
+SOD1	C1561643	Chronic kidney disease	DisGeNet	
+XDH	C1561643	Chronic kidney disease	DisGeNet	
+ABCG2	C0004153	Atherosclerosis	DisGeNet	
+ATP7A	C0004153	Atherosclerosis	DisGeNet	
+GSTM1	C0004153	Atherosclerosis	DisGeNet	
+GSTP1	C0004153	Atherosclerosis	DisGeNet	
+GSTT1	C0004153	Atherosclerosis	DisGeNet	
+MPO	C0004153	Atherosclerosis	DisGeNet	
+MT2A	C0004153	Atherosclerosis	DisGeNet	
+NQO1	C0004153	Atherosclerosis	DisGeNet	
+SOD1	C0004153	Atherosclerosis	DisGeNet	
+XDH	C0004153	Atherosclerosis	DisGeNet	
+ABCG2	C0003850	Arteriosclerosis	DisGeNet	
+ATP7A	C0003850	Arteriosclerosis	DisGeNet	
+GSTM1	C0003850	Arteriosclerosis	DisGeNet	
+GSTT1	C0003850	Arteriosclerosis	DisGeNet	
+MPO	C0003850	Arteriosclerosis	DisGeNet	
+MT2A	C0003850	Arteriosclerosis	DisGeNet	
+NQO1	C0003850	Arteriosclerosis	DisGeNet	
+SOD1	C0003850	Arteriosclerosis	DisGeNet	
+XDH	C0003850	Arteriosclerosis	DisGeNet	
+MT1A	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+MT2A	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+ABCC2	C0206624	Hepatoblastoma	DisGeNet	
+ATP7B	C0206624	Hepatoblastoma	DisGeNet	
+MPO	C0206624	Hepatoblastoma	DisGeNet	
+NQO1	C0206624	Hepatoblastoma	DisGeNet	
+GSTM1	C0035244	Neoplasm of the respiratory system	DisGeNet	
+GSTT1	C0035244	Neoplasm of the respiratory system	DisGeNet	
+ABCG2	C1868677	Photoparoxysmal response 1 (2)	DisGeNet	
+GSTM1	C1868677	Photoparoxysmal response 1 (2)	DisGeNet	
+ABCC2	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+GSTM1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+GSTP1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+GSTT1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+MPO	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+NQO1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+SOD1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+XDH	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+GSTM1	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+GSTP1	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+GSTT1	C1333990	Hereditary nonpolyposis colorectal cancer type 8	DisGeNet	
+GSTM1	C0014859	Esophageal Neoplasms	DisGeNet	
+GSTP1	C0014859	Esophageal Neoplasms	DisGeNet	
+GSTT1	C0014859	Esophageal Neoplasms	DisGeNet	
+MPO	C0014859	Esophageal Neoplasms	DisGeNet	
+MT2A	C0014859	Esophageal Neoplasms	DisGeNet	
+NQO1	C0014859	Esophageal Neoplasms	DisGeNet	
+XDH	C0014859	Esophageal Neoplasms	DisGeNet	
+GSTM1	C0042109	Urticaria	DisGeNet	
+MPO	C0042109	Urticaria	DisGeNet	
+SOD1	C0042109	Urticaria	DisGeNet	
+GSTM1	C0376628	Abnormality of chromosome stability	DisGeNet	
+GSTT1	C0376628	Abnormality of chromosome stability	DisGeNet	
+GSTM1	C0007133	Carcinoma, Papillary	DisGeNet	
+GSTP1	C0007133	Carcinoma, Papillary	DisGeNet	
+GSTT1	C0007133	Carcinoma, Papillary	DisGeNet	
+NQO1	C0007133	Carcinoma, Papillary	DisGeNet	
+ABCG2	C0085669	Acute leukemia	DisGeNet	
+GSTM1	C0085669	Acute leukemia	DisGeNet	
+GSTP1	C0085669	Acute leukemia	DisGeNet	
+GSTT1	C0085669	Acute leukemia	DisGeNet	
+MPO	C0085669	Acute leukemia	DisGeNet	
+NQO1	C0085669	Acute leukemia	DisGeNet	

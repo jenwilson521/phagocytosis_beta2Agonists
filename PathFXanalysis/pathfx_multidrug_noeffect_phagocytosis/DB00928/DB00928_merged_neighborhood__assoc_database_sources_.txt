@@ -1,0 +1,4 @@
+Gene	CUI	Phenotype	Source Databases	
+DNMT1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+UHRF1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+DNMT1	C0456814	Diminished motivation	HumPhenOnt	

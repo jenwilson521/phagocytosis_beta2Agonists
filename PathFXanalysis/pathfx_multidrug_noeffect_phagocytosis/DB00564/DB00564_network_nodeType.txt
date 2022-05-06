@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00564	drug	
+CYP3A5	drug_target	
+ABCC2	drug_target	
+SCN5A	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+CYP2C8	drug_target	
+CYP2B6	drug_target	
+UGT2B7	drug_target	
+CYP2C9	drug_target	
+RALBP1	drug_target	
+CYP1A2	drug_target	
+CYP2C19	drug_target	
+Drug Allergy	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Nausea	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Acute Coronary Syndrome	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Acute postoperative pain	phenotype	

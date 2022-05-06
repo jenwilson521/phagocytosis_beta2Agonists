@@ -1,0 +1,69 @@
+node1	node2	edge_score	
+DB01536	HSD17B1	1.0	
+DB01536	HSD3B1	1.0	
+DB01536	AKR1C3	1.0	
+HSD17B1		1
+HSD3B1		1
+AKR1C3	rs62621365	0.99
+AKR1C3		1
+AKR1C3	RBP2	0.8086124452583398
+AKR1C3	rs1937840	0.99
+Penile hypospadias	AKR1C3	1.0	
+Penile hypospadias	HSD3B1	1.0	
+Choriocarcinoma	AKR1C3	1.0	
+Choriocarcinoma	HSD17B1	1.0	
+Choriocarcinoma	HSD3B1	1.0	
+Mammographic breast density	HSD17B1	1.0	
+Mammographic breast density	HSD3B1	1.0	
+Polycystic Ovary Syndrome	AKR1C3	1.0	
+Polycystic Ovary Syndrome	HSD17B1	1.0	
+Polycystic Ovary Syndrome	HSD3B1	1.0	
+Non-Hodgkin lymphoma	AKR1C3	1.0	
+Non-Hodgkin lymphoma	HSD17B1	1.0	
+Non-Hodgkin lymphoma	HSD3B1	1.0	
+Endometriosis	AKR1C3	1.0	
+Endometriosis	HSD17B1	1.0	
+Endometriosis	HSD3B1	1.0	
+Blast Phase	AKR1C3	1.0	
+Blast Phase	RBP2	1.0	
+Disorders of Sex Development	AKR1C3	1.0	
+Ovarian Diseases	AKR1C3	1.0	
+Ovarian Diseases	HSD17B1	1.0	
+Chronic obstructive pulmonary disease	AKR1C3	1.0	
+Chronic obstructive pulmonary disease	HSD17B1	1.0	
+Chronic obstructive pulmonary disease	HSD3B1	1.0	
+Endometrial Neoplasms	AKR1C3	1.0	
+Endometrial Neoplasms	HSD17B1	1.0	
+Endometriosis of ovary	AKR1C3	1.0	
+Invasive Lobular Breast Carcinoma	AKR1C3	1.0	
+Malignant neoplasm of lung	AKR1C3	1.0	
+Malignant neoplasm of lung	HSD17B1	1.0	
+Malignant neoplasm of lung	HSD3B1	1.0	
+Malignant neoplasm of lung	RBP2	1.0	
+Virilism	HSD3B1	1.0	
+Hereditary breast and ovarian cancer syndrome	HSD17B1	1.0	
+Other specified disorders of breast	HSD17B1	1.0	
+Childhood Leukemia	AKR1C3	1.0	
+Benign Prostatic Hyperplasia	AKR1C3	1.0	
+Benign Prostatic Hyperplasia	HSD3B1	1.0	
+Breast Fibrocystic Disease	HSD17B1	1.0	
+Neoplasms, Germ Cell and Embryonal	HSD17B1	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	AKR1C3	1.0	
+Malignant tumor of urinary bladder	AKR1C3	1.0	
+Malignant tumor of urinary bladder	HSD17B1	1.0	
+Malignant tumor of urinary bladder	HSD3B1	1.0	
+Uremia	HSD3B1	1.0	
+Congenital adrenal hyperplasia	HSD3B1	1.0	
+Panic disorder 1	AKR1C3	1.0	
+Malignant neoplasm of endometrium	AKR1C3	1.0	
+Malignant neoplasm of endometrium	HSD17B1	1.0	
+Uterine Corpus Cancer	AKR1C3	1.0	
+Uterine Corpus Cancer	HSD17B1	1.0	
+Adrenocortical adenoma	AKR1C3	1.0	
+Ambiguous genitalia	HSD3B1	1.0	
+body mass	HSD3B1	1.0	
+Prostatic Neoplasms	AKR1C3	1.0	
+Prostatic Neoplasms	HSD17B1	1.0	
+Prostatic Neoplasms	HSD3B1	1.0	
+Testicular Germ Cell Tumor	HSD17B1	1.0	
+Panic disorder syndrome 1 (2)	AKR1C3	1.0	

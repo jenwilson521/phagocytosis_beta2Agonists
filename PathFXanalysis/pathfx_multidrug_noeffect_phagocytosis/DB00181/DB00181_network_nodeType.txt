@@ -1,0 +1,72 @@
+node_name	node_type	
+DB00181	drug	
+GABBR1	drug_target	
+GABBR2	drug_target	
+SLC22A8	drug_target	
+Memory Loss	phenotype	
+Asthma	phenotype	
+Memory impairment	phenotype	
+Major depressive disorder	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Hyperplasia	phenotype	
+Hypothyroidism	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Inflammation	phenotype	
+Encephalitis	phenotype	
+Bradycardia	phenotype	
+Nausea	phenotype	
+Necrosis	phenotype	
+Unipolar Depression	phenotype	
+Cowden syndrome 1	phenotype	
+Hypertension	phenotype	
+Attention Deficit Disorder	phenotype	
+Bronchiolitis, Viral	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Cerebral Hemorrhage	phenotype	
+Acute kidney injury	phenotype	
+Neuralgia	phenotype	
+body mass	phenotype	
+Methicillin resistant Staphylococcus aureus	phenotype	
+Schizophrenia	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Fragile X syndrome	phenotype	
+Nicotine Dependence	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Adrenal insufficiency	phenotype	
+Cocaine-Related Disorders	phenotype	
+Metabolic Syndrome X	phenotype	
+Malnutrition	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Amyloidosis	phenotype	
+Hypotension	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Hyperthyroidism	phenotype	
+Mild cognitive impairment	phenotype	
+Venous thrombosis	phenotype	
+Achalasia	phenotype	
+Congenital adrenal hypoplasia, X-linked	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Peroxisome biogenesis disorders	phenotype	
+ Lissencephaly, X-linked 2, 300215 (3)	phenotype	
+Anxiety Disorders	phenotype	
+Fetal Alcohol Syndrome	phenotype	
+Phenylketonuria	phenotype	
+Lobar Pneumonia	phenotype	
+Tachycardia	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Sexually Transmitted Diseases	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Uveitis	phenotype	
+Femur Head Necrosis	phenotype	
+Chondrocalcinosis	phenotype	
+Cupped ear	phenotype	
+Kidney Diseases	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Abnormality of the adrenal glands	phenotype	

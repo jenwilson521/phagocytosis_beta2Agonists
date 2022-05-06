@@ -1,0 +1,27 @@
+node_name	node_type	
+DB00949	drug	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+GRIN2B	drug_target	
+GRIN3A	drug_target	
+CYP2E1	drug_target	
+GRIN2A	drug_target	
+Weight Gain Adverse Event	phenotype	
+Mesothelioma, malignant	phenotype	
+Cocaine delirium	phenotype	
+Schizophrenia	phenotype	
+Placental Insufficiency	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Increased body weight	phenotype	
+Epilepsy	phenotype	
+Alcohol dependence	phenotype	
+Hypsarrhythmia	phenotype	
+Bipolar affective disorder	phenotype	
+Alcohol abuse	phenotype	
+Thickened nuchal skin fold	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Squamous cell carcinoma	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Fetal ultrasound soft marker	phenotype	
+Tuberous sclerosis syndrome	phenotype	

@@ -1,0 +1,31 @@
+node_name	node_type	
+DB03424	drug	
+LTA4H	drug_target	
+SLC15A2	drug_target	
+Pleural Tuberculosis	phenotype	
+Tuberculosis, Meningeal	phenotype	
+Arterial thrombosis	phenotype	
+Mycobacterium Infections	phenotype	
+Childhood asthma	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Peritonitis	phenotype	
+Varicose Veins	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Hearing Loss, Partial	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Hypersensitivity	phenotype	
+Carotid Artery Diseases	phenotype	
+Allergic disposition	phenotype	
+Leprosy	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Hydrops, lactic acidosis, and sideroblastic anemia	phenotype	
+Ischemic Cerebrovascular Accident	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Ischemic stroke	phenotype	
+Brain Ischemia	phenotype	
+Cystic Fibrosis	phenotype	
+Depressive Disorder	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Metabolic Syndrome X	phenotype	

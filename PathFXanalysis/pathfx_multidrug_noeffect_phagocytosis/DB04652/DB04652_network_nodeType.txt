@@ -1,0 +1,53 @@
+node_name	node_type	
+DB04652	drug	
+NR3C2	drug_target	
+NCOA1	drug_target	
+HSD11B1	drug_target	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Ovarian Diseases	phenotype	
+Colorectal Neoplasms	phenotype	
+Leiomyoma	phenotype	
+Uterine leiomyoma	phenotype	
+Hypothyroidism	phenotype	
+Primary adrenal insufficiency	phenotype	
+Mixed Salivary Gland Tumor	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Acute-Phase Reaction	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Hyperkalemia	phenotype	
+Fibrosis	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Hyponatremia	phenotype	
+Adrenal overactivity	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+3 beta-Hydroxysteroid dehydrogenase deficiency	phenotype	
+Cushing's syndrome	phenotype	
+Metastatic Carcinoma	phenotype	
+Metabolic Syndrome X	phenotype	
+Spinocerebellar ataxia 7	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Inflammation	phenotype	
+Pregnancy associated hypertension	phenotype	
+Obesity	phenotype	
+Hypergranular promyelocytic leukemia	phenotype	
+Acanthosis nigricans	phenotype	
+Anaphylactic shock NOS	phenotype	
+Coronary artery aneurysm	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+cardiac event	phenotype	
+Pediatric Obesity	phenotype	
+Prenatal maternal abnormality	phenotype	
+Endometriosis	phenotype	
+Left ventricular hypertrophy	phenotype	
+Exostoses	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+Coronary Restenosis	phenotype	
+Accelerated skeletal maturation	phenotype	
+Aural atresia, congenital	phenotype	
+Noninfiltrating Intraductal Carcinoma	phenotype	

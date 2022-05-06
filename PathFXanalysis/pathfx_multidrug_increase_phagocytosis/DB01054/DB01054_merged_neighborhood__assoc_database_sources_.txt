@@ -1,0 +1,49 @@
+Gene	CUI	Phenotype	Source Databases	
+CACNA1C	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA1S	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNA2D1	C0438215	Abnormal cardiac test	HumPhenOnt	
+CACNB2	C0438215	Abnormal cardiac test	HumPhenOnt	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CACNA1H	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+CACNA1C	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA1S	C0522055	Abnormal EKG	HumPhenOnt	
+CACNA2D1	C0522055	Abnormal EKG	HumPhenOnt	
+CACNB2	C0522055	Abnormal EKG	HumPhenOnt	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CACNA1D	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+CACNA1S	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+CACNA2D1	C4025244	Abnormal atrioventricular conduction	HumPhenOnt	
+CACNA1D	C0004245	Atrioventricular block	HumPhenOnt	
+CACNA1S	C0004245	Atrioventricular block	HumPhenOnt	
+CACNA2D1	C0004245	Atrioventricular block	HumPhenOnt	
+CACNA1C	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+CACNA1S	C0024591	Malignant hyperthermia susceptibility	ClinVar,DisGeNet	
+CACNA2D1	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+CACNA1C	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CACNA2D1	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CACNB2	C4025755	Primary atrial arrhythmia	HumPhenOnt	
+CACNA1C	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+CACNA2D1	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+CACNB2	C0428974	Supraventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1142166	Brugada Syndrome	ClinVar,DisGeNet	
+CACNA2D1	C1142166	Brugada Syndrome	DisGeNet	
+CACNB2	C1142166	Brugada Syndrome	ClinVar,DisGeNet	
+CACNA1C	C1720983	Channelopathies	DisGeNet	
+CACNA1S	C1720983	Channelopathies	DisGeNet	
+CACNA2D1	C1720983	Channelopathies	DisGeNet	
+CACNA1C	C0039240	Supraventricular tachycardia	HumPhenOnt	
+CACNA2D1	C0039240	Supraventricular tachycardia	HumPhenOnt	
+CACNB2	C0039240	Supraventricular tachycardia	HumPhenOnt	
+CACNA1C	C0039070	Syncope	HumPhenOnt	
+CACNA2D1	C0039070	Syncope	HumPhenOnt	
+CACNB2	C0039070	Syncope	HumPhenOnt	
+CACNA1C	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA1S	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA2D1	C0085612	Ventricular arrhythmia	HumPhenOnt	
+CACNA1C	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1D	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1H	C1384514	Primary hyperaldosteronism	DisGeNet	

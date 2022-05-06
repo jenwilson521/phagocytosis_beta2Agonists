@@ -1,0 +1,570 @@
+Gene	CUI	Phenotype	Source Databases	
+PLAT	C0151942	Arterial thrombosis	DisGeNet	
+PLAU	C0151942	Arterial thrombosis	DisGeNet	
+PLG	C0151942	Arterial thrombosis	DisGeNet	
+PLAT	C0040038	Thromboembolism	DisGeNet	
+PLAU	C0040038	Thromboembolism	DisGeNet	
+PLG	C0040038	Thromboembolism	DisGeNet	
+PLAT	C0151526	Premature Birth	DisGeNet	
+PLAU	C0151526	Premature Birth	DisGeNet	
+PLAUR	C0151526	Premature Birth	DisGeNet	
+PLG	C0151526	Premature Birth	DisGeNet	
+HRG	C0398623	Thrombophilia	ClinVar,DisGeNet,HumPhenOnt	
+PLAT	C0398623	Thrombophilia	ClinVar,DisGeNet,HumPhenOnt	
+PLG	C0398623	Thrombophilia	DisGeNet	
+PLAU	C0023223	Leg Ulcer	DisGeNet	
+PLG	C0023223	Leg Ulcer	DisGeNet	
+PLAT	C0034065	Pulmonary Embolism	DisGeNet	
+PLAU	C0034065	Pulmonary Embolism	DisGeNet	
+PLG	C0034065	Pulmonary Embolism	DisGeNet	
+HRG	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+PLG	C1861171	Thrombophilia due to activated protein C resistance	DisGeNet	
+PLAT	C0042487	Venous thrombosis	DisGeNet,HumPhenOnt	
+PLAU	C0042487	Venous thrombosis	DisGeNet	
+PLG	C0042487	Venous thrombosis	DisGeNet	
+HRG	C0040053	Thrombosis	DisGeNet	
+PLAT	C0040053	Thrombosis	DisGeNet	
+PLAU	C0040053	Thrombosis	DisGeNet	
+HRG	C0027051	Myocardial Infarction	DisGeNet	
+PLAT	C0027051	Myocardial Infarction	DisGeNet	
+PLAU	C0027051	Myocardial Infarction	DisGeNet	
+PLAUR	C0027051	Myocardial Infarction	DisGeNet	
+PLG	C0027051	Myocardial Infarction	DisGeNet,PheGenI	
+PLAT	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLAU	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLAUR	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLG	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLAU	C0011608	Dermatitis Herpetiformis	DisGeNet	
+PLG	C0011608	Dermatitis Herpetiformis	DisGeNet	
+HRG	C0600433	Resistance to activated protein C	DisGeNet	
+PLG	C0600433	Resistance to activated protein C	DisGeNet	
+PLAT	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+PLAU	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+PLG	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+PLAU	C0011603	Seborheic dermatitis	DisGeNet	
+PLAUR	C0011603	Seborheic dermatitis	DisGeNet	
+PLG	C0011603	Seborheic dermatitis	DisGeNet	
+PLAT	C0032273	Simple pneumoconiosis	DisGeNet	
+PLAU	C0032273	Simple pneumoconiosis	DisGeNet	
+PLAT	C0038220	Status epilepticus	DisGeNet	
+PLAU	C0038220	Status epilepticus	DisGeNet	
+PLAUR	C0038220	Status epilepticus	DisGeNet	
+PLAT	C0003838	Arterial Occlusive Diseases	DisGeNet	
+PLAU	C0003838	Arterial Occlusive Diseases	DisGeNet	
+PLAT	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PLAU	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PLAUR	C0015943	Fetal Membranes, Premature Rupture	DisGeNet	
+PLAT	C0008495	Chorioamnionitis	DisGeNet	
+PLAU	C0008495	Chorioamnionitis	DisGeNet	
+PLAUR	C0008495	Chorioamnionitis	DisGeNet	
+PLAT	C0022876	Premature Obstetric Labor	DisGeNet	
+PLAU	C0022876	Premature Obstetric Labor	DisGeNet	
+PLAUR	C0022876	Premature Obstetric Labor	DisGeNet	
+PLAT	C0024302	Reticulosarcoma	DisGeNet	
+PLG	C0024302	Reticulosarcoma	DisGeNet	
+PLAU	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLAUR	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLG	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLAT	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+PLAU	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+PLG	C0003486	Aortic aneurysm, familial thoracic 11, susceptibility to	DisGeNet	
+PLAT	C0155626	Acute myocardial infarction	DisGeNet	
+PLAU	C0155626	Acute myocardial infarction	DisGeNet	
+PLG	C0155626	Acute myocardial infarction	DisGeNet	
+HRG	C0584960	Factor V Leiden mutation	DisGeNet	
+PLG	C0584960	Factor V Leiden mutation	DisGeNet	
+PLAU	C0751674	Lymphangiomyomatosis	DisGeNet	
+PLG	C0751674	Lymphangiomyomatosis	DisGeNet	
+PLAT	C0016057	Fibrosarcoma	DisGeNet	
+PLAU	C0016057	Fibrosarcoma	DisGeNet	
+PLG	C0016057	Fibrosarcoma	DisGeNet	
+PLAT	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+PLAU	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+PLAT	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+PLG	C0085278	Primary antiphospholipid syndrome	DisGeNet	
+PLAU	C1397307	Cardiac fibrosis	DisGeNet	
+PLG	C1397307	Cardiac fibrosis	DisGeNet	
+PLAU	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+PLAUR	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+PLG	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+PLAT	C0030297	Pancreatic Neoplasms	DisGeNet	
+PLAU	C0030297	Pancreatic Neoplasms	DisGeNet	
+PLAUR	C0030297	Pancreatic Neoplasms	DisGeNet	
+PLG	C0030297	Pancreatic Neoplasms	DisGeNet	
+PLAU	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+PLG	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+PLAT	C0007785	Ischaemic cerebral infarction	DisGeNet	
+PLAU	C0007785	Ischaemic cerebral infarction	DisGeNet	
+PLG	C0007785	Ischaemic cerebral infarction	DisGeNet	
+PLAT	C0019080	Bleeding with minor or no trauma	DisGeNet	
+PLAU	C0019080	Bleeding with minor or no trauma	DisGeNet	
+PLAU	C1511291	Breast Cancer Model	DisGeNet	
+PLG	C1511291	Breast Cancer Model	DisGeNet	
+PLAT	C0149940	Sciatic Neuropathy	DisGeNet	
+PLAU	C0149940	Sciatic Neuropathy	DisGeNet	
+HRG	C4025731	Abnormal thrombosis	HumPhenOnt	
+PLAT	C4025731	Abnormal thrombosis	HumPhenOnt	
+PLAT	C0006114	Cerebral edema	DisGeNet	
+PLAU	C0006114	Cerebral edema	DisGeNet	
+PLAT	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PLG	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PLAT	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+PLAU	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+PLAU	C0026267	Mitral Valve Prolapse	DisGeNet	
+PLG	C0026267	Mitral Valve Prolapse	DisGeNet	
+HRG	C0853879	Invasive breast carcinoma	DisGeNet	
+PLAU	C0853879	Invasive breast carcinoma	DisGeNet	
+PLG	C0853879	Invasive breast carcinoma	DisGeNet	
+PLAT	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PLAU	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PLAUR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PLAU	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PLG	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PLAT	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+PLAU	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+PLG	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+HRG	C0036690	Septicemia	DisGeNet	
+PLAT	C0036690	Septicemia	DisGeNet	
+PLG	C0036690	Septicemia	DisGeNet	
+HRG	C0007137	Squamous cell carcinoma	DisGeNet	
+PLAT	C0007137	Squamous cell carcinoma	DisGeNet	
+PLAU	C0007137	Squamous cell carcinoma	DisGeNet	
+PLAUR	C0007137	Squamous cell carcinoma	DisGeNet	
+PLG	C0007137	Squamous cell carcinoma	DisGeNet	
+PLAU	C0007138	Urothelial Carcinoma	DisGeNet	
+PLAUR	C0007138	Urothelial Carcinoma	DisGeNet	
+PLG	C0007138	Urothelial Carcinoma	DisGeNet	
+PLAT	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+PLG	C0004610	Bacteremia, susceptibility to, 2	DisGeNet	
+PLAU	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+PLAUR	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+PLG	C0034069	Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	DisGeNet	
+PLAT	C0948008	Ischemic stroke	DisGeNet	
+PLAU	C0948008	Ischemic stroke	DisGeNet	
+PLG	C0948008	Ischemic stroke	DisGeNet	
+AOX1	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+PLAT	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+PLAU	C0021390	Inflammatory Bowel Diseases	DisGeNet,PheGenI	
+PLG	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+PLAT	C0042373	Vascular Diseases	DisGeNet	
+PLAUR	C0042373	Vascular Diseases	DisGeNet	
+PLG	C0042373	Vascular Diseases	DisGeNet	
+PLAU	C0039103	Synovitis	DisGeNet	
+PLG	C0039103	Synovitis	DisGeNet	
+HRG	C0555198	Malignant Glioma	DisGeNet	
+PLAU	C0555198	Malignant Glioma	DisGeNet	
+PLG	C0555198	Malignant Glioma	DisGeNet	
+PLAT	C0149871	Deep venous thrombosis	DisGeNet,HumPhenOnt	
+PLG	C0149871	Deep venous thrombosis	DisGeNet	
+HRG	C1846821	Abnormality of coagulation	HumPhenOnt	
+PLAT	C1846821	Abnormality of coagulation	HumPhenOnt	
+PLAT	C0038358	Gastric ulcer	DisGeNet	
+PLAU	C0038358	Gastric ulcer	DisGeNet	
+PLAU	C0392525	Nephrolithiasis	DisGeNet	
+PLG	C0392525	Nephrolithiasis	HumPhenOnt	
+HRG	C0017638	Glioma	DisGeNet	
+PLAT	C0017638	Glioma	DisGeNet	
+PLAU	C0017638	Glioma	DisGeNet	
+PLAUR	C0017638	Glioma	DisGeNet	
+PLG	C0017638	Glioma	DisGeNet	
+HRG	C1519670	Tumor Angiogenesis	DisGeNet	
+PLAU	C1519670	Tumor Angiogenesis	DisGeNet	
+PLG	C1519670	Tumor Angiogenesis	DisGeNet	
+PLAU	C0025286	Meningioma	DisGeNet	
+PLAUR	C0025286	Meningioma	DisGeNet	
+PLG	C0025286	Meningioma	DisGeNet	
+PLAT	C0020649	Hypotension	DisGeNet	
+PLAU	C0020649	Hypotension	DisGeNet	
+PLAU	C0878500	Intraepithelial Neoplasia	DisGeNet	
+PLG	C0878500	Intraepithelial Neoplasia	DisGeNet	
+PLAT	C0032285	Pneumonia	DisGeNet	
+PLAU	C0032285	Pneumonia	DisGeNet	
+PLG	C0032285	Pneumonia	DisGeNet,HumPhenOnt	
+PLAT	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PLAU	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PLAUR	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PLG	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+PLAU	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+PLAUR	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+PLAU	C0020507	Hyperplasia	DisGeNet	
+PLAUR	C0020507	Hyperplasia	DisGeNet	
+PLAT	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+PLAU	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+PLG	C0007103	Malignant neoplasm of endometrium	DisGeNet	
+PLAT	C0153574	Uterine Corpus Cancer	DisGeNet	
+PLAU	C0153574	Uterine Corpus Cancer	DisGeNet	
+PLG	C0153574	Uterine Corpus Cancer	DisGeNet	
+PLAU	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+PLG	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+PLAU	C1334274	Invasive Carcinoma	DisGeNet	
+PLG	C1334274	Invasive Carcinoma	DisGeNet	
+HRG	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PLAT	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PLAU	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PLAUR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PLG	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PLAT	C0004153	Atherosclerosis	DisGeNet	
+PLAU	C0004153	Atherosclerosis	DisGeNet	
+PLAUR	C0004153	Atherosclerosis	DisGeNet	
+PLG	C0004153	Atherosclerosis	DisGeNet	
+PLAU	C0027626	Neoplasm Invasiveness	DisGeNet	
+PLAUR	C0027626	Neoplasm Invasiveness	DisGeNet	
+PLAU	C0027697	Nephritis	DisGeNet	
+PLG	C0027697	Nephritis	HumPhenOnt	
+HRG	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+PLAT	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+PLAU	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+PLG	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+HRG	C0243026	Sepsis	DisGeNet	
+PLAT	C0243026	Sepsis	DisGeNet	
+PLG	C0243026	Sepsis	DisGeNet	
+PLAU	C0007273	Carotid Artery Diseases	DisGeNet	
+PLG	C0007273	Carotid Artery Diseases	DisGeNet	
+PLAT	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PLG	C0860207	Drug-Induced Liver Injury	DisGeNet	
+PLAT	C0021368	Inflammation	DisGeNet	
+PLAU	C0021368	Inflammation	DisGeNet	
+PLAUR	C0021368	Inflammation	DisGeNet	
+PLAT	C0022116	Ischemia	DisGeNet	
+PLAU	C0022116	Ischemia	DisGeNet	
+PLG	C0022116	Ischemia	DisGeNet	
+PLAT	C0007787	Transient ischemic attack	DisGeNet	
+PLAU	C0007787	Transient ischemic attack	DisGeNet	
+PLAT	C0162869	Aneurysm, Ruptured	DisGeNet	
+PLG	C0311370	Lupus anticoagulant disorder	DisGeNet	
+HRG	C0006118	Brain neoplasm	DisGeNet	
+PLAU	C0006118	Brain neoplasm	DisGeNet	
+PLG	C0006118	Brain neoplasm	DisGeNet	
+PLG	C0032300	Lobar Pneumonia	DisGeNet	
+PLAU	C0451641	Urolithiasis	DisGeNet	
+PLAT	C0004114	Astrocytoma	DisGeNet	
+PLAU	C0004114	Astrocytoma	DisGeNet	
+PLG	C0004114	Astrocytoma	DisGeNet	
+PLAU	C0273115	Lung Injury	DisGeNet	
+PLAT	C0333186	Restenosis	DisGeNet	
+PLG	C0333186	Restenosis	DisGeNet	
+PLAU	C0036631	Testicular seminoma	DisGeNet	
+PLG	C0036631	Testicular seminoma	DisGeNet	
+PLAT	C0151699	Intracranial hemorrhage	DisGeNet	
+PLAU	C0151699	Intracranial hemorrhage	DisGeNet	
+PLAU	C0026640	Neoplasm of the oral cavity	DisGeNet	
+PLG	C0026640	Neoplasm of the oral cavity	DisGeNet	
+PLG	C0014121	Bacterial endocarditis	DisGeNet	
+PLG	C0031350	Pharyngitis	HumPhenOnt	
+PLAT	C0235989	Renal interstitial fibrosis	DisGeNet	
+PLG	C0242666	Protein S deficiency	DisGeNet	
+PLG	C0741796	Recurrent bronchitis	HumPhenOnt	
+PLAT	C0037926	Spinal cord compression	DisGeNet	
+PLG	C0272375	Antithrombin III deficiency	DisGeNet	
+PLAT	C0476089	Endometrial carcinoma	DisGeNet	
+PLAU	C0476089	Endometrial carcinoma	DisGeNet	
+PLG	C0476089	Endometrial carcinoma	DisGeNet	
+PLG	C0019087	Hemorrhagic disorder due to intrinsic circulating anticoagulants	DisGeNet	
+PLG	C0398625	Reduced protein C activity	DisGeNet	
+PLG	C0232513	Premature loss of teeth	HumPhenOnt	
+PLAU	C0278688	Stage IV Ovarian Carcinoma	DisGeNet	
+AOX1	C0033578	Prostatic Neoplasms	DisGeNet	
+PLAU	C0033578	Prostatic Neoplasms	DisGeNet	
+PLAUR	C0033578	Prostatic Neoplasms	DisGeNet	
+PLG	C0033578	Prostatic Neoplasms	DisGeNet	
+PLAT	C2937358	Cerebral Hemorrhage	DisGeNet	
+PLAU	C2937358	Cerebral Hemorrhage	DisGeNet	
+PLAT	C0010054	Coronary heart disease 7	DisGeNet	
+PLAU	C0010054	Coronary heart disease 7	DisGeNet	
+PLG	C0010054	Coronary heart disease 7	DisGeNet	
+PLG	C0004030	Systemic aspergillosis	DisGeNet	
+PLAT	C0031039	Pericardial effusion	DisGeNet	
+PLG	C0155862	Streptococcal pneumonia	DisGeNet	
+PLAT	C0022658	Kidney Diseases	DisGeNet	
+PLAUR	C0022658	Kidney Diseases	DisGeNet	
+PLG	C0022658	Kidney Diseases	DisGeNet	
+HRG	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PLAU	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PLAUR	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PLG	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PLAU	C0855740	Abnormal platelet function	HumPhenOnt	
+HRG	C0017636	Glioblastoma	DisGeNet	
+PLAU	C0017636	Glioblastoma	DisGeNet	
+PLAUR	C0017636	Glioblastoma	DisGeNet	
+PLG	C0017636	Glioblastoma	DisGeNet	
+PLAT	C0280100	Solid tumour	DisGeNet	
+PLAU	C0280100	Solid tumour	DisGeNet	
+PLG	C0280100	Solid tumour	DisGeNet	
+HRG	C0004623	Recurrent bacterial infection	DisGeNet	
+PLG	C0004623	Recurrent bacterial infection	DisGeNet	
+PLAU	C1302401	Adenoma of large intestine	DisGeNet	
+PLG	C1302401	Adenoma of large intestine	DisGeNet	
+PLG	C0003175	Anthrax disease	DisGeNet	
+PLAUR	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+PLG	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+HRG	C0235974	Pancreatic Carcinoma	DisGeNet	
+PLAU	C0235974	Pancreatic Carcinoma	DisGeNet	
+PLAUR	C0235974	Pancreatic Carcinoma	DisGeNet	
+PLG	C0235974	Pancreatic Carcinoma	DisGeNet	
+PLAU	C0235480	Paroxysmal atrial fibrillation	DisGeNet	
+PLAT	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+PLAT	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PLAU	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PLAUR	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PLG	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+PLAT	C0003537	Aphasia	DisGeNet	
+PLAT	C0010072	Coronary Thrombosis	DisGeNet	
+PLG	C0014518	Toxic Epidermal Necrolysis	DisGeNet	
+PLG	C0034155	Purpura, Thrombotic Thrombocytopenic	DisGeNet	
+PLG	C0155765	Cerebroretinal microangiopathy with calcifications and cysts 1	DisGeNet	
+PLG	C0267941	Pancreatitis, Acute Necrotizing	DisGeNet	
+PLAU	C3665419	Intracranial glioma	DisGeNet	
+PLAT	C0917798	Cerebral ischemia	DisGeNet	
+PLG	C0917798	Cerebral ischemia	DisGeNet	
+PLAU	C0009375	Neoplasm of the colon	DisGeNet	
+PLAUR	C0009375	Neoplasm of the colon	DisGeNet	
+PLG	C0009375	Neoplasm of the colon	DisGeNet	
+PLAT	C0007102	Colon cancer	DisGeNet	
+PLAU	C0007102	Colon cancer	DisGeNet	
+PLAUR	C0007102	Colon cancer	DisGeNet	
+PLG	C0007102	Colon cancer	DisGeNet	
+PLG	C0022573	Keratoconjunctivitis	HumPhenOnt	
+PLG	C0149939	Obstructive nephropathy	DisGeNet	
+PLAT	C0235032	Neurotoxicity Syndromes	DisGeNet	
+PLG	C4025716	Abnormality of the duodenum	HumPhenOnt	
+PLAT	C0024031	Low back pain	DisGeNet	
+PLG	C0085109	Corneal neovascularization	DisGeNet	
+PLG	C1535950	Gastrointestinal inflammation	HumPhenOnt	
+PLAU	C0750979	Primary malignant neoplasm of brain	DisGeNet	
+PLG	C2717961	Thrombotic Microangiopathies	DisGeNet	
+PLG	C1519666	Tumor-Associated Vasculature	DisGeNet	
+PLG	C0598894	Monocytic leukemia	DisGeNet	
+PLG	C0740858	Substance abuse problem	DisGeNet	
+PLAU	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+PLAUR	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+PLG	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+PLAU	C0242706	Hyperoxia	DisGeNet	
+PLG	C0694550	Recurrent pneumonia	HumPhenOnt	
+PLG	C1257930	Mammary Carcinoma, Human	DisGeNet	
+PLAT	C0035126	Reperfusion Injury	DisGeNet	
+PLAU	C0035126	Reperfusion Injury	DisGeNet	
+PLAT	C0085580	Essential hypertension	DisGeNet	
+PLG	C0085580	Essential hypertension	DisGeNet	
+PLAT	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+PLAU	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+PLG	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+PLG	C0038362	Stomatitis	HumPhenOnt	
+PLG	C0038395	Streptococcal Infections	DisGeNet	
+PLAT	C0699790	Carcinoma of colon	DisGeNet	
+PLAU	C0699790	Carcinoma of colon	DisGeNet	
+PLAUR	C0699790	Carcinoma of colon	DisGeNet	
+PLG	C0699790	Carcinoma of colon	DisGeNet	
+PLAU	C0585362	Squamous cell carcinoma of mouth	DisGeNet	
+PLG	C3714619	Insulin resistance syndrome	DisGeNet	
+PLG	C4021801	Lacrimation abnormality	HumPhenOnt	
+PLAT	C0001883	Airway Obstruction	DisGeNet	
+PLAT	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+PLAT	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+PLAU	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+PLG	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+PLAU	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+PLG	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+PLAU	C0042510	Ventricular fibrillation	DisGeNet	
+PLG	C1402315	Vascular lesions	DisGeNet	
+PLAT	C0005859	Bloom syndrome	DisGeNet	
+PLG	C1842937	Aural atresia, congenital	DisGeNet	
+PLAU	C0585442	Osteosarcoma	DisGeNet	
+PLAUR	C0585442	Osteosarcoma	DisGeNet	
+PLG	C0585442	Osteosarcoma	DisGeNet	
+PLAT	C0919267	Ovarian Neoplasms	DisGeNet	
+PLAU	C0919267	Ovarian Neoplasms	DisGeNet	
+PLAUR	C0919267	Ovarian Neoplasms	DisGeNet	
+PLAT	C0031099	Periodontitis	DisGeNet	
+PLG	C0031099	Periodontitis	DisGeNet,HumPhenOnt	
+PLAU	C0278883	Metastatic melanoma	DisGeNet	
+PLG	C0278883	Metastatic melanoma	DisGeNet	
+PLG	C0585953	Recurrent lower respiratory tract infections	HumPhenOnt	
+PLAT	C0003130	Hypoxia	DisGeNet	
+PLAUR	C0003130	Hypoxia	DisGeNet	
+PLAU	C0023479	Acute myelomonocytic leukemia	DisGeNet	
+PLAT	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+PLG	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+PLAT	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PLAU	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PLAUR	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PLG	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+PLAU	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+PLG	C1800706	Idiopathic Pulmonary Fibrosis	DisGeNet	
+PLAU	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+PLG	C3714636	Pneumonitis	DisGeNet	
+PLAT	C0278488	Carcinoma breast stage IV	DisGeNet	
+PLAU	C0278488	Carcinoma breast stage IV	DisGeNet	
+HRG	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PLAT	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PLAU	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PLAUR	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PLG	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+PLAU	C0151825	Bone pain	DisGeNet	
+PLG	C0033300	Hutchinson-Gilford syndrome	DisGeNet	
+PLAUR	C0206693	Medullary carcinoma	DisGeNet	
+PLAU	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+PLG	C0029172	Oral Submucous Fibrosis	DisGeNet	
+PLAUR	C0206692	Carcinoma, Lobular	DisGeNet	
+PLG	C0747085	Recurrent infections of the middle ear	HumPhenOnt	
+PLAT	C2349952	Oropharyngeal Carcinoma	DisGeNet	
+PLAT	C0007222	Cardiovascular Diseases	DisGeNet	
+PLAU	C0007222	Cardiovascular Diseases	DisGeNet	
+PLG	C0007222	Cardiovascular Diseases	DisGeNet	
+PLAU	C0014591	Epistaxis	HumPhenOnt	
+PLG	C0025303	Meningococcal Infections	DisGeNet	
+PLAT	C0038443	Stress, Psychological	DisGeNet	
+PLAU	C0206726	gliosarcoma	DisGeNet	
+PLAT	C0699791	Stomach cancer	DisGeNet	
+PLAU	C0699791	Stomach cancer	DisGeNet	
+PLAUR	C0699791	Stomach cancer	DisGeNet	
+PLG	C0699791	Stomach cancer	DisGeNet	
+PLG	C0266249	Abnormality of the gallbladder	HumPhenOnt	
+PLG	C0332563	Papule	HumPhenOnt	
+PLAT	C0003850	Arteriosclerosis	DisGeNet	
+PLAU	C0003850	Arteriosclerosis	DisGeNet	
+PLG	C0003850	Arteriosclerosis	DisGeNet	
+PLAT	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+PLAU	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+PLAU	C2945695	Limb ischemia	DisGeNet	
+PLG	C2945759	aggressive cancer	DisGeNet	
+PLAUR	C1527390	Neoplasms, Intracranial	DisGeNet	
+PLAT	C0677886	Ovarian epithelial cancer	DisGeNet	
+PLAU	C0677886	Ovarian epithelial cancer	DisGeNet	
+PLAUR	C0677886	Ovarian epithelial cancer	DisGeNet	
+PLG	C0677886	Ovarian epithelial cancer	DisGeNet	
+PLAU	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+PLG	C4025900	Abnormality of female internal genitalia	HumPhenOnt	
+PLAT	C0036974	Shock, Septic	DisGeNet	
+PLG	C0006277	Bronchitis	HumPhenOnt	
+PLAT	C0008031	Chest pain	DisGeNet	
+PLAUR	C0338480	Common Migraine	DisGeNet	
+PLAU	C0035243	Respiratory tract infection	DisGeNet	
+PLG	C0035243	Respiratory tract infection	HumPhenOnt	
+PLG	C0017574	Gingivitis	HumPhenOnt	
+PLAU	C0242488	Acute Lung Injury	DisGeNet	
+PLG	C0206677	Adenomatous Polyps	DisGeNet	
+PLAU	C0002962	Angina pectoris	DisGeNet	
+PLAU	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+PLAT	C0007786	Brain Ischemia	DisGeNet	
+PLAU	C0007786	Brain Ischemia	DisGeNet	
+PLG	C0030809	Pemphigus Vulgaris	DisGeNet	
+PLAT	C0023465	Acute monocytic leukemia	DisGeNet	
+PLAU	C0080032	Pleural Effusion, Malignant	DisGeNet	
+PLG	C0376480	Gingival overgrowth	HumPhenOnt	
+PLAU	C4025824	Abnormal internal genitalia	HumPhenOnt	
+PLG	C4025824	Abnormal internal genitalia	HumPhenOnt	
+PLG	C0235267	Red eye	HumPhenOnt	
+PLAU	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+PLAT	C0751955	Brain Infarction	DisGeNet	
+PLAT	C0023487	Acute promyelocytic leukemia	DisGeNet	
+PLG	C0023487	Acute promyelocytic leukemia	DisGeNet	
+PLAU	C0024121	Lung Neoplasms	DisGeNet	
+PLAUR	C0024121	Lung Neoplasms	DisGeNet	
+PLG	C0024121	Lung Neoplasms	DisGeNet	
+PLG	C0231341	Premature aging syndrome	DisGeNet	
+PLG	C1856023	Abnormality of the vagina	HumPhenOnt	
+PLAU	C0009404	Colorectal Neoplasms	DisGeNet	
+PLAUR	C0009404	Colorectal Neoplasms	DisGeNet	
+PLG	C0009404	Colorectal Neoplasms	DisGeNet	
+PLAU	C0018965	Hematuria	DisGeNet	
+PLAU	C0241158	Scar conditions and fibrosis of skin	DisGeNet	
+PLG	C0013295	Duodenal Ulcer	HumPhenOnt	
+PLG	C0043119	Werner syndrome	DisGeNet	
+PLAU	C0879615	Stromal Neoplasm	DisGeNet	
+PLAU	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+PLG	C4023820	Abnormality of the female genitalia	HumPhenOnt	
+PLAU	C0010674	Cystic Fibrosis	DisGeNet	
+PLG	C0010674	Cystic Fibrosis	DisGeNet	
+PLAU	C0008487	Chordoma	DisGeNet	
+PLG	C0011269	Dementia, Vascular	DisGeNet	
+PLAUR	C0012546	{Diphtheria, susceptibility to} (1)	DisGeNet	
+PLG	C0920646	Renal ischaemia	DisGeNet	
+PLAT	C0027765	Other disorders of the nervous system	DisGeNet	
+PLG	C0027765	Other disorders of the nervous system	DisGeNet	
+PLG	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+PLAT	C0236733	Amphetamine-Related Disorders	DisGeNet	
+PLG	C1855889	Widened posterior fossa	HumPhenOnt	
+PLG	C4023326	Abnormality of corneal epithelium	HumPhenOnt	
+PLG	C4025725	Abnormality of the bronchi	HumPhenOnt	
+PLAU	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+PLAUR	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+PLAT	C0025202	Melanoma	DisGeNet	
+PLAU	C0025202	Melanoma	DisGeNet	
+PLAUR	C0025202	Melanoma	DisGeNet	
+PLG	C0025202	Melanoma	DisGeNet	
+PLAU	C0033999	Pterygium	DisGeNet	
+PLAT	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+PLAT	C0038454	Stroke	DisGeNet	
+PLAU	C0038454	Stroke	DisGeNet	
+PLG	C0038454	Stroke	DisGeNet	
+PLG	C0011875	Diabetic Angiopathies	DisGeNet	
+PLG	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+PLG	C1847117	Dilated fourth ventricle	HumPhenOnt	
+PLG	C4023630	Abnormality of the fourth ventricle	HumPhenOnt	
+PLAUR	C0018817	Atrial septal defect	DisGeNet	
+PLG	C0018817	Atrial septal defect	DisGeNet	
+PLG	C0009763	Conjunctivitis	HumPhenOnt	
+PLAT	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+PLG	C0031106	Periodontitis, Juvenile	DisGeNet	
+PLAU	C0005967	Bone neoplasms	DisGeNet	
+HRG	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+PLAT	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+PLAU	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+PLAU	C0002965	Angina, Unstable	DisGeNet	
+PLAU	C0040136	Thyroid Neoplasms	DisGeNet	
+PLAUR	C0040136	Thyroid Neoplasms	DisGeNet	
+PLG	C1847762	Cerebellar cyst	HumPhenOnt	
+PLAU	C0009938	Bruising susceptibility	HumPhenOnt	
+PLAT	C0007789	Cerebral palsy, spastic quadriplegic, 3	DisGeNet	
+PLG	C3280768	Abnormality of the posterior cranial fossa	HumPhenOnt	
+PLAT	C0023903	Neoplasm of the liver	DisGeNet	
+PLAU	C0023903	Neoplasm of the liver	DisGeNet	
+PLG	C0023903	Neoplasm of the liver	DisGeNet	
+PLAU	C0005411	Biliary Atresia	DisGeNet	
+PLG	C0010964	Dandy-Walker like malformation with atrioventricular septal defect	HumPhenOnt	
+PLG	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+PLG	C0376618	Endotoxemia	DisGeNet	
+PLG	C0022568	Keratitis	HumPhenOnt	
+PLG	C3887486	Interstitial fibrosis	DisGeNet	
+PLAU	C0877373	Advanced cancer	DisGeNet	
+PLG	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+PLAU	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+HRG	C0678222	Breast carcinoma	DisGeNet	
+PLAT	C0678222	Breast carcinoma	DisGeNet	
+PLAU	C0678222	Breast carcinoma	DisGeNet	
+PLAUR	C0678222	Breast carcinoma	DisGeNet	
+PLG	C0678222	Breast carcinoma	DisGeNet	
+PLG	C4025688	Abnormality of the skull base	HumPhenOnt	
+PLG	C0013146	Methamphetamine abuse	DisGeNet	
+HRG	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+PLG	C4025847	Abnormality of the conjunctiva	HumPhenOnt	
+PLAU	C0023470	Myeloid leukemia	DisGeNet	
+PLG	C0023470	Myeloid leukemia	DisGeNet	
+PLAU	C0836924	Thrombocytosis, benign familial microcytic	DisGeNet	
+PLAT	C1956346	Coronary Artery Disease	DisGeNet	
+PLAU	C1956346	Coronary Artery Disease	DisGeNet	
+PLG	C1956346	Coronary Artery Disease	DisGeNet,PheGenI	
+PLG	C0178664	Glomerulosclerosis, Focal Segmental	DisGeNet	
+PLAU	C1658953	tumor vasculature	DisGeNet	
+PLAU	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+PLG	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+PLAT	C1519346	Skin Carcinogenesis	DisGeNet	
+PLAT	C0162820	Dermatitis, Allergic Contact	DisGeNet	
+PLAU	C0019562	Von Hippel-Lindau syndrome	DisGeNet	
+PLG	C0349606	Central nervous system cyst	HumPhenOnt	
+PLG	C4021250	Intracranial cystic lesion	HumPhenOnt	
+PLAT	C1527249	Colorectal cancer	DisGeNet	
+PLAU	C1527249	Colorectal cancer	DisGeNet	
+PLAUR	C1527249	Colorectal cancer	DisGeNet	
+PLG	C1527249	Colorectal cancer	DisGeNet	
+PLAU	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+PLAUR	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+PLG	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+PLG	C4025717	Abnormality of the small intestine	HumPhenOnt	
+PLAU	C0011615	Dermatitis, Atopic	DisGeNet	
+PLAUR	C0011615	Dermatitis, Atopic	DisGeNet	
+PLAU	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+PLAUR	C1335302	Pancreatic Ductal Adenocarcinoma	DisGeNet	
+PLAT	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+PLG	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+PLG	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	

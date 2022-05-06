@@ -1,0 +1,32 @@
+node_name	node_type	
+DB00091	drug	
+ABCG2	drug_target	
+CYP3A5	drug_target	
+ABCC10	drug_target	
+PPIA	drug_target	
+SLCO1A2	drug_target	
+PPP3R2	drug_target	
+ABCB1	drug_target	
+ABCC2	drug_target	
+ABCC1	drug_target	
+ABCB11	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+ABCC3	drug_target	
+SLC22A6	drug_target	
+CYP2D6	drug_target	
+CYP2C9	drug_target	
+SLC10A2	drug_target	
+SLC10A1	drug_target	
+PPIF	drug_target	
+CYP2C8	drug_target	
+CAMLG	drug_target	
+SLCO1B1	drug_target	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Intrahepatic cholestasis	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Neutropenia	phenotype	
+Nausea	phenotype	
+Primary biliary cirrhosis	phenotype	

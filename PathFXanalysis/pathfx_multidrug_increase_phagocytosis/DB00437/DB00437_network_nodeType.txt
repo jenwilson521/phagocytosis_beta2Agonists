@@ -1,0 +1,18 @@
+node_name	node_type	
+DB00437	drug	
+AOX1	drug_target	
+XDH	drug_target	
+SLC22A8	drug_target	
+Hearing Loss, Partial	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Calcium oxalate urolithiasis	phenotype	
+Abnormality of purine metabolism	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Acute kidney injury	phenotype	
+Abnormality of nucleobase metabolism	phenotype	
+Kidney Calculi	phenotype	
+Pyelonephritis	phenotype	
+Meningeal Neoplasms	phenotype	
+Diabetic Cardiomyopathies	phenotype	
+Occupational Diseases	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	

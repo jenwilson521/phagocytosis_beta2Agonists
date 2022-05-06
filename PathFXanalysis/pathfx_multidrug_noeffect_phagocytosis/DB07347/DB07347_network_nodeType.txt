@@ -1,0 +1,145 @@
+node_name	node_type	
+DB07347	drug	
+GAPDH	drug_target	
+ATP6V1B2	drug_target	
+IgA nephropathy, susceptibility to, 3	phenotype	
+Osteoarthritis	phenotype	
+High altitude pulmonary edema	phenotype	
+Deep philtrum	phenotype	
+Bacterial endocarditis	phenotype	
+Severe myoclonic epilepsy in infancy	phenotype	
+Triploidy syndrome	phenotype	
+Chronic viral hepatitis	phenotype	
+Pregnancy in Diabetics	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+HELLP Syndrome	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Anonychia	phenotype	
+Congenital absence of germinal epithelium of testes	phenotype	
+Rous Sarcoma	phenotype	
+Ganglioneuroblastoma	phenotype	
+Triphalangeal thumb	phenotype	
+Idiopathic Membranous Glomerulonephritis	phenotype	
+Hepatitis, Alcoholic	phenotype	
+Hepatitis D Infection	phenotype	
+Ganglioneuroma	phenotype	
+Necrosis	phenotype	
+Hormone receptor positive tumor	phenotype	
+Meningococcal Infections	phenotype	
+Synophrys	phenotype	
+Underdeveloped nasal alae	phenotype	
+Thick eyebrow	phenotype	
+Generalized hypotonia	phenotype	
+Hepatosplenic schistosomiasis	phenotype	
+Microalbuminuria	phenotype	
+Facial hypertrichosis	phenotype	
+Abnormality of the frontal hairline	phenotype	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	phenotype	
+Viral hepatitis	phenotype	
+Ischemic cardiomyopathy	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Gingival overgrowth	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Mycoplasma Infections	phenotype	
+Small nail	phenotype	
+Undifferentiated carcinoma	phenotype	
+Adrenocortical adenoma	phenotype	
+Nail dystrophy	phenotype	
+Thyroid associated opthalmopathies	phenotype	
+Macroglossia	phenotype	
+Parathyroid adenoma	phenotype	
+Follicular adenoma	phenotype	
+Prolactinoma, familial	phenotype	
+Oxyphilic Adenoma	phenotype	
+Hemochromatosis	phenotype	
+Severe Acute Respiratory Syndrome	phenotype	
+Melanoma, B16	phenotype	
+Abnormality of thumb phalanx	phenotype	
+Triangular shaped phalanges of the hand	phenotype	
+Hypertrichosis	phenotype	
+Abnormality of the hairline	phenotype	
+Skeletal muscle hypertrophy	phenotype	
+Thick vermilion border	phenotype	
+Aplasia/Hypoplasia of the nails	phenotype	
+Toe syndactyly	phenotype	
+Abnormality of the gingiva	phenotype	
+Congenital abnormal hair pattern	phenotype	
+Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	phenotype	
+Abnormality of the nasal tip	phenotype	
+Aortic valve stenosis	phenotype	
+Abnormal hair pattern	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Reduced number of teeth	phenotype	
+Thymoma	phenotype	
+Trisomy	phenotype	
+Non-Malignant Ascites Adverse Event	phenotype	
+Eclampsia	phenotype	
+Congenital onset	phenotype	
+Spinal muscular atrophy with congenital bone fractures 2	phenotype	
+Abnormality of the scalp hair	phenotype	
+Abnormal number of teeth	phenotype	
+Abnormality of oral mucosa	phenotype	
+Abnormal tongue morphology	phenotype	
+Dilated cardiomyopathy 1A	phenotype	
+Primary cutaneous marginal zone B-cell lymphoma	phenotype	
+Abnormality of the scalp	phenotype	
+Death, Sudden, Cardiac	phenotype	
+Abnormality of the thumb	phenotype	
+Abnormality of the tongue	phenotype	
+Short neck	phenotype	
+Testicular seminoma	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Carcinoma, Papillary	phenotype	
+Abnormality of the cervical spine	phenotype	
+Brachydactyly, type a1, d	phenotype	
+Deafness, autosomal recessive 44	phenotype	
+Azoospermia	phenotype	
+Cutaneous malignant melanoma 3	phenotype	
+Kyphosis	phenotype	
+Diabetic Retinopathy	phenotype	
+Anemia, Sickle Cell	phenotype	
+Choriocarcinoma	phenotype	
+Syndactyly type 9	phenotype	
+Retinal degeneration	phenotype	
+Abnormality of the nail	phenotype	
+Abnormality of the philtrum	phenotype	
+Huntington's chorea	phenotype	
+Pancreatic adenocarcinoma	phenotype	
+Acute Coronary Syndrome	phenotype	
+Short digit	phenotype	
+Wide nasal bridge	phenotype	
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse	phenotype	
+Abnormality of the eyebrow	phenotype	
+Metastatic melanoma	phenotype	
+Hypoxia	phenotype	
+Renal neoplasm	phenotype	
+Hereditary pancreatitis	phenotype	
+Abnormality of the neck	phenotype	
+Septicemia	phenotype	
+Lymphoma, Follicular	phenotype	
+Abnormality of the nasal alae	phenotype	
+Abnormal hair quantity	phenotype	
+Abnormality of toe	phenotype	
+Vascular Diseases	phenotype	
+Abnormality of the periorbital region	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Abnormality of phalanx of finger	phenotype	
+Phenotypic variability	phenotype	
+Mental disorders	phenotype	
+Meningioma	phenotype	
+Thyroid cancer, nonmedullary, 4	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Abnormality of skeletal muscles	phenotype	
+Abnormality of upper lip	phenotype	
+Abnormality of muscle size	phenotype	
+Down Syndrome	phenotype	
+Thyroid Neoplasms	phenotype	
+Major depressive disorder	phenotype	
+Influenza	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Abnormality of the forehead	phenotype	
+Abnormality of the external nose	phenotype	
+Scleroderma	phenotype	
+Abnormality of dental morphology	phenotype	
+Abnormal nasal morphology	phenotype	
+Liver Diseases	phenotype	

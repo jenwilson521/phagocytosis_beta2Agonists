@@ -1,0 +1,169 @@
+node_name	node_type	
+DB00548	drug	
+TYR	drug_target	
+AKR1D1	drug_target	
+SRD5A2	drug_target	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the integument	phenotype	
+2,4-Dienoyl-CoA reductase deficiency	phenotype	
+Malignant tumor of testis	phenotype	
+Disorders of Sex Development	phenotype	
+Blue irides	phenotype	
+Abnormality of the fovea	phenotype	
+Seborrheic keratosis	phenotype	
+ALBINOIDISM, OCULOCUTANEOUS, AUTOSOMAL DOMINANT	phenotype	
+Fowlpox	phenotype	
+Homocystinuria due to CBS deficiency	phenotype	
+Steatorrhea	phenotype	
+Fat malabsorption	phenotype	
+Cholestatic liver disease	phenotype	
+Aplasia/Hypoplasia of the macula	phenotype	
+Aplasia/Hypoplasia of the retina	phenotype	
+Generalized hypopigmentation of hair	phenotype	
+Sentinel node (disorder)	phenotype	
+Generalized hypopigmentation	phenotype	
+Buphthalmos	phenotype	
+Smallpox	phenotype	
+Prostatic Diseases	phenotype	
+Skin/hair/eye pigmentation, variation in, 9	phenotype	
+Single tumor	phenotype	
+Hermansky-Pudlak syndrome	phenotype	
+Melanocytic nevus of skin	phenotype	
+Virilism	phenotype	
+Male pseudohermaphroditism	phenotype	
+Scrotal hypoplasia	phenotype	
+Prostate cancer, familial	phenotype	
+Abnormality of visual evoked potentials	phenotype	
+Freckling	phenotype	
+Elevated alkaline phosphatase	phenotype	
+Penile hypospadias	phenotype	
+Abnormality of alkaline phosphatase activity	phenotype	
+Hypermelanotic macule	phenotype	
+Intrahepatic cholestasis	phenotype	
+Menopause present (finding)	phenotype	
+Hantavirus infection in conditions classified elsewhere and of unspecified site	phenotype	
+Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	phenotype	
+Iris hypopigmentation	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Astigmatism	phenotype	
+Unspecified visual loss	phenotype	
+Disorder of endocrine system	phenotype	
+Neoplasms, Intracranial	phenotype	
+Onset	phenotype	
+Retroviridae Infections	phenotype	
+Biliary tract abnormality	phenotype	
+Abnormal enzyme/coenzyme activity	phenotype	
+Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	phenotype	
+Abnormality of the hair	phenotype	
+Abnormality of the vagina	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Benign melanocytic nevus	phenotype	
+IMMUNE SUPPRESSION	phenotype	
+Uveomeningoencephalitic Syndrome	phenotype	
+Vestibular dysfunction	phenotype	
+Hypopigmentation of hair	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Ambiguous genitalia	phenotype	
+Actinic keratosis	phenotype	
+Abnormality of the scrotum	phenotype	
+Autism 15	phenotype	
+Carcinoma, Squamous Cell	phenotype	
+Leukodystrophy, hypomyelinating 3	phenotype	
+Abnormality of hair pigmentation	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Macule	phenotype	
+Hemochromatosis	phenotype	
+Hyperbilirubinemia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Melanoma, B16	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Gynecomastia	phenotype	
+Prader-Willi syndrome	phenotype	
+Delayed menarche	phenotype	
+Abnormal iris pigmentation	phenotype	
+Abnormality of coagulation	phenotype	
+Abnormality of the small intestine	phenotype	
+Irregular hyperpigmentation	phenotype	
+Hyperopia	phenotype	
+Elevated hepatic transaminases	phenotype	
+Tourette Syndrome	phenotype	
+Abnormality of the macula	phenotype	
+Schwannoma	phenotype	
+Basal cell carcinoma	phenotype	
+Reduced visual acuity	phenotype	
+Jaundice	phenotype	
+Peripheral Arterial Disease	phenotype	
+Dermatological manifestations of systemic disorders	phenotype	
+Hirsutism	phenotype	
+Decreased liver function	phenotype	
+Abnormality of the curvature of the cornea	phenotype	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	phenotype	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	phenotype	
+Decreased fertility	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Abnormality of skin morphology	phenotype	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	phenotype	
+Squamous cell carcinoma of the skin	phenotype	
+Tumor necrosis	phenotype	
+Nevus	phenotype	
+Bleeding disorder, platelet-type, 21	phenotype	
+Hyperpigmentation of the skin	phenotype	
+Photophobia	phenotype	
+Synovial Cyst	phenotype	
+Abnormality of the skin	phenotype	
+Melanocytic nevus	phenotype	
+Congenital onset	phenotype	
+Alopecia	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Cycloid psychosis	phenotype	
+Neoplasm by histology	phenotype	
+Abnormal visual electrophysiology	phenotype	
+X-linked inheritance	phenotype	
+Spots on skin	phenotype	
+Intraocular melanoma	phenotype	
+Neoplasm, Residual	phenotype	
+Ataxia-telangiectasia syndrome	phenotype	
+Gonosomal inheritance	phenotype	
+Displacement of the external urethral meatus	phenotype	
+Skin cancer	phenotype	
+Liver failure acute infantile	phenotype	
+Hypopigmentation of the skin	phenotype	
+Malabsorption	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Anaplasia	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Ovarian Diseases	phenotype	
+Abnormality of the voice	phenotype	
+Vitiligo	phenotype	
+Abnormality of the biliary system	phenotype	
+Microphthalmia syndromic 6	phenotype	
+Hyperkeratosis	phenotype	
+Abnormality of the urethra	phenotype	
+Cutaneous malignant melanoma 3	phenotype	
+Experimental Organism Basal Cell Carcinoma	phenotype	
+Endometrial Neoplasms	phenotype	
+Hypospadias	phenotype	
+Splenomegaly	phenotype	
+Hypoplasia of penis	phenotype	
+Abnormality of the iris	phenotype	
+Epidermal thickening	phenotype	
+Abnormality of retinal pigmentation	phenotype	
+Schizophrenia	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Abnormal bleeding	phenotype	
+Mood Disorders	phenotype	
+Abnormality of refraction	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Psychotic Disorders	phenotype	
+Metastatic melanoma	phenotype	
+Thickened skin	phenotype	
+Reduced bone mineral density	phenotype	
+Abnormality of skin pigmentation	phenotype	
+Abnormality of the spleen	phenotype	
+Leukemia, T-cell acute lymphoblastoid (2)	phenotype	
+Hypoplastic male external genitalia	phenotype	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	phenotype	
+External genital hypoplasia	phenotype	
+Exanthema	phenotype	
+Ovarian epithelial cancer	phenotype	

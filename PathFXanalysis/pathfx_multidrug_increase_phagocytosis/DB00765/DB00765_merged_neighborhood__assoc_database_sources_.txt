@@ -1,0 +1,167 @@
+Gene	CUI	Phenotype	Source Databases	
+TH	C0001916	Albinism, ocular, with sensorineural deafness	DisGeNet	
+TH	C0001973	Alcohol dependence	DisGeNet	
+TH	C0002395	Alzheimer Disease	DisGeNet	
+TH	C0003944	As If Personality	DisGeNet	
+TH	C0004096	Asthma	DisGeNet	
+TH	C0004134	Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	HumPhenOnt	
+TH	C0004352	Autism 15	DisGeNet	
+TH	C0004364	Autoimmune disease 1	DisGeNet	
+TH	C0004936	Mental disorders	DisGeNet	
+TH	C0005586	Bipolar affective disorder	DisGeNet	
+TH	C0005745	Ptosis, hereditary congenital 1	HumPhenOnt	
+TH	C0006012	Borderline Personality Disorder	DisGeNet	
+TH	C0006111	Brain Diseases	DisGeNet	
+TH	C0007222	Cardiovascular Diseases	DisGeNet	
+TH	C0007786	Brain Ischemia	DisGeNet	
+TH	C0011351	Hypoplasia of dental enamel	DisGeNet	
+TH	C0011581	Depressive Disorder	DisGeNet	
+TH	C0011849	Diabetes Mellitus, Type 1	DisGeNet	
+TH	C0011854	Diabetes mellitus type 1	DisGeNet	
+TH	C0011860	Diabetes mellitus type 2	DisGeNet	
+TH	C0012236	DiGeorge sequence	DisGeNet	
+TH	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	DisGeNet	
+TH	C0013384	Dyskinesia, seizures, and intellectual developmental disorder	DisGeNet	
+TH	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+TH	C0013421	Dystonia 2, torsion, autosomal recessive	DisGeNet,HumPhenOnt	
+TH	C0014544	Epilepsy	DisGeNet	
+TH	C0015393	Abnormality of the eye	HumPhenOnt	
+TH	C0015625	Fanconi anemia	DisGeNet	
+TH	C0015674	Chronic Fatigue Syndrome	DisGeNet	
+TH	C0017075	Ganglioneuroma	DisGeNet	
+TH	C0018799	Heart Diseases	DisGeNet	
+TH	C0018801	Heart Failure	DisGeNet	
+TH	C0019348	Herpes Simplex Infections	DisGeNet	
+TH	C0019562	Von Hippel-Lindau syndrome	DisGeNet	
+TH	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TH	C0020538	Hypertension	DisGeNet	
+TH	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+TH	C0020615	Hypoglycemia, neonatal, simulating foetopathia diabetica	DisGeNet	
+TH	C0021655	Insulin Resistance	DisGeNet	
+TH	C0023186	Learning Disorders	DisGeNet	
+TH	C0023479	Acute myelomonocytic leukemia	DisGeNet	
+TH	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TH	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TH	C0024408	Azorean disease	DisGeNet	
+TH	C0024523	Malabsorption	DisGeNet	
+TH	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TH	C0025268	Multiple Endocrine Neoplasia Type 2a	DisGeNet	
+TH	C0026650	Abnormality of movement	HumPhenOnt	
+TH	C0026769	Multiple Sclerosis	DisGeNet	
+TH	C0026827	Hypotonia, infantile, with psychomotor retardation	HumPhenOnt	
+TH	C0026837	Rigidity	HumPhenOnt	
+TH	C0027051	Myocardial Infarction	DisGeNet	
+TH	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+TH	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TH	C0027746	Neurodegeneration with brain iron accumulation	DisGeNet	
+TH	C0027765	Other disorders of the nervous system	DisGeNet	
+TH	C0027868	Neuromuscular Diseases	DisGeNet	
+TH	C0028043	Nicotine Dependence	DisGeNet	
+TH	C0028259	Nodule	DisGeNet	
+TH	C0028754	Obesity	DisGeNet	
+TH	C0030567	Parkinson Disease	DisGeNet	
+TH	C0031485	Phenylketonuria	DisGeNet	
+TH	C0031511	Pheochromocytoma	DisGeNet	
+TH	C0032002	Abnormality of the pituitary gland	DisGeNet	
+TH	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+TH	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+TH	C0033375	Prolactinoma, familial	DisGeNet	
+TH	C0033578	Prostatic Neoplasms	DisGeNet	
+TH	C0033975	Psychotic Disorders	DisGeNet	
+TH	C0035372	Rett syndrome, congenital variant	DisGeNet	
+TH	C0036341	Schizophrenia	DisGeNet	
+TH	C0036349	Paranoid Schizophrenia	DisGeNet	
+TH	C0037772	Spastic paraplegia 9	DisGeNet	
+TH	C0038356	Stomach Neoplasms	DisGeNet	
+TH	C0038454	Stroke	DisGeNet	
+TH	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+TH	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+TH	C0038868	Progressive supranuclear ophthalmoplegia	DisGeNet	
+TH	C0039082	C-like syndrome	ClinVar,DisGeNet	
+TH	C0040336	Tobacco Use Disorder	DisGeNet	
+TH	C0040517	Tourette Syndrome	DisGeNet	
+TH	C0040822	Tremor, hereditary essential, 5	HumPhenOnt	
+TH	C0041948	Uremia	DisGeNet	
+TH	C0042769	Virus Diseases	DisGeNet	
+TH	C0042900	Vitiligo	DisGeNet	
+TH	C0043094	Increased body weight	DisGeNet	
+TH	C0043207	WFS1-Related Disorders	DisGeNet	
+TH	C0085580	Essential hypertension	DisGeNet	
+TH	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+TH	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+TH	C0086439	Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	HumPhenOnt	
+TH	C0149931	Migraine Disorders	DisGeNet	
+TH	C0151583	Abnormal CSF metabolite level	HumPhenOnt	
+TH	C0162429	Malnutrition	DisGeNet	
+TH	C0206132	Onset	HumPhenOnt	
+TH	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+TH	C0206718	Ganglioneuroblastoma	DisGeNet	
+TH	C0220704	Shprintzen syndrome	DisGeNet	
+TH	C0221765	Chronic schizophrenia	DisGeNet	
+TH	C0234133	Abnormality of extrapyramidal motor function	HumPhenOnt	
+TH	C0241210	Delayed speech and language development	HumPhenOnt	
+TH	C0242422	Parkinsonism	DisGeNet,HumPhenOnt	
+TH	C0242596	Neoplasm, Residual	DisGeNet	
+TH	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+TH	C0340100	High altitude pulmonary edema	DisGeNet	
+TH	C0376358	Malignant tumor of prostate	DisGeNet	
+TH	C0393593	Dystonia Disorders	DisGeNet	
+TH	C0424295	Hyperactivity	DisGeNet	
+TH	C0424448	Mask-like facies	HumPhenOnt	
+TH	C0427086	Involuntary movements	HumPhenOnt	
+TH	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+TH	C0497552	Abnormality of the nervous system	HumPhenOnt	
+TH	C0518010	body mass	DisGeNet	
+TH	C0520947	Motor delay	HumPhenOnt	
+TH	C0524620	Metabolic Syndrome X	DisGeNet	
+TH	C0525045	Mood Disorders	DisGeNet	
+TH	C0553580	Ewing's sarcoma	DisGeNet	
+TH	C0575081	Gait disturbance	HumPhenOnt	
+TH	C0600139	Prostate carcinoma	DisGeNet	
+TH	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+TH	C0699791	Stomach cancer	DisGeNet	
+TH	C0700095	Neuroblastoma	DisGeNet	
+TH	C0729233	Dissecting aneurysm of the thoracic aorta	DisGeNet	
+TH	C0740392	Infarction, Middle Cerebral Artery	DisGeNet	
+TH	C0751837	Gait ataxia	HumPhenOnt	
+TH	C0752347	Lewy Body Disease	DisGeNet	
+TH	C0852413	Abnormal muscle tone	HumPhenOnt	
+TH	C0854297	Abnormality of head or neck	HumPhenOnt	
+TH	C1135161	Disseminated neuroblastoma	DisGeNet	
+TH	C1263846	Attention deficit hyperactivity disorder	DisGeNet	
+TH	C1270972	Mild cognitive impairment	DisGeNet	
+TH	C1271104	Blood pressure finding	DisGeNet	
+TH	C1272641	Systemic arterial pressure	DisGeNet	
+TH	C1837514	Phenotypic variability	HumPhenOnt	
+TH	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+TH	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+TH	C1853743	Muscular hypotonia of the trunk	HumPhenOnt	
+TH	C1861403	Variable expressivity	HumPhenOnt	
+TH	C1862474	Decreased facial expression	HumPhenOnt	
+TH	C1866129	Abnormality of the cerebellum	HumPhenOnt	
+TH	C1970943	MAJOR AFFECTIVE DISORDER 4	DisGeNet	
+TH	C1970944	MAJOR AFFECTIVE DISORDER 5	DisGeNet	
+TH	C1970945	MAJOR AFFECTIVE DISORDER 6	DisGeNet	
+TH	C2239176	Hepatocellular carcinoma	DisGeNet	
+TH	C2700438	Major affective disorder 7	DisGeNet	
+TH	C2700439	MAJOR AFFECTIVE DISORDER 8	DisGeNet	
+TH	C2700440	MAJOR AFFECTIVE DISORDER 9	DisGeNet	
+TH	C2911647	Weight Gain Adverse Event	DisGeNet	
+TH	C3469521	FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	DisGeNet	
+TH	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	DisGeNet	
+TH	C4021085	Abnormality of brain morphology	HumPhenOnt	
+TH	C4021170	Abnormality of hindbrain morphology	HumPhenOnt	
+TH	C4021745	Abnormality of the musculature	HumPhenOnt	
+TH	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+TH	C4021812	Abnormality of the head	HumPhenOnt	
+TH	C4022738	Neurodevelopmental delay	HumPhenOnt	
+TH	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+TH	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+TH	C4022924	Abnormal eye physiology	HumPhenOnt	
+TH	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+TH	C4023353	Abnormality of coordination	HumPhenOnt	
+TH	C4023354	Abnormality of central motor function	HumPhenOnt	
+TH	C4023432	Abnormality of the metencephalon	HumPhenOnt	
+TH	C4025209	Abnormal facial expression	HumPhenOnt	
+TH	C4025710	Diminished movement	HumPhenOnt	
+TH	C4025871	Abnormality of the face	HumPhenOnt	

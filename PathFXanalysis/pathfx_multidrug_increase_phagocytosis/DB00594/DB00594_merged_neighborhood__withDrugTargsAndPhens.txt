@@ -1,0 +1,273 @@
+node1	node2	edge_score	
+DB00594	SCNN1D	1.0	
+DB00594	SCNN1G	1.0	
+DB00594	ASIC2	1.0	
+DB00594	SLC22A4	1.0	
+DB00594	SLC22A1	1.0	
+DB00594	ASIC1	1.0	
+DB00594	SLC22A2	1.0	
+DB00594	SCNN1A	1.0	
+DB00594	SLC9A1	1.0	
+DB00594	PLAU	1.0	
+DB00594	AOC1	1.0	
+DB00594	SCNN1B	1.0	
+SCNN1D		1
+SCNN1G		1
+ASIC2		1
+SLC22A4		1
+SLC22A1		1
+SLC22A1	rs628031	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+SLC22A1	rs12208357	0.99
+SLC22A1	rs594709	0.99
+SLC22A1	rs34130495	0.99
+SLC22A1	rs72552763	0.99
+SLC22A1	rs36056065	0.99
+SLC22A1	rs35167514	0.99
+SLC22A1	rs622342	0.99
+SLC22A1	rs683369	0.99
+SLC22A1	rs2282143	0.99
+ASIC1		1
+SLC22A2		1
+SCNN1A		1
+SLC9A1	STAB2	0.7989062580087279
+SLC9A1		1
+PLAU	PLAUR	0.8484307441293273
+PLAU		1
+PLAU	PLAU	0.8421959353175904
+PLAU	PLG	0.8564332803525301
+AOC1		1
+SCNN1B		1
+Bronchitis	PLG	1.0	
+Bronchitis	SCNN1A	1.0	
+Bronchitis	SCNN1B	1.0	
+Bronchitis	SCNN1G	1.0	
+Hyperkalemia	SCNN1A	1.0	
+Hyperkalemia	SCNN1B	1.0	
+Hyperkalemia	SCNN1G	1.0	
+Abnormality of sodium homeostasis	SCNN1A	1.0	
+Abnormality of sodium homeostasis	SCNN1B	1.0	
+Abnormality of sodium homeostasis	SCNN1G	1.0	
+Abnormality of the bronchi	PLG	1.0	
+Abnormality of the bronchi	SCNN1A	1.0	
+Abnormality of the bronchi	SCNN1B	1.0	
+Abnormality of the bronchi	SCNN1G	1.0	
+Hyponatremia	SCNN1A	1.0	
+Hyponatremia	SCNN1B	1.0	
+Hyponatremia	SCNN1G	1.0	
+Adrenal overactivity	SCNN1A	1.0	
+Adrenal overactivity	SCNN1B	1.0	
+Adrenal overactivity	SCNN1G	1.0	
+Recurrent upper respiratory tract infections	PLG	1.0	
+Recurrent upper respiratory tract infections	SCNN1A	1.0	
+Recurrent upper respiratory tract infections	SCNN1B	1.0	
+Recurrent upper respiratory tract infections	SCNN1G	1.0	
+Abnormality of the nasopharynx	PLG	1.0	
+Abnormality of the nasopharynx	SCNN1A	1.0	
+Abnormality of the nasopharynx	SCNN1B	1.0	
+Abnormality of the nasopharynx	SCNN1G	1.0	
+Hyperaldosteronism, familial, type IV	SCNN1A	1.0	
+Hyperaldosteronism, familial, type IV	SCNN1B	1.0	
+Hyperaldosteronism, familial, type IV	SCNN1G	1.0	
+Abnormality of potassium homeostasis	SCNN1A	1.0	
+Abnormality of potassium homeostasis	SCNN1B	1.0	
+Abnormality of potassium homeostasis	SCNN1G	1.0	
+Hypotension	PLAU	1.0	
+Hypotension	SCNN1A	1.0	
+Hypotension	SCNN1B	1.0	
+Hypotension	SCNN1G	1.0	
+Abnormality of the pharynx	PLG	1.0	
+Abnormality of the pharynx	SCNN1A	1.0	
+Abnormality of the pharynx	SCNN1B	1.0	
+Abnormality of the pharynx	SCNN1G	1.0	
+Hypertension	AOC1	1.0	
+Hypertension	ASIC1	1.0	
+Hypertension	PLG	1.0	
+Hypertension	SCNN1A	1.0	
+Hypertension	SCNN1B	1.0	
+Hypertension	SCNN1G	1.0	
+Hypertension	SLC22A1	1.0	
+Hypertension	SLC22A2	1.0	
+Hypertension	SLC22A4	1.0	
+Hypertension	SLC9A1	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SCNN1A	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SCNN1B	1.0	
+Abnormality of monovalent inorganic cation homeostasis	SCNN1G	1.0	
+Metabolic acidosis	SCNN1A	1.0	
+Metabolic acidosis	SCNN1B	1.0	
+Metabolic acidosis	SCNN1G	1.0	
+Bronchitis, Chronic	SCNN1A	1.0	
+Bronchitis, Chronic	SCNN1B	1.0	
+Bronchitis, Chronic	SCNN1G	1.0	
+Abnormality of the tracheobronchial system	PLG	1.0	
+Abnormality of the tracheobronchial system	SCNN1A	1.0	
+Abnormality of the tracheobronchial system	SCNN1B	1.0	
+Abnormality of the tracheobronchial system	SCNN1G	1.0	
+Leg Ulcer	PLAU	1.0	
+Leg Ulcer	PLG	1.0	
+Endotoxemia	PLG	1.0	
+Endotoxemia	SLC22A1	1.0	
+Endotoxemia	SLC22A2	1.0	
+Abnormal urinary electrolyte concentration	SCNN1A	1.0	
+Abnormal urinary electrolyte concentration	SCNN1B	1.0	
+Abnormal urinary electrolyte concentration	SCNN1G	1.0	
+Respiratory tract infection	PLAU	1.0	
+Respiratory tract infection	PLG	1.0	
+Respiratory tract infection	SCNN1A	1.0	
+Respiratory tract infection	SCNN1B	1.0	
+Respiratory tract infection	SCNN1G	1.0	
+Atherosclerosis	PLAU	1.0	
+Atherosclerosis	PLAUR	1.0	
+Atherosclerosis	PLG	1.0	
+Atherosclerosis	SCNN1A	1.0	
+Atherosclerosis	SCNN1B	1.0	
+Atherosclerosis	SCNN1G	1.0	
+Atherosclerosis	SLC22A1	1.0	
+Atherosclerosis	SLC9A1	1.0	
+Dehydration	SCNN1A	1.0	
+Dehydration	SCNN1B	1.0	
+Dehydration	SCNN1G	1.0	
+Extrahepatic cholestasis	SLC22A1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Abnormality of adrenal physiology	SCNN1A	1.0	
+Abnormality of adrenal physiology	SCNN1B	1.0	
+Abnormality of adrenal physiology	SCNN1G	1.0	
+Cystic Fibrosis	PLAU	1.0	
+Cystic Fibrosis	PLG	1.0	
+Cystic Fibrosis	SCNN1A	1.0	
+Cystic Fibrosis	SCNN1B	1.0	
+Cystic Fibrosis	SCNN1G	1.0	
+Dermatitis Herpetiformis	PLAU	1.0	
+Dermatitis Herpetiformis	PLG	1.0	
+Bronchiectasis	SCNN1A	1.0	
+Bronchiectasis	SCNN1B	1.0	
+Bronchiectasis	SCNN1G	1.0	
+Polycystic Ovary Syndrome	PLAU	1.0	
+Polycystic Ovary Syndrome	PLAUR	1.0	
+Polycystic Ovary Syndrome	PLG	1.0	
+Polycystic Ovary Syndrome	SCNN1A	1.0	
+Polycystic Ovary Syndrome	SLC22A1	1.0	
+Alkalosis	SCNN1B	1.0	
+Alkalosis	SCNN1G	1.0	
+Kidney Diseases	PLAUR	1.0	
+Kidney Diseases	PLG	1.0	
+Kidney Diseases	SCNN1A	1.0	
+Kidney Diseases	SCNN1B	1.0	
+Kidney Diseases	SCNN1G	1.0	
+Kidney Diseases	SLC22A2	1.0	
+Essential hypertension	PLG	1.0	
+Essential hypertension	SCNN1A	1.0	
+Essential hypertension	SCNN1B	1.0	
+Essential hypertension	SLC9A1	1.0	
+Abnormality of the upper respiratory tract	PLG	1.0	
+Abnormality of the upper respiratory tract	SCNN1A	1.0	
+Abnormality of the upper respiratory tract	SCNN1B	1.0	
+Abnormality of the upper respiratory tract	SCNN1G	1.0	
+Infantile-onset ascending hereditary spastic paralysis	PLG	1.0	
+Infantile-onset ascending hereditary spastic paralysis	SCNN1A	1.0	
+Infantile-onset ascending hereditary spastic paralysis	SCNN1B	1.0	
+Infantile-onset ascending hereditary spastic paralysis	SCNN1G	1.0	
+Renovascular hypertension	SCNN1B	1.0	
+Renovascular hypertension	SLC9A1	1.0	
+Hypokalemia	SCNN1B	1.0	
+Hypokalemia	SCNN1G	1.0	
+Recurrent respiratory infections	PLG	1.0	
+Recurrent respiratory infections	SCNN1A	1.0	
+Recurrent respiratory infections	SCNN1B	1.0	
+Recurrent respiratory infections	SCNN1G	1.0	
+Abnormality of the adrenal glands	SCNN1A	1.0	
+Abnormality of the adrenal glands	SCNN1B	1.0	
+Abnormality of the adrenal glands	SCNN1G	1.0	
+Henoch-Schoenlein Purpura	ASIC2	1.0	
+Henoch-Schoenlein Purpura	PLAU	1.0	
+Lymphangiomyomatosis	PLAU	1.0	
+Lymphangiomyomatosis	PLG	1.0	
+Intrahepatic cholestasis	SLC22A1	1.0	
+Intrahepatic cholestasis	SLC22A2	1.0	
+Seborheic dermatitis	PLAU	1.0	
+Seborheic dermatitis	PLAUR	1.0	
+Seborheic dermatitis	PLG	1.0	
+Secondary hyperparathyroidism	SCNN1A	1.0	
+Secondary hyperparathyroidism	SCNN1B	1.0	
+Secondary hyperparathyroidism	SLC22A1	1.0	
+Preeclampsia/eclampsia 1	PLAU	1.0	
+Preeclampsia/eclampsia 1	PLAUR	1.0	
+Preeclampsia/eclampsia 1	SCNN1A	1.0	
+Preeclampsia/eclampsia 1	SCNN1B	1.0	
+Premature Birth	PLAU	1.0	
+Premature Birth	PLAUR	1.0	
+Premature Birth	PLG	1.0	
+Premature Birth	SCNN1A	1.0	
+Diarrhea 8, secretory sodium, congenital	SCNN1A	1.0	
+Diarrhea 8, secretory sodium, congenital	SCNN1B	1.0	
+Diarrhea 8, secretory sodium, congenital	SCNN1G	1.0	
+Diarrhea 8, secretory sodium, congenital	SLC9A1	1.0	
+Hypoxia-Ischemia, Brain	PLAU	1.0	
+Hypoxia-Ischemia, Brain	SLC9A1	1.0	
+Abnormality of cation homeostasis	SCNN1A	1.0	
+Abnormality of cation homeostasis	SCNN1B	1.0	
+Abnormality of cation homeostasis	SCNN1G	1.0	
+Inflammation	ASIC1	1.0	
+Inflammation	ASIC2	1.0	
+Inflammation	PLAU	1.0	
+Inflammation	PLAUR	1.0	
+Inflammation	SCNN1A	1.0	
+Ischemia	ASIC1	1.0	
+Ischemia	PLAU	1.0	
+Ischemia	PLG	1.0	
+Ischemia	SLC22A4	1.0	
+Ischemia	SLC9A1	1.0	
+Vomiting	SCNN1A	1.0	
+Vomiting	SCNN1B	1.0	
+Vomiting	SCNN1G	1.0	
+Cardiac fibrosis	PLAU	1.0	
+Cardiac fibrosis	PLG	1.0	
+{Pemphigoid, susceptibility to} (2)	PLAU	1.0	
+{Pemphigoid, susceptibility to} (2)	PLG	1.0	
+Breast Cancer Model	PLAU	1.0	
+Breast Cancer Model	PLG	1.0	
+Abnormality of ion homeostasis	SCNN1A	1.0	
+Abnormality of ion homeostasis	SCNN1B	1.0	
+Abnormality of ion homeostasis	SCNN1G	1.0	
+Meningioma, benign, no ICD-O subtype	PLAU	1.0	
+Meningioma, benign, no ICD-O subtype	PLAUR	1.0	
+Meningioma, benign, no ICD-O subtype	PLG	1.0	
+Duodenal Ulcer	PLG	1.0	
+Duodenal Ulcer	SLC22A1	1.0	
+Panic disorder 1	ASIC1	1.0	
+Panic disorder 1	ASIC2	1.0	
+Mitral Valve Prolapse	PLAU	1.0	
+Mitral Valve Prolapse	PLG	1.0	
+Arterial thrombosis	PLAU	1.0	
+Arterial thrombosis	PLG	1.0	
+Acute myocardial ischemia	ASIC1	1.0	
+Acute myocardial ischemia	ASIC2	1.0	
+Acute myocardial ischemia	PLG	1.0	
+Acute myocardial ischemia	SLC9A1	1.0	
+Hepatopulmonary Syndrome	PLAU	1.0	
+Hepatopulmonary Syndrome	PLG	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	PLG	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	SCNN1A	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	SCNN1B	1.0	
+Abnormality of cerebral artery	SCNN1B	1.0	
+Abnormality of cerebral artery	SCNN1G	1.0	
+Primary adrenal insufficiency	SCNN1B	1.0	
+Primary adrenal insufficiency	SCNN1G	1.0	
+Decreased beta-glucocerebrosidase protein and activity	SCNN1B	1.0	
+Decreased beta-glucocerebrosidase protein and activity	SCNN1G	1.0	
+Cerebral ischemia	PLG	1.0	
+Cerebral ischemia	SCNN1B	1.0	
+Cerebral ischemia	SCNN1G	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	PLG	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	SCNN1A	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	SCNN1B	1.0	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	SCNN1G	1.0	
+Ulcerative colitis	AOC1	1.0	
+Ulcerative colitis	SCNN1B	1.0	
+Ulcerative colitis	SCNN1G	1.0	
+Ulcerative colitis	SLC22A4	1.0	
+Ulcerative colitis	SLC9A1	1.0	
+Cardiomegaly	AOC1	1.0	
+Cardiomegaly	PLAU	1.0	
+Cardiomegaly	SLC9A1	1.0	

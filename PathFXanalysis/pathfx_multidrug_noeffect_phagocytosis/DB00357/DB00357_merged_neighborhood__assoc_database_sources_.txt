@@ -1,0 +1,11 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP11A1	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP2C19	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2C19	C0032229	Pleural Neoplasms	DisGeNet	
+CYP11A1	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+CYP1A2	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+CYP2C19	C0001627	Congenital adrenal hyperplasia	DisGeNet	

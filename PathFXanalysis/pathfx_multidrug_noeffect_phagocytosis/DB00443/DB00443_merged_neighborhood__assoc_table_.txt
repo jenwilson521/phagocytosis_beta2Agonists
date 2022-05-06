@@ -1,0 +1,3 @@
+rank	phenotype	cui	assoc in neigh	assoc in intom	probability	Benjamini-Hochberg	genes	
+7	Bone necrosis	C0029445	3	45	5.885294479313075e-06	7.446808510638299e-06	ABCB1,CYP3A4,NR3C1
+20	Depressive Symptoms	C0086132	4	122	1.7251751904701074e-05	2.1276595744680852e-05	ABCB1,CYP19A1,CYP3A4,NR3C1

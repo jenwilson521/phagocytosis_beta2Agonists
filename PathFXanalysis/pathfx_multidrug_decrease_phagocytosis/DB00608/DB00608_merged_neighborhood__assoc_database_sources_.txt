@@ -1,0 +1,231 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+LTA	C0013182	Drug Allergy	DisGeNet	
+TNF	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+TNF	C0030201	Acute postoperative pain	DisGeNet	
+TNFRSF1A	C0030201	Acute postoperative pain	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2C8	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTA2	C0023055	Neoplasm of the larynx	DisGeNet	
+MGST1	C0023055	Neoplasm of the larynx	DisGeNet	
+TNF	C0023055	Neoplasm of the larynx	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+TNF	C0344307	Pain insensitivity	DisGeNet	
+IRAK4	C0276226	Herpes simplex encephalitis, susceptibility to, 7	DisGeNet	
+TNF	C0276226	Herpes simplex encephalitis, susceptibility to, 7	DisGeNet	
+TRAF3	C0276226	Herpes simplex encephalitis, susceptibility to, 7	DisGeNet	
+UNC93B1	C0276226	Herpes simplex encephalitis, susceptibility to, 7	ClinVar,DisGeNet	
+HSP90B1	C0333516	Tumor necrosis	DisGeNet	
+MYD88	C0333516	Tumor necrosis	DisGeNet	
+RIPK1	C0333516	Tumor necrosis	DisGeNet	
+RNF31	C0333516	Tumor necrosis	DisGeNet	
+TNF	C0333516	Tumor necrosis	DisGeNet	
+TNFRSF1A	C0333516	Tumor necrosis	DisGeNet	
+TRAF2	C0333516	Tumor necrosis	DisGeNet	
+TRAF6	C0333516	Tumor necrosis	DisGeNet	
+CYP1A1	C0026857	Musculoskeletal Diseases	DisGeNet	
+CYP2D6	C0026857	Musculoskeletal Diseases	DisGeNet	
+TLR8	C0026857	Musculoskeletal Diseases	DisGeNet	
+TLR9	C0026857	Musculoskeletal Diseases	DisGeNet	
+TNF	C0026857	Musculoskeletal Diseases	DisGeNet	
+TNFRSF1A	C0026857	Musculoskeletal Diseases	DisGeNet	
+TRAF2	C0026857	Musculoskeletal Diseases	DisGeNet	
+CYP1A1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+CYP2D6	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TLR8	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TLR9	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TNF	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TNFRSF1A	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TRAF2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+LTA	C0004030	Systemic aspergillosis	DisGeNet	
+TLR9	C0004030	Systemic aspergillosis	DisGeNet	
+TNF	C0004030	Systemic aspergillosis	DisGeNet	
+TNFRSF1A	C0004030	Systemic aspergillosis	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2C8	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTA2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+TNF	C0031347	Pharyngeal Neoplasms	DisGeNet	
+ABCB1	C0024535	Malaria, Falciparum	DisGeNet	
+CYP2C8	C0024535	Malaria, Falciparum	DisGeNet	
+IRF7	C0024535	Malaria, Falciparum	DisGeNet	
+LTA	C0024535	Malaria, Falciparum	DisGeNet	
+TLR9	C0024535	Malaria, Falciparum	DisGeNet	
+TNF	C0024535	Malaria, Falciparum	DisGeNet	
+TRAF2	C0024535	Malaria, Falciparum	DisGeNet	
+CYP1A1	C0015929	Fetal Diseases	DisGeNet	
+CYP2D6	C0015929	Fetal Diseases	DisGeNet	
+TLR8	C0015929	Fetal Diseases	DisGeNet	
+TLR9	C0015929	Fetal Diseases	DisGeNet	
+TNF	C0015929	Fetal Diseases	DisGeNet	
+TNFRSF1A	C0015929	Fetal Diseases	DisGeNet	
+TRAF2	C0015929	Fetal Diseases	DisGeNet	
+ABCB1	C0032787	Postoperative Complications	DisGeNet	
+CYP2D6	C0032787	Postoperative Complications	DisGeNet	
+CYP3A5	C0032787	Postoperative Complications	DisGeNet	
+LTA	C0032787	Postoperative Complications	DisGeNet	
+TNF	C0032787	Postoperative Complications	DisGeNet	
+ABCB1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP1A1	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+CYP2D6	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+LTA	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+MYD88	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+TLR8	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+TLR9	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+TNF	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+ABCB1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+BAG4	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+BIRC3	C0024305	Non-Hodgkin lymphoma	DisGeNet,HumPhenOnt	
+CYP1A1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+LTA	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+RIPK1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TLR9	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TNF	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TNFRSF1A	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRADD	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF3	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF6	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+ABCB1	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP3A4	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP3A5	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+LTA	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+MAP3K14	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+TNF	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+CYP1A1	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2C8	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP2D6	C0026640	Neoplasm of the oral cavity	DisGeNet	
+CYP3A4	C0026640	Neoplasm of the oral cavity	DisGeNet	
+GSTA2	C0026640	Neoplasm of the oral cavity	DisGeNet	
+LTA	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TNF	C0026640	Neoplasm of the oral cavity	DisGeNet	
+TNFRSF1A	C0026640	Neoplasm of the oral cavity	DisGeNet	
+ABCB1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+BIRC3	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+CYP1A1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+IRAK1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+IRAK4	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+LTA	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+MAP3K14	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+MYD88	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+RIPK1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+RNF31	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TNF	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TRAF3	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TRAF6	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+CYP1A1	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+LTA	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+MYD88	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+TLR9	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+TNF	C0339143	Thyroid associated opthalmopathies	DisGeNet	
+CYP1A1	C0020517	Hypersensitivity	DisGeNet	
+IRAK4	C0020517	Hypersensitivity	DisGeNet	
+MYD88	C0020517	Hypersensitivity	DisGeNet	
+TLR9	C0020517	Hypersensitivity	DisGeNet	
+TNF	C0020517	Hypersensitivity	DisGeNet	
+TNFRSF1A	C0020517	Hypersensitivity	DisGeNet	
+TRAF6	C0020517	Hypersensitivity	DisGeNet	
+IRF7	C0035690	RNA Virus Infections	DisGeNet	
+TLR8	C0035690	RNA Virus Infections	DisGeNet	
+TRAF3	C0035690	RNA Virus Infections	DisGeNet	
+CYP1A1	C0273115	Lung Injury	DisGeNet	
+TNF	C0273115	Lung Injury	DisGeNet	
+TNFRSF1A	C0273115	Lung Injury	DisGeNet	
+IRAK4	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+MYD88	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+TNF	C2316212	Cryopyrin-Associated Periodic Syndromes	DisGeNet	
+ABCB1	C0015814	Femur Head Necrosis	DisGeNet	
+CYP3A4	C0015814	Femur Head Necrosis	DisGeNet	
+TNF	C0015814	Femur Head Necrosis	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A5	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0029172	Oral Submucous Fibrosis	DisGeNet	
+CYP3A5	C0029172	Oral Submucous Fibrosis	DisGeNet	
+LTA	C0029172	Oral Submucous Fibrosis	DisGeNet	
+TNF	C0029172	Oral Submucous Fibrosis	DisGeNet	
+IRAK1	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+LTA	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+TNF	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+TNFRSF1A	C0036983	 {Septic shock, susceptibility to} (3)	DisGeNet	
+CYP1A1	C0009782	Connective Tissue Diseases	DisGeNet	
+CYP2D6	C0009782	Connective Tissue Diseases	DisGeNet	
+TLR8	C0009782	Connective Tissue Diseases	DisGeNet	
+TLR9	C0009782	Connective Tissue Diseases	DisGeNet	
+TNF	C0009782	Connective Tissue Diseases	DisGeNet	
+TNFRSF1A	C0009782	Connective Tissue Diseases	DisGeNet	
+TRAF2	C0009782	Connective Tissue Diseases	DisGeNet	
+LTA	C0038363	Oral aphthae	DisGeNet	
+TNF	C0038363	Oral aphthae	DisGeNet	
+TNFRSF1A	C0038363	Oral aphthae	DisGeNet	
+ABCB1	C0024530	Malaria	DisGeNet	
+CYP2C8	C0024530	Malaria	DisGeNet	
+CYP3A4	C0024530	Malaria	DisGeNet	
+CYP3A5	C0024530	Malaria	DisGeNet	
+IRAK4	C0024530	Malaria	DisGeNet	
+LTA	C0024530	Malaria	DisGeNet	
+MYD88	C0024530	Malaria	DisGeNet	
+TLR9	C0024530	Malaria	DisGeNet	
+TNF	C0024530	Malaria	DisGeNet	
+TNFRSF1A	C0024530	Malaria	DisGeNet	
+TRAF2	C0024530	Malaria	DisGeNet	
+TRAF3	C0024530	Malaria	DisGeNet	
+ABCB1	C1279296	Chronic leukemia	DisGeNet	
+CYP3A5	C1279296	Chronic leukemia	DisGeNet	
+TNF	C1279296	Chronic leukemia	DisGeNet	
+ABCB1	C0877373	Advanced cancer	DisGeNet	
+CYP2D6	C0877373	Advanced cancer	DisGeNet	
+CYP3A4	C0877373	Advanced cancer	DisGeNet	
+HSP90B1	C0877373	Advanced cancer	DisGeNet	
+TNF	C0877373	Advanced cancer	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP2D6	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP3A4	C0008312	Primary biliary cirrhosis	DisGeNet	
+MAP3K14	C0008312	Primary biliary cirrhosis	DisGeNet	
+MYD88	C0008312	Primary biliary cirrhosis	DisGeNet	
+TLR9	C0008312	Primary biliary cirrhosis	DisGeNet	
+TNF	C0008312	Primary biliary cirrhosis	DisGeNet	
+TNFRSF1A	C0008312	Primary biliary cirrhosis	DisGeNet	
+TNF	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+TNFRSF1A	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+TRAF6	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+TNF	C0686347	Tardive Dyskinesia	DisGeNet	
+ABCB1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP1A1	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2C8	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP2D6	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A4	C0018671	Head and Neck Neoplasms	DisGeNet	
+CYP3A5	C0018671	Head and Neck Neoplasms	DisGeNet	
+GSTA2	C0018671	Head and Neck Neoplasms	DisGeNet	
+TAX1BP1	C0018671	Head and Neck Neoplasms	DisGeNet	
+TNF	C0018671	Head and Neck Neoplasms	DisGeNet	
+IRAK1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+IRAK4	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+LTA	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+TNF	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+ABCB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP1A1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2D6	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A5	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+MYD88	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+TNF	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	

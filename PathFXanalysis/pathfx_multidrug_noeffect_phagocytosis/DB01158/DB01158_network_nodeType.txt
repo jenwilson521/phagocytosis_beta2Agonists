@@ -1,0 +1,22 @@
+node_name	node_type	
+DB01158	drug	
+ATP1A1	drug_target	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Rheumatoid arthritis	phenotype	
+Bipolar affective disorder	phenotype	
+Cystic Fibrosis	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+Intrauterine growth retardation	phenotype	
+Headache	phenotype	
+Sensorineural hearing impairment	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Hypertension	phenotype	
+Steinert myotonic dystrophy syndrome	phenotype	
+Paresthesia	phenotype	
+Essential hypertension	phenotype	
+Acute myocardial ischemia	phenotype	
+Vesicular Stomatitis	phenotype	
+Congenital Myotonic Dystrophy	phenotype	
+Endothelial dysfunction	phenotype	
+Severe Acute Respiratory Syndrome	phenotype	
+Primary hyperaldosteronism	phenotype	

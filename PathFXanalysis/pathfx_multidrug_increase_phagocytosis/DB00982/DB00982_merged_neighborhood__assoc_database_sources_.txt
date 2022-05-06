@@ -1,0 +1,79 @@
+Gene	CUI	Phenotype	Source Databases	
+RARA	C0149940	Sciatic Neuropathy	DisGeNet	
+RXRA	C0149940	Sciatic Neuropathy	DisGeNet	
+CRABP2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+H3F3B	C0024667	Animal Mammary Neoplasms	DisGeNet	
+HIST4H4	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RARA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RXRA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RARA	C0025007	Measles	DisGeNet	
+RXRA	C0025007	Measles	DisGeNet	
+RARA	C0085183	Neoplasms, Second Primary	DisGeNet	
+RXRA	C0085183	Neoplasms, Second Primary	DisGeNet	
+H3F3B	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+RXRA	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+CRABP2	C0242339	Dyslipidemias	DisGeNet	
+RXRA	C0242339	Dyslipidemias	DisGeNet	
+RARA	C0795864	Smith-Magenis syndrome	DisGeNet	
+RARA	C0078911	AIDS-Associated Nephropathy	DisGeNet	
+HIST4H4	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+RARA	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+CRABP2	C0268583	Methylmalonic aciduria due to transcobalamin receptor defect	DisGeNet	
+CRABP2	C0007137	Squamous cell carcinoma	DisGeNet	
+HIST4H4	C0007137	Squamous cell carcinoma	DisGeNet	
+RARA	C0007137	Squamous cell carcinoma	DisGeNet	
+RXRA	C0007137	Squamous cell carcinoma	DisGeNet	
+H3F3B	C0220603	childhood brain tumor	DisGeNet	
+RXRA	C1384494	Metastatic Carcinoma	DisGeNet	
+RARA	C0027721	Lipoid nephrosis	DisGeNet	
+RARA	C0001314	Acute disease of cardiovascular system	DisGeNet	
+CRABP2	C0017638	Glioma	DisGeNet	
+H3F3B	C0017638	Glioma	DisGeNet	
+HIST1H3J	C0017638	Glioma	DisGeNet	
+HIST4H4	C0017638	Glioma	DisGeNet	
+CRABP2	C0596263	Carcinogenesis	DisGeNet	
+H3F3B	C0596263	Carcinogenesis	DisGeNet	
+HIST4H4	C0596263	Carcinogenesis	DisGeNet	
+RARA	C0596263	Carcinogenesis	DisGeNet	
+RXRA	C0596263	Carcinogenesis	DisGeNet	
+CRABP2	C0023267	Leiomyoma	DisGeNet	
+RXRA	C0023267	Leiomyoma	DisGeNet	
+RARA	C0042341	Varicocele	DisGeNet	
+RARA	C0242621	Isochromosomes	DisGeNet	
+CRABP2	C0027533	Neck Neoplasms	DisGeNet	
+CRABP2	C0042133	Uterine leiomyoma	DisGeNet	
+RXRA	C0042133	Uterine leiomyoma	DisGeNet	
+RXRA	C0016978	Neoplasm of the gallbladder	DisGeNet	
+RXRA	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+RXRA	C0948480	Coronary Restenosis	DisGeNet	
+RARA	C0010701	Phyllodes tumor, benign	DisGeNet	
+CRABP2	C0027708	Wilms Tumor	DisGeNet	
+RARA	C0027708	Wilms Tumor	DisGeNet	
+RARA	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+RXRA	C0850572	Adenomatous polyp of colon	DisGeNet	
+RXRA	C0019284	Diaphragmatic hernia	DisGeNet	
+RARA	C0677936	Refractory cancer	DisGeNet	
+HIST4H4	C0006826	Cancer of the lower GI tract	DisGeNet	
+RARA	C0006826	Cancer of the lower GI tract	DisGeNet	
+CRABP2	C0154251	Disorders of lipoid metabolism	DisGeNet	
+RARA	C0178421	Fibroadenoma of the breast	DisGeNet	
+RARA	C0036323	Hepatosplenic schistosomiasis	DisGeNet	
+H3F3B	C0206638	Giant cell tumor of bone	DisGeNet	
+HIST4H4	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+H3F3B	C0017525	Giant Cell Tumors	DisGeNet	
+RARA	C0023487	Acute promyelocytic leukemia	ClinVar,DisGeNet,HumPhenOnt	
+RXRA	C0023487	Acute promyelocytic leukemia	DisGeNet	
+RARA	C0544886	Somatic mutation	HumPhenOnt	
+HIST4H4	C0238288	Facioscapulohumeral muscular dystrophy	DisGeNet	
+H3F3B	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+CRABP2	C1709246	Non-Neoplastic Disorder	DisGeNet	
+RARA	C1709246	Non-Neoplastic Disorder	DisGeNet	
+RXRA	C0242231	Coronary artery stenosis	DisGeNet	
+RXRA	C0947622	Cholecystolithiasis	DisGeNet	
+RXRA	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+RXRA	C0205647	Follicular adenoma	DisGeNet	
+CRABP2	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+HIST4H4	C0008626	Congenital chromosomal disease	DisGeNet	
+RARA	C0008626	Congenital chromosomal disease	DisGeNet	
+RARA	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+RARA	C0270814	Spastic syndrome	DisGeNet	

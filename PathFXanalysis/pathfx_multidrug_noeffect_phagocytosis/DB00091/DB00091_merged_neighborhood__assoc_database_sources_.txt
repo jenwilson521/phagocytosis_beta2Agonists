@@ -1,0 +1,60 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+SLCO1B1	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2D6	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB11	C0008372	Intrahepatic cholestasis	DisGeNet,HumPhenOnt	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC10A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC10A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCG2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB1	C0027947	Neutropenia	DisGeNet	
+ABCC1	C0027947	Neutropenia	DisGeNet	
+ABCC2	C0027947	Neutropenia	DisGeNet	
+ABCG2	C0027947	Neutropenia	DisGeNet	
+CXCR4	C0027947	Neutropenia	DisGeNet,HumPhenOnt	
+CYP2C19	C0027947	Neutropenia	DisGeNet	
+CYP2C8	C0027947	Neutropenia	DisGeNet	
+CYP2C9	C0027947	Neutropenia	DisGeNet	
+CYP3A4	C0027947	Neutropenia	DisGeNet	
+CYP3A5	C0027947	Neutropenia	DisGeNet	
+SLCO1B1	C0027947	Neutropenia	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+ABCG2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB11	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCG2	C0008312	Primary biliary cirrhosis	DisGeNet	
+CCR5	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP2D6	C0008312	Primary biliary cirrhosis	DisGeNet	
+CYP3A4	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLC10A1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B1	C0008312	Primary biliary cirrhosis	DisGeNet	

@@ -1,0 +1,18 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP11A1	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP3A4	C0877008	Enzyme inhibition disorder	DisGeNet	
+CYP11A1	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+CYP11A1	C0014130	Disorder of endocrine system	DisGeNet	
+SHBG	C0014130	Disorder of endocrine system	DisGeNet	
+CYP11A1	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+SHBG	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+SERPINA6	C0021361	Female infertility	DisGeNet	
+SHBG	C0021361	Female infertility	DisGeNet	
+CYP3A4	C0206624	Hepatoblastoma	DisGeNet	
+SERPINA6	C0206624	Hepatoblastoma	DisGeNet	
+SHBG	C0206624	Hepatoblastoma	DisGeNet	
+SERPINA6	C0000809	Recurrent abortion	DisGeNet	
+SHBG	C0000809	Recurrent abortion	DisGeNet	
+CYP11A1	C0008354	Cholera	DisGeNet	
+FDX1	C0008354	Cholera	DisGeNet	

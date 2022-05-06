@@ -1,0 +1,922 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+APOA1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOA2	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOA4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOC1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOC2	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+APOC3	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+APOE	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+CDCP1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C19	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C8	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C9	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A5	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+F7	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+HP	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+NPHS1	C0020473	Hyperlipidemia, combined, 1	HumPhenOnt	
+SLC25A13	C0020473	Hyperlipidemia, combined, 1	HumPhenOnt	
+FN1	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+GFAP	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT1	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT10	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT14	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	ClinVar,DisGeNet	
+KRT5	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	ClinVar,DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT1	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT10	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT14	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT16	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT5	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT6A	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT1	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT10	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT14	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT16	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT5	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT6A	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+KRT9	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+ABCB1	C0022661	Kidney Failure, Chronic	DisGeNet	
+ABCC2	C0022661	Kidney Failure, Chronic	DisGeNet	
+ADRA1B	C0022661	Kidney Failure, Chronic	DisGeNet	
+AHSG	C0022661	Kidney Failure, Chronic	DisGeNet	
+ALB	C0022661	Kidney Failure, Chronic	DisGeNet	
+APOA1	C0022661	Kidney Failure, Chronic	DisGeNet	
+APOC3	C0022661	Kidney Failure, Chronic	DisGeNet	
+APOE	C0022661	Kidney Failure, Chronic	DisGeNet	
+ATM	C0022661	Kidney Failure, Chronic	DisGeNet	
+CFH	C0022661	Kidney Failure, Chronic	DisGeNet	
+CST3	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2B6	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C18	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C19	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C8	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP2C9	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP3A4	C0022661	Kidney Failure, Chronic	DisGeNet	
+CYP3A5	C0022661	Kidney Failure, Chronic	DisGeNet	
+F7	C0022661	Kidney Failure, Chronic	DisGeNet	
+GSN	C0022661	Kidney Failure, Chronic	DisGeNet	
+HP	C0022661	Kidney Failure, Chronic	DisGeNet	
+ITGA2	C0022661	Kidney Failure, Chronic	DisGeNet	
+KLK3	C0022661	Kidney Failure, Chronic	DisGeNet	
+NPHS1	C0022661	Kidney Failure, Chronic	DisGeNet	
+TTR	C0022661	Kidney Failure, Chronic	DisGeNet	
+DMD	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+KRT1	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT10	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT14	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT16	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	ClinVar,DisGeNet,HumPhenOnt	
+KRT5	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT6A	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+KRT6B	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+KRT9	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	DisGeNet,HumPhenOnt	
+LDB3	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+SCN5A	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+TTN	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+APOA1	C0020479	Familial type 3 hyperlipoproteinemia	DisGeNet	
+APOC1	C0020479	Familial type 3 hyperlipoproteinemia	DisGeNet	
+APOC2	C0020479	Familial type 3 hyperlipoproteinemia	DisGeNet	
+APOC3	C0020479	Familial type 3 hyperlipoproteinemia	DisGeNet	
+APOE	C0020479	Familial type 3 hyperlipoproteinemia	ClinVar,DisGeNet	
+CYP3A4	C0020479	Familial type 3 hyperlipoproteinemia	DisGeNet	
+CFH	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+DMD	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+FN1	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+GSN	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+LDB3	C2678065	Myofibrillar myopathy, BAG3-related	ClinVar,DisGeNet,HumPhenOnt	
+TTN	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+ABCB1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+APOE	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GFAP	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SCN1A	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCB1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ALB	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+APOA1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+APOA2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+APOA4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+APOC3	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet,HumPhenOnt	
+APOE	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet,HumPhenOnt	
+CYP2B6	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C19	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP2C9	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A4	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+CYP3A5	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+SLC25A13	C0020443	Hypercholesterolemia, autosomal dominant, type B	HumPhenOnt	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+APOA1	C0948089	Acute Coronary Syndrome	DisGeNet	
+APOC3	C0948089	Acute Coronary Syndrome	DisGeNet	
+APOE	C0948089	Acute Coronary Syndrome	DisGeNet	
+ATM	C0948089	Acute Coronary Syndrome	DisGeNet	
+CST3	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP2B6	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP3A5	C0948089	Acute Coronary Syndrome	DisGeNet	
+F7	C0948089	Acute Coronary Syndrome	DisGeNet	
+GSN	C0948089	Acute Coronary Syndrome	DisGeNet	
+ITGA2	C0948089	Acute Coronary Syndrome	DisGeNet	
+PPBP	C0948089	Acute Coronary Syndrome	DisGeNet	
+APOE	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+ATM	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CTSL	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2B6	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C18	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C19	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+CYP2C9	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+RYR2	C0038644	SUDDEN INFANT DEATH SYNDROME	DisGeNet	
+SCN5A	C0038644	SUDDEN INFANT DEATH SYNDROME	ClinVar,DisGeNet	
+ABCB1	C0010054	Coronary heart disease 7	DisGeNet	
+AHSG	C0010054	Coronary heart disease 7	DisGeNet	
+ALB	C0010054	Coronary heart disease 7	DisGeNet	
+APOA1	C0010054	Coronary heart disease 7	DisGeNet	
+APOA2	C0010054	Coronary heart disease 7	DisGeNet	
+APOA4	C0010054	Coronary heart disease 7	DisGeNet	
+APOC1	C0010054	Coronary heart disease 7	DisGeNet	
+APOC3	C0010054	Coronary heart disease 7	DisGeNet	
+APOE	C0010054	Coronary heart disease 7	DisGeNet	
+ATM	C0010054	Coronary heart disease 7	DisGeNet	
+CFH	C0010054	Coronary heart disease 7	DisGeNet	
+CST3	C0010054	Coronary heart disease 7	DisGeNet	
+CYP2B6	C0010054	Coronary heart disease 7	DisGeNet	
+CYP2C18	C0010054	Coronary heart disease 7	DisGeNet	
+CYP2C19	C0010054	Coronary heart disease 7	DisGeNet	
+CYP2C8	C0010054	Coronary heart disease 7	DisGeNet	
+CYP2C9	C0010054	Coronary heart disease 7	DisGeNet	
+CYP3A4	C0010054	Coronary heart disease 7	DisGeNet	
+CYP3A5	C0010054	Coronary heart disease 7	DisGeNet	
+F7	C0010054	Coronary heart disease 7	DisGeNet	
+FN1	C0010054	Coronary heart disease 7	DisGeNet	
+HP	C0010054	Coronary heart disease 7	DisGeNet	
+ITGA2	C0010054	Coronary heart disease 7	DisGeNet	
+PF4V1	C0010054	Coronary heart disease 7	DisGeNet	
+SCN5A	C0010054	Coronary heart disease 7	DisGeNet	
+TTN	C0010054	Coronary heart disease 7	DisGeNet	
+KRT1	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT10	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT14	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT16	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT5	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT6A	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+KRT9	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ADRA1B	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C19	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP2C9	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+LAT	C0235032	Neurotoxicity Syndromes	DisGeNet	
+APOC1	C0870082	Hyperkeratosis	DisGeNet	
+DMD	C0870082	Hyperkeratosis	HumPhenOnt	
+KRT1	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+KRT10	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+KRT13	C0870082	Hyperkeratosis	HumPhenOnt	
+KRT14	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+KRT16	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+KRT5	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+KRT6A	C0870082	Hyperkeratosis	HumPhenOnt	
+KRT6B	C0870082	Hyperkeratosis	HumPhenOnt	
+KRT9	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+LDB3	C0870082	Hyperkeratosis	HumPhenOnt	
+SCN5A	C0870082	Hyperkeratosis	HumPhenOnt	
+TTN	C0870082	Hyperkeratosis	HumPhenOnt	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCC2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+APOA1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+APOE	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2B6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A5	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSN	C0860207	Drug-Induced Liver Injury	DisGeNet	
+HPX	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TTR	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0020476	Hyperlipoproteinemia	DisGeNet	
+APOA1	C0020476	Hyperlipoproteinemia	DisGeNet	
+APOA2	C0020476	Hyperlipoproteinemia	ClinVar	
+APOC2	C0020476	Hyperlipoproteinemia	DisGeNet	
+APOC3	C0020476	Hyperlipoproteinemia	DisGeNet,HumPhenOnt	
+APOE	C0020476	Hyperlipoproteinemia	ClinVar,DisGeNet,HumPhenOnt	
+APOA1	C1522137	Hypertriglyceridemia result	DisGeNet	
+APOA2	C1522137	Hypertriglyceridemia result	DisGeNet	
+APOA4	C1522137	Hypertriglyceridemia result	DisGeNet	
+APOC2	C1522137	Hypertriglyceridemia result	DisGeNet	
+APOC3	C1522137	Hypertriglyceridemia result	DisGeNet	
+APOE	C1522137	Hypertriglyceridemia result	DisGeNet	
+ABCB1	C0022658	Kidney Diseases	DisGeNet	
+ABCC2	C0022658	Kidney Diseases	DisGeNet	
+ADRA1B	C0022658	Kidney Diseases	DisGeNet	
+AHSG	C0022658	Kidney Diseases	DisGeNet	
+ALB	C0022658	Kidney Diseases	DisGeNet	
+APOA1	C0022658	Kidney Diseases	HumPhenOnt	
+APOA4	C0022658	Kidney Diseases	DisGeNet	
+APOC3	C0022658	Kidney Diseases	DisGeNet	
+APOE	C0022658	Kidney Diseases	DisGeNet	
+ATM	C0022658	Kidney Diseases	DisGeNet	
+CFH	C0022658	Kidney Diseases	DisGeNet,PheGenI	
+CST3	C0022658	Kidney Diseases	DisGeNet	
+CTSL	C0022658	Kidney Diseases	DisGeNet	
+CYP2B6	C0022658	Kidney Diseases	DisGeNet	
+CYP2C8	C0022658	Kidney Diseases	DisGeNet	
+CYP2C9	C0022658	Kidney Diseases	DisGeNet	
+CYP3A4	C0022658	Kidney Diseases	DisGeNet	
+CYP3A5	C0022658	Kidney Diseases	DisGeNet	
+F7	C0022658	Kidney Diseases	DisGeNet	
+FN1	C0022658	Kidney Diseases	DisGeNet	
+GSN	C0022658	Kidney Diseases	DisGeNet	
+HP	C0022658	Kidney Diseases	DisGeNet	
+NPHS1	C0022658	Kidney Diseases	DisGeNet	
+RYR2	C0022658	Kidney Diseases	DisGeNet,PheGenI	
+TTR	C0022658	Kidney Diseases	DisGeNet	
+APOA1	C0155668	Old myocardial infarction	DisGeNet	
+APOA4	C0155668	Old myocardial infarction	DisGeNet	
+APOE	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C8	C0155668	Old myocardial infarction	DisGeNet	
+CYP2C9	C0155668	Old myocardial infarction	DisGeNet	
+ABCB1	C0151744	Acute myocardial ischemia	DisGeNet	
+ALB	C0151744	Acute myocardial ischemia	DisGeNet	
+APOA1	C0151744	Acute myocardial ischemia	DisGeNet	
+APOA4	C0151744	Acute myocardial ischemia	DisGeNet	
+APOC3	C0151744	Acute myocardial ischemia	DisGeNet	
+APOE	C0151744	Acute myocardial ischemia	DisGeNet	
+ATM	C0151744	Acute myocardial ischemia	DisGeNet	
+CFH	C0151744	Acute myocardial ischemia	DisGeNet	
+CYP2B6	C0151744	Acute myocardial ischemia	DisGeNet	
+CYP2C19	C0151744	Acute myocardial ischemia	DisGeNet	
+CYP2C9	C0151744	Acute myocardial ischemia	DisGeNet	
+CYP3A4	C0151744	Acute myocardial ischemia	DisGeNet	
+DMD	C0151744	Acute myocardial ischemia	DisGeNet	
+F7	C0151744	Acute myocardial ischemia	DisGeNet	
+ITGA2	C0151744	Acute myocardial ischemia	DisGeNet	
+PDE4B	C0151744	Acute myocardial ischemia	DisGeNet	
+RYR2	C0151744	Acute myocardial ischemia	DisGeNet	
+SCN5A	C0151744	Acute myocardial ischemia	DisGeNet	
+TTN	C0151744	Acute myocardial ischemia	DisGeNet	
+APOA4	C0040038	Thromboembolism	DisGeNet	
+ATM	C0040038	Thromboembolism	DisGeNet	
+CFH	C0040038	Thromboembolism	DisGeNet	
+CYP2C19	C0040038	Thromboembolism	DisGeNet	
+CYP2C9	C0040038	Thromboembolism	DisGeNet	
+CYP3A4	C0040038	Thromboembolism	DisGeNet	
+CYP3A5	C0040038	Thromboembolism	DisGeNet	
+F7	C0040038	Thromboembolism	DisGeNet	
+ITGA2	C0040038	Thromboembolism	DisGeNet	
+ALB	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+APOE	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CFH	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CHKB	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+CYP2B6	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CYP2C8	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CYP2C9	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CYP3A4	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CYP3A5	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+DMD	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+GFAP	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+LDB3	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+OBSL1	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+RYR2	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+SCN5A	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+TRAPPC11	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+TTN	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+TTR	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+ABCB1	C0011860	Diabetes mellitus type 2	DisGeNet	
+ABCC2	C0011860	Diabetes mellitus type 2	DisGeNet	
+AHSG	C0011860	Diabetes mellitus type 2	DisGeNet	
+ALB	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOA1	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOA2	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOA4	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOC1	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOC2	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOC3	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOE	C0011860	Diabetes mellitus type 2	DisGeNet	
+ATM	C0011860	Diabetes mellitus type 2	DisGeNet,HumPhenOnt	
+CAMTA1	C0011860	Diabetes mellitus type 2	DisGeNet	
+CFB	C0011860	Diabetes mellitus type 2	DisGeNet	
+CFH	C0011860	Diabetes mellitus type 2	DisGeNet	
+CRB1	C0011860	Diabetes mellitus type 2	HumPhenOnt	
+CST3	C0011860	Diabetes mellitus type 2	DisGeNet	
+CTSL	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP2B6	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP2C19	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP2C8	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP2C9	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP3A4	C0011860	Diabetes mellitus type 2	DisGeNet	
+CYP3A5	C0011860	Diabetes mellitus type 2	DisGeNet	
+DCD	C0011860	Diabetes mellitus type 2	DisGeNet	
+DGKG	C0011860	Diabetes mellitus type 2	DisGeNet	
+DICER1	C0011860	Diabetes mellitus type 2	DisGeNet	
+DMD	C0011860	Diabetes mellitus type 2	DisGeNet	
+F7	C0011860	Diabetes mellitus type 2	DisGeNet	
+FABP6	C0011860	Diabetes mellitus type 2	DisGeNet	
+FN1	C0011860	Diabetes mellitus type 2	DisGeNet	
+GRAP2	C0011860	Diabetes mellitus type 2	DisGeNet	
+GSN	C0011860	Diabetes mellitus type 2	DisGeNet	
+HP	C0011860	Diabetes mellitus type 2	DisGeNet	
+HPX	C0011860	Diabetes mellitus type 2	DisGeNet	
+ITGA2	C0011860	Diabetes mellitus type 2	DisGeNet	
+KRT16	C0011860	Diabetes mellitus type 2	DisGeNet	
+MGST3	C0011860	Diabetes mellitus type 2	DisGeNet	
+NPHS1	C0011860	Diabetes mellitus type 2	DisGeNet	
+PEG3	C0011860	Diabetes mellitus type 2	DisGeNet	
+SCN5A	C0011860	Diabetes mellitus type 2	DisGeNet	
+ST13	C0011860	Diabetes mellitus type 2	DisGeNet	
+THRAP3	C0011860	Diabetes mellitus type 2	DisGeNet	
+TOMM40	C0011860	Diabetes mellitus type 2	DisGeNet	
+TSC22D1	C0011860	Diabetes mellitus type 2	DisGeNet	
+TTR	C0011860	Diabetes mellitus type 2	DisGeNet	
+ABCB1	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+APOA1	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+APOE	C0085220	Cerebral Amyloid Angiopathy	DisGeNet,HumPhenOnt	
+CST3	C0085220	Cerebral Amyloid Angiopathy	DisGeNet,HumPhenOnt	
+GSN	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+TTR	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+ABCB1	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+AHSG	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+APOA4	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+APOE	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ATM	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CST3	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP2C19	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP2C8	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP3A5	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+HP	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+KRT1	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT10	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT14	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT16	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT5	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT6A	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+KRT6B	C2132198	Abnormal blistering of the skin	HumPhenOnt	
+ABCB1	C1561643	Chronic kidney disease	DisGeNet	
+AHSG	C1561643	Chronic kidney disease	DisGeNet	
+ALB	C1561643	Chronic kidney disease	DisGeNet	
+APOA4	C1561643	Chronic kidney disease	DisGeNet	
+APOE	C1561643	Chronic kidney disease	DisGeNet	
+ATM	C1561643	Chronic kidney disease	DisGeNet	
+CFH	C1561643	Chronic kidney disease	DisGeNet,HumPhenOnt	
+CST3	C1561643	Chronic kidney disease	DisGeNet	
+CYP2C19	C1561643	Chronic kidney disease	DisGeNet	
+CYP2C8	C1561643	Chronic kidney disease	DisGeNet	
+CYP3A5	C1561643	Chronic kidney disease	DisGeNet	
+FN1	C1561643	Chronic kidney disease	HumPhenOnt	
+HP	C1561643	Chronic kidney disease	DisGeNet	
+ITGA2	C1561643	Chronic kidney disease	DisGeNet	
+TOMM40	C1561643	Chronic kidney disease	DisGeNet	
+ABCB1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+APOA2	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+APOE	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP2C8	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A4	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A5	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSN	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+LDB3	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	HumPhenOnt	
+SACS	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SERPING1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SETX	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+TTR	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+KRT1	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT14	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT16	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT5	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT6A	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT6B	C0020458	Hyperhidrosis	HumPhenOnt	
+KRT9	C0020458	Hyperhidrosis	HumPhenOnt	
+NLRC4	C0020458	Hyperhidrosis	HumPhenOnt	
+ABCB1	C0022660	Acute kidney injury	DisGeNet	
+ALB	C0022660	Acute kidney injury	DisGeNet	
+APOE	C0022660	Acute kidney injury	DisGeNet	
+ATM	C0022660	Acute kidney injury	DisGeNet	
+CFB	C0022660	Acute kidney injury	DisGeNet	
+CFH	C0022660	Acute kidney injury	DisGeNet	
+CST3	C0022660	Acute kidney injury	DisGeNet	
+CYP2C19	C0022660	Acute kidney injury	DisGeNet	
+CYP2C9	C0022660	Acute kidney injury	DisGeNet	
+CYP3A4	C0022660	Acute kidney injury	DisGeNet	
+CYP3A5	C0022660	Acute kidney injury	DisGeNet	
+FN1	C0022660	Acute kidney injury	DisGeNet	
+HP	C0022660	Acute kidney injury	DisGeNet	
+CHKB	C0494876	Epidermal thickening	HumPhenOnt	
+DMD	C0494876	Epidermal thickening	HumPhenOnt	
+KRT1	C0494876	Epidermal thickening	HumPhenOnt	
+KRT10	C0494876	Epidermal thickening	HumPhenOnt	
+KRT13	C0494876	Epidermal thickening	HumPhenOnt	
+KRT14	C0494876	Epidermal thickening	HumPhenOnt	
+KRT16	C0494876	Epidermal thickening	HumPhenOnt	
+KRT5	C0494876	Epidermal thickening	HumPhenOnt	
+KRT6A	C0494876	Epidermal thickening	HumPhenOnt	
+KRT6B	C0494876	Epidermal thickening	HumPhenOnt	
+KRT9	C0494876	Epidermal thickening	HumPhenOnt	
+LDB3	C0494876	Epidermal thickening	HumPhenOnt	
+SCN5A	C0494876	Epidermal thickening	HumPhenOnt	
+TTN	C0494876	Epidermal thickening	HumPhenOnt	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+AP4E1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+APOA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+APOE	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CAMTA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CFH	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CST3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CYP2C9	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+DICER1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+FN1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GFAP	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GJC2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GSN	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ITGA2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNMA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT10	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT13	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT14	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT16	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT5	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT6B	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT9	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+LDB3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NLRC4	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+PLAG1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+RYR2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SCN1A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SCN5A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SERPING1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SETX	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SPAST	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+TTN	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+TTR	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+APOA1	C0947622	Cholecystolithiasis	DisGeNet	
+APOA4	C0947622	Cholecystolithiasis	DisGeNet	
+APOC1	C0947622	Cholecystolithiasis	DisGeNet	
+APOC3	C0947622	Cholecystolithiasis	DisGeNet	
+APOE	C0947622	Cholecystolithiasis	DisGeNet	
+FABP6	C0947622	Cholecystolithiasis	DisGeNet	
+TTR	C0947622	Cholecystolithiasis	DisGeNet	
+ABCB1	C0027051	Myocardial Infarction	DisGeNet	
+AHSG	C0027051	Myocardial Infarction	DisGeNet	
+APOA1	C0027051	Myocardial Infarction	DisGeNet	
+APOA2	C0027051	Myocardial Infarction	DisGeNet	
+APOA4	C0027051	Myocardial Infarction	DisGeNet	
+APOC1	C0027051	Myocardial Infarction	PheGenI	
+APOC3	C0027051	Myocardial Infarction	DisGeNet	
+APOE	C0027051	Myocardial Infarction	DisGeNet	
+ATM	C0027051	Myocardial Infarction	DisGeNet	
+CDCP1	C0027051	Myocardial Infarction	DisGeNet	
+CFH	C0027051	Myocardial Infarction	DisGeNet	
+CST3	C0027051	Myocardial Infarction	DisGeNet	
+CYP2B6	C0027051	Myocardial Infarction	DisGeNet	
+CYP2C19	C0027051	Myocardial Infarction	DisGeNet	
+CYP2C8	C0027051	Myocardial Infarction	DisGeNet	
+CYP2C9	C0027051	Myocardial Infarction	DisGeNet	
+CYP3A4	C0027051	Myocardial Infarction	DisGeNet	
+CYP3A5	C0027051	Myocardial Infarction	DisGeNet	
+F7	C0027051	Myocardial Infarction	ClinVar,DisGeNet	
+FN1	C0027051	Myocardial Infarction	DisGeNet	
+GFAP	C0027051	Myocardial Infarction	DisGeNet	
+GSN	C0027051	Myocardial Infarction	DisGeNet	
+HP	C0027051	Myocardial Infarction	DisGeNet	
+ITGA2	C0027051	Myocardial Infarction	DisGeNet	
+KCNMA1	C0027051	Myocardial Infarction	DisGeNet	
+KRT16	C0027051	Myocardial Infarction	DisGeNet	
+SCN5A	C0027051	Myocardial Infarction	DisGeNet	
+SERPING1	C0027051	Myocardial Infarction	DisGeNet	
+APOA1	C0011609	Drug Eruptions	DisGeNet	
+APOC2	C0011609	Drug Eruptions	DisGeNet	
+APOC3	C0011609	Drug Eruptions	DisGeNet	
+TTR	C0011609	Drug Eruptions	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CHKB	C0241165	Thickened skin	HumPhenOnt	
+DMD	C0241165	Thickened skin	HumPhenOnt	
+KRT1	C0241165	Thickened skin	HumPhenOnt	
+KRT10	C0241165	Thickened skin	HumPhenOnt	
+KRT13	C0241165	Thickened skin	HumPhenOnt	
+KRT14	C0241165	Thickened skin	HumPhenOnt	
+KRT16	C0241165	Thickened skin	HumPhenOnt	
+KRT5	C0241165	Thickened skin	HumPhenOnt	
+KRT6A	C0241165	Thickened skin	HumPhenOnt	
+KRT6B	C0241165	Thickened skin	HumPhenOnt	
+KRT9	C0241165	Thickened skin	HumPhenOnt	
+LDB3	C0241165	Thickened skin	HumPhenOnt	
+SCN5A	C0241165	Thickened skin	HumPhenOnt	
+TTN	C0241165	Thickened skin	HumPhenOnt	
+ABCB1	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+APOE	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+HPX	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+NPHS1	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+CHKB	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+DMD	C0020757	Ichthyosis, congenital, autosomal recessive 12	DisGeNet	
+KRT1	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+KRT10	C0020757	Ichthyosis, congenital, autosomal recessive 12	DisGeNet,HumPhenOnt	
+KRT14	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+KRT16	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+KRT6A	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+KRT6B	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+KRT9	C0020757	Ichthyosis, congenital, autosomal recessive 12	HumPhenOnt	
+ABCB1	C1504404	Hippocampal sclerosis	DisGeNet	
+APOE	C1504404	Hippocampal sclerosis	DisGeNet	
+GABBR1	C1504404	Hippocampal sclerosis	DisGeNet	
+GFAP	C1504404	Hippocampal sclerosis	DisGeNet	
+SCN1A	C1504404	Hippocampal sclerosis	DisGeNet	
+KRT1	C0037277	Skin Diseases, Genetic	DisGeNet	
+KRT10	C0037277	Skin Diseases, Genetic	DisGeNet	
+KRT14	C0037277	Skin Diseases, Genetic	DisGeNet	
+KRT5	C0037277	Skin Diseases, Genetic	DisGeNet	
+KRT9	C0037277	Skin Diseases, Genetic	DisGeNet	
+ABCB1	C0741923	cardiac event	DisGeNet	
+CYP2C19	C0741923	cardiac event	DisGeNet	
+HP	C0741923	cardiac event	DisGeNet	
+RYR2	C0741923	cardiac event	DisGeNet	
+SCN5A	C0741923	cardiac event	DisGeNet	
+ALB	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+APOA1	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+APOA2	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+APOA4	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+APOC3	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+APOE	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+FN1	C0020474	Hyperlipidemia, familial combined	DisGeNet	
+ALB	C3714619	Insulin resistance syndrome	DisGeNet	
+APOA2	C3714619	Insulin resistance syndrome	DisGeNet	
+APOA4	C3714619	Insulin resistance syndrome	DisGeNet	
+APOC1	C3714619	Insulin resistance syndrome	DisGeNet	
+APOC2	C3714619	Insulin resistance syndrome	DisGeNet	
+APOE	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2B6	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C19	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+CYP2C9	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+F7	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+APOA1	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+APOA4	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+APOC3	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+APOE	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+F7	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+ITGA2	C0007820	 Cerebrovascular disease, occlusive (3)	DisGeNet	
+ABCB1	C0155626	Acute myocardial infarction	DisGeNet	
+APOA1	C0155626	Acute myocardial infarction	DisGeNet	
+APOE	C0155626	Acute myocardial infarction	DisGeNet	
+CST3	C0155626	Acute myocardial infarction	DisGeNet	
+CYP2B6	C0155626	Acute myocardial infarction	DisGeNet	
+CYP2C19	C0155626	Acute myocardial infarction	DisGeNet	
+DMD	C0155626	Acute myocardial infarction	DisGeNet	
+F7	C0155626	Acute myocardial infarction	DisGeNet	
+HP	C0155626	Acute myocardial infarction	DisGeNet	
+ITGA2	C0155626	Acute myocardial infarction	DisGeNet	
+SCN5A	C0155626	Acute myocardial infarction	DisGeNet	
+APOE	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP2C19	C0019080	Bleeding with minor or no trauma	DisGeNet	
+CYP2C9	C0019080	Bleeding with minor or no trauma	DisGeNet	
+F7	C0019080	Bleeding with minor or no trauma	DisGeNet	
+ITGA2	C0019080	Bleeding with minor or no trauma	DisGeNet	
+KRT1	C0019080	Bleeding with minor or no trauma	HumPhenOnt	
+ATM	C0023532	Oral leukoplakia	DisGeNet	
+KRT14	C0023532	Oral leukoplakia	HumPhenOnt	
+KRT16	C0023532	Oral leukoplakia	DisGeNet,HumPhenOnt	
+KRT5	C0023532	Oral leukoplakia	HumPhenOnt	
+KRT6A	C0023532	Oral leukoplakia	DisGeNet,HumPhenOnt	
+KRT6B	C0023532	Oral leukoplakia	HumPhenOnt	
+ALB	C0027720	Nephrosis	DisGeNet	
+APOA1	C0027720	Nephrosis	DisGeNet	
+CFH	C0027720	Nephrosis	DisGeNet	
+CYP3A5	C0027720	Nephrosis	DisGeNet	
+NPHS1	C0027720	Nephrosis	DisGeNet	
+APOC1	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APOC2	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APOE	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+CST3	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+GFAP	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+TOMM40	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APOA1	C4023615	Abnormality of the level of lipoprotein cholesterol	HumPhenOnt	
+APOC3	C4023615	Abnormality of the level of lipoprotein cholesterol	HumPhenOnt	
+APOE	C4023615	Abnormality of the level of lipoprotein cholesterol	HumPhenOnt	
+SLC25A13	C4023615	Abnormality of the level of lipoprotein cholesterol	HumPhenOnt	
+ABCB1	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+ABCC2	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C19	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+CYP2C9	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+SCN1A	C0014547	Epilepsy, focal, with speech disorder and with or without mental retardation	DisGeNet	
+ALB	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOC1	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOC3	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOE	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+ATM	C0242383	Age-related macular degeneration 2	DisGeNet	
+CFB	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CFD	C0242383	Age-related macular degeneration 2	DisGeNet	
+CFH	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CST3	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CYP3A5	C0242383	Age-related macular degeneration 2	DisGeNet	
+DICER1	C0242383	Age-related macular degeneration 2	DisGeNet	
+HP	C0242383	Age-related macular degeneration 2	DisGeNet	
+MGST1	C0242383	Age-related macular degeneration 2	DisGeNet	
+SERPING1	C0242383	Age-related macular degeneration 2	DisGeNet	
+TOMM40	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOE	C0024408	Azorean disease	DisGeNet	
+ATM	C0024408	Azorean disease	DisGeNet	
+BBC3	C0024408	Azorean disease	DisGeNet	
+CST3	C0024408	Azorean disease	DisGeNet	
+GFAP	C0024408	Azorean disease	DisGeNet	
+TTR	C0024408	Azorean disease	DisGeNet	
+APOC2	C1270972	Mild cognitive impairment	DisGeNet	
+APOE	C1270972	Mild cognitive impairment	DisGeNet	
+CST3	C1270972	Mild cognitive impairment	DisGeNet	
+DMD	C1270972	Mild cognitive impairment	DisGeNet	
+GFAP	C1270972	Mild cognitive impairment	DisGeNet	
+KRT14	C1270972	Mild cognitive impairment	DisGeNet	
+TOMM40	C1270972	Mild cognitive impairment	DisGeNet	
+TTR	C1270972	Mild cognitive impairment	DisGeNet	
+ABCB1	C0014544	Epilepsy	DisGeNet	
+ABCC2	C0014544	Epilepsy	DisGeNet	
+ALB	C0014544	Epilepsy	DisGeNet	
+APOE	C0014544	Epilepsy	DisGeNet	
+CYP2B6	C0014544	Epilepsy	DisGeNet	
+CYP2C18	C0014544	Epilepsy	DisGeNet	
+CYP2C19	C0014544	Epilepsy	DisGeNet	
+CYP2C8	C0014544	Epilepsy	DisGeNet	
+CYP2C9	C0014544	Epilepsy	DisGeNet	
+CYP3A4	C0014544	Epilepsy	DisGeNet	
+CYP3A5	C0014544	Epilepsy	DisGeNet	
+DMD	C0014544	Epilepsy	DisGeNet	
+FN1	C0014544	Epilepsy	DisGeNet	
+GABBR1	C0014544	Epilepsy	DisGeNet	
+GFAP	C0014544	Epilepsy	DisGeNet	
+HP	C0014544	Epilepsy	DisGeNet	
+KCNMA1	C0014544	Epilepsy	DisGeNet	
+SCN1A	C0014544	Epilepsy	DisGeNet	
+SPAST	C0014544	Epilepsy	DisGeNet	
+TOMM40	C0014544	Epilepsy	DisGeNet	
+ABCB1	C0023903	Neoplasm of the liver	DisGeNet	
+ABCC2	C0023903	Neoplasm of the liver	DisGeNet	
+AHSG	C0023903	Neoplasm of the liver	DisGeNet	
+ALB	C0023903	Neoplasm of the liver	DisGeNet	
+APOA1	C0023903	Neoplasm of the liver	DisGeNet	
+APOA4	C0023903	Neoplasm of the liver	DisGeNet	
+APOC2	C0023903	Neoplasm of the liver	DisGeNet	
+APOC3	C0023903	Neoplasm of the liver	DisGeNet	
+APOE	C0023903	Neoplasm of the liver	DisGeNet	
+ATM	C0023903	Neoplasm of the liver	DisGeNet	
+BBC3	C0023903	Neoplasm of the liver	DisGeNet	
+CYP2B6	C0023903	Neoplasm of the liver	DisGeNet	
+CYP2C19	C0023903	Neoplasm of the liver	DisGeNet	
+CYP2C9	C0023903	Neoplasm of the liver	DisGeNet	
+CYP3A4	C0023903	Neoplasm of the liver	DisGeNet	
+CYP3A5	C0023903	Neoplasm of the liver	DisGeNet	
+DCD	C0023903	Neoplasm of the liver	DisGeNet	
+DERL1	C0023903	Neoplasm of the liver	DisGeNet	
+F7	C0023903	Neoplasm of the liver	DisGeNet	
+FN1	C0023903	Neoplasm of the liver	DisGeNet	
+GRAP2	C0023903	Neoplasm of the liver	DisGeNet	
+HP	C0023903	Neoplasm of the liver	DisGeNet	
+HPX	C0023903	Neoplasm of the liver	DisGeNet	
+ITIH1	C0023903	Neoplasm of the liver	DisGeNet	
+KRT5	C0023903	Neoplasm of the liver	DisGeNet	
+SERPING1	C0023903	Neoplasm of the liver	DisGeNet	
+SLC1A5	C0023903	Neoplasm of the liver	DisGeNet	
+SLC25A13	C0023903	Neoplasm of the liver	HumPhenOnt	
+ST13	C0023903	Neoplasm of the liver	DisGeNet	
+TIAM1	C0023903	Neoplasm of the liver	DisGeNet	
+TTR	C0023903	Neoplasm of the liver	DisGeNet	
+CFB	C1536085	Geographic Atrophy	DisGeNet	
+CFD	C1536085	Geographic Atrophy	DisGeNet	
+CFH	C1536085	Geographic Atrophy	DisGeNet	
+DICER1	C1536085	Geographic Atrophy	DisGeNet	
+ABCB1	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+ALB	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+APOE	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+CYP2C19	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+CYP2C8	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+CYP2C9	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+F7	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet,HumPhenOnt	
+GSN	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+KLK3	C0005779	Bleeding disorder, platelet-type, 21	DisGeNet	
+APOA1	C0577631	Carotid Atherosclerosis	DisGeNet	
+APOA4	C0577631	Carotid Atherosclerosis	DisGeNet	
+APOC3	C0577631	Carotid Atherosclerosis	DisGeNet	
+APOE	C0577631	Carotid Atherosclerosis	DisGeNet	
+F7	C0577631	Carotid Atherosclerosis	DisGeNet	
+HP	C0577631	Carotid Atherosclerosis	DisGeNet	
+ITGA2	C0577631	Carotid Atherosclerosis	DisGeNet	
+ABCB1	C1956346	Coronary Artery Disease	DisGeNet	
+AHSG	C1956346	Coronary Artery Disease	DisGeNet	
+ALB	C1956346	Coronary Artery Disease	DisGeNet	
+APOA1	C1956346	Coronary Artery Disease	DisGeNet	
+APOA2	C1956346	Coronary Artery Disease	DisGeNet	
+APOA4	C1956346	Coronary Artery Disease	DisGeNet	
+APOC1	C1956346	Coronary Artery Disease	DisGeNet,PheGenI	
+APOC2	C1956346	Coronary Artery Disease	DisGeNet	
+APOC3	C1956346	Coronary Artery Disease	DisGeNet	
+APOE	C1956346	Coronary Artery Disease	DisGeNet,HumPhenOnt	
+ATM	C1956346	Coronary Artery Disease	DisGeNet	
+CAMTA1	C1956346	Coronary Artery Disease	DisGeNet,PheGenI	
+CFB	C1956346	Coronary Artery Disease	DisGeNet	
+CFD	C1956346	Coronary Artery Disease	DisGeNet	
+CFH	C1956346	Coronary Artery Disease	DisGeNet	
+CST3	C1956346	Coronary Artery Disease	DisGeNet	
+CYP2B6	C1956346	Coronary Artery Disease	DisGeNet	
+CYP2C18	C1956346	Coronary Artery Disease	DisGeNet	
+CYP2C19	C1956346	Coronary Artery Disease	DisGeNet	
+CYP2C8	C1956346	Coronary Artery Disease	DisGeNet	
+CYP2C9	C1956346	Coronary Artery Disease	DisGeNet	
+CYP3A4	C1956346	Coronary Artery Disease	DisGeNet	
+CYP3A5	C1956346	Coronary Artery Disease	DisGeNet	
+F7	C1956346	Coronary Artery Disease	DisGeNet	
+FN1	C1956346	Coronary Artery Disease	DisGeNet	
+HP	C1956346	Coronary Artery Disease	DisGeNet	
+ITGA2	C1956346	Coronary Artery Disease	DisGeNet	
+KRT5	C1956346	Coronary Artery Disease	DisGeNet	
+PALB2	C1956346	Coronary Artery Disease	DisGeNet	
+PF4V1	C1956346	Coronary Artery Disease	DisGeNet	
+PPBP	C1956346	Coronary Artery Disease	DisGeNet	
+SCN5A	C1956346	Coronary Artery Disease	DisGeNet	
+ABCB1	C0020445	Familial hypercholesterolemia	DisGeNet	
+ALB	C0020445	Familial hypercholesterolemia	DisGeNet	
+APOA1	C0020445	Familial hypercholesterolemia	DisGeNet	
+APOA2	C0020445	Familial hypercholesterolemia	ClinVar,DisGeNet	
+APOA4	C0020445	Familial hypercholesterolemia	DisGeNet	
+APOC2	C0020445	Familial hypercholesterolemia	DisGeNet	
+APOC3	C0020445	Familial hypercholesterolemia	DisGeNet	
+APOE	C0020445	Familial hypercholesterolemia	DisGeNet,HumPhenOnt	
+CFH	C0020445	Familial hypercholesterolemia	DisGeNet	
+ALB	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+APOA1	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+APOE	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+CFH	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+FN1	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+NPHS1	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+ABCB1	C0206624	Hepatoblastoma	DisGeNet	
+ABCC2	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0206624	Hepatoblastoma	DisGeNet	
+APOA1	C0206624	Hepatoblastoma	DisGeNet	
+APOC3	C0206624	Hepatoblastoma	DisGeNet	
+APOE	C0206624	Hepatoblastoma	DisGeNet	
+CYP2B6	C0206624	Hepatoblastoma	DisGeNet	
+CYP3A4	C0206624	Hepatoblastoma	DisGeNet	
+PLAG1	C0206624	Hepatoblastoma	DisGeNet	
+TTR	C0206624	Hepatoblastoma	DisGeNet	
+ALB	C0333186	Restenosis	DisGeNet	
+APOA4	C0333186	Restenosis	DisGeNet	
+APOC3	C0333186	Restenosis	DisGeNet	
+APOE	C0333186	Restenosis	DisGeNet	
+ATM	C0333186	Restenosis	DisGeNet	
+CYP2C19	C0333186	Restenosis	DisGeNet	
+F7	C0333186	Restenosis	DisGeNet	
+HP	C0333186	Restenosis	DisGeNet	
+ITGA2	C0333186	Restenosis	DisGeNet	
+SERPING1	C0333186	Restenosis	DisGeNet	
+ABCB1	C0037286	Neoplasm of the skin	DisGeNet	
+ATM	C0037286	Neoplasm of the skin	DisGeNet	
+CYP2B6	C0037286	Neoplasm of the skin	DisGeNet	
+CYP3A4	C0037286	Neoplasm of the skin	DisGeNet	
+CYP3A5	C0037286	Neoplasm of the skin	DisGeNet	
+DICER1	C0037286	Neoplasm of the skin	DisGeNet,HumPhenOnt	
+KLK3	C0037286	Neoplasm of the skin	DisGeNet	
+KRT1	C0037286	Neoplasm of the skin	DisGeNet,HumPhenOnt	
+KRT10	C0037286	Neoplasm of the skin	DisGeNet	
+KRT14	C0037286	Neoplasm of the skin	HumPhenOnt	
+KRT16	C0037286	Neoplasm of the skin	HumPhenOnt	
+KRT5	C0037286	Neoplasm of the skin	DisGeNet,HumPhenOnt	
+KRT6B	C0037286	Neoplasm of the skin	HumPhenOnt	
+KRT9	C0037286	Neoplasm of the skin	HumPhenOnt	
+TIAM1	C0037286	Neoplasm of the skin	DisGeNet	
+ABCB1	C0023895	Liver Diseases	DisGeNet	
+ABCC2	C0023895	Liver Diseases	DisGeNet	
+ALB	C0023895	Liver Diseases	DisGeNet	
+APOA1	C0023895	Liver Diseases	DisGeNet	
+APOC3	C0023895	Liver Diseases	DisGeNet	
+APOE	C0023895	Liver Diseases	DisGeNet	
+ATM	C0023895	Liver Diseases	DisGeNet	
+CFH	C0023895	Liver Diseases	DisGeNet	
+CST3	C0023895	Liver Diseases	DisGeNet	
+CYP2B6	C0023895	Liver Diseases	DisGeNet	
+CYP2C19	C0023895	Liver Diseases	DisGeNet	
+CYP2C9	C0023895	Liver Diseases	DisGeNet	
+CYP3A4	C0023895	Liver Diseases	DisGeNet	
+CYP3A5	C0023895	Liver Diseases	DisGeNet	
+F7	C0023895	Liver Diseases	DisGeNet	
+FN1	C0023895	Liver Diseases	DisGeNet	
+LAT	C0023895	Liver Diseases	DisGeNet	
+SLC25A13	C0023895	Liver Diseases	DisGeNet	
+ABCB1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+ALB	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+APOA1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet,HumPhenOnt	
+APOA4	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+APOE	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+CTSL	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+CYP3A4	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+FN1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	HumPhenOnt	
+GSN	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet,HumPhenOnt	
+HPX	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+NPHS1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet,HumPhenOnt	
+ADRA1B	C1272641	Systemic arterial pressure	DisGeNet	
+APOA1	C1272641	Systemic arterial pressure	DisGeNet	
+APOA2	C1272641	Systemic arterial pressure	DisGeNet	
+APOA4	C1272641	Systemic arterial pressure	DisGeNet	
+APOC3	C1272641	Systemic arterial pressure	DisGeNet	
+APOE	C1272641	Systemic arterial pressure	DisGeNet	
+CYP2C18	C1272641	Systemic arterial pressure	DisGeNet	
+CYP2C19	C1272641	Systemic arterial pressure	DisGeNet	
+CYP2C9	C1272641	Systemic arterial pressure	DisGeNet	
+CYP3A5	C1272641	Systemic arterial pressure	DisGeNet	
+F7	C1272641	Systemic arterial pressure	DisGeNet	
+KCNMA1	C1272641	Systemic arterial pressure	DisGeNet	
+PDE4B	C1272641	Systemic arterial pressure	DisGeNet	
+RYR2	C1272641	Systemic arterial pressure	DisGeNet	
+SCN1A	C1272641	Systemic arterial pressure	DisGeNet	
+KRT1	C0020620	Hypohidrosis	HumPhenOnt	
+KRT14	C0020620	Hypohidrosis	HumPhenOnt	
+KRT16	C0020620	Hypohidrosis	HumPhenOnt	
+KRT5	C0020620	Hypohidrosis	HumPhenOnt	
+KRT6A	C0020620	Hypohidrosis	HumPhenOnt	
+KRT6B	C0020620	Hypohidrosis	HumPhenOnt	
+KRT9	C0020620	Hypohidrosis	HumPhenOnt	
+NLRC4	C0020620	Hypohidrosis	HumPhenOnt	
+ABCB1	C0007222	Cardiovascular Diseases	DisGeNet	
+AHSG	C0007222	Cardiovascular Diseases	DisGeNet	
+ALB	C0007222	Cardiovascular Diseases	DisGeNet	
+APOA1	C0007222	Cardiovascular Diseases	DisGeNet	
+APOA4	C0007222	Cardiovascular Diseases	DisGeNet	
+APOC1	C0007222	Cardiovascular Diseases	DisGeNet	
+APOC2	C0007222	Cardiovascular Diseases	DisGeNet	
+APOC3	C0007222	Cardiovascular Diseases	DisGeNet	
+APOE	C0007222	Cardiovascular Diseases	DisGeNet	
+ATM	C0007222	Cardiovascular Diseases	DisGeNet	
+CFH	C0007222	Cardiovascular Diseases	DisGeNet	
+CST3	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP2B6	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP2C19	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP2C8	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP2C9	C0007222	Cardiovascular Diseases	DisGeNet	
+CYP3A5	C0007222	Cardiovascular Diseases	DisGeNet	
+F7	C0007222	Cardiovascular Diseases	DisGeNet	
+FN1	C0007222	Cardiovascular Diseases	DisGeNet	
+HP	C0007222	Cardiovascular Diseases	DisGeNet	
+ITGA2	C0007222	Cardiovascular Diseases	DisGeNet	
+KRT5	C0007222	Cardiovascular Diseases	DisGeNet	
+PPBP	C0007222	Cardiovascular Diseases	DisGeNet	
+RYR2	C0007222	Cardiovascular Diseases	DisGeNet	
+SCN5A	C0007222	Cardiovascular Diseases	DisGeNet	
+TOMM40	C0007222	Cardiovascular Diseases	DisGeNet	
+ABCB1	C0024143	Lupus Nephritis	DisGeNet	
+CFH	C0024143	Lupus Nephritis	DisGeNet	
+CYP2B6	C0024143	Lupus Nephritis	DisGeNet	
+CYP2C19	C0024143	Lupus Nephritis	DisGeNet	
+CYP2C9	C0024143	Lupus Nephritis	DisGeNet	
+CYP3A4	C0024143	Lupus Nephritis	DisGeNet	
+CYP3A5	C0024143	Lupus Nephritis	DisGeNet	
+FN1	C0024143	Lupus Nephritis	DisGeNet	
+KLK3	C0024143	Lupus Nephritis	DisGeNet	
+SERPING1	C0024143	Lupus Nephritis	DisGeNet	
+ALB	C0011875	Diabetic Angiopathies	DisGeNet	
+APOA4	C0011875	Diabetic Angiopathies	DisGeNet	
+APOE	C0011875	Diabetic Angiopathies	DisGeNet	
+F7	C0011875	Diabetic Angiopathies	DisGeNet	
+FN1	C0011875	Diabetic Angiopathies	DisGeNet	
+HP	C0011875	Diabetic Angiopathies	DisGeNet	
+ALB	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+CFH	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+FN1	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+KRT5	C0017662	Mesangiocapillary glomerulonephritis, type II	DisGeNet	
+APOA1	C0020557	Hypertriglyceridemia	DisGeNet	
+APOA2	C0020557	Hypertriglyceridemia	DisGeNet	
+APOA4	C0020557	Hypertriglyceridemia	DisGeNet	
+APOC2	C0020557	Hypertriglyceridemia	DisGeNet,HumPhenOnt	
+APOC3	C0020557	Hypertriglyceridemia	DisGeNet	
+APOE	C0020557	Hypertriglyceridemia	DisGeNet,HumPhenOnt	
+SLC25A13	C0020557	Hypertriglyceridemia	HumPhenOnt	
+ABCB1	C0242339	Dyslipidemias	DisGeNet	
+AHSG	C0242339	Dyslipidemias	DisGeNet	
+APOA1	C0242339	Dyslipidemias	DisGeNet	
+APOC2	C0242339	Dyslipidemias	DisGeNet	
+APOC3	C0242339	Dyslipidemias	DisGeNet	
+APOE	C0242339	Dyslipidemias	DisGeNet	
+CYP3A4	C0242339	Dyslipidemias	DisGeNet	
+F7	C0242339	Dyslipidemias	DisGeNet	
+HP	C0242339	Dyslipidemias	DisGeNet	
+KRT16	C0242339	Dyslipidemias	DisGeNet	
+KRT1	C0221260	Nail dystrophy	HumPhenOnt	
+KRT14	C0221260	Nail dystrophy	HumPhenOnt	
+KRT16	C0221260	Nail dystrophy	HumPhenOnt	
+KRT5	C0221260	Nail dystrophy	HumPhenOnt	
+KRT6A	C0221260	Nail dystrophy	HumPhenOnt	
+KRT6B	C0221260	Nail dystrophy	HumPhenOnt	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+APOA1	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+GSN	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet,HumPhenOnt	
+LDB3	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	HumPhenOnt	
+SETX	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	HumPhenOnt	
+TTR	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet,HumPhenOnt	

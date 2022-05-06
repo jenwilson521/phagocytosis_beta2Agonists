@@ -1,0 +1,16 @@
+node_name	node_type	
+DB00206	drug	
+SLC18A2	drug_target	
+ABCB11	drug_target	
+SLC22A1	drug_target	
+CYP3A5	drug_target	
+ABCC2	drug_target	
+ABCB1	drug_target	
+SLC22A2	drug_target	
+Cocaine Dependence	phenotype	
+Intrahepatic cholestasis	phenotype	
+Extrahepatic cholestasis	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Endotoxemia	phenotype	
+Drug Resistant Epilepsy	phenotype	

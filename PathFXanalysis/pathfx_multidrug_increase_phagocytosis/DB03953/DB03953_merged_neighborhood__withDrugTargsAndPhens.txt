@@ -1,0 +1,372 @@
+node1	node2	edge_score	
+DB03953	NOS2	1.0	
+NOS2		1
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NOS2	1.0	
+Albuminuria	NOS2	1.0	
+Alzheimer Disease	NOS2	1.0	
+Amyotrophic Lateral Sclerosis	NOS2	1.0	
+Bovine Anaplasmosis	NOS2	1.0	
+Anemia	NOS2	1.0	
+Aplastic anemia	NOS2	1.0	
+Fabry disease	NOS2	1.0	
+Hypoxia	NOS2	1.0	
+Arteriosclerosis	NOS2	1.0	
+Arthritis, Rheumatoid	NOS2	1.0	
+Arthritis, Psoriatic	NOS2	1.0	
+Rheumatoid arthritis	NOS2	1.0	
+Asbestosis	NOS2	1.0	
+Asthma	NOS2	1.0	
+Atherosclerosis	NOS2	1.0	
+Autism 15	NOS2	1.0	
+Autoimmune disease 1	NOS2	1.0	
+Recurrent bacterial infection	NOS2	1.0	
+Barrett Esophagus	NOS2	1.0	
+Mental disorders	NOS2	1.0	
+Behcet Syndrome	NOS2	1.0	
+beta Thalassemia	NOS2	1.0	
+Bipolar affective disorder	NOS2	1.0	
+Malignant tumor of urinary bladder	NOS2	1.0	
+Urinary Bladder Neoplasms	NOS2	1.0	
+Brain Diseases	NOS2	1.0	
+Cerebral edema	NOS2	1.0	
+Brain neoplasm	NOS2	1.0	
+Breast-ovarian cancer, familial 1	NOS2	1.0	
+Bronchiolitis	NOS2	1.0	
+Bronchiolitis, Viral	NOS2	1.0	
+Colon cancer	NOS2	1.0	
+Alveolar cell carcinoma	NOS2	1.0	
+Non-small cell lung carcinoma	NOS2	1.0	
+Renal cell carcinoma, nonpapillary	NOS2	1.0	
+Squamous cell carcinoma	NOS2	1.0	
+Cardiomyopathy, Dilated	NOS2	1.0	
+Cardiovascular Diseases	NOS2	1.0	
+Celiac Disease	NOS2	1.0	
+Neoplastic Cell Transformation	NOS2	1.0	
+Intracranial Aneurysm	NOS2	1.0	
+Ischaemic cerebral infarction	NOS2	1.0	
+Brain Ischemia	NOS2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	NOS2	1.0	
+Chlamydia Infections	NOS2	1.0	
+Cholangitis, Sclerosing	NOS2	1.0	
+Cholestasis, benign recurrent intrahepatic 1	NOS2	1.0	
+Chorioamnionitis	NOS2	1.0	
+Bronchitis, Chronic	NOS2	1.0	
+Colitis, Ulcerative	NOS2	1.0	
+Ulcerative colitis	NOS2	1.0	
+Neoplasm of the colon	NOS2	1.0	
+Colonic Polyps	NOS2	1.0	
+Colorectal cancer 1	NOS2	1.0	
+Colorectal Neoplasms	NOS2	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	NOS2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NOS2	1.0	
+Coronary heart disease 7	NOS2	1.0	
+Congenital hypothyroidism	NOS2	1.0	
+Crohn Disease	NOS2	1.0	
+Adenoid Cystic Carcinoma	NOS2	1.0	
+Cystic Fibrosis	NOS2	1.0	
+Plaque, Atherosclerotic	NOS2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NOS2	1.0	
+Depressive Disorder	NOS2	1.0	
+Dermatitis, Atopic	NOS2	1.0	
+Diabetes Mellitus, Type 1	NOS2	1.0	
+Diabetes mellitus type 1	NOS2	1.0	
+Diabetes mellitus type 2	NOS2	1.0	
+Diabetic Angiopathies	NOS2	1.0	
+Diabetic Nephropathies	NOS2	1.0	
+Type 1 diabetic neuropathy	NOS2	1.0	
+Diabetic Retinopathy	NOS2	1.0	
+Diarrhea 8, secretory sodium, congenital	NOS2	1.0	
+Gallbladder disease 4	NOS2	1.0	
+Down Syndrome	NOS2	1.0	
+Duodenal Ulcer	NOS2	1.0	
+Eclampsia	NOS2	1.0	
+Eczema	NOS2	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	NOS2	1.0	
+Encephalitis	NOS2	1.0	
+Experimental Autoimmune Encephalomyelitis	NOS2	1.0	
+Endometriosis	NOS2	1.0	
+Erythema nodosum	NOS2	1.0	
+Achalasia	NOS2	1.0	
+Esophageal Neoplasms	NOS2	1.0	
+Peptic Esophagitis	NOS2	1.0	
+Fatigue	NOS2	1.0	
+Chronic Fatigue Syndrome	NOS2	1.0	
+Intrauterine growth retardation	NOS2	1.0	
+Fetal Membranes, Premature Rupture	NOS2	1.0	
+Gastritis	NOS2	1.0	
+Chronic atrophic gastritis	NOS2	1.0	
+Gingivitis	NOS2	1.0	
+Glaucoma, Angle-Closure	NOS2	1.0	
+IgA nephropathy, susceptibility to, 3	NOS2	1.0	
+Focal segmental glomerulosclerosis	NOS2	1.0	
+Graft-versus-host disease, susceptibility to	NOS2	1.0	
+Guillain-Barre syndrome, familial	NOS2	1.0	
+Head and Neck Neoplasms	NOS2	1.0	
+Headache	NOS2	1.0	
+Cardiac arrest	NOS2	1.0	
+Heart Diseases	NOS2	1.0	
+Heart Failure	NOS2	1.0	
+Congestive heart failure	NOS2	1.0	
+Hepatic encephalopathy	NOS2	1.0	
+Hepatitis	NOS2	1.0	
+Hepatitis C	NOS2	1.0	
+Diaphragmatic hernia	NOS2	1.0	
+Herpes Simplex Infections	NOS2	1.0	
+Symptomatic human immunodeficiency virus infection	NOS2	1.0	
+Hyperalgesia	NOS2	1.0	
+Hyperglycemia	NOS2	1.0	
+Immediate hypersensitivity	NOS2	1.0	
+Hypertension	NOS2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	NOS2	1.0	
+Renal hypertension	NOS2	1.0	
+Hypothermia	NOS2	1.0	
+Hypothyroidism	NOS2	1.0	
+Angioimmunoblastic Lymphadenopathy	NOS2	1.0	
+Male infertility	NOS2	1.0	
+Inflammation	NOS2	1.0	
+Inflammatory Bowel Diseases	NOS2	1.0	
+Influenza	NOS2	1.0	
+Insulin Resistance	NOS2	1.0	
+Abnormality of the intestine	NOS2	1.0	
+Kartagener syndrome	NOS2	1.0	
+Kidney Diseases	NOS2	1.0	
+Acute kidney injury	NOS2	1.0	
+Kidney Failure, Chronic	NOS2	1.0	
+Premature Obstetric Labor	NOS2	1.0	
+Zoonotic form of cutaneous leishmaniasis	NOS2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NOS2	1.0	
+Chronic Lymphocytic Leukemia	NOS2	1.0	
+Acute myeloid leukemia	NOS2	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	NOS2	1.0	
+Adult T-Cell Lymphoma/Leukemia	NOS2	1.0	
+Leukopenia	NOS2	1.0	
+Leukoplakia	NOS2	1.0	
+Liver Cirrhosis, Biliary	NOS2	1.0	
+Biliary cirrhosis	NOS2	1.0	
+Liver Diseases	NOS2	1.0	
+Neoplasm of the liver	NOS2	1.0	
+Liver Neoplasms, Experimental	NOS2	1.0	
+Pulmonary Disease, Chronic Obstructive	NOS2	1.0	
+Chronic obstructive pulmonary disease	NOS2	1.0	
+Lung Neoplasms	NOS2	1.0	
+Lupus Erythematosus, Systemic	NOS2	1.0	
+Lymphoma, Large B-Cell, Diffuse	NOS2	1.0	
+Lymphoma, Follicular	NOS2	1.0	
+Non-Hodgkin lymphoma	NOS2	1.0	
+Waldenstrom macroglobulinemia	NOS2	1.0	
+Malaria	NOS2	1.0	
+Malaria, Cerebral	NOS2	1.0	
+Malaria, Falciparum	NOS2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NOS2	1.0	
+Animal Mammary Neoplasms	NOS2	1.0	
+Marfan syndrome	NOS2	1.0	
+Melanoma	NOS2	1.0	
+Meningioma	NOS2	1.0	
+Mucocutaneous Lymph Node Syndrome	NOS2	1.0	
+Multiple Sclerosis	NOS2	1.0	
+Mycobacterium Infections	NOS2	1.0	
+Mycoplasma Infections	NOS2	1.0	
+Myocardial Infarction	NOS2	1.0	
+Myocardial Reperfusion Injury	NOS2	1.0	
+Myocarditis	NOS2	1.0	
+Nasal polyposis	NOS2	1.0	
+Necrosis	NOS2	1.0	
+Neoplasm Invasiveness	NOS2	1.0	
+Secondary hypertriglyceridemia	NOS2	1.0	
+Neoplasm Recurrence, Local	NOS2	1.0	
+Nephritis	NOS2	1.0	
+Other disorders of the nervous system	NOS2	1.0	
+Neuritis	NOS2	1.0	
+Melanocytic nevus	NOS2	1.0	
+Obesity	NOS2	1.0	
+Occupational Diseases	NOS2	1.0	
+Ocular Hypertension	NOS2	1.0	
+Odontogenic neoplasm	NOS2	1.0	
+Optic neuropathy	NOS2	1.0	
+Osteoarthritis	NOS2	1.0	
+Otitis media	NOS2	1.0	
+Paraplegia	NOS2	1.0	
+Parkinson Disease	NOS2	1.0	
+Periodontitis, Juvenile	NOS2	1.0	
+Pleuritis	NOS2	1.0	
+Pneumococcal Infections	NOS2	1.0	
+Familial adenomatous polyposis 1	NOS2	1.0	
+Postoperative Complications	NOS2	1.0	
+Preeclampsia/eclampsia 1	NOS2	1.0	
+Prostatic Diseases	NOS2	1.0	
+Psoriasis	NOS2	1.0	
+Pulmonary edema	NOS2	1.0	
+Pulmonary Emphysema	NOS2	1.0	
+Henoch-Schoenlein Purpura	NOS2	1.0	
+Renal Insufficiency, Chronic	NOS2	1.0	
+Reperfusion Injury	NOS2	1.0	
+Respiratory Hypersensitivity	NOS2	1.0	
+Respiratory Syncytial Virus Infections	NOS2	1.0	
+Retinopathy	NOS2	1.0	
+Retinoblastoma	NOS2	1.0	
+Retinopathy of Prematurity	NOS2	1.0	
+Rett syndrome, congenital variant	NOS2	1.0	
+Rhinitis, Allergic, Seasonal	NOS2	1.0	
+Sarcoidosis	NOS2	1.0	
+Hepatosplenic schistosomiasis	NOS2	1.0	
+Schizophrenia	NOS2	1.0	
+Scleroderma	NOS2	1.0	
+Seizures, Febrile	NOS2	1.0	
+Septicemia	NOS2	1.0	
+Shock, Septic	NOS2	1.0	
+ {Septic shock, susceptibility to} (3)	NOS2	1.0	
+Sickle Cell Trait	NOS2	1.0	
+Silicosis	NOS2	1.0	
+Ankylosing spondylitis	NOS2	1.0	
+Status epilepticus	NOS2	1.0	
+Stevens-Johnson Syndrome	NOS2	1.0	
+Stomach Neoplasms	NOS2	1.0	
+Gastric ulcer	NOS2	1.0	
+Stroke	NOS2	1.0	
+Subarachnoid hemorrhage	NOS2	1.0	
+Substance Withdrawal Syndrome	NOS2	1.0	
+Takayasu Arteritis	NOS2	1.0	
+Giant cell arteritis	NOS2	1.0	
+Trachoma	NOS2	1.0	
+African Trypanosomiasis	NOS2	1.0	
+Chronic Chagas' disease	NOS2	1.0	
+Tuberculosis	NOS2	1.0	
+Tuberculosis, Pulmonary	NOS2	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	NOS2	1.0	
+Uremia	NOS2	1.0	
+Ureteral obstruction	NOS2	1.0	
+Urinary tract infection	NOS2	1.0	
+Anterior uveitis	NOS2	1.0	
+Vascular Diseases	NOS2	1.0	
+Vasculitis	NOS2	1.0	
+Virus Diseases	NOS2	1.0	
+Vitiligo	NOS2	1.0	
+B-cell lymphoma	NOS2	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NOS2	1.0	
+Lymphoma, Large-Cell, Follicular	NOS2	1.0	
+T-cell lymphoma	NOS2	1.0	
+Cutaneous T-cell lymphoma	NOS2	1.0	
+Peripheral T-Cell Lymphoma	NOS2	1.0	
+Spina bifida	NOS2	1.0	
+Bronchial Hyperreactivity	NOS2	1.0	
+Essential hypertension	NOS2	1.0	
+Polymyositis	NOS2	1.0	
+Alcohol abuse	NOS2	1.0	
+Sicca Syndrome	NOS2	1.0	
+Migraine Disorders	NOS2	1.0	
+Rectal Carcinoma	NOS2	1.0	
+Active tuberculosis	NOS2	1.0	
+Premature Birth	NOS2	1.0	
+Acute myocardial ischemia	NOS2	1.0	
+Cutaneous malignant melanoma 3	NOS2	1.0	
+Primary pulmonary hypertension	NOS2	1.0	
+Malignant neoplasm of gallbladder	NOS2	1.0	
+Corneal pannus	NOS2	1.0	
+Acute hepatic failure	NOS2	1.0	
+Aortic Aneurysm, Abdominal	NOS2	1.0	
+Tumor Progression	NOS2	1.0	
+HIV encephalitis	NOS2	1.0	
+Idiopathic hypereosinophilic syndrome	NOS2	1.0	
+Anaplastic large cell lymphoma, ALK negative	NOS2	1.0	
+Lymphomatoid Papulosis	NOS2	1.0	
+Cholangiocarcinoma	NOS2	1.0	
+Gallbladder Carcinoma	NOS2	1.0	
+Papillary thyroid carcinoma	NOS2	1.0	
+Hepatitis, Autoimmune	NOS2	1.0	
+Impotence	NOS2	1.0	
+Malignant neoplasm of lung	NOS2	1.0	
+Age-related macular degeneration 2	NOS2	1.0	
+Acute Lung Injury	NOS2	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NOS2	1.0	
+Parasitemia	NOS2	1.0	
+Systemic Inflammatory Response Syndrome	NOS2	1.0	
+Sepsis	NOS2	1.0	
+Abnormality of cardiovascular system electrophysiology	NOS2	1.0	
+Chronic heart failure	NOS2	1.0	
+Pancreatitis, Acute Necrotizing	NOS2	1.0	
+Rhinovirus infection	NOS2	1.0	
+Chronic viral hepatitis	NOS2	1.0	
+Gastric Adenocarcinoma	NOS2	1.0	
+Cancer of Head and Neck	NOS2	1.0	
+Invasive Lobular Breast Carcinoma	NOS2	1.0	
+Restenosis	NOS2	1.0	
+High-Grade Squamous Intraepithelial Lesions	NOS2	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	NOS2	1.0	
+Malignant Fibrous Histiocytoma	NOS2	1.0	
+Malignant lymphoma - lymphoplasmacytic	NOS2	1.0	
+Adenocarcinoma of colon	NOS2	1.0	
+Frontotemporal dementia	NOS2	1.0	
+Cognitive Dysfunction	NOS2	1.0	
+Stable angina	NOS2	1.0	
+Chronic eosinophilic leukemia	NOS2	1.0	
+Malignant tumor of prostate	NOS2	1.0	
+Hematological neoplasm	NOS2	1.0	
+Endotoxemia	NOS2	1.0	
+{Atopy, susceptibility to}, 147050 (3)	NOS2	1.0	
+Anti-Glomerular Basement Membrane Disease	NOS2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	NOS2	1.0	
+Motor symptoms	NOS2	1.0	
+Dementia	NOS2	1.0	
+Nevus	NOS2	1.0	
+Prostatitis	NOS2	1.0	
+Pervasive developmental disorders	NOS2	1.0	
+Metabolic Syndrome X	NOS2	1.0	
+Hepatitis B, Chronic	NOS2	1.0	
+Hepatitis C, Chronic	NOS2	1.0	
+Primary sclerosing cholangitis	NOS2	1.0	
+Intraocular pressure disorder	NOS2	1.0	
+Carcinogenesis	NOS2	1.0	
+Leukemogenesis	NOS2	1.0	
+Chronic interstitial cystitis	NOS2	1.0	
+Prostate carcinoma	NOS2	1.0	
+Hepatopulmonary Syndrome	NOS2	1.0	
+Ovarian epithelial cancer	NOS2	1.0	
+Breast carcinoma	NOS2	1.0	
+Lung cancer	NOS2	1.0	
+Carcinoma of colon	NOS2	1.0	
+Stomach cancer	NOS2	1.0	
+Bladder carcinoma	NOS2	1.0	
+Neuroblastoma	NOS2	1.0	
+Dissecting aneurysm of the thoracic aorta	NOS2	1.0	
+Infarction, Middle Cerebral Artery	NOS2	1.0	
+Malignant neoplasm of kidney	NOS2	1.0	
+gastritis h pylori	NOS2	1.0	
+Mitochondrial diseases	NOS2	1.0	
+Inclusion Body Myopathy, Sporadic	NOS2	1.0	
+Brain Infarction	NOS2	1.0	
+Multiple Sclerosis, Relapsing-Remitting	NOS2	1.0	
+Hypoxia-Ischemia, Brain	NOS2	1.0	
+Lewy Body Disease	NOS2	1.0	
+Adenomatous polyp of colon	NOS2	1.0	
+Helicobacter pylori infection	NOS2	1.0	
+Endothelial dysfunction	NOS2	1.0	
+Hemophagocytosis	NOS2	1.0	
+Intraepithelial Neoplasia	NOS2	1.0	
+Cardiomyopathy	NOS2	1.0	
+Cerebral ischemia	NOS2	1.0	
+Ovarian Neoplasms	NOS2	1.0	
+precancerous lesions	NOS2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NOS2	1.0	
+Squamous cell carcinoma of the head and neck	NOS2	1.0	
+Sarcoma, Ewing	NOS2	1.0	
+Attention deficit hyperactivity disorder	NOS2	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	NOS2	1.0	
+Benign melanocytic nevus	NOS2	1.0	
+CNS symptom	NOS2	1.0	
+Autism spectrum disorders	NOS2	1.0	
+Colorectal cancer	NOS2	1.0	
+Pneumocystis jiroveci pneumonia	NOS2	1.0	
+Tendinopathy	NOS2	1.0	
+Benign Prostatic Hyperplasia	NOS2	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	NOS2	1.0	
+Venous Thromboembolism	NOS2	1.0	
+Coronary Artery Disease	NOS2	1.0	
+Hepatocellular carcinoma	NOS2	1.0	
+Chronic ulcerative colitis	NOS2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NOS2	1.0	
+aggressive cancer	NOS2	1.0	
+Pulmonary arterial hypertension	NOS2	1.0	
+Triple Negative Breast Neoplasms	NOS2	1.0	
+Inflammatory abnormality of the skin	NOS2	1.0	
+Neurodegeneration with brain iron accumulation 4	NOS2	1.0	
+Necrotizing Enterocolitis	NOS2	1.0	

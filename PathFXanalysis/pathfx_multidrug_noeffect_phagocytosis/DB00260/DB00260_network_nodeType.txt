@@ -1,0 +1,136 @@
+node_name	node_type	
+DB00260	drug	
+DDC	drug_target	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Anaplasia	phenotype	
+Anxiety Disorders	phenotype	
+As If Personality	phenotype	
+Autism 15	phenotype	
+Mental disorders	phenotype	
+Bipolar affective disorder	phenotype	
+Ptosis, hereditary congenital 1	phenotype	
+Abnormal systemic blood pressure	phenotype	
+Borderline Personality Disorder	phenotype	
+Brain Diseases	phenotype	
+Carcinoid tumor	phenotype	
+Squamous cell carcinoma	phenotype	
+Cholangitis, Sclerosing	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Constipation	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Dystonia 2, torsion, autosomal recessive	phenotype	
+Abnormality of the eye	phenotype	
+Gastroesophageal reflux	phenotype	
+Hepatitis, Alcoholic	phenotype	
+Hyperhidrosis	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Hypohidrosis	phenotype	
+Hypotension	phenotype	
+Hypothermia	phenotype	
+Irritability	phenotype	
+Kidney Failure, Chronic	phenotype	
+Leukemia, Lymphocytic, Acute, L1	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Liver Diseases	phenotype	
+Malaria	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Abnormality of movement	phenotype	
+Hypertonia	phenotype	
+Hypotonia, infantile, with psychomotor retardation	phenotype	
+Myoclonus, intractable, neonatal	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Neurodegeneration with brain iron accumulation	phenotype	
+Nicotine Dependence	phenotype	
+Parkinson Disease	phenotype	
+Pheochromocytoma	phenotype	
+Prostatic Neoplasms	phenotype	
+Psychotic Disorders	phenotype	
+Babinski sign	phenotype	
+Schizophrenia	phenotype	
+Paranoid Schizophrenia	phenotype	
+Sleep disturbance	phenotype	
+Tobacco Use Disorder	phenotype	
+Neoplasm of the tongue	phenotype	
+Increased body weight	phenotype	
+Choreoathetosis	phenotype	
+Emotional lability	phenotype	
+Small cell lung cancer	phenotype	
+Migraine Disorders	phenotype	
+Abnormal CSF metabolite level	phenotype	
+Hyperreflexia	phenotype	
+Migraine with aura	phenotype	
+Abnormal pupillary morphology	phenotype	
+Russell-Silver syndrome	phenotype	
+Onset	phenotype	
+Feeding difficulties	phenotype	
+Behavioral abnormality	phenotype	
+Abnormal pyramidal signs	phenotype	
+Abnormality of limbs	phenotype	
+Parkinsonism	phenotype	
+Neoplasm, Residual	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Abnormality of the digestive system	phenotype	
+Abnormality of esophagus morphology	phenotype	
+Common Migraine	phenotype	
+Malignant tumor of prostate	phenotype	
+Involuntary movements	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Mood Disorders	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Primary sclerosing cholangitis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Stomach cancer	phenotype	
+Neuroblastoma	phenotype	
+Abdominal symptom	phenotype	
+Abnormal muscle tone	phenotype	
+Abnormality of head or neck	phenotype	
+Disseminated neuroblastoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Adenocarcinoma of the large intestine	phenotype	
+Abnormal emotion/affect behavior	phenotype	
+Abnormality of temperature regulation	phenotype	
+Upper motor neuron dysfunction	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Muscular hypotonia of the trunk	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Hepatocellular carcinoma	phenotype	
+Feeding difficulties in infancy	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Weight Gain Adverse Event	phenotype	
+Morphological abnormality of the gastrointestinal tract	phenotype	
+Abnormality of the musculature	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the head	phenotype	
+Neurodevelopmental delay	phenotype	
+Functional abnormality of the gastrointestinal tract	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of the gastrointestinal tract	phenotype	
+Abnormality of the musculature of the limbs	phenotype	
+Abnormality of the anterior segment of the globe	phenotype	
+Abnormality of the stomach	phenotype	
+Abnormality of the integument	phenotype	
+Abnormality of the uvea	phenotype	
+Abnormality of the iris	phenotype	
+Abnormality of the face	phenotype	
+Abnormality of digestive system morphology	phenotype	
+Abnormality of digestive system physiology	phenotype	

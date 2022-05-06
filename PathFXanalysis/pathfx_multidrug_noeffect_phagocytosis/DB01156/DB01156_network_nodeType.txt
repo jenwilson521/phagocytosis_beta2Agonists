@@ -1,0 +1,24 @@
+node_name	node_type	
+DB01156	drug	
+CYP2C9	drug_target	
+SLC6A2	drug_target	
+CHRNA3	drug_target	
+CYP2D6	drug_target	
+CYP1A2	drug_target	
+SLC6A3	drug_target	
+CYP2C8	drug_target	
+CYP2B6	drug_target	
+ORM1	drug_target	
+CYP2A6	drug_target	
+CYP3A4	drug_target	
+CYP2E1	drug_target	
+Neoplasm of the larynx	phenotype	
+Chronic schizophrenia	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Nicotine Dependence	phenotype	
+Drug Allergy	phenotype	
+Slow acetylator due to N-acetyltransferase enzyme variant	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Pleural Neoplasms	phenotype	

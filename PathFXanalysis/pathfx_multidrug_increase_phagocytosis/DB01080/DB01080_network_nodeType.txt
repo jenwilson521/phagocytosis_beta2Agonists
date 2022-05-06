@@ -1,0 +1,81 @@
+node_name	node_type	
+DB01080	drug	
+GABBR1	drug_target	
+Memory Loss	phenotype	
+Asthma	phenotype	
+Memory impairment	phenotype	
+Major depressive disorder	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Niemann-Pick disease, type C	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Hyperplasia	phenotype	
+Hypothyroidism	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Inflammation	phenotype	
+Encephalitis	phenotype	
+Bradycardia	phenotype	
+Nausea	phenotype	
+Necrosis	phenotype	
+Unipolar Depression	phenotype	
+Cowden syndrome 1	phenotype	
+Hypertension	phenotype	
+Attention Deficit Disorder	phenotype	
+Bronchiolitis, Viral	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Cerebral Hemorrhage	phenotype	
+Schizophrenia	phenotype	
+Neuralgia	phenotype	
+body mass	phenotype	
+Methicillin resistant Staphylococcus aureus	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Fragile X syndrome	phenotype	
+Nicotine Dependence	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Adrenal insufficiency	phenotype	
+Metabolic Syndrome X	phenotype	
+Cocaine-Related Disorders	phenotype	
+Malnutrition	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Amyloidosis	phenotype	
+Hypotension	phenotype	
+Hyperthyroidism	phenotype	
+Mild cognitive impairment	phenotype	
+Venous thrombosis	phenotype	
+Anxiety Disorders	phenotype	
+Achalasia	phenotype	
+Congenital adrenal hypoplasia, X-linked	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Peroxisome biogenesis disorders	phenotype	
+ Lissencephaly, X-linked 2, 300215 (3)	phenotype	
+Tachycardia	phenotype	
+Fetal Alcohol Syndrome	phenotype	
+Phenylketonuria	phenotype	
+Lobar Pneumonia	phenotype	
+Uveitis	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Sexually Transmitted Diseases	phenotype	
+Cryopyrin-Associated Periodic Syndromes	phenotype	
+Femur Head Necrosis	phenotype	
+Chondrocalcinosis	phenotype	
+Cupped ear	phenotype	
+Progressive Neoplastic Disease	phenotype	
+Progressive cGVHD	phenotype	
+Abnormality of the adrenal glands	phenotype	
+Parkinson Disease	phenotype	
+Isolated somatotropin deficiency	phenotype	
+Abnormality of thyroid physiology	phenotype	
+Substance Use Disorders	phenotype	
+Central hypothyroidism	phenotype	
+Overfolded helix	phenotype	
+Neoplasm of the thymus	phenotype	
+Rheumatoid arthritis	phenotype	
+Hepatic steatosis	phenotype	
+Isolated growth hormone deficiency type 1B	phenotype	
+{?Amyloidosis, secondary, susceptibility to} (1)	phenotype	
+Familial Alzheimer Disease (FAD)	phenotype	
+3 beta-Hydroxysteroid dehydrogenase deficiency	phenotype	
+Normal pressure hydrocephalus	phenotype	
+Carney complex	phenotype	

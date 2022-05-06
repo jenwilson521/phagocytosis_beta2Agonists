@@ -1,0 +1,408 @@
+node1	node2	edge_score	
+DB01143	ALPL	1.0	
+DB01143	ENPP1	1.0	
+DB01143	ALPPL2	1.0	
+ALPL		1
+ENPP1		1
+ALPPL2		1
+Chondrocalcinosis	ALPL	1.0	
+Chondrocalcinosis	ENPP1	1.0	
+Osteomalacia	ALPL	1.0	
+Osteomalacia	ENPP1	1.0	
+Hyperphosphaturia	ALPL	1.0	
+Hyperphosphaturia	ENPP1	1.0	
+Abnormal urine phosphate concentration	ALPL	1.0	
+Abnormal urine phosphate concentration	ENPP1	1.0	
+Rickets	ALPL	1.0	
+Rickets	ENPP1	1.0	
+Abnormality of phosphate homeostasis	ALPL	1.0	
+Abnormality of phosphate homeostasis	ENPP1	1.0	
+Abnormality of alkaline phosphatase activity	ALPL	1.0	
+Abnormality of alkaline phosphatase activity	ENPP1	1.0	
+Blue sclerae	ALPL	1.0	
+Blue sclerae	ENPP1	1.0	
+Abnormality of the sclera	ALPL	1.0	
+Abnormality of the sclera	ENPP1	1.0	
+Abnormal enzyme/coenzyme activity	ALPL	1.0	
+Abnormal enzyme/coenzyme activity	ENPP1	1.0	
+Nephrocalcinosis	ALPL	1.0	
+Nephrocalcinosis	ENPP1	1.0	
+Increased bone mineral density	ALPL	1.0	
+Increased bone mineral density	ENPP1	1.0	
+Abnormal urinary electrolyte concentration	ALPL	1.0	
+Abnormal urinary electrolyte concentration	ENPP1	1.0	
+Calcinosis	ALPL	1.0	
+Calcinosis	ENPP1	1.0	
+Bowing of limbs due to multiple fractures	ALPL	1.0	
+Bowing of limbs due to multiple fractures	ENPP1	1.0	
+Arthropathy	ALPL	1.0	
+Arthropathy	ENPP1	1.0	
+Abnormality of the calf	ALPL	1.0	
+Abnormality of the calf	ENPP1	1.0	
+Ectopic calcification	ALPL	1.0	
+Ectopic calcification	ENPP1	1.0	
+Bone Diseases	ALPL	1.0	
+Bone Diseases	ENPP1	1.0	
+Bowing of the long bones	ALPL	1.0	
+Bowing of the long bones	ENPP1	1.0	
+Anomaly of the limb diaphyses	ALPL	1.0	
+Anomaly of the limb diaphyses	ENPP1	1.0	
+Internal hemorrhage	ALPL	1.0	
+Internal hemorrhage	ENPP1	1.0	
+Abnormality of the cerebral vasculature	ALPL	1.0	
+Abnormality of the cerebral vasculature	ENPP1	1.0	
+Abnormality of blood circulation	ALPL	1.0	
+Abnormality of blood circulation	ENPP1	1.0	
+Abnormal diaphysis morphology	ALPL	1.0	
+Abnormal diaphysis morphology	ENPP1	1.0	
+Abnormality of cranial sutures	ALPL	1.0	
+Abnormality of cranial sutures	ENPP1	1.0	
+Skeletal dysplasia	ALPL	1.0	
+Skeletal dysplasia	ENPP1	1.0	
+Abnormality of ion homeostasis	ALPL	1.0	
+Abnormality of ion homeostasis	ENPP1	1.0	
+Craniosynostoses	ALPL	1.0	
+Craniosynostoses	ENPP1	1.0	
+Abnormal form of the vertebral bodies	ALPL	1.0	
+Abnormal form of the vertebral bodies	ENPP1	1.0	
+Abnormality of dental structure	ALPL	1.0	
+Abnormality of dental structure	ENPP1	1.0	
+Abnormality of fontanelles	ALPL	1.0	
+Abnormality of fontanelles	ENPP1	1.0	
+Abnormality of the vertebrae	ALPL	1.0	
+Abnormality of the vertebrae	ENPP1	1.0	
+Abnormal bleeding	ALPL	1.0	
+Abnormal bleeding	ENPP1	1.0	
+Reduced bone mineral density	ALPL	1.0	
+Reduced bone mineral density	ENPP1	1.0	
+Disorder of skeletal system	ALPL	1.0	
+Decreased skull ossification	ALPL	1.0	
+Tibial bowing	ENPP1	1.0	
+Stillbirth	ALPL	1.0	
+Abnormal trabecular bone morphology	ENPP1	1.0	
+Abnormality of the vertebral endplates	ENPP1	1.0	
+Familial X-linked hypophosphatemic vitamin D refractory rickets	ENPP1	1.0	
+Abnormality of bone mineral density	ALPL	1.0	
+Abnormality of bone mineral density	ENPP1	1.0	
+Excessive wrinkled skin	ENPP1	1.0	
+Abnormality of skull ossification	ALPL	1.0	
+Coxa vara	ENPP1	1.0	
+Abnormality of urine homeostasis	ALPL	1.0	
+Abnormality of urine homeostasis	ENPP1	1.0	
+Hypophosphatemic rickets	ENPP1	1.0	
+Lack of skin elasticity	ENPP1	1.0	
+Metabolic Bone Disorder	ALPL	1.0	
+Femoral bowing	ENPP1	1.0	
+Abnormality of lower limb bone	ALPL	1.0	
+Abnormality of lower limb bone	ENPP1	1.0	
+Premature loss of teeth	ALPL	1.0	
+Generalized osteoarthritis	ENPP1	1.0	
+Retinopathy	ALPPL2	1.0	
+Retinopathy	ENPP1	1.0	
+Abnormality of skeletal physiology	ALPL	1.0	
+Abnormality of skeletal physiology	ENPP1	1.0	
+Abnormality of long bone morphology	ALPL	1.0	
+Abnormality of long bone morphology	ENPP1	1.0	
+Osteoarthritis of distal interphalangeal joint	ENPP1	1.0	
+Asymmetric growth	ENPP1	1.0	
+Abnormality of renal excretion	ENPP1	1.0	
+Alveolar Bone Loss	ALPL	1.0	
+Osteoarthritis of the hand	ENPP1	1.0	
+Multiple lipomas	ENPP1	1.0	
+Abnormal bone ossification	ALPL	1.0	
+Abnormal bone ossification	ENPP1	1.0	
+Polyarticular arthritis	ENPP1	1.0	
+Hypophosphatemia	ENPP1	1.0	
+Abnormality of the thorax	ALPL	1.0	
+Abnormality of the thorax	ENPP1	1.0	
+Abnormality of primary teeth	ALPL	1.0	
+Premature skin wrinkling	ENPP1	1.0	
+Pathologic fracture	ALPL	1.0	
+Hypertriglyceridemia result	ENPP1	1.0	
+Localized skin lesion	ALPL	1.0	
+Localized skin lesion	ENPP1	1.0	
+Abnormal bone structure	ALPL	1.0	
+Abnormal bone structure	ENPP1	1.0	
+Abnormality of calvarial morphology	ALPL	1.0	
+Abnormality of calvarial morphology	ENPP1	1.0	
+Hyperextensible skin	ENPP1	1.0	
+Pediatric Obesity	ENPP1	1.0	
+Abnormality of the endocardium	ENPP1	1.0	
+Neoplasm of fatty tissue	ENPP1	1.0	
+Kidney Calculi	ALPL	1.0	
+Thickened nuchal skin fold	ENPP1	1.0	
+Lipomatous tumor	ENPP1	1.0	
+Waddling gait	ALPL	1.0	
+Bile duct cancer resectable	ENPP1	1.0	
+Insulin resistance syndrome	ENPP1	1.0	
+Tibia, hypoplasia or aplasia of, with polydactyly	ENPP1	1.0	
+Short-rib thoracic dysplasia 10 with or without polydactyly	ALPL	1.0	
+Abnormality of dental morphology	ALPL	1.0	
+Abnormality of dental morphology	ENPP1	1.0	
+Pseudoxanthoma elasticum	ENPP1	1.0	
+Hyperostosis	ALPL	1.0	
+Skin dimples	ALPL	1.0	
+Abnormality of urine calcium concentration	ALPL	1.0	
+Elevated alkaline phosphatase	ENPP1	1.0	
+Abnormal cortical bone morphology	ENPP1	1.0	
+Abnormality of vitamin metabolism	ENPP1	1.0	
+Bone pain	ENPP1	1.0	
+Hutchinson-Gilford syndrome	ENPP1	1.0	
+Anemia	ALPL	1.0	
+Anemia	ENPP1	1.0	
+Fetal ultrasound soft marker	ENPP1	1.0	
+Abnormality of the calvaria	ALPL	1.0	
+Abnormality of the calvaria	ENPP1	1.0	
+Aortic valve disease 2	ENPP1	1.0	
+Telangiectasia of the skin	ENPP1	1.0	
+Abnormality of the urinary system physiology	ALPL	1.0	
+Abnormality of the urinary system physiology	ENPP1	1.0	
+Vascular Calcification	ENPP1	1.0	
+Abnormality of the ilium	ENPP1	1.0	
+Dilatation	ENPP1	1.0	
+Bicuspid aortic valve	ENPP1	1.0	
+Abnormality of cardiovascular system physiology	ALPL	1.0	
+Abnormality of cardiovascular system physiology	ENPP1	1.0	
+Inborn Errors of Metabolism	ALPL	1.0	
+ {HIV-1 viremia, susceptibility to}, 609423 (3)	ENPP1	1.0	
+Uremia	ALPL	1.0	
+Angina pectoris	ENPP1	1.0	
+Aplasia/Hypoplasia of the ribs	ALPL	1.0	
+Embryonal neoplasm	ALPPL2	1.0	
+Complications of Diabetes Mellitus	ENPP1	1.0	
+Acne	ENPP1	1.0	
+Kidney Diseases	ALPL	1.0	
+Kidney Diseases	ENPP1	1.0	
+Hypercalciuria	ALPL	1.0	
+Abnormal concentration of calcium in blood	ALPL	1.0	
+Micromelia	ALPL	1.0	
+Subcutaneous nodule	ENPP1	1.0	
+Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	ALPL	1.0	
+Mitral Valve Prolapse	ENPP1	1.0	
+Abnormality of the sacrum	ENPP1	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	ALPL	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	ENPP1	1.0	
+Abnormality of the upper urinary tract	ALPL	1.0	
+Abnormality of the upper urinary tract	ENPP1	1.0	
+Abnormality of the wrist	ENPP1	1.0	
+Abnormality of the vertebral column	ALPL	1.0	
+Abnormality of the vertebral column	ENPP1	1.0	
+Abnormality of the coronary arteries	ENPP1	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	ENPP1	1.0	
+Skin nodule	ENPP1	1.0	
+Bruising susceptibility	ENPP1	1.0	
+body mass	ENPP1	1.0	
+Abnormal enchondral ossification	ALPL	1.0	
+Postmenopausal osteoporosis	ALPL	1.0	
+Abnormality of immune system physiology	ALPL	1.0	
+Abnormality of immune system physiology	ENPP1	1.0	
+Irritability	ALPL	1.0	
+Cerebral calcification	ENPP1	1.0	
+Abnormality of the femoral neck	ENPP1	1.0	
+Abnormality of T cell count	ALPL	1.0	
+Abnormality of T cell count	ENPP1	1.0	
+Abnormality of body height	ALPL	1.0	
+Abnormality of body height	ENPP1	1.0	
+Delayed eruption of teeth	ENPP1	1.0	
+Spastic syndrome	ALPPL2	1.0	
+Abnormally lax or hyperextensible skin	ENPP1	1.0	
+Prematurely aged appearance	ENPP1	1.0	
+Abnormal joint morphology	ALPL	1.0	
+Abnormal joint morphology	ENPP1	1.0	
+Abnormality of limb bone morphology	ALPL	1.0	
+Abnormality of limb bone morphology	ENPP1	1.0	
+Abnormality of limb bone	ALPL	1.0	
+Abnormality of limb bone	ENPP1	1.0	
+Abnormality of connective tissue	ALPL	1.0	
+Abnormality of connective tissue	ENPP1	1.0	
+Disproportionate short stature	ALPL	1.0	
+Abnormality of the lower limb	ALPL	1.0	
+Abnormality of the lower limb	ENPP1	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	ALPL	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	ENPP1	1.0	
+Abnormality of calcium homeostasis	ALPL	1.0	
+Abnormality of the mitral valve	ENPP1	1.0	
+Hairy Cell Leukemia	ENPP1	1.0	
+Recurrent fractures	ALPL	1.0	
+Abnormal appendicular skeleton morphology	ALPL	1.0	
+Abnormal appendicular skeleton morphology	ENPP1	1.0	
+Hypercalcemia, infantile, 2	ALPL	1.0	
+Abnormality of divalent inorganic cation homeostasis	ALPL	1.0	
+Large fontanelles	ALPL	1.0	
+Abnormality of movement	ALPL	1.0	
+Abnormality of movement	ENPP1	1.0	
+Hypertriglyceridemia	ENPP1	1.0	
+Abnormality of dental eruption	ENPP1	1.0	
+Telangiectases in sun-exposed and nonexposed skin	ENPP1	1.0	
+Dolichocephaly	ALPL	1.0	
+Abnormality of the atrioventricular valves	ENPP1	1.0	
+Death in infancy	ALPL	1.0	
+Aplasia/Hypoplasia of the skin	ENPP1	1.0	
+Polyhydramnios	ALPL	1.0	
+Abnormal elasticity of skin	ENPP1	1.0	
+Obesity, severe, 601665 (3)	ENPP1	1.0	
+Gingival Diseases	ALPL	1.0	
+Growth delay	ALPL	1.0	
+Growth delay	ENPP1	1.0	
+Gastrointestinal hemorrhage	ENPP1	1.0	
+Abnormality of the oral cavity	ALPL	1.0	
+Abnormality of the oral cavity	ENPP1	1.0	
+Anorexia	ALPL	1.0	
+Abnormalities of the peripheral arteries	ENPP1	1.0	
+Abnormality of digestive system physiology	ALPL	1.0	
+Abnormality of digestive system physiology	ENPP1	1.0	
+Pruritus	ENPP1	1.0	
+Abnormality of the urinary system	ALPL	1.0	
+Abnormality of the urinary system	ENPP1	1.0	
+Arterial stenosis	ENPP1	1.0	
+Prostatic Intraepithelial Neoplasias	ENPP1	1.0	
+Abnormality of the immune system	ALPL	1.0	
+Abnormality of the immune system	ENPP1	1.0	
+Abnormality of adipose tissue	ENPP1	1.0	
+Joint hyperflexibility	ENPP1	1.0	
+Peripheral Arterial Disease	ENPP1	1.0	
+Sudden cardiac death	ENPP1	1.0	
+Stroke	ALPPL2	1.0	
+Stroke	ENPP1	1.0	
+Apnea	ALPL	1.0	
+Abnormality of femur morphology	ENPP1	1.0	
+Abnormality of skin morphology	ALPL	1.0	
+Abnormality of skin morphology	ENPP1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ALPL	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ENPP1	1.0	
+Subcutaneous hemorrhage	ENPP1	1.0	
+Abnormality of thyroid physiology	ENPP1	1.0	
+Hemiplegia/hemiparesis	ENPP1	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	ALPL	1.0	
+Abnormality of limbs	ALPL	1.0	
+Abnormality of limbs	ENPP1	1.0	
+Proptosis	ALPL	1.0	
+Abnormality of the mouth	ALPL	1.0	
+Abnormality of the mouth	ENPP1	1.0	
+Abnormality of the skull	ALPL	1.0	
+Abnormality of the skull	ENPP1	1.0	
+Abnormality of blood and blood-forming tissues	ALPL	1.0	
+Abnormality of blood and blood-forming tissues	ENPP1	1.0	
+Secondary hyperparathyroidism	ALPL	1.0	
+Abnormality of the ribs	ALPL	1.0	
+Abnormality of the skin	ALPL	1.0	
+Abnormality of the skin	ENPP1	1.0	
+Abnormality of cation homeostasis	ALPL	1.0	
+Abnormality of the knee	ENPP1	1.0	
+Abnormal pattern of respiration	ALPL	1.0	
+Vomiting	ALPL	1.0	
+Abnormality of the amniotic fluid	ALPL	1.0	
+Maternal diabetes	ENPP1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALPL	1.0	
+Abnormal morphology of bones of the lower limbs	ENPP1	1.0	
+Endothelial dysfunction	ENPP1	1.0	
+Abnormality of the globe	ALPL	1.0	
+Abnormality of the globe	ENPP1	1.0	
+Abnormal eye morphology	ALPL	1.0	
+Abnormal eye morphology	ENPP1	1.0	
+Overweight	ENPP1	1.0	
+Testicular seminoma	ALPPL2	1.0	
+Intracranial hemorrhage	ALPL	1.0	
+Abnormality of the genitourinary system	ALPL	1.0	
+Abnormality of the genitourinary system	ENPP1	1.0	
+Cardiac arrest	ENPP1	1.0	
+Age of death	ALPL	1.0	
+Mortality/Aging	ALPL	1.0	
+Abnormal axial skeleton morphology	ALPL	1.0	
+Abnormal axial skeleton morphology	ENPP1	1.0	
+Malabsorption	ENPP1	1.0	
+Abnormality of cardiovascular system electrophysiology	ALPL	1.0	
+Abnormality of cardiovascular system electrophysiology	ENPP1	1.0	
+Abnormality of brain morphology	ALPL	1.0	
+Abnormality of brain morphology	ENPP1	1.0	
+Growth abnormality	ALPL	1.0	
+Growth abnormality	ENPP1	1.0	
+Malignant hyperthermia susceptibility type 5	ALPL	1.0	
+Dyslipidemias	ENPP1	1.0	
+Constipation	ALPL	1.0	
+Abnormal shape of the frontal region	ALPL	1.0	
+Abnormality of metabolism/homeostasis	ALPL	1.0	
+Abnormality of metabolism/homeostasis	ENPP1	1.0	
+Frontal bossing	ALPL	1.0	
+Abnormality of temperature regulation	ALPL	1.0	
+Stage 5 chronic kidney disease	ENPP1	1.0	
+Ovarian Diseases	ENPP1	1.0	
+Dermal atrophy	ENPP1	1.0	
+Abnormality of the rib cage	ALPL	1.0	
+Abnormality of the voice	ALPL	1.0	
+Adenocarcinoma of colon	ALPPL2	1.0	
+Hypertension	ALPL	1.0	
+Hypertension	ENPP1	1.0	
+Abnormality of thrombocytes	ENPP1	1.0	
+Abnormality of the integument	ALPL	1.0	
+Abnormality of the integument	ENPP1	1.0	
+Joint hypermobility	ENPP1	1.0	
+Abnormality of the sternum	ALPL	1.0	
+Abnormality of the digestive system	ALPL	1.0	
+Abnormality of the digestive system	ENPP1	1.0	
+Germ cell neoplasia	ALPPL2	1.0	
+Alzheimer Disease	ALPL	1.0	
+Alzheimer Disease	ENPP1	1.0	
+Abnormality of the heart valves	ENPP1	1.0	
+Hyperkeratosis	ENPP1	1.0	
+Morphological abnormality of the central nervous system	ALPL	1.0	
+Morphological abnormality of the central nervous system	ENPP1	1.0	
+Dental Caries	ALPL	1.0	
+Spontaneous abortion	ALPPL2	1.0	
+Ankylosing spondylitis	ALPL	1.0	
+Left ventricular hypertrophy	ENPP1	1.0	
+Inflammatory abnormality of the skin	ENPP1	1.0	
+Choriocarcinoma	ALPPL2	1.0	
+Abnormality of the face	ALPL	1.0	
+Abnormality of the face	ENPP1	1.0	
+Weakness due to upper motor neuron dysfunction	ENPP1	1.0	
+Abnormality of skin physiology	ENPP1	1.0	
+Abnormality of nervous system morphology	ALPL	1.0	
+Abnormality of nervous system morphology	ENPP1	1.0	
+Abnormality of skeletal morphology	ALPL	1.0	
+Abnormality of skeletal morphology	ENPP1	1.0	
+Abnormality of the hip bone	ENPP1	1.0	
+Abnormality of the systemic arterial tree	ENPP1	1.0	
+Abnormal systemic blood pressure	ENPP1	1.0	
+Abnormality of the eye	ALPL	1.0	
+Abnormality of the eye	ENPP1	1.0	
+Nausea and vomiting	ALPL	1.0	
+Glucose intolerance	ENPP1	1.0	
+Epidermal thickening	ENPP1	1.0	
+Abnormality of the skeletal system	ALPL	1.0	
+Abnormality of the skeletal system	ENPP1	1.0	
+Non-alcoholic Fatty Liver Disease	ENPP1	1.0	
+Abnormality of upper limb joint	ENPP1	1.0	
+Recurrent respiratory infections	ALPL	1.0	
+Acute Coronary Syndrome	ENPP1	1.0	
+Abnormality of the head	ALPL	1.0	
+Abnormality of the head	ENPP1	1.0	
+Abnormality of refraction	ENPP1	1.0	
+Autosomal recessive inheritance	ALPL	1.0	
+Autosomal recessive inheritance	ENPP1	1.0	
+Abnormality of head or neck	ALPL	1.0	
+Abnormality of head or neck	ENPP1	1.0	
+Insulin Resistance	ENPP1	1.0	
+Abnormality of lower limb joint	ENPP1	1.0	
+Arrhythmias, Cardiac	ENPP1	1.0	
+Thickened skin	ENPP1	1.0	
+Hypothyroidism	ENPP1	1.0	
+High palate	ENPP1	1.0	
+Abnormality of the myocardium	ENPP1	1.0	
+Abnormality of pelvic girdle bone morphology	ENPP1	1.0	
+Hyperinsulinemia	ENPP1	1.0	
+Vascular skin abnormality	ENPP1	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	ENPP1	1.0	
+Renal Insufficiency, Chronic	ENPP1	1.0	
+Exanthema	ENPP1	1.0	
+Obesity	ALPL	1.0	
+Obesity	ENPP1	1.0	
+Preeclampsia/eclampsia 1	ENPP1	1.0	
+Abnormality of erythrocytes	ALPL	1.0	
+Thyroid Diseases	ENPP1	1.0	
+Abnormality of the neck	ENPP1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ALPL	1.0	
+Abnormality of nervous system physiology	ALPL	1.0	
+Abnormality of nervous system physiology	ENPP1	1.0	
+Respiratory tract infection	ALPL	1.0	
+Abnormal vascular morphology	ENPP1	1.0	

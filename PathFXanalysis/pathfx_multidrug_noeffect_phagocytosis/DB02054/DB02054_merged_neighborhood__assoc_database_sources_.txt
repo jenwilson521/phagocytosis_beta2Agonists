@@ -1,0 +1,46 @@
+Gene	CUI	Phenotype	Source Databases	
+OAT	C0002514	Disorder of amino acid metabolism	DisGeNet	
+OAT	C0004509	Azoospermia	DisGeNet	
+OAT	C0011854	Diabetes mellitus type 1	DisGeNet	
+OAT	C0015393	Abnormality of the eye	HumPhenOnt	
+OAT	C0015397	orbit (eye disorders)	DisGeNet	
+OAT	C0027092	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	HumPhenOnt	
+OAT	C0028077	Night blindness, congenital stationary, type 1g	HumPhenOnt	
+OAT	C0028754	Obesity	DisGeNet	
+OAT	C0030552	Muscle weakness	HumPhenOnt	
+OAT	C0035300	Abnormality of the retina	HumPhenOnt	
+OAT	C0035304	Retinal degeneration	DisGeNet	
+OAT	C0035334	Retinitis pigmentosa	DisGeNet	
+OAT	C0035335	Retinoblastoma	DisGeNet	
+OAT	C0036454	Scotoma	DisGeNet	
+OAT	C0039101	Synovial sarcoma	DisGeNet	
+OAT	C0041107	Trisomy	DisGeNet	
+OAT	C0080032	Pleural Effusion, Malignant	DisGeNet	
+OAT	C0086543	Cataract, autosomal recessive congenital 5	HumPhenOnt	
+OAT	C0162872	Aortic Aneurysm, Thoracic	DisGeNet	
+OAT	C0221629	Proximal muscle weakness	HumPhenOnt	
+OAT	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+OAT	C0456909	Blindness	HumPhenOnt	
+OAT	C0476403	EMG abnormality	HumPhenOnt	
+OAT	C0549651	Abnormality of the lens	HumPhenOnt	
+OAT	C0920646	Renal ischaemia	DisGeNet	
+OAT	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+OAT	C2025392	Polar cataract	HumPhenOnt	
+OAT	C3665346	Unspecified visual loss	DisGeNet	
+OAT	C3665347	Visual impairment	HumPhenOnt	
+OAT	C3887875	Visual field defect	DisGeNet	
+OAT	C4021745	Abnormality of the musculature	HumPhenOnt	
+OAT	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+OAT	C4022923	Abnormality of the globe	HumPhenOnt	
+OAT	C4022924	Abnormal eye physiology	HumPhenOnt	
+OAT	C4022925	Abnormal eye morphology	HumPhenOnt	
+OAT	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+OAT	C4025354	Abnormality of the posterior segment of the globe	HumPhenOnt	
+OAT	C4025355	Abnormality of the anterior segment of the globe	HumPhenOnt	
+OAT	C4025804	Abnormality of the fundus	HumPhenOnt	
+OAT	C4025836	Abnormality of the choroid	HumPhenOnt	
+OAT	C4025842	Abnormality of the uvea	HumPhenOnt	
+OAT	C4025843	Abnormality of refraction	HumPhenOnt	
+OAT	C4025844	Chorioretinal abnormality	HumPhenOnt	
+OAT	C4025846	Abnormality of vision	HumPhenOnt	
+OAT	C4082937	Necrotizing Enterocolitis	DisGeNet	

@@ -1,0 +1,80 @@
+node_name	node_type	
+DB00472	drug	
+SLC6A4	drug_target	
+CYP2B6	drug_target	
+CYP2C9	drug_target	
+ALB	drug_target	
+CYP1A2	drug_target	
+CYP3A5	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+ORM1	drug_target	
+CYP2C19	drug_target	
+CYP2D6	drug_target	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Plantar hyperkeratosis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Tardive Dyskinesia	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Myofibrillar myopathy, BAG3-related	phenotype	
+Orofacial dyskinesia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Hyperlipoproteinemia	phenotype	
+Hypertriglyceridemia result	phenotype	
+Hyperkeratosis	phenotype	
+cardiac event	phenotype	
+Acute myocardial ischemia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Kidney Failure, Chronic	phenotype	
+Coronary heart disease 7	phenotype	
+Acute kidney injury	phenotype	
+Acute myocardial infarction	phenotype	
+Thromboembolism	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Abnormal blistering of the skin	phenotype	
+Nausea	phenotype	
+Acute postoperative pain	phenotype	
+Thrombosis	phenotype	
+Hyperhidrosis	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Drug Eruptions	phenotype	
+Age-related macular degeneration 2	phenotype	
+Cognition Disorders	phenotype	
+Chemical Carcinogenesis	phenotype	
+Myocardial Infarction	phenotype	
+Epidermal thickening	phenotype	
+Cholecystolithiasis	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Skin Diseases, Genetic	phenotype	
+Kidney Diseases	phenotype	
+Old myocardial infarction	phenotype	
+Diabetes mellitus type 2	phenotype	
+Depressive Symptoms	phenotype	
+Ichthyosis, congenital, autosomal recessive 12	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Insulin resistance syndrome	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+Coronary Restenosis	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Lupus Nephritis	phenotype	
+Thickened skin	phenotype	
+Nephrosis	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Chronic kidney disease	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Oral leukoplakia	phenotype	
+Postoperative Complications	phenotype	
+Enzyme inhibition disorder	phenotype	
+Abnormality of the level of lipoprotein cholesterol	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Stage 5 chronic kidney disease	phenotype	

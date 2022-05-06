@@ -1,0 +1,6 @@
+node_name	node_type	
+DB00928	drug	
+CDA	drug_target	
+DNMT1	drug_target	
+Sporadic Breast Carcinoma	phenotype	
+Diminished motivation	phenotype	

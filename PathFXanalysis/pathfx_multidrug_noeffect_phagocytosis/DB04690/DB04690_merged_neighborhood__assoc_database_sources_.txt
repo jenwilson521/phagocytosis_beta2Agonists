@@ -1,0 +1,4 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+TOP1	C0041755	Adverse drug events and drug allergies	DisGeNet	

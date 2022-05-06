@@ -1,0 +1,3 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+BCHE	C0235032	Neurotoxicity Syndromes	DisGeNet	

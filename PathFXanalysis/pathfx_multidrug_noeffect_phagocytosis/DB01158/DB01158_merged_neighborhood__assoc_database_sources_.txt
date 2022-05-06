@@ -1,0 +1,20 @@
+Gene	CUI	Phenotype	Source Databases	
+ATP1A1	C0001430	Adenomas, multiple colorectal, 608456 (3)	DisGeNet	
+ATP1A1	C0003873	Rheumatoid arthritis	DisGeNet	
+ATP1A1	C0005586	Bipolar affective disorder	DisGeNet	
+ATP1A1	C0010674	Cystic Fibrosis	DisGeNet	
+ATP1A1	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+ATP1A1	C0015934	Intrauterine growth retardation	DisGeNet	
+ATP1A1	C0018681	Headache	DisGeNet	
+ATP1A1	C0018784	Sensorineural hearing impairment	DisGeNet	
+ATP1A1	C0020428	Hyperaldosteronism, familial, type IV	DisGeNet	
+ATP1A1	C0020538	Hypertension	DisGeNet	
+ATP1A1	C0027126	Steinert myotonic dystrophy syndrome	DisGeNet	
+ATP1A1	C0030554	Paresthesia	DisGeNet	
+ATP1A1	C0085580	Essential hypertension	DisGeNet	
+ATP1A1	C0151744	Acute myocardial ischemia	DisGeNet	
+ATP1A1	C0266999	Vesicular Stomatitis	DisGeNet	
+ATP1A1	C0410226	Congenital Myotonic Dystrophy	DisGeNet	
+ATP1A1	C0856169	Endothelial dysfunction	DisGeNet	
+ATP1A1	C1175175	Severe Acute Respiratory Syndrome	DisGeNet	
+ATP1A1	C1384514	Primary hyperaldosteronism	DisGeNet	

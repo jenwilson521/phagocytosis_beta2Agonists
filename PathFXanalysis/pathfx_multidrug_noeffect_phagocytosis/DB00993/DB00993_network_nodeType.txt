@@ -1,0 +1,34 @@
+node_name	node_type	
+DB00993	drug	
+GSTA1	drug_target	
+GSTA2	drug_target	
+XDH	drug_target	
+GSTM1	drug_target	
+TPMT	drug_target	
+HPRT1	drug_target	
+DNA Damage	phenotype	
+Pleural Neoplasms	phenotype	
+Abnormality of purine metabolism	phenotype	
+Chromosomal translocation	phenotype	
+Genomic Instability	phenotype	
+Leukopenia	phenotype	
+Abnormality of nucleobase metabolism	phenotype	
+Myelopathy	phenotype	
+Hemoglobinopathy	phenotype	
+Chromosome Xq28 deletion syndrome	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Occupational Diseases	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Drug Allergy	phenotype	
+Chromosome Aberrations	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Lymphoid leukemia	phenotype	
+Chronic ulcerative colitis	phenotype	
+Alcoholic Liver Diseases	phenotype	
+Neoplasm of the larynx	phenotype	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	phenotype	
+Nephrolithiasis	phenotype	
+Erythema	phenotype	
+Hepatitis, Autoimmune	phenotype	

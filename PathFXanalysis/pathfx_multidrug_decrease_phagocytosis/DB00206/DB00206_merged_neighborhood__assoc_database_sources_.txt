@@ -1,0 +1,27 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0600427	Cocaine Dependence	DisGeNet	
+RAB3A	C0600427	Cocaine Dependence	DisGeNet	
+SLC18A2	C0600427	Cocaine Dependence	DisGeNet	
+STX1A	C0600427	Cocaine Dependence	DisGeNet	
+VAMP2	C0600427	Cocaine Dependence	DisGeNet	
+ABCB11	C0008372	Intrahepatic cholestasis	DisGeNet,HumPhenOnt	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC2	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+ABCB1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCC2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+CYP3A5	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+SLC22A1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCB1	C0235032	Neurotoxicity Syndromes	DisGeNet	
+CYP3A5	C0235032	Neurotoxicity Syndromes	DisGeNet	
+SLC18A2	C0235032	Neurotoxicity Syndromes	DisGeNet	
+ABCB11	C0376618	Endotoxemia	DisGeNet	
+ABCC2	C0376618	Endotoxemia	DisGeNet	
+SLC22A1	C0376618	Endotoxemia	DisGeNet	
+SLC22A2	C0376618	Endotoxemia	DisGeNet	
+ABCB1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+SYT1	C1096063	Drug Resistant Epilepsy	DisGeNet	

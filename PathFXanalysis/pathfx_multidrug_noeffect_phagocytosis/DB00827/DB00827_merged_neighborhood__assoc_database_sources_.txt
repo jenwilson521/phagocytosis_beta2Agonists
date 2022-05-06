@@ -1,0 +1,12 @@
+Gene	CUI	Phenotype	Source Databases	
+SLC22A6	C0005586	Bipolar affective disorder	DisGeNet	
+SLC22A6	C0006663	Calcinosis	DisGeNet	
+SLC22A6	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A6	C0010346	Crohn Disease	DisGeNet	
+SLC22A6	C0011881	Diabetic Nephropathies	DisGeNet	
+SLC22A6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SLC22A6	C0020538	Hypertension	DisGeNet	
+SLC22A6	C0022658	Kidney Diseases	DisGeNet	
+SLC22A6	C0022660	Acute kidney injury	DisGeNet	
+SLC22A6	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	

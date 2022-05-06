@@ -1,0 +1,48 @@
+node_name	node_type	
+DB02054	drug	
+OAT	drug_target	
+Disorder of amino acid metabolism	phenotype	
+Azoospermia	phenotype	
+Diabetes mellitus type 1	phenotype	
+Abnormality of the eye	phenotype	
+orbit (eye disorders)	phenotype	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	phenotype	
+Night blindness, congenital stationary, type 1g	phenotype	
+Obesity	phenotype	
+Muscle weakness	phenotype	
+Abnormality of the retina	phenotype	
+Retinal degeneration	phenotype	
+Retinitis pigmentosa	phenotype	
+Retinoblastoma	phenotype	
+Scotoma	phenotype	
+Synovial sarcoma	phenotype	
+Trisomy	phenotype	
+Pleural Effusion, Malignant	phenotype	
+Cataract, autosomal recessive congenital 5	phenotype	
+Aortic Aneurysm, Thoracic	phenotype	
+Proximal muscle weakness	phenotype	
+Autosomal recessive inheritance	phenotype	
+Blindness	phenotype	
+EMG abnormality	phenotype	
+Abnormality of the lens	phenotype	
+Renal ischaemia	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+Polar cataract	phenotype	
+Unspecified visual loss	phenotype	
+Visual impairment	phenotype	
+Visual field defect	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye physiology	phenotype	
+Abnormal eye morphology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of the posterior segment of the globe	phenotype	
+Abnormality of the anterior segment of the globe	phenotype	
+Abnormality of the fundus	phenotype	
+Abnormality of the choroid	phenotype	
+Abnormality of the uvea	phenotype	
+Abnormality of refraction	phenotype	
+Chorioretinal abnormality	phenotype	
+Abnormality of vision	phenotype	
+Necrotizing Enterocolitis	phenotype	

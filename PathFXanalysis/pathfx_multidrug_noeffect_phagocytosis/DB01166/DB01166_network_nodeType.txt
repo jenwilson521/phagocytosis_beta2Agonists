@@ -1,0 +1,13 @@
+node_name	node_type	
+DB01166	drug	
+CYP1A2	drug_target	
+PDE3A	drug_target	
+CYP2C19	drug_target	
+CYP2D6	drug_target	
+CYP3A5	drug_target	
+CYP3A4	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Tardive Dyskinesia	phenotype	
+Orofacial dyskinesia	phenotype	
+Chronic schizophrenia	phenotype	
+Drug Allergy	phenotype	

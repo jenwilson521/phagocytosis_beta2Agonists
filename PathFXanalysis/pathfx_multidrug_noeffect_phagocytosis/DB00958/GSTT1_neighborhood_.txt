@@ -1,0 +1,3 @@
+GSTT1	GSTT1 non-null, GSTT1 null	0.99	
+GSTT1	rs4630	0.99	
+GSTT1		1.0	

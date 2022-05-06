@@ -1,0 +1,1541 @@
+node1	node2	edge_score	
+DB01997	NOS1	1.0	
+DB01997	NOS3	1.0	
+DB01997	NOS2	1.0	
+NOS1		1
+NOS3	AKT1	0.8562741409491146
+AKT1	rs2494752	0.8477113995396234
+NOS3	ZDHHC21	0.7872074365980737
+NOS3	HSP90AA1	0.8587066675020134
+NOS3	rs2070744	0.99
+AKT1	rs2494732	0.8477113995396234
+NOS3	NOSTRIN	0.8444291205724859
+AKT1	rs1130214	0.8477113995396234
+NOS3	CALM3	0.862046813051915
+AKT1	rs3803300	0.8477113995396234
+NOS3		1
+NOS3	CAV1	0.8575154940321221
+NOS3	rs1799983	0.99
+NOS2		1
+Pulmonary hypertension, neonatal, susceptibility to	AKT1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CALM3	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CAV1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	NOS1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	NOS2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	NOS3	1.0	
+Endothelial dysfunction	AKT1	1.0	
+Endothelial dysfunction	CAV1	1.0	
+Endothelial dysfunction	HSP90AA1	1.0	
+Endothelial dysfunction	NOS2	1.0	
+Endothelial dysfunction	NOS3	1.0	
+Primary pulmonary hypertension	AKT1	1.0	
+Primary pulmonary hypertension	CAV1	1.0	
+Primary pulmonary hypertension	HSP90AA1	1.0	
+Primary pulmonary hypertension	NOS2	1.0	
+Primary pulmonary hypertension	NOS3	1.0	
+Hepatopulmonary Syndrome	AKT1	1.0	
+Hepatopulmonary Syndrome	CAV1	1.0	
+Hepatopulmonary Syndrome	NOS2	1.0	
+Hepatopulmonary Syndrome	NOS3	1.0	
+Meningioma	AKT1	1.0	
+Meningioma	CALM3	1.0	
+Meningioma	CAV1	1.0	
+Meningioma	NOS1	1.0	
+Meningioma	NOS2	1.0	
+Meningioma	NOS3	1.0	
+Invasive Lobular Breast Carcinoma	AKT1	1.0	
+Invasive Lobular Breast Carcinoma	NOS1	1.0	
+Invasive Lobular Breast Carcinoma	NOS2	1.0	
+Anaplastic large cell lymphoma, ALK negative	AKT1	1.0	
+Anaplastic large cell lymphoma, ALK negative	CALM3	1.0	
+Anaplastic large cell lymphoma, ALK negative	HSP90AA1	1.0	
+Anaplastic large cell lymphoma, ALK negative	NOS1	1.0	
+Anaplastic large cell lymphoma, ALK negative	NOS2	1.0	
+Anemia, Sickle Cell	AKT1	1.0	
+Anemia, Sickle Cell	CALM3	1.0	
+Anemia, Sickle Cell	HSP90AA1	1.0	
+Anemia, Sickle Cell	NOS1	1.0	
+Anemia, Sickle Cell	NOS3	1.0	
+Impotence	AKT1	1.0	
+Impotence	NOS1	1.0	
+Impotence	NOS2	1.0	
+Impotence	NOS3	1.0	
+Depressive Disorder	AKT1	1.0	
+Depressive Disorder	CALM3	1.0	
+Depressive Disorder	HSP90AA1	1.0	
+Depressive Disorder	NOS1	1.0	
+Depressive Disorder	NOS2	1.0	
+Depressive Disorder	NOS3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AKT1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CALM3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HSP90AA1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NOS1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NOS2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	NOS3	1.0	
+Pulmonary arterial hypertension	AKT1	1.0	
+Pulmonary arterial hypertension	CAV1	1.0	
+Pulmonary arterial hypertension	HSP90AA1	1.0	
+Pulmonary arterial hypertension	NOS2	1.0	
+Pulmonary arterial hypertension	NOS3	1.0	
+Insulin Resistance	AKT1	1.0	
+Insulin Resistance	CAV1	1.0	
+Insulin Resistance	HSP90AA1	1.0	
+Insulin Resistance	NOS2	1.0	
+Insulin Resistance	NOS3	1.0	
+Hypoxia	AKT1	1.0	
+Hypoxia	CAV1	1.0	
+Hypoxia	NOS1	1.0	
+Hypoxia	NOS2	1.0	
+Hypoxia	NOS3	1.0	
+Hypothyroidism	AKT1	1.0	
+Hypothyroidism	CALM3	1.0	
+Hypothyroidism	CAV1	1.0	
+Hypothyroidism	NOS2	1.0	
+Hypothyroidism	NOS3	1.0	
+Henoch-Schoenlein Purpura	HSP90AA1	1.0	
+Henoch-Schoenlein Purpura	NOS2	1.0	
+Henoch-Schoenlein Purpura	NOS3	1.0	
+Tardive Dyskinesia	AKT1	1.0	
+Tardive Dyskinesia	NOS1	1.0	
+Tardive Dyskinesia	NOS3	1.0	
+Occupational Diseases	NOS1	1.0	
+Occupational Diseases	NOS2	1.0	
+Occupational Diseases	NOS3	1.0	
+Retinopathy of Prematurity	NOS1	1.0	
+Retinopathy of Prematurity	NOS2	1.0	
+Retinopathy of Prematurity	NOS3	1.0	
+Malignant neoplasm of kidney	AKT1	1.0	
+Malignant neoplasm of kidney	CALM3	1.0	
+Malignant neoplasm of kidney	CAV1	1.0	
+Malignant neoplasm of kidney	HSP90AA1	1.0	
+Malignant neoplasm of kidney	NOS2	1.0	
+Malignant neoplasm of colon stage IV	AKT1	1.0	
+Malignant neoplasm of colon stage IV	CAV1	1.0	
+Malignant neoplasm of colon stage IV	HSP90AA1	1.0	
+Brain Ischemia	AKT1	1.0	
+Brain Ischemia	CAV1	1.0	
+Brain Ischemia	NOS1	1.0	
+Brain Ischemia	NOS2	1.0	
+Brain Ischemia	NOS3	1.0	
+Orofacial dyskinesia	AKT1	1.0	
+Orofacial dyskinesia	NOS1	1.0	
+Orofacial dyskinesia	NOS3	1.0	
+Pulmonary edema	CAV1	1.0	
+Pulmonary edema	NOS2	1.0	
+Pulmonary edema	NOS3	1.0	
+Congestive heart failure	AKT1	1.0	
+Congestive heart failure	CALM3	1.0	
+Congestive heart failure	CAV1	1.0	
+Congestive heart failure	NOS1	1.0	
+Congestive heart failure	NOS2	1.0	
+Congestive heart failure	NOS3	1.0	
+Cystic Fibrosis	CALM3	1.0	
+Cystic Fibrosis	HSP90AA1	1.0	
+Cystic Fibrosis	NOS1	1.0	
+Cystic Fibrosis	NOS2	1.0	
+Cystic Fibrosis	NOS3	1.0	
+Papillary thyroid carcinoma	AKT1	1.0	
+Papillary thyroid carcinoma	CALM3	1.0	
+Papillary thyroid carcinoma	HSP90AA1	1.0	
+Papillary thyroid carcinoma	NOS2	1.0	
+Papillary thyroid carcinoma	NOS3	1.0	
+Cardiomyopathy, Dilated	AKT1	1.0	
+Cardiomyopathy, Dilated	HSP90AA1	1.0	
+Cardiomyopathy, Dilated	NOS1	1.0	
+Cardiomyopathy, Dilated	NOS2	1.0	
+Cardiomyopathy, Dilated	NOS3	1.0	
+High-Grade Squamous Intraepithelial Lesions	AKT1	1.0	
+High-Grade Squamous Intraepithelial Lesions	NOS1	1.0	
+High-Grade Squamous Intraepithelial Lesions	NOS2	1.0	
+Hyperglycemia	AKT1	1.0	
+Hyperglycemia	HSP90AA1	1.0	
+Hyperglycemia	NOS1	1.0	
+Hyperglycemia	NOS2	1.0	
+Hyperglycemia	NOS3	1.0	
+Glaucoma, Angle-Closure	AKT1	1.0	
+Glaucoma, Angle-Closure	CAV1	1.0	
+Glaucoma, Angle-Closure	HSP90AA1	1.0	
+Glaucoma, Angle-Closure	NOS2	1.0	
+Glaucoma, Angle-Closure	NOS3	1.0	
+Triple Negative Breast Neoplasms	AKT1	1.0	
+Triple Negative Breast Neoplasms	CAV1	1.0	
+Triple Negative Breast Neoplasms	HSP90AA1	1.0	
+Triple Negative Breast Neoplasms	NOS1	1.0	
+Triple Negative Breast Neoplasms	NOS2	1.0	
+Alveolar cell carcinoma	AKT1	1.0	
+Alveolar cell carcinoma	NOS1	1.0	
+Alveolar cell carcinoma	NOS2	1.0	
+Adult T-Cell Lymphoma/Leukemia	AKT1	1.0	
+Adult T-Cell Lymphoma/Leukemia	CAV1	1.0	
+Adult T-Cell Lymphoma/Leukemia	HSP90AA1	1.0	
+Adult T-Cell Lymphoma/Leukemia	NOS1	1.0	
+Adult T-Cell Lymphoma/Leukemia	NOS2	1.0	
+Diabetic Angiopathies	AKT1	1.0	
+Diabetic Angiopathies	NOS2	1.0	
+Diabetic Angiopathies	NOS3	1.0	
+Necrotizing Enterocolitis	NOS1	1.0	
+Necrotizing Enterocolitis	NOS2	1.0	
+Necrotizing Enterocolitis	NOS3	1.0	
+Type 1 diabetic neuropathy	NOS1	1.0	
+Type 1 diabetic neuropathy	NOS2	1.0	
+Type 1 diabetic neuropathy	NOS3	1.0	
+Malaria, Cerebral	NOS1	1.0	
+Malaria, Cerebral	NOS2	1.0	
+Malaria, Cerebral	NOS3	1.0	
+Waldenstrom macroglobulinemia	HSP90AA1	1.0	
+Waldenstrom macroglobulinemia	NOS1	1.0	
+Waldenstrom macroglobulinemia	NOS2	1.0	
+Cutaneous T-cell lymphoma	AKT1	1.0	
+Cutaneous T-cell lymphoma	HSP90AA1	1.0	
+Cutaneous T-cell lymphoma	NOS1	1.0	
+Cutaneous T-cell lymphoma	NOS2	1.0	
+Autoimmune disease 1	AKT1	1.0	
+Autoimmune disease 1	CAV1	1.0	
+Autoimmune disease 1	HSP90AA1	1.0	
+Autoimmune disease 1	NOS1	1.0	
+Autoimmune disease 1	NOS2	1.0	
+Autoimmune disease 1	NOS3	1.0	
+Liver Cirrhosis, Biliary	AKT1	1.0	
+Liver Cirrhosis, Biliary	CAV1	1.0	
+Liver Cirrhosis, Biliary	NOS1	1.0	
+Liver Cirrhosis, Biliary	NOS2	1.0	
+Liver Cirrhosis, Biliary	NOS3	1.0	
+Liver Cirrhosis, Biliary	NOSTRIN	1.0	
+Cardiomegaly	AKT1	1.0	
+Cardiomegaly	CAV1	1.0	
+Cardiomegaly	NOS1	1.0	
+Cardiomegaly	NOS3	1.0	
+Achalasia	NOS1	1.0	
+Achalasia	NOS2	1.0	
+Chronic atrial fibrillation	CALM3	1.0	
+Chronic atrial fibrillation	NOS3	1.0	
+Portal hypertension, noncirrhotic	HSP90AA1	1.0	
+Portal hypertension, noncirrhotic	NOS1	1.0	
+Portal hypertension, noncirrhotic	NOS3	1.0	
+Lymphomatoid Papulosis	NOS1	1.0	
+Lymphomatoid Papulosis	NOS2	1.0	
+Malignant lymphoma - lymphoplasmacytic	NOS1	1.0	
+Malignant lymphoma - lymphoplasmacytic	NOS2	1.0	
+Hemophagocytosis	NOS1	1.0	
+Hemophagocytosis	NOS2	1.0	
+Idiopathic hypereosinophilic syndrome	NOS1	1.0	
+Idiopathic hypereosinophilic syndrome	NOS2	1.0	
+Abnormality of subcutaneous fat tissue	AKT1	1.0	
+Abnormality of subcutaneous fat tissue	CAV1	1.0	
+Immediate hypersensitivity	NOS1	1.0	
+Immediate hypersensitivity	NOS2	1.0	
+Immediate hypersensitivity	NOS3	1.0	
+Bladder neck obstruction	AKT1	1.0	
+Bladder neck obstruction	NOS3	1.0	
+African Trypanosomiasis	CALM3	1.0	
+African Trypanosomiasis	NOS2	1.0	
+Reperfusion Injury	CAV1	1.0	
+Reperfusion Injury	NOS1	1.0	
+Reperfusion Injury	NOS2	1.0	
+Reperfusion Injury	NOS3	1.0	
+Essential hypertension	CALM3	1.0	
+Essential hypertension	NOS1	1.0	
+Essential hypertension	NOS2	1.0	
+Essential hypertension	NOS3	1.0	
+Liposarcoma	AKT1	1.0	
+Liposarcoma	CAV1	1.0	
+Liposarcoma	HSP90AA1	1.0	
+Peripheral T-Cell Lymphoma	AKT1	1.0	
+Peripheral T-Cell Lymphoma	NOS1	1.0	
+Peripheral T-Cell Lymphoma	NOS2	1.0	
+Hepatic cancer metastatic	AKT1	1.0	
+Hepatic cancer metastatic	CALM3	1.0	
+Hepatic cancer metastatic	CAV1	1.0	
+Hepatic cancer metastatic	HSP90AA1	1.0	
+Hepatic cancer metastatic	NOS3	1.0	
+Ventricular Fibrillation Adverse Event	CALM3	1.0	
+Ventricular Fibrillation Adverse Event	CAV1	1.0	
+Ventricular Fibrillation Adverse Event	NOS3	1.0	
+Pervasive developmental disorders	NOS1	1.0	
+Pervasive developmental disorders	NOS2	1.0	
+Prostate Cancer, Hereditary, 7	AKT1	1.0	
+Prostate Cancer, Hereditary, 7	CAV1	1.0	
+Rett syndrome, congenital variant	AKT1	1.0	
+Rett syndrome, congenital variant	NOS1	1.0	
+Rett syndrome, congenital variant	NOS2	1.0	
+Renal hypertension	NOS2	1.0	
+Renal hypertension	NOS3	1.0	
+Mucosal telangiectasiae	AKT1	1.0	
+Mucosal telangiectasiae	CAV1	1.0	
+Arteriosclerosis	AKT1	1.0	
+Arteriosclerosis	CAV1	1.0	
+Arteriosclerosis	HSP90AA1	1.0	
+Arteriosclerosis	NOS1	1.0	
+Arteriosclerosis	NOS2	1.0	
+Arteriosclerosis	NOS3	1.0	
+Inflammation	AKT1	1.0	
+Inflammation	CAV1	1.0	
+Inflammation	HSP90AA1	1.0	
+Inflammation	NOS2	1.0	
+Inflammation	NOS3	1.0	
+Hepatic encephalopathy	NOS1	1.0	
+Hepatic encephalopathy	NOS2	1.0	
+Bladder carcinoma	AKT1	1.0	
+Bladder carcinoma	CALM3	1.0	
+Bladder carcinoma	CAV1	1.0	
+Bladder carcinoma	HSP90AA1	1.0	
+Bladder carcinoma	NOS2	1.0	
+Bladder carcinoma	NOS3	1.0	
+Leukemogenesis	AKT1	1.0	
+Leukemogenesis	CALM3	1.0	
+Leukemogenesis	CAV1	1.0	
+Leukemogenesis	NOS1	1.0	
+Leukemogenesis	NOS2	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	AKT1	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	CAV1	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	HSP90AA1	1.0	
+Leukemia, T-cell acute lymphoblastoid (2)	NOS2	1.0	
+Hypertension	AKT1	1.0	
+Hypertension	CALM3	1.0	
+Hypertension	CAV1	1.0	
+Hypertension	HSP90AA1	1.0	
+Hypertension	NOS1	1.0	
+Hypertension	NOS2	1.0	
+Hypertension	NOS3	1.0	
+Lipoid nephrosis	NOS1	1.0	
+Lipoid nephrosis	NOS3	1.0	
+Brain neoplasm	AKT1	1.0	
+Brain neoplasm	CAV1	1.0	
+Brain neoplasm	NOS1	1.0	
+Brain neoplasm	NOS2	1.0	
+Brain neoplasm	NOS3	1.0	
+Pancreatitis, Acute Necrotizing	NOS1	1.0	
+Pancreatitis, Acute Necrotizing	NOS2	1.0	
+Renal Insufficiency, Chronic	CAV1	1.0	
+Renal Insufficiency, Chronic	NOS1	1.0	
+Renal Insufficiency, Chronic	NOS2	1.0	
+Renal Insufficiency, Chronic	NOS3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	AKT1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CALM3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CAV1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	HSP90AA1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NOS1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NOS2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NOS3	1.0	
+Cardiomyopathy	AKT1	1.0	
+Cardiomyopathy	CAV1	1.0	
+Cardiomyopathy	NOS1	1.0	
+Cardiomyopathy	NOS2	1.0	
+Cardiomyopathy	NOS3	1.0	
+Lung Neoplasms	AKT1	1.0	
+Lung Neoplasms	CAV1	1.0	
+Lung Neoplasms	HSP90AA1	1.0	
+Lung Neoplasms	NOS1	1.0	
+Lung Neoplasms	NOS2	1.0	
+Lung Neoplasms	NOS3	1.0	
+Chronic Lymphocytic Leukemia	AKT1	1.0	
+Chronic Lymphocytic Leukemia	CALM3	1.0	
+Chronic Lymphocytic Leukemia	CAV1	1.0	
+Chronic Lymphocytic Leukemia	HSP90AA1	1.0	
+Chronic Lymphocytic Leukemia	NOS1	1.0	
+Chronic Lymphocytic Leukemia	NOS2	1.0	
+Ocular Hypertension	NOS2	1.0	
+Ocular Hypertension	NOS3	1.0	
+Fabry disease	NOS2	1.0	
+Fabry disease	NOS3	1.0	
+Bronchial Hyperreactivity	NOS1	1.0	
+Bronchial Hyperreactivity	NOS2	1.0	
+Bronchial Hyperreactivity	NOS3	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	CALM3	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	NOS3	1.0	
+Stroke	AKT1	1.0	
+Stroke	CALM3	1.0	
+Stroke	NOS1	1.0	
+Stroke	NOS2	1.0	
+Stroke	NOS3	1.0	
+Stroke	NOSTRIN	1.0	
+Vascular Diseases	CAV1	1.0	
+Vascular Diseases	HSP90AA1	1.0	
+Vascular Diseases	NOS2	1.0	
+Vascular Diseases	NOS3	1.0	
+Renovascular hypertension	NOS1	1.0	
+Renovascular hypertension	NOS3	1.0	
+Bile duct cancer resectable	AKT1	1.0	
+Bile duct cancer resectable	HSP90AA1	1.0	
+Nephritis	CAV1	1.0	
+Nephritis	NOS2	1.0	
+Nephritis	NOS3	1.0	
+Neuritis	CAV1	1.0	
+Neuritis	NOS2	1.0	
+Vasculitis	CAV1	1.0	
+Vasculitis	NOS2	1.0	
+Vasculitis	NOS3	1.0	
+Atherosclerosis	AKT1	1.0	
+Atherosclerosis	CAV1	1.0	
+Atherosclerosis	HSP90AA1	1.0	
+Atherosclerosis	NOS1	1.0	
+Atherosclerosis	NOS2	1.0	
+Atherosclerosis	NOS3	1.0	
+Parkinson Disease	AKT1	1.0	
+Parkinson Disease	CAV1	1.0	
+Parkinson Disease	NOS1	1.0	
+Parkinson Disease	NOS2	1.0	
+Parkinson Disease	NOS3	1.0	
+Melanocytic nevus	AKT1	1.0	
+Melanocytic nevus	HSP90AA1	1.0	
+Melanocytic nevus	NOS2	1.0	
+Symptomatic human immunodeficiency virus infection	AKT1	1.0	
+Symptomatic human immunodeficiency virus infection	CALM3	1.0	
+Symptomatic human immunodeficiency virus infection	CAV1	1.0	
+Symptomatic human immunodeficiency virus infection	HSP90AA1	1.0	
+Symptomatic human immunodeficiency virus infection	NOS1	1.0	
+Symptomatic human immunodeficiency virus infection	NOS2	1.0	
+Symptomatic human immunodeficiency virus infection	NOS3	1.0	
+Heart Failure	AKT1	1.0	
+Heart Failure	CALM3	1.0	
+Heart Failure	NOS1	1.0	
+Heart Failure	NOS2	1.0	
+Heart Failure	NOS3	1.0	
+Amyotrophic Lateral Sclerosis	AKT1	1.0	
+Amyotrophic Lateral Sclerosis	CAV1	1.0	
+Amyotrophic Lateral Sclerosis	NOS1	1.0	
+Amyotrophic Lateral Sclerosis	NOS2	1.0	
+Amyotrophic Lateral Sclerosis	NOS3	1.0	
+Hepatitis, Alcoholic	CAV1	1.0	
+Hepatitis, Alcoholic	NOSTRIN	1.0	
+Zoonotic form of cutaneous leishmaniasis	CALM3	1.0	
+Zoonotic form of cutaneous leishmaniasis	NOS2	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	NOS1	1.0	
+Low Grade Squamous Intraepithelial Neoplasia	NOS2	1.0	
+Bipolar affective disorder	AKT1	1.0	
+Bipolar affective disorder	CAV1	1.0	
+Bipolar affective disorder	NOS1	1.0	
+Bipolar affective disorder	NOS2	1.0	
+Bipolar affective disorder	NOS3	1.0	
+Erythema nodosum	NOS2	1.0	
+Erythema nodosum	NOS3	1.0	
+Myocardial Reperfusion Injury	AKT1	1.0	
+Myocardial Reperfusion Injury	NOS2	1.0	
+Myocardial Reperfusion Injury	NOS3	1.0	
+Dyspepsia	NOS1	1.0	
+Dyspepsia	NOS3	1.0	
+Myxoid liposarcoma	AKT1	1.0	
+Myxoid liposarcoma	HSP90AA1	1.0	
+Medullary thyroid carcinoma	AKT1	1.0	
+Medullary thyroid carcinoma	CALM3	1.0	
+Medullary thyroid carcinoma	HSP90AA1	1.0	
+Tumor Progression	AKT1	1.0	
+Tumor Progression	CALM3	1.0	
+Tumor Progression	CAV1	1.0	
+Tumor Progression	HSP90AA1	1.0	
+Tumor Progression	NOS1	1.0	
+Tumor Progression	NOS2	1.0	
+Tumor Progression	NOS3	1.0	
+Urinary Bladder Neoplasms	AKT1	1.0	
+Urinary Bladder Neoplasms	HSP90AA1	1.0	
+Urinary Bladder Neoplasms	NOS2	1.0	
+Urinary Bladder Neoplasms	NOS3	1.0	
+Angioimmunoblastic Lymphadenopathy	NOS1	1.0	
+Angioimmunoblastic Lymphadenopathy	NOS2	1.0	
+Channelopathies	CALM3	1.0	
+Channelopathies	CAV1	1.0	
+Cowden syndrome 1	AKT1	1.0	
+Cowden syndrome 1	CAV1	1.0	
+Non-small cell lung carcinoma	AKT1	1.0	
+Non-small cell lung carcinoma	CALM3	1.0	
+Non-small cell lung carcinoma	CAV1	1.0	
+Non-small cell lung carcinoma	HSP90AA1	1.0	
+Non-small cell lung carcinoma	NOS1	1.0	
+Non-small cell lung carcinoma	NOS2	1.0	
+Non-small cell lung carcinoma	NOS3	1.0	
+Retinoblastoma	AKT1	1.0	
+Retinoblastoma	CAV1	1.0	
+Retinoblastoma	HSP90AA1	1.0	
+Retinoblastoma	NOS2	1.0	
+CNS symptom	NOS1	1.0	
+CNS symptom	NOS2	1.0	
+Malignant tumor of urinary bladder	AKT1	1.0	
+Malignant tumor of urinary bladder	CALM3	1.0	
+Malignant tumor of urinary bladder	CAV1	1.0	
+Malignant tumor of urinary bladder	HSP90AA1	1.0	
+Malignant tumor of urinary bladder	NOS2	1.0	
+Malignant tumor of urinary bladder	NOS3	1.0	
+Chronic obstructive pulmonary disease	AKT1	1.0	
+Chronic obstructive pulmonary disease	CAV1	1.0	
+Chronic obstructive pulmonary disease	NOS1	1.0	
+Chronic obstructive pulmonary disease	NOS2	1.0	
+Chronic obstructive pulmonary disease	NOS3	1.0	
+Polycystic Ovary Syndrome	AKT1	1.0	
+Polycystic Ovary Syndrome	CAV1	1.0	
+Polycystic Ovary Syndrome	HSP90AA1	1.0	
+Polycystic Ovary Syndrome	NOS3	1.0	
+Pulmonary Emphysema	CAV1	1.0	
+Pulmonary Emphysema	NOS1	1.0	
+Pulmonary Emphysema	NOS2	1.0	
+Benign neoplasm of other endocrine glands	AKT1	1.0	
+Benign neoplasm of other endocrine glands	HSP90AA1	1.0	
+Benign neoplasm of other endocrine glands	NOS1	1.0	
+Systemic Inflammatory Response Syndrome	CALM3	1.0	
+Systemic Inflammatory Response Syndrome	NOS2	1.0	
+Major depressive disorder	AKT1	1.0	
+Major depressive disorder	HSP90AA1	1.0	
+Major depressive disorder	NOS1	1.0	
+Major depressive disorder	NOS3	1.0	
+Craniosynostoses	AKT1	1.0	
+Craniosynostoses	CAV1	1.0	
+Craniosynostoses	NOS3	1.0	
+Diaphragmatic hernia	NOS2	1.0	
+Diaphragmatic hernia	NOS3	1.0	
+Trachoma	NOS2	1.0	
+Trachoma	NOS3	1.0	
+Restenosis	HSP90AA1	1.0	
+Restenosis	NOS2	1.0	
+Restenosis	NOS3	1.0	
+Renal cell carcinoma, nonpapillary	AKT1	1.0	
+Renal cell carcinoma, nonpapillary	CALM3	1.0	
+Renal cell carcinoma, nonpapillary	CAV1	1.0	
+Renal cell carcinoma, nonpapillary	HSP90AA1	1.0	
+Renal cell carcinoma, nonpapillary	NOS1	1.0	
+Renal cell carcinoma, nonpapillary	NOS2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	AKT1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	CALM3	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	CAV1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	HSP90AA1	1.0	
+Lipoma	AKT1	1.0	
+Lipoma	CAV1	1.0	
+Alpha-1-antitrypsin deficiency	NOS1	1.0	
+Alpha-1-antitrypsin deficiency	NOS3	1.0	
+Cardiac arrest	AKT1	1.0	
+Cardiac arrest	CALM3	1.0	
+Cardiac arrest	NOS2	1.0	
+Ductal Carcinoma	AKT1	1.0	
+Ductal Carcinoma	CAV1	1.0	
+Ductal Carcinoma	NOS3	1.0	
+Metastatic Prostate Carcinoma	AKT1	1.0	
+Metastatic Prostate Carcinoma	CAV1	1.0	
+Metastatic Prostate Carcinoma	HSP90AA1	1.0	
+Psychoses, Substance-Induced	AKT1	1.0	
+Psychoses, Substance-Induced	NOS1	1.0	
+Limb ischemia	AKT1	1.0	
+Limb ischemia	NOS3	1.0	
+aggressive cancer	CAV1	1.0	
+aggressive cancer	NOS2	1.0	
+Shock, Septic	NOS2	1.0	
+Shock, Septic	NOS3	1.0	
+Right ventricular hypertrophy	AKT1	1.0	
+Right ventricular hypertrophy	NOS3	1.0	
+Spina bifida	NOS1	1.0	
+Spina bifida	NOS2	1.0	
+Spina bifida	NOS3	1.0	
+Acute Lung Injury	CAV1	1.0	
+Acute Lung Injury	NOS2	1.0	
+{Atopy, susceptibility to}, 147050 (3)	NOS1	1.0	
+{Atopy, susceptibility to}, 147050 (3)	NOS2	1.0	
+Herpes Simplex Infections	AKT1	1.0	
+Herpes Simplex Infections	CAV1	1.0	
+Herpes Simplex Infections	HSP90AA1	1.0	
+Herpes Simplex Infections	NOS2	1.0	
+Uremia	NOS2	1.0	
+Uremia	NOS3	1.0	
+Adenocarcinoma of colon	CAV1	1.0	
+Adenocarcinoma of colon	NOS1	1.0	
+Adenocarcinoma of colon	NOS2	1.0	
+Mycoses	CAV1	1.0	
+Mycoses	HSP90AA1	1.0	
+Mycoses	NOS3	1.0	
+Malaria	HSP90AA1	1.0	
+Malaria	NOS1	1.0	
+Malaria	NOS2	1.0	
+Malaria	NOS3	1.0	
+Bleeding with minor or no trauma	CAV1	1.0	
+Bleeding with minor or no trauma	NOS3	1.0	
+Breast Cancer Model	AKT1	1.0	
+Breast Cancer Model	HSP90AA1	1.0	
+Malignant gastrointestinal tract tumors	AKT1	1.0	
+Malignant gastrointestinal tract tumors	CALM3	1.0	
+Malignant gastrointestinal tract tumors	HSP90AA1	1.0	
+Xenograft Model	AKT1	1.0	
+Xenograft Model	CALM3	1.0	
+Xenograft Model	CAV1	1.0	
+Xenograft Model	HSP90AA1	1.0	
+Chronic gastritis	AKT1	1.0	
+Chronic gastritis	CAV1	1.0	
+Migraine with aura	NOS1	1.0	
+Migraine with aura	NOS3	1.0	
+Brain Infarction	NOS2	1.0	
+Brain Infarction	NOS3	1.0	
+Recurrent bacterial infection	AKT1	1.0	
+Recurrent bacterial infection	NOS1	1.0	
+Recurrent bacterial infection	NOS2	1.0	
+Stevens-Johnson Syndrome	CAV1	1.0	
+Stevens-Johnson Syndrome	NOS2	1.0	
+Duodenal Ulcer	NOS2	1.0	
+Duodenal Ulcer	NOS3	1.0	
+Scleroderma	AKT1	1.0	
+Scleroderma	CAV1	1.0	
+Scleroderma	NOS2	1.0	
+Scleroderma	NOS3	1.0	
+Myocardial Infarction	AKT1	1.0	
+Myocardial Infarction	CAV1	1.0	
+Myocardial Infarction	NOS1	1.0	
+Myocardial Infarction	NOS2	1.0	
+Myocardial Infarction	NOS3	1.0	
+Chlamydia Infections	NOS2	1.0	
+Chlamydia Infections	NOS3	1.0	
+Amphetamine-Related Disorders	AKT1	1.0	
+Amphetamine-Related Disorders	NOS1	1.0	
+Diabetic Retinopathy	NOS1	1.0	
+Diabetic Retinopathy	NOS2	1.0	
+Diabetic Retinopathy	NOS3	1.0	
+Arthritis, Rheumatoid	AKT1	1.0	
+Arthritis, Rheumatoid	CAV1	1.0	
+Arthritis, Rheumatoid	HSP90AA1	1.0	
+Arthritis, Rheumatoid	NOS1	1.0	
+Arthritis, Rheumatoid	NOS2	1.0	
+Cerebral ischemia	CALM3	1.0	
+Cerebral ischemia	NOS2	1.0	
+Cerebral ischemia	NOS3	1.0	
+Neoplasm Recurrence, Local	AKT1	1.0	
+Neoplasm Recurrence, Local	CAV1	1.0	
+Neoplasm Recurrence, Local	NOS2	1.0	
+Sepsis	CAV1	1.0	
+Sepsis	NOS1	1.0	
+Sepsis	NOS2	1.0	
+Sepsis	NOS3	1.0	
+Animal Mammary Neoplasms	AKT1	1.0	
+Animal Mammary Neoplasms	CALM3	1.0	
+Animal Mammary Neoplasms	CAV1	1.0	
+Animal Mammary Neoplasms	HSP90AA1	1.0	
+Animal Mammary Neoplasms	NOS1	1.0	
+Animal Mammary Neoplasms	NOS2	1.0	
+Animal Mammary Neoplasms	NOS3	1.0	
+Vestibular Schwannoma	AKT1	1.0	
+Vestibular Schwannoma	CAV1	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	CAV1	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	NOS3	1.0	
+Gastric Adenocarcinoma	CALM3	1.0	
+Gastric Adenocarcinoma	CAV1	1.0	
+Gastric Adenocarcinoma	NOS2	1.0	
+Hematological neoplasm	AKT1	1.0	
+Hematological neoplasm	CALM3	1.0	
+Hematological neoplasm	HSP90AA1	1.0	
+Hematological neoplasm	NOS2	1.0	
+Diabetic Nephropathies	CAV1	1.0	
+Diabetic Nephropathies	NOS1	1.0	
+Diabetic Nephropathies	NOS2	1.0	
+Diabetic Nephropathies	NOS3	1.0	
+Kidney Failure, Chronic	CAV1	1.0	
+Kidney Failure, Chronic	NOS1	1.0	
+Kidney Failure, Chronic	NOS2	1.0	
+Kidney Failure, Chronic	NOS3	1.0	
+Melanoma	AKT1	1.0	
+Melanoma	CALM3	1.0	
+Melanoma	CAV1	1.0	
+Melanoma	HSP90AA1	1.0	
+Melanoma	NOS1	1.0	
+Melanoma	NOS2	1.0	
+Melanoma	NOS3	1.0	
+Noninfiltrating Intraductal Carcinoma	AKT1	1.0	
+Noninfiltrating Intraductal Carcinoma	CAV1	1.0	
+Noninfiltrating Intraductal Carcinoma	NOS3	1.0	
+Parathyroid adenoma	CALM3	1.0	
+Parathyroid adenoma	CAV1	1.0	
+Neuralgia	NOS1	1.0	
+Neuralgia	NOS3	1.0	
+Paraplegia	AKT1	1.0	
+Paraplegia	NOS2	1.0	
+Inflammatory Breast Carcinoma	AKT1	1.0	
+Inflammatory Breast Carcinoma	CAV1	1.0	
+Cerebral palsy, spastic quadriplegic, 3	NOS2	1.0	
+Cerebral palsy, spastic quadriplegic, 3	NOS3	1.0	
+Kartagener syndrome	NOS1	1.0	
+Kartagener syndrome	NOS2	1.0	
+Alcohol abuse	NOS2	1.0	
+Alcohol abuse	NOS3	1.0	
+Ischaemic cerebral infarction	CALM3	1.0	
+Ischaemic cerebral infarction	NOS2	1.0	
+Ischaemic cerebral infarction	NOS3	1.0	
+Alzheimer Disease	AKT1	1.0	
+Alzheimer Disease	CAV1	1.0	
+Alzheimer Disease	HSP90AA1	1.0	
+Alzheimer Disease	NOS1	1.0	
+Alzheimer Disease	NOS2	1.0	
+Alzheimer Disease	NOS3	1.0	
+Marijuana Abuse	AKT1	1.0	
+Marijuana Abuse	NOS1	1.0	
+Endotoxemia	NOS2	1.0	
+Endotoxemia	NOS3	1.0	
+Small cell lung cancer	AKT1	1.0	
+Small cell lung cancer	CALM3	1.0	
+Small cell lung cancer	CAV1	1.0	
+Small cell lung cancer	HSP90AA1	1.0	
+Metabolic Syndrome X	AKT1	1.0	
+Metabolic Syndrome X	CAV1	1.0	
+Metabolic Syndrome X	NOS2	1.0	
+Metabolic Syndrome X	NOS3	1.0	
+Generalized hirsutism	AKT1	1.0	
+Generalized hirsutism	CAV1	1.0	
+Interstitial fibrosis	CAV1	1.0	
+Interstitial fibrosis	NOS1	1.0	
+T-cell lymphoma	AKT1	1.0	
+T-cell lymphoma	NOS1	1.0	
+T-cell lymphoma	NOS2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	AKT1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CAV1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	HSP90AA1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NOS2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	NOS3	1.0	
+Glucose intolerance	AKT1	1.0	
+Glucose intolerance	CAV1	1.0	
+Glucose intolerance	NOS3	1.0	
+Abnormality of the pituitary gland	AKT1	1.0	
+Abnormality of the pituitary gland	CALM3	1.0	
+Abnormality of the pituitary gland	CAV1	1.0	
+Abnormality of the pituitary gland	HSP90AA1	1.0	
+Ischemia	AKT1	1.0	
+Ischemia	HSP90AA1	1.0	
+Ischemia	NOS1	1.0	
+Ischemia	NOS3	1.0	
+Advanced cancer	AKT1	1.0	
+Advanced cancer	HSP90AA1	1.0	
+Acute myeloid leukemia	AKT1	1.0	
+Acute myeloid leukemia	CALM3	1.0	
+Acute myeloid leukemia	CAV1	1.0	
+Acute myeloid leukemia	HSP90AA1	1.0	
+Acute myeloid leukemia	NOS1	1.0	
+Acute myeloid leukemia	NOS2	1.0	
+B-cell lymphoma	AKT1	1.0	
+B-cell lymphoma	HSP90AA1	1.0	
+B-cell lymphoma	NOS1	1.0	
+B-cell lymphoma	NOS2	1.0	
+Intraocular pressure disorder	CAV1	1.0	
+Intraocular pressure disorder	NOS2	1.0	
+Leiomyoma	AKT1	1.0	
+Leiomyoma	CALM3	1.0	
+Leiomyoma	CAV1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	AKT1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	CAV1	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NOS2	1.0	
+Nasopharyngeal carcinoma, susceptibility to, 3	NOS3	1.0	
+Methamphetamine abuse	AKT1	1.0	
+Methamphetamine abuse	CALM3	1.0	
+Astrocytoma	AKT1	1.0	
+Astrocytoma	CALM3	1.0	
+Astrocytoma	CAV1	1.0	
+Astrocytoma	NOS3	1.0	
+Mood Disorders	AKT1	1.0	
+Mood Disorders	NOS1	1.0	
+Mood Disorders	NOS3	1.0	
+Posttraumatic stress disorder	CALM3	1.0	
+Posttraumatic stress disorder	HSP90AA1	1.0	
+Colorectal Neoplasms	AKT1	1.0	
+Colorectal Neoplasms	CAV1	1.0	
+Colorectal Neoplasms	HSP90AA1	1.0	
+Colorectal Neoplasms	NOS2	1.0	
+Colorectal Neoplasms	NOS3	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	NOS1	1.0	
+ Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	NOS3	1.0	
+Clear-cell metastatic renal cell carcinoma	AKT1	1.0	
+Clear-cell metastatic renal cell carcinoma	CAV1	1.0	
+Esophageal Neoplasms	AKT1	1.0	
+Esophageal Neoplasms	HSP90AA1	1.0	
+Esophageal Neoplasms	NOS2	1.0	
+Esophageal Neoplasms	NOS3	1.0	
+Uterine leiomyoma	AKT1	1.0	
+Uterine leiomyoma	CALM3	1.0	
+Uterine leiomyoma	CAV1	1.0	
+Fragile X syndrome	AKT1	1.0	
+Fragile X syndrome	NOS1	1.0	
+Migraine Disorders	NOS1	1.0	
+Migraine Disorders	NOS2	1.0	
+Migraine Disorders	NOS3	1.0	
+Metastatic melanoma	AKT1	1.0	
+Metastatic melanoma	CALM3	1.0	
+Metastatic melanoma	CAV1	1.0	
+Glaucoma, Open-Angle	CAV1	1.0	
+Glaucoma, Open-Angle	NOS3	1.0	
+Deep venous thrombosis	AKT1	1.0	
+Deep venous thrombosis	NOS3	1.0	
+Neurodegenerative Diseases	AKT1	1.0	
+Neurodegenerative Diseases	CALM3	1.0	
+Neurodegenerative Diseases	HSP90AA1	1.0	
+Neurodegenerative Diseases	NOS3	1.0	
+Congenital cataract	CALM3	1.0	
+Congenital cataract	CAV1	1.0	
+Intracranial Aneurysm	NOS2	1.0	
+Intracranial Aneurysm	NOS3	1.0	
+Ovarian cyst	AKT1	1.0	
+Ovarian cyst	CAV1	1.0	
+Gastric ulcer	NOS2	1.0	
+Gastric ulcer	NOS3	1.0	
+Squamous cell carcinoma	AKT1	1.0	
+Squamous cell carcinoma	CALM3	1.0	
+Squamous cell carcinoma	CAV1	1.0	
+Squamous cell carcinoma	HSP90AA1	1.0	
+Squamous cell carcinoma	NOS1	1.0	
+Squamous cell carcinoma	NOS2	1.0	
+Hypertriglyceridemia	CAV1	1.0	
+Hypertriglyceridemia	NOS3	1.0	
+Vascular inflammations	AKT1	1.0	
+Vascular inflammations	NOS3	1.0	
+Endometriosis	AKT1	1.0	
+Endometriosis	NOS1	1.0	
+Endometriosis	NOS2	1.0	
+Endometriosis	NOS3	1.0	
+Squamous cell carcinoma of tongue	AKT1	1.0	
+Squamous cell carcinoma of tongue	CAV1	1.0	
+Skeletal muscle hypertrophy	AKT1	1.0	
+Skeletal muscle hypertrophy	CAV1	1.0	
+Hyperinsulinemia	AKT1	1.0	
+Hyperinsulinemia	CAV1	1.0	
+Hyperinsulinemia	NOS3	1.0	
+Depressive Symptoms	NOS1	1.0	
+Depressive Symptoms	NOS3	1.0	
+Telangiectases in sun-exposed and nonexposed skin	AKT1	1.0	
+Telangiectases in sun-exposed and nonexposed skin	CAV1	1.0	
+Tauopathies	AKT1	1.0	
+Tauopathies	HSP90AA1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	AKT1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CALM3	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	CAV1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	HSP90AA1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NOS1	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NOS2	1.0	
+Kidney Diseases	AKT1	1.0	
+Kidney Diseases	CAV1	1.0	
+Kidney Diseases	NOS2	1.0	
+Kidney Diseases	NOS3	1.0	
+Prostate carcinoma	AKT1	1.0	
+Prostate carcinoma	CALM3	1.0	
+Prostate carcinoma	CAV1	1.0	
+Prostate carcinoma	HSP90AA1	1.0	
+Prostate carcinoma	NOS1	1.0	
+Prostate carcinoma	NOS2	1.0	
+Prostate carcinoma	NOS3	1.0	
+Schizophrenia	AKT1	1.0	
+Schizophrenia	CALM3	1.0	
+Schizophrenia	HSP90AA1	1.0	
+Schizophrenia	NOS1	1.0	
+Schizophrenia	NOS2	1.0	
+Schizophrenia	NOS3	1.0	
+Giant cell arteritis	NOS2	1.0	
+Giant cell arteritis	NOS3	1.0	
+Cognitive Dysfunction	AKT1	1.0	
+Cognitive Dysfunction	NOS1	1.0	
+Cognitive Dysfunction	NOS2	1.0	
+Cognitive Dysfunction	NOS3	1.0	
+Intrauterine growth retardation	NOS1	1.0	
+Intrauterine growth retardation	NOS2	1.0	
+Intrauterine growth retardation	NOS3	1.0	
+Rhabdomyosarcoma alveolar	AKT1	1.0	
+Rhabdomyosarcoma alveolar	CAV1	1.0	
+Rhabdomyosarcoma alveolar	HSP90AA1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	AKT1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CALM3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CAV1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	HSP90AA1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NOS2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NOS3	1.0	
+Transitional cell carcinoma of the bladder	AKT1	1.0	
+Transitional cell carcinoma of the bladder	CAV1	1.0	
+Lewy Body Disease	NOS2	1.0	
+Lewy Body Disease	NOS3	1.0	
+Intraepithelial Neoplasia	AKT1	1.0	
+Intraepithelial Neoplasia	NOS2	1.0	
+Diabetes mellitus type 2	AKT1	1.0	
+Diabetes mellitus type 2	CALM3	1.0	
+Diabetes mellitus type 2	CAV1	1.0	
+Diabetes mellitus type 2	NOS1	1.0	
+Diabetes mellitus type 2	NOS2	1.0	
+Diabetes mellitus type 2	NOS3	1.0	
+Mesothelioma, malignant	AKT1	1.0	
+Mesothelioma, malignant	CALM3	1.0	
+Mesothelioma, malignant	NOS3	1.0	
+Biliary cirrhosis	CAV1	1.0	
+Biliary cirrhosis	NOS2	1.0	
+Pulmonary Embolism	AKT1	1.0	
+Pulmonary Embolism	NOS3	1.0	
+Metastatic malignant neoplasm to brain	AKT1	1.0	
+Metastatic malignant neoplasm to brain	CAV1	1.0	
+Hypertrophic cardiomyopathy	CAV1	1.0	
+Hypertrophic cardiomyopathy	NOS1	1.0	
+Hypertrophic cardiomyopathy	NOS3	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	AKT1	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	CALM3	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	HSP90AA1	1.0	
+Heart Diseases	CALM3	1.0	
+Heart Diseases	NOS2	1.0	
+Heart Diseases	NOS3	1.0	
+Thyroiditis	AKT1	1.0	
+Thyroiditis	NOS3	1.0	
+Septicemia	CAV1	1.0	
+Septicemia	NOS2	1.0	
+Septicemia	NOS3	1.0	
+beta Thalassemia	NOS1	1.0	
+beta Thalassemia	NOS2	1.0	
+Acute hepatic failure	NOS2	1.0	
+Acute hepatic failure	NOS3	1.0	
+Lymphoma, Follicular	AKT1	1.0	
+Lymphoma, Follicular	NOS1	1.0	
+Lymphoma, Follicular	NOS2	1.0	
+Leiomyosarcoma	AKT1	1.0	
+Leiomyosarcoma	HSP90AA1	1.0	
+Glioma	AKT1	1.0	
+Glioma	CALM3	1.0	
+Glioma	CAV1	1.0	
+Glioma	HSP90AA1	1.0	
+Glioma	NOS1	1.0	
+Glioma	NOS3	1.0	
+Anaplastic astrocytoma	AKT1	1.0	
+Anaplastic astrocytoma	CAV1	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	HSP90AA1	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	NOS2	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	NOS3	1.0	
+Familial adenomatous polyposis 1	AKT1	1.0	
+Familial adenomatous polyposis 1	CAV1	1.0	
+Familial adenomatous polyposis 1	NOS2	1.0	
+Cholangiocarcinoma	AKT1	1.0	
+Cholangiocarcinoma	CALM3	1.0	
+Cholangiocarcinoma	NOS2	1.0	
+Hyperthyroidism	AKT1	1.0	
+Hyperthyroidism	NOS3	1.0	
+Genitourinary neoplasm	AKT1	1.0	
+Genitourinary neoplasm	HSP90AA1	1.0	
+Mammary Tumorigenesis	AKT1	1.0	
+Mammary Tumorigenesis	CAV1	1.0	
+Venous thrombosis	AKT1	1.0	
+Venous thrombosis	NOS3	1.0	
+Prostatic Intraepithelial Neoplasias	AKT1	1.0	
+Prostatic Intraepithelial Neoplasias	HSP90AA1	1.0	
+Hyperplasia	AKT1	1.0	
+Hyperplasia	CAV1	1.0	
+Lymphoma, Large B-Cell, Diffuse	AKT1	1.0	
+Lymphoma, Large B-Cell, Diffuse	CALM3	1.0	
+Lymphoma, Large B-Cell, Diffuse	HSP90AA1	1.0	
+Lymphoma, Large B-Cell, Diffuse	NOS1	1.0	
+Lymphoma, Large B-Cell, Diffuse	NOS2	1.0	
+Unipolar Depression	HSP90AA1	1.0	
+Unipolar Depression	NOS1	1.0	
+Unipolar Depression	NOS3	1.0	
+Neoplasm of the colon	AKT1	1.0	
+Neoplasm of the colon	CAV1	1.0	
+Neoplasm of the colon	HSP90AA1	1.0	
+Neoplasm of the colon	NOS2	1.0	
+Coronary Artery Disease	AKT1	1.0	
+Coronary Artery Disease	CAV1	1.0	
+Coronary Artery Disease	NOS1	1.0	
+Coronary Artery Disease	NOS2	1.0	
+Coronary Artery Disease	NOS3	1.0	
+Abnormality of adipose tissue	AKT1	1.0	
+Abnormality of adipose tissue	CAV1	1.0	
+Malaria, Falciparum	NOS1	1.0	
+Malaria, Falciparum	NOS2	1.0	
+Sporadic Breast Carcinoma	CAV1	1.0	
+Sporadic Breast Carcinoma	NOS3	1.0	
+Sarcoma, Ewing	AKT1	1.0	
+Sarcoma, Ewing	CAV1	1.0	
+Sarcoma, Ewing	HSP90AA1	1.0	
+Sarcoma, Ewing	NOS2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	AKT1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CALM3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CAV1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	HSP90AA1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NOS2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NOS3	1.0	
+Frontotemporal dementia	NOS2	1.0	
+Frontotemporal dementia	NOS3	1.0	
+Diabetes Mellitus, Type 1	AKT1	1.0	
+Diabetes Mellitus, Type 1	CAV1	1.0	
+Diabetes Mellitus, Type 1	HSP90AA1	1.0	
+Diabetes Mellitus, Type 1	NOS1	1.0	
+Diabetes Mellitus, Type 1	NOS2	1.0	
+Diabetes Mellitus, Type 1	NOS3	1.0	
+Tachycardia	CALM3	1.0	
+Tachycardia	NOS3	1.0	
+Lip and Oral Cavity Carcinoma	AKT1	1.0	
+Lip and Oral Cavity Carcinoma	CAV1	1.0	
+Lip and Oral Cavity Carcinoma	HSP90AA1	1.0	
+Ulcerative colitis	HSP90AA1	1.0	
+Ulcerative colitis	NOS1	1.0	
+Ulcerative colitis	NOS2	1.0	
+Ulcerative colitis	NOS3	1.0	
+Cancer of mouth	AKT1	1.0	
+Cancer of mouth	CAV1	1.0	
+Cancer of mouth	HSP90AA1	1.0	
+Barrett Esophagus	CAV1	1.0	
+Barrett Esophagus	NOS2	1.0	
+Benign Prostatic Hyperplasia	CAV1	1.0	
+Benign Prostatic Hyperplasia	NOS2	1.0	
+Benign Prostatic Hyperplasia	NOS3	1.0	
+Amenorrhea	CAV1	1.0	
+Amenorrhea	NOS3	1.0	
+Sudden cardiac death	AKT1	1.0	
+Sudden cardiac death	CALM3	1.0	
+Stomach cancer	AKT1	1.0	
+Stomach cancer	CALM3	1.0	
+Stomach cancer	CAV1	1.0	
+Stomach cancer	HSP90AA1	1.0	
+Stomach cancer	NOS2	1.0	
+Stomach cancer	NOS3	1.0	
+Malignant tumor of prostate	AKT1	1.0	
+Malignant tumor of prostate	CALM3	1.0	
+Malignant tumor of prostate	CAV1	1.0	
+Malignant tumor of prostate	HSP90AA1	1.0	
+Malignant tumor of prostate	NOS1	1.0	
+Malignant tumor of prostate	NOS2	1.0	
+Malignant tumor of prostate	NOS3	1.0	
+Ureteral obstruction	AKT1	1.0	
+Ureteral obstruction	NOS2	1.0	
+Cancer of Head and Neck	AKT1	1.0	
+Cancer of Head and Neck	HSP90AA1	1.0	
+Cancer of Head and Neck	NOS2	1.0	
+Measles	AKT1	1.0	
+Measles	CALM3	1.0	
+Familial cancer of breast	AKT1	1.0	
+Familial cancer of breast	CAV1	1.0	
+Asbestosis	NOS2	1.0	
+Berardinelli-Seip congenital lipodystrophy	CAV1	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	AKT1	1.0	
+High altitude pulmonary edema	NOS3	1.0	
+Pseudomonas aeruginosa infection	NOS3	1.0	
+Tendinopathy	NOS2	1.0	
+androgen independent prostate cancer	AKT1	1.0	
+androgen independent prostate cancer	HSP90AA1	1.0	
+Glioblastoma multiforme	AKT1	1.0	
+Glioblastoma multiforme	CALM3	1.0	
+Glioblastoma multiforme	HSP90AA1	1.0	
+Hemangioma	AKT1	1.0	
+Hemangioma	NOS3	1.0	
+Hirsutism	AKT1	1.0	
+Hirsutism	CAV1	1.0	
+Autism 15	AKT1	1.0	
+Autism 15	NOS1	1.0	
+Autism 15	NOS2	1.0	
+Autism 15	NOSTRIN	1.0	
+Mental disorders	AKT1	1.0	
+Mental disorders	NOS1	1.0	
+Mental disorders	NOS2	1.0	
+Papillary adenocarcinoma	AKT1	1.0	
+Primary angle-closure glaucoma	NOS3	1.0	
+hemangiopericytoma	CALM3	1.0	
+Hereditary hemorrhagic telangiectasia type 2	CAV1	1.0	
+Aneurysm, Ruptured	NOS3	1.0	
+Brain Hemorrhage, Traumatic	NOS3	1.0	
+Inappropriate ADH Syndrome	AKT1	1.0	
+VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	CALM3	1.0	
+Broad foot	CAV1	1.0	
+Estrogen resistance	AKT1	1.0	
+Tumor Angiogenesis	AKT1	1.0	
+Tumor Angiogenesis	HSP90AA1	1.0	
+Tumor Angiogenesis	NOS3	1.0	
+Psoriasis	AKT1	1.0	
+Psoriasis	HSP90AA1	1.0	
+Psoriasis	NOS2	1.0	
+Psoriasis	NOS3	1.0	
+Asthma	CALM3	1.0	
+Asthma	HSP90AA1	1.0	
+Asthma	NOS1	1.0	
+Asthma	NOS2	1.0	
+Asthma	NOS3	1.0	
+Disseminated Malignant Neoplasm	CAV1	1.0	
+Disseminated Malignant Neoplasm	HSP90AA1	1.0	
+Albuminuria	NOS2	1.0	
+Albuminuria	NOS3	1.0	
+Lipoatrophy	CAV1	1.0	
+Lipoatrophy	NOS3	1.0	
+Ovarian epithelial cancer	AKT1	1.0	
+Ovarian epithelial cancer	CALM3	1.0	
+Ovarian epithelial cancer	CAV1	1.0	
+Ovarian epithelial cancer	HSP90AA1	1.0	
+Ovarian epithelial cancer	NOS2	1.0	
+Ovarian epithelial cancer	NOS3	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	NOS2	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	NOS3	1.0	
+Esophageal varix	NOS3	1.0	
+HIV encephalitis	NOS2	1.0	
+Decreased adipose tissue	CAV1	1.0	
+Cardiovascular morbidity	NOS3	1.0	
+Invasive Skin Melanoma	AKT1	1.0	
+Malignant tumor of cervix	AKT1	1.0	
+Malignant tumor of cervix	CALM3	1.0	
+Malignant tumor of cervix	CAV1	1.0	
+Malignant tumor of cervix	HSP90AA1	1.0	
+Obesity	AKT1	1.0	
+Obesity	CALM3	1.0	
+Obesity	CAV1	1.0	
+Obesity	NOS1	1.0	
+Obesity	NOS2	1.0	
+Obesity	NOS3	1.0	
+Thyroid cancer, nonmedullary, 4	AKT1	1.0	
+Thyroid cancer, nonmedullary, 4	CAV1	1.0	
+Thyroid cancer, nonmedullary, 4	HSP90AA1	1.0	
+Other disorders of the nervous system	AKT1	1.0	
+Other disorders of the nervous system	NOS1	1.0	
+Other disorders of the nervous system	NOS2	1.0	
+Obstructive sleep apnea	NOS1	1.0	
+Obstructive sleep apnea	NOS3	1.0	
+Neoplasm Invasiveness	NOS2	1.0	
+Neoplasm Invasiveness	NOS3	1.0	
+Malignant neoplasm of gallbladder	CALM3	1.0	
+Malignant neoplasm of gallbladder	NOS2	1.0	
+Hematopoietic Neoplasms	AKT1	1.0	
+Hematopoietic Neoplasms	CALM3	1.0	
+Adrenal Gland Hyperfunction	HSP90AA1	1.0	
+Bovine Anaplasmosis	NOS2	1.0	
+Homocystinuria due to CBS deficiency	NOS3	1.0	
+Multiple Endocrine Neoplasia Type 2b	AKT1	1.0	
+Liposarcoma, Dedifferentiated	AKT1	1.0	
+Palmar hyperkeratosis	AKT1	1.0	
+Malignant neoplasm of vulva	NOS3	1.0	
+Abnormal lung lobation	AKT1	1.0	
+Prominent supraorbital ridges	CAV1	1.0	
+Non-Neoplastic Disorder	CAV1	1.0	
+Non-Neoplastic Disorder	HSP90AA1	1.0	
+Non-Neoplastic Disorder	NOS3	1.0	
+Abnormality of the ovary	AKT1	1.0	
+Abnormality of the ovary	CAV1	1.0	
+Primary open angle glaucoma juvenile onset 1	CAV1	1.0	
+Primary open angle glaucoma juvenile onset 1	NOS3	1.0	
+Dysgerminoma	AKT1	1.0	
+Recurrent E. coli infections	NOS3	1.0	
+Femur Head Necrosis	NOS3	1.0	
+Hypothermia	NOS2	1.0	
+Old myocardial infarction	CAV1	1.0	
+Pituitary dependent hypercortisolism	HSP90AA1	1.0	
+gastritis h pylori	NOS2	1.0	
+Proteinuria Adverse Event	NOS3	1.0	
+Abnormality of the pubic bone	CAV1	1.0	
+Stomach Neoplasms	AKT1	1.0	
+Stomach Neoplasms	CAV1	1.0	
+Stomach Neoplasms	NOS2	1.0	
+Stomach Neoplasms	NOS3	1.0	
+Nevus	AKT1	1.0	
+Nevus	NOS2	1.0	
+Dissecting aneurysm of the thoracic aorta	NOS2	1.0	
+Dissecting aneurysm of the thoracic aorta	NOS3	1.0	
+Atrial Fibrillation	CAV1	1.0	
+Atrial Fibrillation	NOS3	1.0	
+Chronic Chagas' disease	HSP90AA1	1.0	
+Chronic Chagas' disease	NOS2	1.0	
+Lymphoma, Large-Cell, Follicular	NOS1	1.0	
+Lymphoma, Large-Cell, Follicular	NOS2	1.0	
+Down Syndrome	AKT1	1.0	
+Down Syndrome	NOS2	1.0	
+Down Syndrome	NOS3	1.0	
+Dementia	AKT1	1.0	
+Dementia	NOS2	1.0	
+Dementia	NOS3	1.0	
+Familial cold-induced inflammatory syndrome 1, 120100 (3)	NOS2	1.0	
+Myxoma	AKT1	1.0	
+Verrucae	AKT1	1.0	
+Aortic valve calcification	AKT1	1.0	
+pricking of skin	NOS3	1.0	
+Thymic Carcinoma	HSP90AA1	1.0	
+Hyperalgesia	NOS1	1.0	
+Hyperalgesia	NOS2	1.0	
+Thyroid cancer, follicular	AKT1	1.0	
+Thyroid cancer, follicular	CAV1	1.0	
+Acute myocardial ischemia	CALM3	1.0	
+Acute myocardial ischemia	NOS2	1.0	
+Acute myocardial ischemia	NOS3	1.0	
+Secondary malignant neoplasm of pancreas	AKT1	1.0	
+Secondary malignant neoplasm of pancreas	CALM3	1.0	
+Secondary malignant neoplasm of pancreas	CAV1	1.0	
+Secondary malignant neoplasm of pancreas	HSP90AA1	1.0	
+Secondary malignant neoplasm of pancreas	NOS3	1.0	
+Spinal cord compression	AKT1	1.0	
+Neoplasm of the thymus	AKT1	1.0	
+Eclampsia	NOS2	1.0	
+Eclampsia	NOS3	1.0	
+Kaposi's sarcoma	AKT1	1.0	
+Kaposi's sarcoma	HSP90AA1	1.0	
+Oligomenorrhea	CAV1	1.0	
+Respiratory Hypersensitivity	NOS2	1.0	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	NOS3	1.0	
+Congenital long QT syndrome	CALM3	1.0	
+Plantar hyperkeratosis	AKT1	1.0	
+Abnormal urine output	CAV1	1.0	
+Status epilepticus	NOS1	1.0	
+Status epilepticus	NOS2	1.0	
+Lymphadenitis	AKT1	1.0	
+Uterine leiomyosarcoma	AKT1	1.0	
+Adenocarcinoma in Situ	CAV1	1.0	
+Anterior myocardial infarction	NOS3	1.0	
+Motor symptoms	NOS2	1.0	
+Prostatitis	NOS2	1.0	
+Atrophy, Muscular, Spinobulbar	HSP90AA1	1.0	
+Oestrogen deficiency	AKT1	1.0	
+Enzyme inhibition disorder	NOS3	1.0	
+Aortic Aneurysm, Abdominal	NOS2	1.0	
+Aortic Aneurysm, Abdominal	NOS3	1.0	
+Fibrosis	AKT1	1.0	
+Fibrosis	CAV1	1.0	
+Dilated cardiomyopathy 1A	CALM3	1.0	
+Dilated cardiomyopathy 1A	NOS3	1.0	
+Crohn Disease	HSP90AA1	1.0	
+Crohn Disease	NOS1	1.0	
+Crohn Disease	NOS2	1.0	
+Crohn Disease	NOS3	1.0	
+Epilepsy, Temporal Lobe	CALM3	1.0	
+Epilepsy, Temporal Lobe	NOS1	1.0	
+Tuberous sclerosis syndrome	AKT1	1.0	
+Tuberous sclerosis syndrome	CALM3	1.0	
+Gallbladder Carcinoma	CALM3	1.0	
+Gallbladder Carcinoma	NOS2	1.0	
+Pericardial effusion	AKT1	1.0	
+Furrowed tongue	AKT1	1.0	
+Pulmonary Cystic Fibrosis	NOS3	1.0	
+Germinoma	AKT1	1.0	
+Myofibrillar myopathy, BAG3-related	AKT1	1.0	
+Bisphosphonate-associated osteonecrosis	HSP90AA1	1.0	
+Generalized hyperpigmentation	AKT1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NOS1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	NOS2	1.0	
+Fetal Membranes, Premature Rupture	NOS2	1.0	
+Fetal Membranes, Premature Rupture	NOS3	1.0	
+Chorioamnionitis	NOS2	1.0	
+Chorioamnionitis	NOS3	1.0	
+Papilloma	AKT1	1.0	
+Papilloma	CAV1	1.0	
+Neuroblastoma	AKT1	1.0	
+Neuroblastoma	CALM3	1.0	
+Neuroblastoma	HSP90AA1	1.0	
+Neuroblastoma	NOS1	1.0	
+Neuroblastoma	NOS2	1.0	
+Cocaine delirium	CALM3	1.0	
+Cranial hyperostosis	AKT1	1.0	
+Multiple Organ Failure	NOS3	1.0	
+Chronic eosinophilic leukemia	NOS2	1.0	
+Asymmetric growth	AKT1	1.0	
+Abnormality of renal excretion	CAV1	1.0	
+Malignant neoplasm of pancreas	AKT1	1.0	
+Malignant neoplasm of pancreas	CALM3	1.0	
+Malignant neoplasm of pancreas	CAV1	1.0	
+Malignant neoplasm of pancreas	HSP90AA1	1.0	
+Malignant neoplasm of pancreas	NOS1	1.0	
+Acute leukemia	AKT1	1.0	
+Acute leukemia	CALM3	1.0	
+Acute leukemia	HSP90AA1	1.0	
+Adenoid Cystic Carcinoma	NOS1	1.0	
+Adenoid Cystic Carcinoma	NOS2	1.0	
+Allergic asthma	CAV1	1.0	
+Allergic asthma	NOS3	1.0	
+Dyspareunia	CAV1	1.0	
+HTLV-I Infections	AKT1	1.0	
+Buphthalmos	AKT1	1.0	
+Polymyalgia Rheumatica	NOS3	1.0	
+Gastroparesis	NOS1	1.0	
+Metastatic Carcinoma	AKT1	1.0	
+Cellular immunodeficiency	AKT1	1.0	
+Attention deficit hyperactivity disorder	AKT1	1.0	
+Attention deficit hyperactivity disorder	NOS1	1.0	
+Attention deficit hyperactivity disorder	NOS2	1.0	
+Death, Sudden, Cardiac	AKT1	1.0	
+Death, Sudden, Cardiac	NOS3	1.0	
+Premature Obstetric Labor	NOS2	1.0	
+Premature Obstetric Labor	NOS3	1.0	
+Glioblastoma	AKT1	1.0	
+Glioblastoma	CALM3	1.0	
+Glioblastoma	CAV1	1.0	
+Glioblastoma	HSP90AA1	1.0	
+Glioblastoma	NOS1	1.0	
+Odontogenic neoplasm	NOS2	1.0	
+Sclerosis	NOS1	1.0	
+Noonan syndrome with multiple lentigines	AKT1	1.0	
+Diabetic foot ulcer	NOS3	1.0	
+Psychiatric symptom	AKT1	1.0	
+Chronic viral hepatitis	NOS2	1.0	
+Spastic	NOS3	1.0	
+Costello syndrome	AKT1	1.0	
+Multiple lipomas	AKT1	1.0	
+Mediastinal (Thymic) Large B-Cell Lymphoma	AKT1	1.0	
+Mesenchymal Cell Neoplasm	AKT1	1.0	
+Myeloid leukemia	AKT1	1.0	
+Myeloid leukemia	CALM3	1.0	
+Myeloid leukemia	HSP90AA1	1.0	
+Headache	NOS2	1.0	
+Headache	NOS3	1.0	
+Transient ischemic attack	CAV1	1.0	
+Transient ischemic attack	NOS1	1.0	
+Intraocular melanoma	AKT1	1.0	
+Intraocular melanoma	HSP90AA1	1.0	
+End Stage Liver Disease	NOS1	1.0	
+Pregnancy associated hypertension	NOS3	1.0	
+Aggressive periodontitis, generalized	NOS3	1.0	
+Cardiovascular Diseases	CAV1	1.0	
+Cardiovascular Diseases	NOS1	1.0	
+Cardiovascular Diseases	NOS2	1.0	
+Cardiovascular Diseases	NOS3	1.0	
+Maternal diabetes	CALM3	1.0	
+Maternal diabetes	NOS3	1.0	
+Bronchiolitis, Viral	NOS1	1.0	
+Bronchiolitis, Viral	NOS2	1.0	
+Alkalosis	NOS3	1.0	
+Mental impairment	NOS3	1.0	
+Diffuse Astrocytoma	CAV1	1.0	
+Neurobehavioral Manifestations	NOS1	1.0	
+Cerebral aneurysm	NOS3	1.0	
+Deviation of the hallux	AKT1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CAV1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	NOS3	1.0	
+Carcinoma of cervix	AKT1	1.0	
+Carcinoma of cervix	CALM3	1.0	
+Carcinoma of cervix	CAV1	1.0	
+Carcinoma of cervix	HSP90AA1	1.0	
+Malignant neoplasm of lung	AKT1	1.0	
+Malignant neoplasm of lung	CALM3	1.0	
+Malignant neoplasm of lung	CAV1	1.0	
+Malignant neoplasm of lung	HSP90AA1	1.0	
+Malignant neoplasm of lung	NOS2	1.0	
+Malignant neoplasm of lung	NOS3	1.0	
+Pancreatic Carcinoma	AKT1	1.0	
+Pancreatic Carcinoma	CALM3	1.0	
+Pancreatic Carcinoma	CAV1	1.0	
+Pancreatic Carcinoma	HSP90AA1	1.0	
+Pancreatic Carcinoma	NOS1	1.0	
+Neoplasm of the eye	AKT1	1.0	
+Hallux valgus	AKT1	1.0	
+Prolymphocytic Leukemia	AKT1	1.0	
+Prostatic Diseases	NOS2	1.0	
+Obstructive nephropathy	CAV1	1.0	
+Corneal pannus	NOS2	1.0	
+Stromal sarcoma	CAV1	1.0	
+Abnormality of the thymus	AKT1	1.0	
+Rhinovirus infection	NOS2	1.0	
+Colorectal cancer, somatic, 114500 (3)	AKT1	1.0	
+Gastrointestinal dysmotility	NOS1	1.0	
+Bulbo-Spinal Atrophy, X-Linked	HSP90AA1	1.0	
+Abnormal gastrointestinal motility	NOS1	1.0	
+Non-Hodgkin lymphoma	NOS1	1.0	
+Non-Hodgkin lymphoma	NOS2	1.0	
+Non-Hodgkin lymphoma	NOS3	1.0	
+Meningioma, benign, no ICD-O subtype	AKT1	1.0	
+Meningioma, benign, no ICD-O subtype	NOS1	1.0	
+Tuberculosis, Pulmonary	AKT1	1.0	
+Tuberculosis, Pulmonary	NOS2	1.0	
+Arteriovenous fistula	NOS3	1.0	
+Bronchogenic Carcinoma	AKT1	1.0	
+Urethral obstruction	NOS1	1.0	
+Gastrointestinal carcinoma	AKT1	1.0	
+Macular corneal dystrophy Type I	AKT1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	AKT1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NOS1	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	NOS2	1.0	
+Chondrosarcoma	AKT1	1.0	
+Chondrosarcoma	HSP90AA1	1.0	
+Acanthosis nigricans	CAV1	1.0	
+Hypotension, Orthostatic	CAV1	1.0	
+Active tuberculosis	NOS2	1.0	
+Chronic disseminated candidiasis	HSP90AA1	1.0	
+Angiofibromas	AKT1	1.0	
+Erythroblastosis	CAV1	1.0	
+Female sexual dysfunction	CAV1	1.0	
+Abnormal female reproductive system physiology	CAV1	1.0	
+Liver failure acute infantile	AKT1	1.0	
+Liver failure acute infantile	CAV1	1.0	
+Hypopigmentation of the skin	AKT1	1.0	
+Hypopigmentation of the skin	CAV1	1.0	
+Anaplastic thyroid carcinoma	AKT1	1.0	
+Anaplastic thyroid carcinoma	CAV1	1.0	
+Secondary hypertriglyceridemia	AKT1	1.0	
+Secondary hypertriglyceridemia	CALM3	1.0	
+Secondary hypertriglyceridemia	CAV1	1.0	
+Secondary hypertriglyceridemia	HSP90AA1	1.0	
+Secondary hypertriglyceridemia	NOS1	1.0	
+Secondary hypertriglyceridemia	NOS2	1.0	
+Secondary hypertriglyceridemia	NOS3	1.0	
+Anaphylactic shock NOS	NOS3	1.0	
+Cellulitis	NOS3	1.0	
+Deep vein thrombosis of lower limb	NOS3	1.0	
+Chronic interstitial cystitis	NOS2	1.0	
+Hyperlipoproteinemia Type IIa	CALM3	1.0	
+Lupus Nephritis	NOS1	1.0	
+Lupus Nephritis	NOS3	1.0	
+Dyslipidemias	CAV1	1.0	
+Dyslipidemias	NOS3	1.0	
+Deep thrombophlebitis	NOS3	1.0	
+Non-arthropod borne lymphocytic choriomeningitis	AKT1	1.0	
+Monocytic leukemia	CALM3	1.0	
+Hypertriglyceridemia result	NOS3	1.0	
+Abnormality of the intestine	AKT1	1.0	
+Abnormality of the intestine	CAV1	1.0	
+Abnormality of the intestine	NOS2	1.0	
+Esophageal carcinoma	AKT1	1.0	
+Esophageal carcinoma	CAV1	1.0	
+Esophageal carcinoma	HSP90AA1	1.0	
+Liver Diseases	AKT1	1.0	
+Liver Diseases	NOS2	1.0	
+Liver Diseases	NOS3	1.0	
+Anaplasia	AKT1	1.0	
+Anaplasia	CAV1	1.0	
+Diabetes mellitus type 1	HSP90AA1	1.0	
+Diabetes mellitus type 1	NOS1	1.0	
+Diabetes mellitus type 1	NOS2	1.0	
+Diabetes mellitus type 1	NOS3	1.0	
+Carcinoma, Papillary	AKT1	1.0	
+Carcinoma, Papillary	HSP90AA1	1.0	
+Bone necrosis	NOS3	1.0	
+Thromboangiitis Obliterans	NOS3	1.0	
+Varicocele	AKT1	1.0	
+Autosomal recessive polycystic kidney disease	AKT1	1.0	
+Fibrous tissue neoplasm	AKT1	1.0	
+Capillary hemangiomas	AKT1	1.0	
+Hyperoxia	NOS3	1.0	
+Deficiency of malonyl-CoA decarboxylase	AKT1	1.0	
+Benign neoplasm of the central nervous system	AKT1	1.0	
+Adolescent idiopathic scoliosis	CALM3	1.0	
+Oropharyngeal disorders	AKT1	1.0	
+Pituitary corticotropic cell adenoma	HSP90AA1	1.0	
+Stage 5 chronic kidney disease	CAV1	1.0	
+Stage 5 chronic kidney disease	NOS3	1.0	
+Abnormality of dental structure	AKT1	1.0	
+Abnormality of dental structure	CAV1	1.0	
+Nasal polyposis	CAV1	1.0	
+Nasal polyposis	NOS2	1.0	
+Heterotopia	AKT1	1.0	
+Clonus	CAV1	1.0	
+Chronic Fatigue Syndrome	NOS2	1.0	
+Heart valve disease	NOS3	1.0	
+Neoplasm of the respiratory system	AKT1	1.0	
+Takayasu Arteritis	NOS2	1.0	
+CARCINOMA OF VULVA	NOS3	1.0	
+Decreased muscle mass	AKT1	1.0	
+Weight Loss Adverse Event	NOS3	1.0	
+Neoplasm of fatty tissue	AKT1	1.0	
+Bronchopulmonary Dysplasia	AKT1	1.0	
+Bronchopulmonary Dysplasia	HSP90AA1	1.0	
+Gastritis	CAV1	1.0	
+Gastritis	NOS2	1.0	
+Venous Thromboembolism	NOS2	1.0	
+Venous Thromboembolism	NOS3	1.0	
+Sickle Cell Trait	NOS2	1.0	
+Li-Fraumeni syndrome	CAV1	1.0	
+Fibromyalgia	NOS3	1.0	
+Malignant hyperthermia susceptibility	CALM3	1.0	
+Anterior uveitis	NOS2	1.0	
+Lipomatous tumor	AKT1	1.0	
+Pulmonary infiltrates	CAV1	1.0	
+Insulin resistance syndrome	NOS3	1.0	
+Multiple Sclerosis	CAV1	1.0	
+Multiple Sclerosis	NOS1	1.0	
+Multiple Sclerosis	NOS2	1.0	
+Multiple Sclerosis	NOS3	1.0	
+Autism spectrum disorders	NOS1	1.0	
+Autism spectrum disorders	NOS2	1.0	
+Dyskinesia, Drug-Induced	AKT1	1.0	
+Exostoses	AKT1	1.0	
+Pleuritis	NOS2	1.0	
+Restless Legs Syndrome	NOS1	1.0	
+Rous Sarcoma	CAV1	1.0	
+Hepatocellular adenoma	AKT1	1.0	
+Splenic Marginal Zone B-Cell Lymphoma	AKT1	1.0	
+Anti-Glomerular Basement Membrane Disease	NOS2	1.0	
+Atypical teratoid/rhabdoid tumor	AKT1	1.0	
+Lower limb muscle weakness	CAV1	1.0	
+Pneumococcal Infections	NOS2	1.0	
+Arthritis, Reactive	CALM3	1.0	
+Malignant neoplasm of tongue	CAV1	1.0	
+stage, non-small cell lung cancer	AKT1	1.0	
+Severe congenital neutropenia	AKT1	1.0	
+Abnormal autonomic nervous system physiology	CAV1	1.0	
+Anemia	CAV1	1.0	
+Anemia	NOS1	1.0	
+Anemia	NOS2	1.0	
+Pain	AKT1	1.0	
+Pain	CAV1	1.0	
+Pain	NOS3	1.0	
+Phyllodes tumor, benign	CAV1	1.0	
+Hypocalcemia	CAV1	1.0	
+Silicosis	NOS2	1.0	
+Uterine Cancer	AKT1	1.0	
+Chorioretinal coloboma	AKT1	1.0	
+Accelerated skeletal maturation	CAV1	1.0	
+Pulmonary function (finding)	NOS3	1.0	
+Morphological abnormality of the inner ear	AKT1	1.0	
+Fibrosarcoma	CALM3	1.0	
+Fibrosarcoma	CAV1	1.0	
+Rheumatoid arthritis	AKT1	1.0	
+Rheumatoid arthritis	CALM3	1.0	
+Rheumatoid arthritis	NOS1	1.0	
+Rheumatoid arthritis	NOS2	1.0	
+Rheumatoid arthritis	NOS3	1.0	
+Carcinoma of colon	AKT1	1.0	
+Carcinoma of colon	CALM3	1.0	
+Carcinoma of colon	CAV1	1.0	
+Carcinoma of colon	HSP90AA1	1.0	
+Carcinoma of colon	NOS2	1.0	
+Sarcoidosis	NOS2	1.0	
+Sarcoidosis	NOS3	1.0	
+Peptic Esophagitis	NOS2	1.0	
+Guillain-Barre syndrome, familial	NOS2	1.0	
+Hyperostosis	AKT1	1.0	
+Leukoplakia	NOS2	1.0	
+Meningeal Neoplasms	NOS1	1.0	
+Cardiac defects	NOS3	1.0	
+Neoplasm of the skeletal system	AKT1	1.0	
+Deviation of toes	AKT1	1.0	
+Hyperkeratosis	AKT1	1.0	
+Hyperkeratosis	CAV1	1.0	
+Dental Caries	AKT1	1.0	
+Dental Caries	CAV1	1.0	
+Primary hyperparathyroidism	NOS3	1.0	
+Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	AKT1	1.0	
+Inclusion Body Myopathy, Sporadic	NOS2	1.0	
+Drug Resistant Epilepsy	AKT1	1.0	
+Intestinal polyposis	AKT1	1.0	
+Primary biliary cirrhosis	HSP90AA1	1.0	
+Primary biliary cirrhosis	NOS3	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	NOS1	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	NOS3	1.0	
+Abnormality of the stomach	AKT1	1.0	
+Abnormality of the stomach	CAV1	1.0	
+Fibroma	AKT1	1.0	
+pathologic fistula	AKT1	1.0	
+Low Tension Glaucoma	NOS3	1.0	
+Tongue Carcinoma	CAV1	1.0	
+Brain Tumor, Primary	HSP90AA1	1.0	
+Abnormal cortical bone morphology	AKT1	1.0	
+Tuberculosis	AKT1	1.0	
+Tuberculosis	CALM3	1.0	
+Tuberculosis	NOS2	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	HSP90AA1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	NOS3	1.0	
+Malignant mesothelioma	AKT1	1.0	
+Malignant mesothelioma	NOS3	1.0	
+Diabetes insipidus	AKT1	1.0	
+Hepatosplenomegaly	CAV1	1.0	
+Marfan syndrome	NOS2	1.0	
+Carcinoma, Neuroendocrine	CAV1	1.0	
+Multiple cafe-au-lait spots	AKT1	1.0	
+Pneumonitis	NOS3	1.0	
+Subarachnoid hemorrhage	NOS2	1.0	
+Subarachnoid hemorrhage	NOS3	1.0	
+Ewing's sarcoma	AKT1	1.0	
+Ewing's sarcoma	CAV1	1.0	
+Thyroid carcinoma	AKT1	1.0	
+Thyroid carcinoma	CAV1	1.0	
+Thyroid carcinoma	HSP90AA1	1.0	
+Acute kidney injury	NOS2	1.0	
+Acute kidney injury	NOS3	1.0	
+Memory Disorders	NOS1	1.0	
+Necrosis	NOS2	1.0	
+Skin tags	AKT1	1.0	
+Sicca Syndrome	NOS2	1.0	
+Endometriosis of uterus	NOS3	1.0	
+Brugada Syndrome	CALM3	1.0	
+Abnormality of intracranial pressure	AKT1	1.0	
+Left ventricular hypertrophy	AKT1	1.0	
+Left ventricular hypertrophy	NOS3	1.0	
+Biliary tract neoplasm	NOS3	1.0	
+Optic neuropathy	NOS2	1.0	
+Medullary carcinoma	HSP90AA1	1.0	
+Malignant Fibrous Histiocytoma	NOS2	1.0	
+Human papilloma virus infection	CAV1	1.0	
+Abnormality of the plantar skin of foot	AKT1	1.0	
+Lymphocytic Choriomeningitis	AKT1	1.0	
+Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease	AKT1	1.0	
+Abnormal pulmonary vein morphology	AKT1	1.0	
+Oropharyngeal squamous cell carcinoma	AKT1	1.0	
+Lymphangiomyomatosis	CALM3	1.0	
+Multiple Myeloma	AKT1	1.0	
+Multiple Myeloma	CALM3	1.0	
+Multiple Myeloma	CAV1	1.0	
+Multiple Myeloma	HSP90AA1	1.0	
+Colitis, Ulcerative	HSP90AA1	1.0	
+Colitis, Ulcerative	NOS2	1.0	
+Colitis, Ulcerative	NOS3	1.0	

@@ -1,0 +1,10 @@
+node_name	node_type	
+DB01222	drug	
+NR3C1	drug_target	
+CYP3A4	drug_target	
+Cocaine delirium	phenotype	
+21-hydroxylase deficiency	phenotype	
+Bone necrosis	phenotype	
+Adrenal hyperplasia	phenotype	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	phenotype	
+Alcohol abuse	phenotype	

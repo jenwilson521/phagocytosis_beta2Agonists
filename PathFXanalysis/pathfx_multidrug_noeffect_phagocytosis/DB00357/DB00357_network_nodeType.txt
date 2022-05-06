@@ -1,0 +1,11 @@
+node_name	node_type	
+DB00357	drug	
+CYP19A1	drug_target	
+CYP1A2	drug_target	
+CYP11A1	drug_target	
+CYP2C19	drug_target	
+CYP3A4	drug_target	
+Adrenal hyperplasia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Congenital adrenal hyperplasia	phenotype	

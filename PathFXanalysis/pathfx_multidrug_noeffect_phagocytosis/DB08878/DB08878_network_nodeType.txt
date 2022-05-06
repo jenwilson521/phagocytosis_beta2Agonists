@@ -1,0 +1,27 @@
+node_name	node_type	
+DB08878	drug	
+DHFR	drug_target	
+SLC46A1	drug_target	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	phenotype	
+Folic Acid Deficiency	phenotype	
+Macrocytic anemia	phenotype	
+Inborn Errors of Metabolism	phenotype	
+Pallor	phenotype	
+Abnormality of multiple cell lineages in the bone marrow	phenotype	
+Anemia of inadequate production	phenotype	
+Pancytopenia	phenotype	
+Basal ganglia calcification, idiopathic, 6	phenotype	
+Abnormality of bone marrow cell morphology	phenotype	
+Oral ulcer	phenotype	
+Melioidosis, susceptibility to	phenotype	
+Abnormality of eosinophils	phenotype	
+Abnormal platelet count	phenotype	
+Malaria, Vivax	phenotype	
+Familial Alzheimer Disease (FAD)	phenotype	
+Asymptomatic Infections	phenotype	
+Myelosuppression	phenotype	
+Xeroderma pigmentosum, group A	phenotype	
+Abnormality of thrombocytes	phenotype	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	phenotype	
+Dialeptic seizures	phenotype	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	phenotype	

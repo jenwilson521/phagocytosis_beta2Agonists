@@ -1,0 +1,49 @@
+node_name	node_type	
+DB02530	drug	
+GATM	drug_target	
+Autism 15	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Primary biliary cirrhosis	phenotype	
+Failure to thrive	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Kidney Diseases	phenotype	
+Acute kidney injury	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Necrosis	phenotype	
+Muscle weakness	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Acute myocardial ischemia	phenotype	
+Onset	phenotype	
+Proximal muscle weakness	phenotype	
+Behavioral abnormality	phenotype	
+Gowers sign	phenotype	
+Delayed speech and language development	phenotype	
+Organic aciduria	phenotype	
+Growth abnormality	phenotype	
+3-Methylglutaconic aciduria	phenotype	
+Malignant tumor of prostate	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the nervous system	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Prostate carcinoma	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Autistic behavior	phenotype	
+Decreased body weight	phenotype	
+Abnormality of amino acid metabolism	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Prostate Cancer, Hereditary, 7	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Abnormality of the musculature	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Abnormality of the urinary system	phenotype	
+Neurodevelopmental delay	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Abnormality of carboxylic acid metabolism	phenotype	
+Abnormality of body weight	phenotype	
+Abnormality of urine homeostasis	phenotype	

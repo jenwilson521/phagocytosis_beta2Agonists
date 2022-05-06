@@ -1,0 +1,119 @@
+Gene	CUI	Phenotype	Source Databases	
+DLD	C0559758	Multisystem disorder	DisGeNet	
+SLC12A3	C0559758	Multisystem disorder	DisGeNet	
+CA2	C0151747	Renal tubular dysfunction	HumPhenOnt	
+SLC12A3	C0151747	Renal tubular dysfunction	DisGeNet	
+CA2	C0595936	Aqueous Humor Disorders	DisGeNet	
+CA4	C0595936	Aqueous Humor Disorders	DisGeNet	
+CA2	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+DLD	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+SLC12A3	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+CA1	C0022658	Kidney Diseases	DisGeNet	
+CA2	C0022658	Kidney Diseases	DisGeNet	
+SLC12A3	C0022658	Kidney Diseases	DisGeNet	
+SLC22A6	C0022658	Kidney Diseases	DisGeNet	
+CA1	C0009324	Ulcerative colitis	DisGeNet	
+CA2	C0009324	Ulcerative colitis	DisGeNet	
+DLD	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A6	C0009324	Ulcerative colitis	DisGeNet	
+CA2	C0522224	Paralysis	HumPhenOnt	
+SLC12A3	C0522224	Paralysis	DisGeNet,HumPhenOnt	
+CA2	C4023354	Abnormality of central motor function	HumPhenOnt	
+CA4	C4023354	Abnormality of central motor function	HumPhenOnt	
+DLD	C4023354	Abnormality of central motor function	HumPhenOnt	
+SLC12A3	C4023354	Abnormality of central motor function	HumPhenOnt	
+CA2	C3806226	Ectopic calcification	HumPhenOnt	
+SLC12A3	C3806226	Ectopic calcification	HumPhenOnt	
+SLC12A3	C0268450	Familial hypokalemia-hypomagnesemia	ClinVar,DisGeNet	
+CA1	C0282528	Peroxisome biogenesis disorder 6A	DisGeNet	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+CA2	C1389280	Basal ganglia calcification, idiopathic, 6	HumPhenOnt	
+CA2	C0521367	Oropharynx (excludes nasopharynx)	DisGeNet	
+CA2	C1306341	Mental handicap	DisGeNet	
+SLC12A3	C0242387	Treacher Collins syndrome	DisGeNet	
+DLD	C0451641	Urolithiasis	DisGeNet	
+SLC12A3	C0553730	Chondrocalcinosis	HumPhenOnt	
+CA2	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet,HumPhenOnt	
+CA2	C0005944	Metabolic Bone Disorder	DisGeNet	
+SLC12A3	C3693260	Abnormal urine output	HumPhenOnt	
+CA2	C0008311	Cholangitis	DisGeNet	
+CA2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CA4	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+DLD	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC12A3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC12A3	C0546817	Hypervolemia	DisGeNet	
+SLC12A3	C0854912	Germinoma	DisGeNet	
+SLC12A3	C4022657	Abnormal drinking behavior	HumPhenOnt	
+CA2	C0020496	Cranial hyperostosis	HumPhenOnt	
+SLC12A3	C4023579	Abnormality of renal excretion	HumPhenOnt	
+SLC12A3	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+CA2	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+DLD	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+CA1	C0032273	Simple pneumoconiosis	DisGeNet	
+SLC12A3	C0002063	Alkalosis	HumPhenOnt	
+SLC12A3	C0032617	Polyuria	HumPhenOnt	
+CA2	C0278061	Mental impairment	DisGeNet	
+DLD	C0040015	Glanzmann thrombasthenia	DisGeNet	
+SLC12A3	C0206633	{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	DisGeNet	
+CA2	C0001122	Acidosis	HumPhenOnt	
+DLD	C0001122	Acidosis	HumPhenOnt	
+SLC12A3	C0027707	Tubulointerstitial nephritis	DisGeNet	
+CA2	C0162565	Acute intermittent porphyria	DisGeNet	
+SLC12A3	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+CA2	C0085660	Aseptic necrosis	HumPhenOnt	
+CA2	C0022650	Kidney Calculi	DisGeNet	
+SLC12A3	C0020621	Hypokalemia	HumPhenOnt	
+DLD	C0016719	Friedreich's ataxia	DisGeNet	
+CA2	C0029454	Osteopetrosis autosomal recessive 4	DisGeNet,HumPhenOnt	
+SLC12A3	C0085602	Polydipsia	HumPhenOnt	
+CA2	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+DLD	C0032269	Pneumococcal Infections	DisGeNet	
+CA2	C0035439	Other rheumatic heart disease	DisGeNet	
+CA2	C0020492	Hyperostosis	HumPhenOnt	
+SLC12A3	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+CA2	C0019214	Hepatosplenomegaly	HumPhenOnt	
+CA2	C0151825	Bone pain	HumPhenOnt	
+CA4	C1998028	Photoreceptor degeneration	DisGeNet	
+CA2	C0456909	Blindness	HumPhenOnt	
+CA4	C0456909	Blindness	HumPhenOnt	
+CA2	C0004782	Abnormality of the basal ganglia	HumPhenOnt	
+DLD	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+SLC12A3	C0751674	Lymphangiomyomatosis	DisGeNet	
+SLC12A3	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SLC12A3	C0431380	Cortical dysplasia, complex, with other brain malformations 3	DisGeNet	
+SLC12A3	C3542024	Aortic valve disease 2	DisGeNet	
+SLC12A3	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+SLC22A6	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+CA2	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+SLC12A3	C1384514	Primary hyperaldosteronism	DisGeNet	
+SLC12A3	C0149630	Bicuspid aortic valve	DisGeNet	
+DLD	C0220981	Metabolic acidosis	HumPhenOnt	
+DLD	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+SLC12A3	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+CA2	C0019209	Hepatomegaly	HumPhenOnt	
+DLD	C0019209	Hepatomegaly	HumPhenOnt	
+CA2	C0029124	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	HumPhenOnt	
+CA4	C0029124	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	HumPhenOnt	
+CA2	C0025521	Inborn Errors of Metabolism	DisGeNet	
+SLC12A3	C0746674	Generalized muscle weakness	HumPhenOnt	
+SLC12A3	C2931876	Hirschsprung disease 1	DisGeNet	
+CA4	C4024818	Progressive night blindness	HumPhenOnt	
+SLC12A3	C4073150	Abnormal consumption behavior	HumPhenOnt	
+CA2	C3808249	Abnormality of the optic disc	HumPhenOnt	
+CA4	C3808249	Abnormality of the optic disc	HumPhenOnt	
+DLD	C0282577	Congenital disorder of glycosylation	DisGeNet	
+CA2	C4021826	Abnormality of the renal tubule	HumPhenOnt	
+SLC12A3	C0020438	Hypercalciuria	DisGeNet	
+SLC12A3	C0027709	Nephrocalcinosis	DisGeNet	
+CA2	C0151746	Abnormal renal physiology	HumPhenOnt	
+SLC12A3	C0151746	Abnormal renal physiology	HumPhenOnt	
+DLD	C0751955	Brain Infarction	DisGeNet	
+SLC12A3	C0014599	Epithelial hyperplasia of skin	DisGeNet	
+CA4	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+DLD	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+CA2	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+CA4	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+DLD	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SLC12A3	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+SLC12A3	C0205217	Increased analgesia from kappa-opioid receptor agonist, female-specific	HumPhenOnt	
+SLC12A3	C4025588	Juvenile onset	HumPhenOnt	

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB01333	drug	
+SLC22A5	drug_target	
+SLC15A2	drug_target	
+CYP3A4	drug_target	
+SLC22A6	drug_target	
+Congenital long QT syndrome	phenotype	

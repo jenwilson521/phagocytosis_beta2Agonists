@@ -1,0 +1,112 @@
+node_name	node_type	
+DB03759	drug	
+GRIA2	drug_target	
+Schizophrenia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Spastic	phenotype	
+Hyperactivity	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Migraine Disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Tumor Promotion	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Unipolar Depression	phenotype	
+Mental disorders	phenotype	
+Cocaine-Related Disorders	phenotype	
+Major depressive disorder	phenotype	
+Increased body weight	phenotype	
+Status epilepticus	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Globus Hystericus	phenotype	
+Episodic ataxia	phenotype	
+Glioblastoma	phenotype	
+Cutaneous syndactyly	phenotype	
+Facial cleft	phenotype	
+Abnormality of the lacrimal duct	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+AMYOTROPHIC LATERAL SCLEROSIS 5	phenotype	
+Cleft eyelid	phenotype	
+Abnormal lung lobation	phenotype	
+Tracheal stenosis	phenotype	
+Anal stenosis	phenotype	
+Cupped ear	phenotype	
+Abnormality of the pubic bone	phenotype	
+Spina bifida	phenotype	
+Ectopic anus	phenotype	
+Absent hair	phenotype	
+Hyperalgesia, Thermal	phenotype	
+Mechanical Allodynia	phenotype	
+Memory impairment	phenotype	
+Recessive dystrophic epidermolysis bullosa	phenotype	
+Carney complex	phenotype	
+Atresia of the external auditory canal	phenotype	
+Cushing's syndrome	phenotype	
+Progressive cerebellar ataxia	phenotype	
+Hepatic encephalopathy	phenotype	
+Impaired vibratory sensation	phenotype	
+Cellular immunodeficiency	phenotype	
+Abnormality of the nasolacrimal system	phenotype	
+Polyuria	phenotype	
+Abnormality of the thymus	phenotype	
+Bicornuate uterus	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Reperfusion Injury	phenotype	
+Meningocele	phenotype	
+Myelomeningocele	phenotype	
+Learning Disorders	phenotype	
+Bacterial Vaginosis	phenotype	
+Increased size of the clitoris	phenotype	
+Abnormal size of the clitoris	phenotype	
+Scrotal hypoplasia	phenotype	
+Refractive Errors	phenotype	
+Clitoral hypertrophy	phenotype	
+Oncocytic Neoplasm	phenotype	
+Wide nose	phenotype	
+Abnormality of the auditory canal	phenotype	
+Carcinoma, Neuroendocrine	phenotype	
+Focal dystonia	phenotype	
+Infection by Cryptococcus neoformans	phenotype	
+Female pseudohermaphroditism	phenotype	
+Spinocerebellar ataxia 1	phenotype	
+Body Weight Changes	phenotype	
+Anxiety Disorders	phenotype	
+Anophthalmia/Microphthalmia	phenotype	
+Ovarian adenocarcinoma	phenotype	
+Dental crowding	phenotype	
+Adrenal hyperplasia	phenotype	
+Omphalocele	phenotype	
+Underdeveloped nasal alae	phenotype	
+Absent eyelashes	phenotype	
+Abnormality of the frontal hairline	phenotype	
+Right ventricular hypertrophy	phenotype	
+Wide intermamillary distance	phenotype	
+Abnormal intermamillary distance	phenotype	
+Abnormality of the meninges	phenotype	
+Abnormality of the clitoris	phenotype	
+Renal hypoplasia	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Pemphigus Vulgaris	phenotype	
+Dysmetria	phenotype	
+Abnormality of the vagina	phenotype	
+Amyotrophic Lateral Sclerosis, Sporadic	phenotype	
+Drug Allergy	phenotype	
+Cephalocele	phenotype	
+Gait ataxia	phenotype	
+Absence seizures	phenotype	
+Abnormality of the helix	phenotype	
+Dementia, Vascular	phenotype	
+Abnormality of the choanae	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Incomplete penetrance	phenotype	
+Dental malocclusion	phenotype	
+Aplasia/Hypoplasia of the thumb	phenotype	
+Pulmonary hypoplasia	phenotype	
+Adrenocortical adenoma	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Ambiguous genitalia	phenotype	
+Aplasia/Hypoplasia of the lungs	phenotype	
+Abnormality of the scrotum	phenotype	
+Neuralgia	phenotype	
+Multicystic kidney dysplasia	phenotype	
+Vertebral segmentation defect	phenotype	
+Advanced cancer	phenotype	

@@ -1,0 +1,4830 @@
+node1	node2	edge_score	
+DB06709	CHRM3	1.0	
+CHRM3	TACR3	0.8252219011119977
+CHRM3	NMUR1	0.8354005520686607
+CHRM3	GAST	0.8407682499807351
+CHRM3	GHSR	0.8354005520686607
+CHRM3	BDKRB1	0.8354005520686607
+CHRM3	OXT	0.833320481754769
+CHRM3	P2RY6	0.8354005520686607
+CHRM3	PTGFR	0.8252219011119977
+CHRM3	GHRL	0.8407682499807351
+CHRM3	HCRTR2	0.8252219011119977
+CHRM3	GPR68	0.8354005520686607
+CHRM3	F2RL3	0.8252219011119977
+CHRM3	GPRC6A	0.8252219011119977
+CHRM3	P2RY1	0.8354005520686607
+CHRM3	GRM1	0.8354005520686607
+CHRM3	GPR4	0.8354005520686607
+CHRM3	P2RY11	0.8252219011119977
+CHRM3	GNAQ	0.8595571341704282
+CHRM3	CYSLTR1	0.8252219011119977
+CHRM3	NTS	0.833320481754769
+CHRM3	GNRH2	0.8407682499807351
+CHRM3	XCL2	0.833320481754769
+CHRM3	NPFF	0.833320481754769
+CHRM3	CCKBR	0.8354005520686607
+CHRM3	AGT	0.8407682499807351
+CHRM3	NMB	0.8407682499807351
+CHRM3	GPR132	0.8354005520686607
+CHRM3	APP	0.833320481754769
+CHRM3	CCL23	0.833320481754769
+CHRM3	PROK2	0.8407682499807351
+CHRM3	ADRA1A	0.8354005520686607
+CHRM3	KISS1	0.833320481754769
+CHRM3	PMCH	0.833320481754769
+CHRM3	GPR65	0.8354005520686607
+CHRM3	F2RL2	0.8252219011119977
+CHRM3	HTR2B	0.8354005520686607
+CHRM3	TRHR	0.8354005520686607
+CHRM3	ADRA1D	0.8354005520686607
+CHRM3	HCRT	0.833320481754769
+CHRM3	FFAR3	0.8354005520686607
+CHRM3	HRH1	0.8354005520686607
+CHRM3	GNG2	0.8526462282435747
+CHRM3	GNRH1	0.8407682499807351
+CHRM3	GNRHR2	0.8354005520686607
+CHRM3	GRPR	0.8354005520686607
+CHRM3	CCK	0.833320481754769
+CHRM3	LPAR5	0.8252219011119977
+CHRM3	LPAR1	0.8252219011119977
+CHRM3	GCGR	0.8354005520686607
+CHRM3		1
+CHRM3	OXTR	0.8252219011119977
+CHRM3	TRH	0.8407682499807351
+CHRM3	EDNRA	0.8252219011119977
+CHRM3	PROKR1	0.8354005520686607
+CHRM3	HCRTR1	0.8252219011119977
+CHRM3	NMU	0.8407682499807351
+CHRM3	NPFFR1	0.8252219011119977
+CHRM3	NPSR1	0.8354005520686607
+CHRM3	GRM5	0.8354005520686607
+CHRM3	KNG1	0.8407682499807351
+CHRM3	NPFFR2	0.8252219011119977
+CHRM3	TAC3	0.833320481754769
+CHRM3	NMUR2	0.8421959353175904
+CHRM3	PTGER1	0.8252219011119977
+CHRM3	XCR1	0.8252219011119977
+CHRM3	OPN4	0.8354005520686607
+CHRM3	BDKRB2	0.8354005520686607
+CHRM3	GNA14	0.8595571341704282
+CHRM3	LTB4R	0.8252219011119977
+CHRM3	PROK1	0.8407682499807351
+CHRM3	LPAR4	0.8354005520686607
+CHRM3	CASR	0.8354005520686607
+CHRM3	GPR17	0.8252219011119977
+CHRM3	LPAR6	0.8354005520686607
+CHRM3	UTS2R	0.8354005520686607
+CHRM3	NTSR2	0.8252219011119977
+CHRM3	CYSLTR2	0.8252219011119977
+CHRM3	KISS1R	0.8252219011119977
+CHRM3	P2RY10	0.8354005520686607
+CHRM3	GCG	0.8407682499807351
+CHRM3	GNB1	0.8526462282435747
+CHRM3	NMBR	0.8354005520686607
+CHRM3	CHRM3	0.8354005520686607
+CHRM3	XCL1	0.833320481754769
+CHRM3	EDN3	0.833320481754769
+CHRM3	AVPR1A	0.8354005520686607
+CHRM3	F2RL1	0.8252219011119977
+CHRM3	F2	0.833320481754769
+CHRM3	SAA1	0.833320481754769
+CHRM3	ADRA1B	0.8354005520686607
+CHRM3	AVPR1B	0.8354005520686607
+CHRM3	TACR2	0.8252219011119977
+CHRM3	TAC1	0.833320481754769
+CHRM3	UTS2B	0.8407682499807351
+CHRM3	EDN2	0.833320481754769
+CHRM3	TACR1	0.8252219011119977
+CHRM3	QRFPR	0.8252219011119977
+CHRM3	UTS2	0.8407682499807351
+CHRM3	PROKR2	0.8354005520686607
+CHRM3	F2R	0.8252219011119977
+CHRM3	NMS	0.8407682499807351
+CHRM3	CCKAR	0.8252219011119977
+CHRM3	NTSR1	0.8252219011119977
+CHRM3	GRP	0.8407682499807351
+CHRM3	GNA15	0.8595571341704282
+CHRM3	PTAFR	0.8252219011119977
+CHRM3	LTB4R2	0.8252219011119977
+CHRM3	FFAR2	0.8354005520686607
+CHRM3	EDNRB	0.8252219011119977
+CHRM3	QRFP	0.833320481754769
+CHRM3	MLN	0.8407682499807351
+CHRM3	MLNR	0.8354005520686607
+CHRM3	FFAR1	0.8354005520686607
+CHRM3	P2RY2	0.8354005520686607
+CHRM3	NPS	0.8407682499807351
+CHRM3	GNA11	0.8595571341704282
+CHRM3	GNRHR	0.8354005520686607
+CHRM3	EDN1	0.833320481754769
+CHRM3	LPAR2	0.8252219011119977
+CHRM3	LPAR3	0.8252219011119977
+Adenomas, multiple colorectal, 608456 (3)	ADRA1D	1.0	
+Adenomas, multiple colorectal, 608456 (3)	AGT	1.0	
+Adenomas, multiple colorectal, 608456 (3)	BDKRB1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CASR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CCK	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CCKBR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	EDN1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	EDNRA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	EDNRB	1.0	
+Adenomas, multiple colorectal, 608456 (3)	F2RL2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GAST	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHRL	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHSR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GNRHR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HCRT	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HCRTR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HCRTR2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	KISS1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	LPAR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	NTS	1.0	
+Adenomas, multiple colorectal, 608456 (3)	NTSR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TRH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TRHR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	UTS2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	UTS2R	1.0	
+Anosmia	GNRH1	1.0	
+Anosmia	GNRHR	1.0	
+Anosmia	KISS1	1.0	
+Anosmia	KISS1R	1.0	
+Anosmia	PROK2	1.0	
+Anosmia	PROKR2	1.0	
+Anosmia	TAC3	1.0	
+Anosmia	TACR3	1.0	
+Mental disorders	BDKRB1	1.0	
+Mental disorders	BDKRB2	1.0	
+Mental disorders	CCK	1.0	
+Mental disorders	F2RL3	1.0	
+Mental disorders	GNRHR2	1.0	
+Mental disorders	GPRC6A	1.0	
+Mental disorders	GRM5	1.0	
+Mental disorders	GRP	1.0	
+Mental disorders	GRPR	1.0	
+Mental disorders	HCRTR1	1.0	
+Mental disorders	LPAR3	1.0	
+Mental disorders	NTSR1	1.0	
+Mental disorders	OXT	1.0	
+Mental disorders	OXTR	1.0	
+Mental disorders	TAC1	1.0	
+Mental disorders	TACR1	1.0	
+Mental disorders	TRH	1.0	
+Inflammation	AGT	1.0	
+Inflammation	APP	1.0	
+Inflammation	BDKRB1	1.0	
+Inflammation	BDKRB2	1.0	
+Inflammation	CCK	1.0	
+Inflammation	EDN1	1.0	
+Inflammation	EDN2	1.0	
+Inflammation	F2	1.0	
+Inflammation	F2R	1.0	
+Inflammation	F2RL1	1.0	
+Inflammation	GAST	1.0	
+Inflammation	GHRL	1.0	
+Inflammation	HRH1	1.0	
+Inflammation	KNG1	1.0	
+Inflammation	LTB4R	1.0	
+Inflammation	NPFF	1.0	
+Inflammation	OXT	1.0	
+Inflammation	PTGFR	1.0	
+Inflammation	SAA1	1.0	
+Inflammation	TAC1	1.0	
+Inflammation	TACR1	1.0	
+Inflammation	TACR3	1.0	
+Pain	ADRA1A	1.0	
+Pain	BDKRB1	1.0	
+Pain	BDKRB2	1.0	
+Pain	CASR	1.0	
+Pain	CCK	1.0	
+Pain	CCKBR	1.0	
+Pain	CYSLTR2	1.0	
+Pain	EDN1	1.0	
+Pain	EDN3	1.0	
+Pain	EDNRB	1.0	
+Pain	F2RL1	1.0	
+Pain	GHSR	1.0	
+Pain	GNA11	1.0	
+Pain	GNAQ	1.0	
+Pain	HCRT	1.0	
+Pain	HRH1	1.0	
+Pain	KNG1	1.0	
+Pain	NTSR1	1.0	
+Pain	OXT	1.0	
+Pain	PROKR1	1.0	
+Pain	SAA1	1.0	
+Pain	TAC1	1.0	
+Pain	TACR1	1.0	
+Pain	TACR3	1.0	
+Pain	TRH	1.0	
+Abnormality of the pituitary gland	ADRA1A	1.0	
+Abnormality of the pituitary gland	ADRA1D	1.0	
+Abnormality of the pituitary gland	AGT	1.0	
+Abnormality of the pituitary gland	AVPR1B	1.0	
+Abnormality of the pituitary gland	CCK	1.0	
+Abnormality of the pituitary gland	CYSLTR2	1.0	
+Abnormality of the pituitary gland	EDNRA	1.0	
+Abnormality of the pituitary gland	GAST	1.0	
+Abnormality of the pituitary gland	GCG	1.0	
+Abnormality of the pituitary gland	GHRL	1.0	
+Abnormality of the pituitary gland	GHSR	1.0	
+Abnormality of the pituitary gland	GNA11	1.0	
+Abnormality of the pituitary gland	GNRH1	1.0	
+Abnormality of the pituitary gland	GNRHR	1.0	
+Abnormality of the pituitary gland	KISS1	1.0	
+Abnormality of the pituitary gland	KISS1R	1.0	
+Abnormality of the pituitary gland	LPAR2	1.0	
+Abnormality of the pituitary gland	NTS	1.0	
+Abnormality of the pituitary gland	OXT	1.0	
+Abnormality of the pituitary gland	PMCH	1.0	
+Abnormality of the pituitary gland	PROK2	1.0	
+Abnormality of the pituitary gland	PROKR2	1.0	
+Abnormality of the pituitary gland	TACR3	1.0	
+Abnormality of the pituitary gland	TRH	1.0	
+Abnormality of the pituitary gland	TRHR	1.0	
+Impotence	AGT	1.0	
+Impotence	EDN1	1.0	
+Impotence	EDNRA	1.0	
+Impotence	GNRH1	1.0	
+Impotence	GNRHR	1.0	
+Impotence	KISS1	1.0	
+Impotence	KISS1R	1.0	
+Impotence	P2RY1	1.0	
+Impotence	P2RY2	1.0	
+Impotence	PROK2	1.0	
+Impotence	PROKR2	1.0	
+Impotence	PTAFR	1.0	
+Impotence	TAC3	1.0	
+Impotence	TACR3	1.0	
+Hypoparathyroidism - autosomal dominant	ADRA1A	1.0	
+Hypoparathyroidism - autosomal dominant	CASR	1.0	
+Hypoparathyroidism - autosomal dominant	CYSLTR2	1.0	
+Hypoparathyroidism - autosomal dominant	EDNRA	1.0	
+Hypoparathyroidism - autosomal dominant	GNA11	1.0	
+Hypoparathyroidism - autosomal dominant	LPAR2	1.0	
+Hypoparathyroidism - autosomal dominant	NPS	1.0	
+Abnormal circulating androgen level	GNRH1	1.0	
+Abnormal circulating androgen level	GNRHR	1.0	
+Abnormal circulating androgen level	KISS1	1.0	
+Abnormal circulating androgen level	KISS1R	1.0	
+Abnormal circulating androgen level	PROK2	1.0	
+Abnormal circulating androgen level	PROKR2	1.0	
+Abnormal circulating androgen level	TAC3	1.0	
+Abnormal circulating androgen level	TACR3	1.0	
+Anxiety	CASR	1.0	
+Anxiety	GNA11	1.0	
+Anxiety	GNRH1	1.0	
+Anxiety	GNRHR	1.0	
+Anxiety	KISS1	1.0	
+Anxiety	KISS1R	1.0	
+Anxiety	OXT	1.0	
+Anxiety	OXTR	1.0	
+Anxiety	PMCH	1.0	
+Anxiety	PROK2	1.0	
+Anxiety	PROKR2	1.0	
+Anxiety	TAC1	1.0	
+Anxiety	TAC3	1.0	
+Anxiety	TACR3	1.0	
+Asthma	ADRA1A	1.0	
+Asthma	ADRA1B	1.0	
+Asthma	ADRA1D	1.0	
+Asthma	AGT	1.0	
+Asthma	APP	1.0	
+Asthma	BDKRB1	1.0	
+Asthma	BDKRB2	1.0	
+Asthma	CCL23	1.0	
+Asthma	CHRM3	1.0	
+Asthma	CYSLTR1	1.0	
+Asthma	CYSLTR2	1.0	
+Asthma	EDN1	1.0	
+Asthma	EDNRA	1.0	
+Asthma	EDNRB	1.0	
+Asthma	F2R	1.0	
+Asthma	F2RL1	1.0	
+Asthma	GHRL	1.0	
+Asthma	GNB1	1.0	
+Asthma	GPR65	1.0	
+Asthma	GPRC6A	1.0	
+Asthma	GRM1	1.0	
+Asthma	GRP	1.0	
+Asthma	HRH1	1.0	
+Asthma	KNG1	1.0	
+Asthma	LPAR2	1.0	
+Asthma	LPAR3	1.0	
+Asthma	LTB4R	1.0	
+Asthma	LTB4R2	1.0	
+Asthma	NPS	1.0	
+Asthma	NPSR1	1.0	
+Asthma	OXTR	1.0	
+Asthma	PMCH	1.0	
+Asthma	PTGER1	1.0	
+Asthma	TAC1	1.0	
+Asthma	TAC3	1.0	
+Asthma	TACR1	1.0	
+Asthma	TACR2	1.0	
+Asthma	TACR3	1.0	
+Asthma	UTS2	1.0	
+Asthma	XCL1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	ADRA1A	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	CYSLTR2	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	EDNRA	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	GNRH1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	GNRHR	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	KISS1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	KISS1R	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	LPAR2	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	PROK2	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	PROKR2	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	TAC3	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	TACR3	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	AGT	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	BDKRB2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CASR	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	CYSLTR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	EDN1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	EDNRA	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	EDNRB	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	F2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	F2RL1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	HTR2B	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	NPS	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	TAC1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	TACR1	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	TACR2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	UTS2	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	UTS2B	1.0	
+Panic disorder 1	AGT	1.0	
+Panic disorder 1	AVPR1B	1.0	
+Panic disorder 1	BDKRB2	1.0	
+Panic disorder 1	CCK	1.0	
+Panic disorder 1	CCKAR	1.0	
+Panic disorder 1	CCKBR	1.0	
+Panic disorder 1	GRP	1.0	
+Panic disorder 1	GRPR	1.0	
+Panic disorder 1	HCRT	1.0	
+Panic disorder 1	NPS	1.0	
+Panic disorder 1	NPSR1	1.0	
+Panic disorder 1	TACR1	1.0	
+Decreased testosterone in males	GNRH1	1.0	
+Decreased testosterone in males	GNRHR	1.0	
+Decreased testosterone in males	KISS1	1.0	
+Decreased testosterone in males	KISS1R	1.0	
+Decreased testosterone in males	PROK2	1.0	
+Decreased testosterone in males	PROKR2	1.0	
+Decreased testosterone in males	TAC3	1.0	
+Decreased testosterone in males	TACR3	1.0	
+Secondary hypertriglyceridemia	ADRA1A	1.0	
+Secondary hypertriglyceridemia	ADRA1D	1.0	
+Secondary hypertriglyceridemia	AGT	1.0	
+Secondary hypertriglyceridemia	APP	1.0	
+Secondary hypertriglyceridemia	BDKRB1	1.0	
+Secondary hypertriglyceridemia	BDKRB2	1.0	
+Secondary hypertriglyceridemia	CASR	1.0	
+Secondary hypertriglyceridemia	CYSLTR2	1.0	
+Secondary hypertriglyceridemia	EDN1	1.0	
+Secondary hypertriglyceridemia	EDNRA	1.0	
+Secondary hypertriglyceridemia	EDNRB	1.0	
+Secondary hypertriglyceridemia	F2	1.0	
+Secondary hypertriglyceridemia	F2R	1.0	
+Secondary hypertriglyceridemia	F2RL1	1.0	
+Secondary hypertriglyceridemia	F2RL2	1.0	
+Secondary hypertriglyceridemia	F2RL3	1.0	
+Secondary hypertriglyceridemia	GAST	1.0	
+Secondary hypertriglyceridemia	GCG	1.0	
+Secondary hypertriglyceridemia	GNA11	1.0	
+Secondary hypertriglyceridemia	GNA15	1.0	
+Secondary hypertriglyceridemia	GNAQ	1.0	
+Secondary hypertriglyceridemia	GNRH1	1.0	
+Secondary hypertriglyceridemia	GNRHR	1.0	
+Secondary hypertriglyceridemia	GPR4	1.0	
+Secondary hypertriglyceridemia	GPR68	1.0	
+Secondary hypertriglyceridemia	GRM1	1.0	
+Secondary hypertriglyceridemia	GRM5	1.0	
+Secondary hypertriglyceridemia	GRP	1.0	
+Secondary hypertriglyceridemia	GRPR	1.0	
+Secondary hypertriglyceridemia	HCRTR1	1.0	
+Secondary hypertriglyceridemia	KISS1	1.0	
+Secondary hypertriglyceridemia	KISS1R	1.0	
+Secondary hypertriglyceridemia	LPAR1	1.0	
+Secondary hypertriglyceridemia	LPAR2	1.0	
+Secondary hypertriglyceridemia	LPAR5	1.0	
+Secondary hypertriglyceridemia	LTB4R2	1.0	
+Secondary hypertriglyceridemia	NMU	1.0	
+Secondary hypertriglyceridemia	NTS	1.0	
+Secondary hypertriglyceridemia	NTSR1	1.0	
+Secondary hypertriglyceridemia	P2RY2	1.0	
+Secondary hypertriglyceridemia	PROK1	1.0	
+Secondary hypertriglyceridemia	PTAFR	1.0	
+Secondary hypertriglyceridemia	SAA1	1.0	
+Secondary hypertriglyceridemia	TAC1	1.0	
+Secondary hypertriglyceridemia	TACR1	1.0	
+Abnormal serum testosterone level	GNRH1	1.0	
+Abnormal serum testosterone level	GNRHR	1.0	
+Abnormal serum testosterone level	KISS1	1.0	
+Abnormal serum testosterone level	KISS1R	1.0	
+Abnormal serum testosterone level	PROK2	1.0	
+Abnormal serum testosterone level	PROKR2	1.0	
+Abnormal serum testosterone level	TAC3	1.0	
+Abnormal serum testosterone level	TACR3	1.0	
+Coronary heart disease 7	AGT	1.0	
+Coronary heart disease 7	BDKRB1	1.0	
+Coronary heart disease 7	BDKRB2	1.0	
+Coronary heart disease 7	CASR	1.0	
+Coronary heart disease 7	CYSLTR1	1.0	
+Coronary heart disease 7	EDN1	1.0	
+Coronary heart disease 7	EDNRA	1.0	
+Coronary heart disease 7	F2	1.0	
+Coronary heart disease 7	F2R	1.0	
+Coronary heart disease 7	F2RL3	1.0	
+Coronary heart disease 7	GCG	1.0	
+Coronary heart disease 7	GHRL	1.0	
+Coronary heart disease 7	KISS1	1.0	
+Coronary heart disease 7	KNG1	1.0	
+Coronary heart disease 7	NPFFR2	1.0	
+Coronary heart disease 7	OPN4	1.0	
+Coronary heart disease 7	P2RY1	1.0	
+Coronary heart disease 7	SAA1	1.0	
+Coronary heart disease 7	UTS2	1.0	
+Coronary heart disease 7	UTS2B	1.0	
+Coronary heart disease 7	UTS2R	1.0	
+Anxiety Disorders	ADRA1A	1.0	
+Anxiety Disorders	AGT	1.0	
+Anxiety Disorders	APP	1.0	
+Anxiety Disorders	AVPR1A	1.0	
+Anxiety Disorders	AVPR1B	1.0	
+Anxiety Disorders	CCK	1.0	
+Anxiety Disorders	CCKAR	1.0	
+Anxiety Disorders	CCKBR	1.0	
+Anxiety Disorders	CYSLTR2	1.0	
+Anxiety Disorders	EDNRA	1.0	
+Anxiety Disorders	GNB1	1.0	
+Anxiety Disorders	GRM5	1.0	
+Anxiety Disorders	LPAR1	1.0	
+Anxiety Disorders	LPAR2	1.0	
+Anxiety Disorders	NPS	1.0	
+Anxiety Disorders	NPSR1	1.0	
+Anxiety Disorders	OXT	1.0	
+Anxiety Disorders	OXTR	1.0	
+Anxiety Disorders	TAC1	1.0	
+Anxiety Disorders	TACR1	1.0	
+Female sexual dysfunction	GNRH1	1.0	
+Female sexual dysfunction	GNRHR	1.0	
+Female sexual dysfunction	KISS1	1.0	
+Female sexual dysfunction	KISS1R	1.0	
+Female sexual dysfunction	PROK2	1.0	
+Female sexual dysfunction	PROKR2	1.0	
+Female sexual dysfunction	TAC3	1.0	
+Female sexual dysfunction	TACR3	1.0	
+Absence of secondary sex characteristics	GNRH1	1.0	
+Absence of secondary sex characteristics	GNRHR	1.0	
+Absence of secondary sex characteristics	KISS1	1.0	
+Absence of secondary sex characteristics	KISS1R	1.0	
+Absence of secondary sex characteristics	PROK2	1.0	
+Absence of secondary sex characteristics	PROKR2	1.0	
+Absence of secondary sex characteristics	TAC3	1.0	
+Absence of secondary sex characteristics	TACR3	1.0	
+Abnormal female reproductive system physiology	GNRH1	1.0	
+Abnormal female reproductive system physiology	GNRHR	1.0	
+Abnormal female reproductive system physiology	KISS1	1.0	
+Abnormal female reproductive system physiology	KISS1R	1.0	
+Abnormal female reproductive system physiology	PROK2	1.0	
+Abnormal female reproductive system physiology	PROKR2	1.0	
+Abnormal female reproductive system physiology	TAC3	1.0	
+Abnormal female reproductive system physiology	TACR3	1.0	
+Hypotension	ADRA1A	1.0	
+Hypotension	ADRA1B	1.0	
+Hypotension	AGT	1.0	
+Hypotension	BDKRB2	1.0	
+Hypotension	CASR	1.0	
+Hypotension	EDN1	1.0	
+Hypotension	EDN2	1.0	
+Hypotension	EDN3	1.0	
+Hypotension	GCG	1.0	
+Hypotension	GHRL	1.0	
+Hypotension	GNA11	1.0	
+Hypotension	HRH1	1.0	
+Hypotension	KNG1	1.0	
+Hypotension	OXT	1.0	
+Hypotension	PTAFR	1.0	
+Hypotension	SAA1	1.0	
+Hypotension	TAC1	1.0	
+Hypotension	TACR1	1.0	
+Hypotension	TACR3	1.0	
+Bipolar affective disorder	ADRA1A	1.0	
+Bipolar affective disorder	AGT	1.0	
+Bipolar affective disorder	APP	1.0	
+Bipolar affective disorder	AVPR1A	1.0	
+Bipolar affective disorder	AVPR1B	1.0	
+Bipolar affective disorder	BDKRB2	1.0	
+Bipolar affective disorder	CCK	1.0	
+Bipolar affective disorder	CCKAR	1.0	
+Bipolar affective disorder	CHRM3	1.0	
+Bipolar affective disorder	CYSLTR2	1.0	
+Bipolar affective disorder	EDNRA	1.0	
+Bipolar affective disorder	GPR65	1.0	
+Bipolar affective disorder	GRM5	1.0	
+Bipolar affective disorder	LPAR2	1.0	
+Bipolar affective disorder	NTS	1.0	
+Bipolar affective disorder	P2RY1	1.0	
+Bipolar affective disorder	P2RY2	1.0	
+Bipolar affective disorder	PROK2	1.0	
+Bipolar affective disorder	PROKR2	1.0	
+Bipolar affective disorder	TAC1	1.0	
+Bipolar affective disorder	TACR1	1.0	
+Breast hypoplasia	GNRH1	1.0	
+Breast hypoplasia	GNRHR	1.0	
+Breast hypoplasia	KISS1	1.0	
+Breast hypoplasia	KISS1R	1.0	
+Breast hypoplasia	PROK2	1.0	
+Breast hypoplasia	PROKR2	1.0	
+Breast hypoplasia	TAC3	1.0	
+Breast hypoplasia	TACR3	1.0	
+Non-obstructive azoospermia	GNRH1	1.0	
+Non-obstructive azoospermia	GNRHR	1.0	
+Non-obstructive azoospermia	KISS1	1.0	
+Non-obstructive azoospermia	KISS1R	1.0	
+Non-obstructive azoospermia	PROK2	1.0	
+Non-obstructive azoospermia	PROKR2	1.0	
+Non-obstructive azoospermia	TAC3	1.0	
+Non-obstructive azoospermia	TACR3	1.0	
+Erectile abnormalities	GNRH1	1.0	
+Erectile abnormalities	GNRHR	1.0	
+Erectile abnormalities	KISS1	1.0	
+Erectile abnormalities	KISS1R	1.0	
+Erectile abnormalities	PROK2	1.0	
+Erectile abnormalities	PROKR2	1.0	
+Erectile abnormalities	TAC3	1.0	
+Erectile abnormalities	TACR3	1.0	
+Congestive heart failure	ADRA1A	1.0	
+Congestive heart failure	ADRA1D	1.0	
+Congestive heart failure	AGT	1.0	
+Congestive heart failure	AVPR1A	1.0	
+Congestive heart failure	CASR	1.0	
+Congestive heart failure	CCK	1.0	
+Congestive heart failure	CYSLTR2	1.0	
+Congestive heart failure	EDN1	1.0	
+Congestive heart failure	EDNRA	1.0	
+Congestive heart failure	EDNRB	1.0	
+Congestive heart failure	F2RL1	1.0	
+Congestive heart failure	GHRL	1.0	
+Congestive heart failure	GHSR	1.0	
+Congestive heart failure	GNA11	1.0	
+Congestive heart failure	GNAQ	1.0	
+Congestive heart failure	GPRC6A	1.0	
+Congestive heart failure	KNG1	1.0	
+Congestive heart failure	LPAR2	1.0	
+Congestive heart failure	LPAR3	1.0	
+Congestive heart failure	OPN4	1.0	
+Congestive heart failure	UTS2	1.0	
+Tumor Progression	ADRA1A	1.0	
+Tumor Progression	AGT	1.0	
+Tumor Progression	APP	1.0	
+Tumor Progression	CASR	1.0	
+Tumor Progression	CCKBR	1.0	
+Tumor Progression	CYSLTR2	1.0	
+Tumor Progression	EDN1	1.0	
+Tumor Progression	EDN3	1.0	
+Tumor Progression	EDNRA	1.0	
+Tumor Progression	EDNRB	1.0	
+Tumor Progression	F2R	1.0	
+Tumor Progression	F2RL1	1.0	
+Tumor Progression	F2RL2	1.0	
+Tumor Progression	F2RL3	1.0	
+Tumor Progression	GAST	1.0	
+Tumor Progression	GHSR	1.0	
+Tumor Progression	GNA11	1.0	
+Tumor Progression	GNAQ	1.0	
+Tumor Progression	GPRC6A	1.0	
+Tumor Progression	GRM1	1.0	
+Tumor Progression	GRP	1.0	
+Tumor Progression	GRPR	1.0	
+Tumor Progression	KISS1	1.0	
+Tumor Progression	KISS1R	1.0	
+Tumor Progression	LPAR2	1.0	
+Tumor Progression	LPAR3	1.0	
+Tumor Progression	NMU	1.0	
+Tumor Progression	NTS	1.0	
+Tumor Progression	NTSR1	1.0	
+Tumor Progression	P2RY1	1.0	
+Tumor Progression	P2RY2	1.0	
+Tumor Progression	PROK1	1.0	
+Tumor Progression	PROK2	1.0	
+Tumor Progression	SAA1	1.0	
+Tumor Progression	TAC1	1.0	
+Tumor Progression	TACR1	1.0	
+Tumor Progression	TRH	1.0	
+Panic disorder syndrome 1 (2)	AGT	1.0	
+Panic disorder syndrome 1 (2)	AVPR1A	1.0	
+Panic disorder syndrome 1 (2)	AVPR1B	1.0	
+Panic disorder syndrome 1 (2)	BDKRB2	1.0	
+Panic disorder syndrome 1 (2)	CCK	1.0	
+Panic disorder syndrome 1 (2)	CCKAR	1.0	
+Panic disorder syndrome 1 (2)	CCKBR	1.0	
+Panic disorder syndrome 1 (2)	GRP	1.0	
+Panic disorder syndrome 1 (2)	GRPR	1.0	
+Panic disorder syndrome 1 (2)	HCRT	1.0	
+Panic disorder syndrome 1 (2)	NPS	1.0	
+Panic disorder syndrome 1 (2)	NPSR1	1.0	
+Panic disorder syndrome 1 (2)	TACR1	1.0	
+Secondary amenorrhea	GNRH1	1.0	
+Secondary amenorrhea	GNRHR	1.0	
+Secondary amenorrhea	KISS1	1.0	
+Secondary amenorrhea	KISS1R	1.0	
+Secondary amenorrhea	PROK2	1.0	
+Secondary amenorrhea	PROKR2	1.0	
+Secondary amenorrhea	TAC3	1.0	
+Secondary amenorrhea	TACR3	1.0	
+Obstructive sleep apnea	ADRA1B	1.0	
+Obstructive sleep apnea	AGT	1.0	
+Obstructive sleep apnea	CCKAR	1.0	
+Obstructive sleep apnea	EDN1	1.0	
+Obstructive sleep apnea	EDN3	1.0	
+Obstructive sleep apnea	EDNRA	1.0	
+Obstructive sleep apnea	EDNRB	1.0	
+Obstructive sleep apnea	F2R	1.0	
+Obstructive sleep apnea	HCRT	1.0	
+Obstructive sleep apnea	HCRTR2	1.0	
+Obstructive sleep apnea	LPAR1	1.0	
+Obstructive sleep apnea	NPS	1.0	
+Obstructive sleep apnea	TAC1	1.0	
+Obstructive sleep apnea	TACR1	1.0	
+Prostate carcinoma	ADRA1A	1.0	
+Prostate carcinoma	ADRA1D	1.0	
+Prostate carcinoma	AGT	1.0	
+Prostate carcinoma	CASR	1.0	
+Prostate carcinoma	CCK	1.0	
+Prostate carcinoma	CCKBR	1.0	
+Prostate carcinoma	CYSLTR2	1.0	
+Prostate carcinoma	EDN1	1.0	
+Prostate carcinoma	EDNRA	1.0	
+Prostate carcinoma	EDNRB	1.0	
+Prostate carcinoma	F2R	1.0	
+Prostate carcinoma	F2RL1	1.0	
+Prostate carcinoma	F2RL3	1.0	
+Prostate carcinoma	GCG	1.0	
+Prostate carcinoma	GHRL	1.0	
+Prostate carcinoma	GHSR	1.0	
+Prostate carcinoma	GNRH1	1.0	
+Prostate carcinoma	GNRH2	1.0	
+Prostate carcinoma	GNRHR	1.0	
+Prostate carcinoma	GPR68	1.0	
+Prostate carcinoma	GPRC6A	1.0	
+Prostate carcinoma	GRM1	1.0	
+Prostate carcinoma	GRP	1.0	
+Prostate carcinoma	GRPR	1.0	
+Prostate carcinoma	HCRT	1.0	
+Prostate carcinoma	HCRTR1	1.0	
+Prostate carcinoma	HCRTR2	1.0	
+Prostate carcinoma	KISS1	1.0	
+Prostate carcinoma	LPAR1	1.0	
+Prostate carcinoma	LPAR2	1.0	
+Prostate carcinoma	LPAR3	1.0	
+Prostate carcinoma	LTB4R2	1.0	
+Prostate carcinoma	NTS	1.0	
+Prostate carcinoma	OPN4	1.0	
+Prostate carcinoma	OXT	1.0	
+Prostate carcinoma	P2RY1	1.0	
+Prostate carcinoma	P2RY2	1.0	
+Prostate carcinoma	PROK1	1.0	
+Prostate carcinoma	TAC1	1.0	
+Prostate carcinoma	TACR1	1.0	
+Prostate carcinoma	TRH	1.0	
+Prostate carcinoma	UTS2R	1.0	
+Essential hypertension	ADRA1A	1.0	
+Essential hypertension	ADRA1B	1.0	
+Essential hypertension	ADRA1D	1.0	
+Essential hypertension	AGT	1.0	
+Essential hypertension	AVPR1A	1.0	
+Essential hypertension	BDKRB1	1.0	
+Essential hypertension	BDKRB2	1.0	
+Essential hypertension	EDN1	1.0	
+Essential hypertension	EDN2	1.0	
+Essential hypertension	EDNRA	1.0	
+Essential hypertension	GCGR	1.0	
+Essential hypertension	KNG1	1.0	
+Essential hypertension	LPAR1	1.0	
+Essential hypertension	LPAR2	1.0	
+Essential hypertension	P2RY2	1.0	
+Essential hypertension	PTGFR	1.0	
+Essential hypertension	TRHR	1.0	
+Essential hypertension	UTS2	1.0	
+Hypogonadism with anosmia	ADRA1A	1.0	
+Hypogonadism with anosmia	CYSLTR2	1.0	
+Hypogonadism with anosmia	EDNRA	1.0	
+Hypogonadism with anosmia	GNRHR	1.0	
+Hypogonadism with anosmia	KISS1	1.0	
+Hypogonadism with anosmia	KISS1R	1.0	
+Hypogonadism with anosmia	LPAR2	1.0	
+Hypogonadism with anosmia	PROK2	1.0	
+Hypogonadism with anosmia	PROKR2	1.0	
+Hypogonadism with anosmia	TACR3	1.0	
+Alzheimer Disease	ADRA1A	1.0	
+Alzheimer Disease	ADRA1D	1.0	
+Alzheimer Disease	AGT	1.0	
+Alzheimer Disease	APP	1.0	
+Alzheimer Disease	BDKRB2	1.0	
+Alzheimer Disease	CASR	1.0	
+Alzheimer Disease	EDN1	1.0	
+Alzheimer Disease	EDNRA	1.0	
+Alzheimer Disease	EDNRB	1.0	
+Alzheimer Disease	F2	1.0	
+Alzheimer Disease	F2R	1.0	
+Alzheimer Disease	F2RL3	1.0	
+Alzheimer Disease	GRM5	1.0	
+Alzheimer Disease	GRPR	1.0	
+Alzheimer Disease	HCRT	1.0	
+Alzheimer Disease	HCRTR2	1.0	
+Alzheimer Disease	KNG1	1.0	
+Alzheimer Disease	LTB4R	1.0	
+Alzheimer Disease	MLN	1.0	
+Alzheimer Disease	NMU	1.0	
+Alzheimer Disease	NPS	1.0	
+Alzheimer Disease	NTS	1.0	
+Alzheimer Disease	NTSR1	1.0	
+Alzheimer Disease	P2RY1	1.0	
+Alzheimer Disease	P2RY2	1.0	
+Alzheimer Disease	PTGER1	1.0	
+Alzheimer Disease	PTGFR	1.0	
+Alzheimer Disease	SAA1	1.0	
+Alzheimer Disease	TAC1	1.0	
+Alzheimer Disease	UTS2B	1.0	
+Hypertension	ADRA1A	1.0	
+Hypertension	ADRA1B	1.0	
+Hypertension	ADRA1D	1.0	
+Hypertension	AGT	1.0	
+Hypertension	APP	1.0	
+Hypertension	AVPR1A	1.0	
+Hypertension	BDKRB1	1.0	
+Hypertension	BDKRB2	1.0	
+Hypertension	CASR	1.0	
+Hypertension	CHRM3	1.0	
+Hypertension	CYSLTR2	1.0	
+Hypertension	EDN1	1.0	
+Hypertension	EDN2	1.0	
+Hypertension	EDN3	1.0	
+Hypertension	EDNRA	1.0	
+Hypertension	EDNRB	1.0	
+Hypertension	F2	1.0	
+Hypertension	F2R	1.0	
+Hypertension	GCG	1.0	
+Hypertension	GCGR	1.0	
+Hypertension	GHRL	1.0	
+Hypertension	GHSR	1.0	
+Hypertension	GNA14	1.0	
+Hypertension	GNRH1	1.0	
+Hypertension	HTR2B	1.0	
+Hypertension	KISS1	1.0	
+Hypertension	KNG1	1.0	
+Hypertension	LPAR1	1.0	
+Hypertension	LPAR2	1.0	
+Hypertension	NTS	1.0	
+Hypertension	OXT	1.0	
+Hypertension	OXTR	1.0	
+Hypertension	P2RY2	1.0	
+Hypertension	PTGER1	1.0	
+Hypertension	SAA1	1.0	
+Hypertension	TAC3	1.0	
+Hypertension	TACR1	1.0	
+Hypertension	TACR3	1.0	
+Hypertension	TRH	1.0	
+Hypertension	TRHR	1.0	
+Hypertension	UTS2	1.0	
+Hypertension	UTS2R	1.0	
+Hypertension	XCL1	1.0	
+Sparse body hair	GNRH1	1.0	
+Sparse body hair	GNRHR	1.0	
+Sparse body hair	KISS1	1.0	
+Sparse body hair	KISS1R	1.0	
+Sparse body hair	LPAR6	1.0	
+Sparse body hair	PROK2	1.0	
+Sparse body hair	PROKR2	1.0	
+Sparse body hair	TAC3	1.0	
+Sparse body hair	TACR3	1.0	
+Aplasia/hypoplasia of the uterus	GNRH1	1.0	
+Aplasia/hypoplasia of the uterus	GNRHR	1.0	
+Aplasia/hypoplasia of the uterus	KISS1	1.0	
+Aplasia/hypoplasia of the uterus	KISS1R	1.0	
+Aplasia/hypoplasia of the uterus	PROK2	1.0	
+Aplasia/hypoplasia of the uterus	PROKR2	1.0	
+Aplasia/hypoplasia of the uterus	TAC3	1.0	
+Aplasia/hypoplasia of the uterus	TACR3	1.0	
+Male hypogonadism	GNRH1	1.0	
+Male hypogonadism	GNRHR	1.0	
+Male hypogonadism	KISS1	1.0	
+Male hypogonadism	KISS1R	1.0	
+Male hypogonadism	PROK2	1.0	
+Male hypogonadism	PROKR2	1.0	
+Male hypogonadism	TAC3	1.0	
+Male hypogonadism	TACR3	1.0	
+Decreased serum testosterone level	GNRH1	1.0	
+Decreased serum testosterone level	GNRHR	1.0	
+Decreased serum testosterone level	KISS1	1.0	
+Decreased serum testosterone level	KISS1R	1.0	
+Decreased serum testosterone level	PROK2	1.0	
+Decreased serum testosterone level	PROKR2	1.0	
+Decreased serum testosterone level	TAC3	1.0	
+Decreased serum testosterone level	TACR3	1.0	
+Atherosclerosis	ADRA1D	1.0	
+Atherosclerosis	AGT	1.0	
+Atherosclerosis	APP	1.0	
+Atherosclerosis	CASR	1.0	
+Atherosclerosis	CYSLTR1	1.0	
+Atherosclerosis	EDN1	1.0	
+Atherosclerosis	EDNRA	1.0	
+Atherosclerosis	EDNRB	1.0	
+Atherosclerosis	F2	1.0	
+Atherosclerosis	F2R	1.0	
+Atherosclerosis	F2RL1	1.0	
+Atherosclerosis	GCG	1.0	
+Atherosclerosis	GHRL	1.0	
+Atherosclerosis	GHSR	1.0	
+Atherosclerosis	GPR132	1.0	
+Atherosclerosis	HRH1	1.0	
+Atherosclerosis	KISS1	1.0	
+Atherosclerosis	KISS1R	1.0	
+Atherosclerosis	KNG1	1.0	
+Atherosclerosis	LTB4R	1.0	
+Atherosclerosis	LTB4R2	1.0	
+Atherosclerosis	P2RY1	1.0	
+Atherosclerosis	P2RY2	1.0	
+Atherosclerosis	PTAFR	1.0	
+Atherosclerosis	SAA1	1.0	
+Atherosclerosis	TAC1	1.0	
+Atherosclerosis	UTS2	1.0	
+Atherosclerosis	UTS2B	1.0	
+Bradycardia	AGT	1.0	
+Bradycardia	EDN1	1.0	
+Bradycardia	EDN2	1.0	
+Bradycardia	EDN3	1.0	
+Bradycardia	GCG	1.0	
+Bradycardia	GNRH1	1.0	
+Bradycardia	KNG1	1.0	
+Bradycardia	NTS	1.0	
+Bradycardia	TAC1	1.0	
+Bradycardia	TACR1	1.0	
+Bradycardia	TRH	1.0	
+Bradycardia	UTS2	1.0	
+Aplasia/Hypoplasia of the breasts	GNRH1	1.0	
+Aplasia/Hypoplasia of the breasts	GNRHR	1.0	
+Aplasia/Hypoplasia of the breasts	KISS1	1.0	
+Aplasia/Hypoplasia of the breasts	KISS1R	1.0	
+Aplasia/Hypoplasia of the breasts	PROK2	1.0	
+Aplasia/Hypoplasia of the breasts	PROKR2	1.0	
+Aplasia/Hypoplasia of the breasts	TAC3	1.0	
+Aplasia/Hypoplasia of the breasts	TACR3	1.0	
+Hypoplasia of the ovary	GNRH1	1.0	
+Hypoplasia of the ovary	GNRHR	1.0	
+Hypoplasia of the ovary	KISS1	1.0	
+Hypoplasia of the ovary	KISS1R	1.0	
+Hypoplasia of the ovary	PROK2	1.0	
+Hypoplasia of the ovary	PROKR2	1.0	
+Hypoplasia of the ovary	TAC3	1.0	
+Hypoplasia of the ovary	TACR3	1.0	
+Aplasia/Hypoplasia of the ovary	GNRH1	1.0	
+Aplasia/Hypoplasia of the ovary	GNRHR	1.0	
+Aplasia/Hypoplasia of the ovary	KISS1	1.0	
+Aplasia/Hypoplasia of the ovary	KISS1R	1.0	
+Aplasia/Hypoplasia of the ovary	PROK2	1.0	
+Aplasia/Hypoplasia of the ovary	PROKR2	1.0	
+Aplasia/Hypoplasia of the ovary	TAC3	1.0	
+Aplasia/Hypoplasia of the ovary	TACR3	1.0	
+Female hypogonadism	GNRH1	1.0	
+Female hypogonadism	GNRHR	1.0	
+Female hypogonadism	KISS1	1.0	
+Female hypogonadism	KISS1R	1.0	
+Female hypogonadism	PROK2	1.0	
+Female hypogonadism	PROKR2	1.0	
+Female hypogonadism	TAC3	1.0	
+Female hypogonadism	TACR3	1.0	
+Generalized joint laxity	GNRH1	1.0	
+Generalized joint laxity	GNRHR	1.0	
+Generalized joint laxity	KISS1	1.0	
+Generalized joint laxity	KISS1R	1.0	
+Generalized joint laxity	PROK2	1.0	
+Generalized joint laxity	PROKR2	1.0	
+Generalized joint laxity	TAC3	1.0	
+Generalized joint laxity	TACR3	1.0	
+Obesity	ADRA1A	1.0	
+Obesity	ADRA1B	1.0	
+Obesity	AGT	1.0	
+Obesity	APP	1.0	
+Obesity	AVPR1A	1.0	
+Obesity	BDKRB1	1.0	
+Obesity	BDKRB2	1.0	
+Obesity	CASR	1.0	
+Obesity	CCK	1.0	
+Obesity	CCKAR	1.0	
+Obesity	CHRM3	1.0	
+Obesity	CYSLTR2	1.0	
+Obesity	EDN1	1.0	
+Obesity	EDNRA	1.0	
+Obesity	F2	1.0	
+Obesity	F2RL1	1.0	
+Obesity	FFAR1	1.0	
+Obesity	FFAR2	1.0	
+Obesity	FFAR3	1.0	
+Obesity	GCG	1.0	
+Obesity	GCGR	1.0	
+Obesity	GHRL	1.0	
+Obesity	GHSR	1.0	
+Obesity	GNAQ	1.0	
+Obesity	GNRHR	1.0	
+Obesity	GPRC6A	1.0	
+Obesity	HCRT	1.0	
+Obesity	HTR2B	1.0	
+Obesity	KISS1	1.0	
+Obesity	KISS1R	1.0	
+Obesity	KNG1	1.0	
+Obesity	LPAR2	1.0	
+Obesity	LPAR3	1.0	
+Obesity	MLN	1.0	
+Obesity	NMB	1.0	
+Obesity	NMU	1.0	
+Obesity	NMUR2	1.0	
+Obesity	NPFFR2	1.0	
+Obesity	OXT	1.0	
+Obesity	OXTR	1.0	
+Obesity	P2RY11	1.0	
+Obesity	PMCH	1.0	
+Obesity	PROK2	1.0	
+Obesity	PROKR2	1.0	
+Obesity	QRFP	1.0	
+Obesity	SAA1	1.0	
+Obesity	TAC1	1.0	
+Obesity	TACR3	1.0	
+Obesity	TRHR	1.0	
+Obesity	UTS2	1.0	
+Obesity	UTS2R	1.0	
+Alcohol dependence	ADRA1D	1.0	
+Alcohol dependence	AGT	1.0	
+Alcohol dependence	BDKRB2	1.0	
+Alcohol dependence	CCK	1.0	
+Alcohol dependence	CCKAR	1.0	
+Alcohol dependence	CCKBR	1.0	
+Alcohol dependence	EDNRB	1.0	
+Alcohol dependence	F2	1.0	
+Alcohol dependence	GHRL	1.0	
+Alcohol dependence	GHSR	1.0	
+Alcohol dependence	GRM5	1.0	
+Alcohol dependence	NTS	1.0	
+Alcohol dependence	NTSR1	1.0	
+Alcohol dependence	NTSR2	1.0	
+Alcohol dependence	OPN4	1.0	
+Alcohol dependence	OXTR	1.0	
+Alcohol dependence	TAC1	1.0	
+Alcohol dependence	TACR1	1.0	
+Alcohol dependence	TACR3	1.0	
+Alcohol dependence	TRH	1.0	
+Left ventricular hypertrophy	ADRA1A	1.0	
+Left ventricular hypertrophy	ADRA1D	1.0	
+Left ventricular hypertrophy	AGT	1.0	
+Left ventricular hypertrophy	BDKRB1	1.0	
+Left ventricular hypertrophy	BDKRB2	1.0	
+Left ventricular hypertrophy	CYSLTR2	1.0	
+Left ventricular hypertrophy	EDN1	1.0	
+Left ventricular hypertrophy	EDNRA	1.0	
+Left ventricular hypertrophy	GHSR	1.0	
+Left ventricular hypertrophy	GNAQ	1.0	
+Left ventricular hypertrophy	HRH1	1.0	
+Left ventricular hypertrophy	HTR2B	1.0	
+Left ventricular hypertrophy	KNG1	1.0	
+Left ventricular hypertrophy	LPAR2	1.0	
+Left ventricular hypertrophy	TAC1	1.0	
+Disorders of parathyroid gland	ADRA1A	1.0	
+Disorders of parathyroid gland	CASR	1.0	
+Disorders of parathyroid gland	CYSLTR2	1.0	
+Disorders of parathyroid gland	EDNRA	1.0	
+Disorders of parathyroid gland	GAST	1.0	
+Disorders of parathyroid gland	LPAR2	1.0	
+genetic hypertension	ADRA1A	1.0	
+genetic hypertension	AGT	1.0	
+genetic hypertension	CYSLTR2	1.0	
+genetic hypertension	EDN1	1.0	
+genetic hypertension	EDNRA	1.0	
+genetic hypertension	LPAR2	1.0	
+Hypoplasia of the uterus	GNRH1	1.0	
+Hypoplasia of the uterus	GNRHR	1.0	
+Hypoplasia of the uterus	KISS1	1.0	
+Hypoplasia of the uterus	KISS1R	1.0	
+Hypoplasia of the uterus	PROK2	1.0	
+Hypoplasia of the uterus	PROKR2	1.0	
+Hypoplasia of the uterus	TAC3	1.0	
+Hypoplasia of the uterus	TACR3	1.0	
+Irritable bowel syndrome with diarrhea	CCK	1.0	
+Irritable bowel syndrome with diarrhea	F2	1.0	
+Irritable bowel syndrome with diarrhea	F2RL1	1.0	
+Irritable bowel syndrome with diarrhea	F2RL3	1.0	
+Irritable bowel syndrome with diarrhea	GCG	1.0	
+Irritable bowel syndrome with diarrhea	HTR2B	1.0	
+Irritable bowel syndrome with diarrhea	NPSR1	1.0	
+Irritable bowel syndrome with diarrhea	OXT	1.0	
+Irritable bowel syndrome with diarrhea	OXTR	1.0	
+Irritable bowel syndrome with diarrhea	PROK2	1.0	
+Irritable bowel syndrome with diarrhea	TAC1	1.0	
+Gastrinoma	CASR	1.0	
+Gastrinoma	FFAR1	1.0	
+Gastrinoma	GAST	1.0	
+Gastrinoma	GRP	1.0	
+Gastrinoma	GRPR	1.0	
+Gastrinoma	NMB	1.0	
+Gastrinoma	NMBR	1.0	
+Ovarian epithelial cancer	ADRA1A	1.0	
+Ovarian epithelial cancer	ADRA1D	1.0	
+Ovarian epithelial cancer	AGT	1.0	
+Ovarian epithelial cancer	CASR	1.0	
+Ovarian epithelial cancer	CCK	1.0	
+Ovarian epithelial cancer	CYSLTR1	1.0	
+Ovarian epithelial cancer	CYSLTR2	1.0	
+Ovarian epithelial cancer	EDN1	1.0	
+Ovarian epithelial cancer	EDNRA	1.0	
+Ovarian epithelial cancer	F2	1.0	
+Ovarian epithelial cancer	F2R	1.0	
+Ovarian epithelial cancer	F2RL1	1.0	
+Ovarian epithelial cancer	GAST	1.0	
+Ovarian epithelial cancer	GNRH1	1.0	
+Ovarian epithelial cancer	GNRH2	1.0	
+Ovarian epithelial cancer	GNRHR	1.0	
+Ovarian epithelial cancer	GPR4	1.0	
+Ovarian epithelial cancer	GPR68	1.0	
+Ovarian epithelial cancer	GRP	1.0	
+Ovarian epithelial cancer	GRPR	1.0	
+Ovarian epithelial cancer	KISS1	1.0	
+Ovarian epithelial cancer	KNG1	1.0	
+Ovarian epithelial cancer	LPAR1	1.0	
+Ovarian epithelial cancer	LPAR2	1.0	
+Ovarian epithelial cancer	LPAR3	1.0	
+Ovarian epithelial cancer	LTB4R	1.0	
+Ovarian epithelial cancer	OXT	1.0	
+Ovarian epithelial cancer	OXTR	1.0	
+Ovarian epithelial cancer	PROK1	1.0	
+Ovarian epithelial cancer	PTAFR	1.0	
+Ovarian epithelial cancer	PTGER1	1.0	
+Ovarian epithelial cancer	XCL1	1.0	
+Ovarian epithelial cancer	XCL2	1.0	
+Ovarian epithelial cancer	XCR1	1.0	
+Wide intermamillary distance	GNRH1	1.0	
+Wide intermamillary distance	GNRHR	1.0	
+Wide intermamillary distance	KISS1	1.0	
+Wide intermamillary distance	KISS1R	1.0	
+Wide intermamillary distance	PROK2	1.0	
+Wide intermamillary distance	PROKR2	1.0	
+Wide intermamillary distance	TAC3	1.0	
+Wide intermamillary distance	TACR3	1.0	
+Abnormal intermamillary distance	GNRH1	1.0	
+Abnormal intermamillary distance	GNRHR	1.0	
+Abnormal intermamillary distance	KISS1	1.0	
+Abnormal intermamillary distance	KISS1R	1.0	
+Abnormal intermamillary distance	PROK2	1.0	
+Abnormal intermamillary distance	PROKR2	1.0	
+Abnormal intermamillary distance	TAC3	1.0	
+Abnormal intermamillary distance	TACR3	1.0	
+Malignant tumor of prostate	ADRA1A	1.0	
+Malignant tumor of prostate	ADRA1D	1.0	
+Malignant tumor of prostate	AGT	1.0	
+Malignant tumor of prostate	CASR	1.0	
+Malignant tumor of prostate	CCK	1.0	
+Malignant tumor of prostate	CCKBR	1.0	
+Malignant tumor of prostate	CYSLTR2	1.0	
+Malignant tumor of prostate	EDN1	1.0	
+Malignant tumor of prostate	EDNRA	1.0	
+Malignant tumor of prostate	EDNRB	1.0	
+Malignant tumor of prostate	F2R	1.0	
+Malignant tumor of prostate	F2RL1	1.0	
+Malignant tumor of prostate	F2RL3	1.0	
+Malignant tumor of prostate	GCG	1.0	
+Malignant tumor of prostate	GHRL	1.0	
+Malignant tumor of prostate	GHSR	1.0	
+Malignant tumor of prostate	GNRH1	1.0	
+Malignant tumor of prostate	GNRH2	1.0	
+Malignant tumor of prostate	GNRHR	1.0	
+Malignant tumor of prostate	GPR68	1.0	
+Malignant tumor of prostate	GPRC6A	1.0	
+Malignant tumor of prostate	GRM1	1.0	
+Malignant tumor of prostate	GRP	1.0	
+Malignant tumor of prostate	GRPR	1.0	
+Malignant tumor of prostate	HCRT	1.0	
+Malignant tumor of prostate	HCRTR1	1.0	
+Malignant tumor of prostate	HCRTR2	1.0	
+Malignant tumor of prostate	KISS1	1.0	
+Malignant tumor of prostate	LPAR1	1.0	
+Malignant tumor of prostate	LPAR2	1.0	
+Malignant tumor of prostate	LPAR3	1.0	
+Malignant tumor of prostate	LTB4R2	1.0	
+Malignant tumor of prostate	NTS	1.0	
+Malignant tumor of prostate	OPN4	1.0	
+Malignant tumor of prostate	OXT	1.0	
+Malignant tumor of prostate	P2RY1	1.0	
+Malignant tumor of prostate	P2RY2	1.0	
+Malignant tumor of prostate	PROK1	1.0	
+Malignant tumor of prostate	TAC1	1.0	
+Malignant tumor of prostate	TACR1	1.0	
+Malignant tumor of prostate	UTS2R	1.0	
+Taste bitter	ADRA1A	1.0	
+Taste bitter	CYSLTR2	1.0	
+Taste bitter	EDNRA	1.0	
+Taste bitter	GPRC6A	1.0	
+Taste bitter	LPAR2	1.0	
+Taste bitter	LPAR3	1.0	
+Heart Failure	ADRA1A	1.0	
+Heart Failure	ADRA1D	1.0	
+Heart Failure	AGT	1.0	
+Heart Failure	AVPR1A	1.0	
+Heart Failure	CCK	1.0	
+Heart Failure	CYSLTR2	1.0	
+Heart Failure	EDN1	1.0	
+Heart Failure	EDNRA	1.0	
+Heart Failure	EDNRB	1.0	
+Heart Failure	F2RL1	1.0	
+Heart Failure	GCG	1.0	
+Heart Failure	GHRL	1.0	
+Heart Failure	GHSR	1.0	
+Heart Failure	GNA15	1.0	
+Heart Failure	GNAQ	1.0	
+Heart Failure	GPRC6A	1.0	
+Heart Failure	HTR2B	1.0	
+Heart Failure	KNG1	1.0	
+Heart Failure	LPAR2	1.0	
+Heart Failure	LPAR3	1.0	
+Heart Failure	OPN4	1.0	
+Heart Failure	UTS2	1.0	
+Mood Disorders	ADRA1B	1.0	
+Mood Disorders	ADRA1D	1.0	
+Mood Disorders	AGT	1.0	
+Mood Disorders	AVPR1B	1.0	
+Mood Disorders	CHRM3	1.0	
+Mood Disorders	EDN1	1.0	
+Mood Disorders	HCRT	1.0	
+Mood Disorders	HCRTR1	1.0	
+Mood Disorders	NTSR1	1.0	
+Mood Disorders	OXT	1.0	
+Mood Disorders	P2RY1	1.0	
+Mood Disorders	P2RY2	1.0	
+Mood Disorders	PROK2	1.0	
+Mood Disorders	PROKR2	1.0	
+Mood Disorders	TAC1	1.0	
+Mood Disorders	TACR1	1.0	
+Hyperalgesia	ADRA1A	1.0	
+Hyperalgesia	AGT	1.0	
+Hyperalgesia	BDKRB1	1.0	
+Hyperalgesia	BDKRB2	1.0	
+Hyperalgesia	CCK	1.0	
+Hyperalgesia	CCKBR	1.0	
+Hyperalgesia	EDN1	1.0	
+Hyperalgesia	F2R	1.0	
+Hyperalgesia	F2RL1	1.0	
+Hyperalgesia	KNG1	1.0	
+Hyperalgesia	NTSR1	1.0	
+Hyperalgesia	PROK2	1.0	
+Hyperalgesia	PROKR1	1.0	
+Hyperalgesia	PTAFR	1.0	
+Hyperalgesia	PTGER1	1.0	
+Hyperalgesia	TAC1	1.0	
+Hyperalgesia	TACR1	1.0	
+Depressive Disorder	AGT	1.0	
+Depressive Disorder	AVPR1B	1.0	
+Depressive Disorder	F2R	1.0	
+Depressive Disorder	F2RL3	1.0	
+Depressive Disorder	GAST	1.0	
+Depressive Disorder	GHRL	1.0	
+Depressive Disorder	GNB1	1.0	
+Depressive Disorder	GRM1	1.0	
+Depressive Disorder	GRM5	1.0	
+Depressive Disorder	HCRT	1.0	
+Depressive Disorder	LPAR1	1.0	
+Depressive Disorder	OXT	1.0	
+Depressive Disorder	OXTR	1.0	
+Depressive Disorder	PMCH	1.0	
+Depressive Disorder	TAC1	1.0	
+Depressive Disorder	TACR3	1.0	
+Depressive Disorder	TRH	1.0	
+Pruritus	ADRA1A	1.0	
+Pruritus	CYSLTR2	1.0	
+Pruritus	EDN1	1.0	
+Pruritus	EDNRA	1.0	
+Pruritus	F2RL1	1.0	
+Pruritus	GRPR	1.0	
+Pruritus	HRH1	1.0	
+Pruritus	LPAR2	1.0	
+Pruritus	TAC1	1.0	
+Pruritus	TACR1	1.0	
+Arteriosclerosis	ADRA1D	1.0	
+Arteriosclerosis	AGT	1.0	
+Arteriosclerosis	APP	1.0	
+Arteriosclerosis	CASR	1.0	
+Arteriosclerosis	CYSLTR1	1.0	
+Arteriosclerosis	EDN1	1.0	
+Arteriosclerosis	EDNRA	1.0	
+Arteriosclerosis	F2	1.0	
+Arteriosclerosis	F2R	1.0	
+Arteriosclerosis	F2RL1	1.0	
+Arteriosclerosis	GCG	1.0	
+Arteriosclerosis	GHSR	1.0	
+Arteriosclerosis	HRH1	1.0	
+Arteriosclerosis	KISS1	1.0	
+Arteriosclerosis	KISS1R	1.0	
+Arteriosclerosis	KNG1	1.0	
+Arteriosclerosis	LTB4R	1.0	
+Arteriosclerosis	LTB4R2	1.0	
+Arteriosclerosis	P2RY2	1.0	
+Arteriosclerosis	PTAFR	1.0	
+Arteriosclerosis	SAA1	1.0	
+Arteriosclerosis	TAC1	1.0	
+Arteriosclerosis	UTS2	1.0	
+Major depressive disorder	ADRA1A	1.0	
+Major depressive disorder	APP	1.0	
+Major depressive disorder	AVPR1B	1.0	
+Major depressive disorder	BDKRB2	1.0	
+Major depressive disorder	CCKAR	1.0	
+Major depressive disorder	CHRM3	1.0	
+Major depressive disorder	GRM5	1.0	
+Major depressive disorder	HCRT	1.0	
+Major depressive disorder	HTR2B	1.0	
+Major depressive disorder	NTSR1	1.0	
+Major depressive disorder	OXT	1.0	
+Major depressive disorder	OXTR	1.0	
+Major depressive disorder	PROK2	1.0	
+Major depressive disorder	PROKR2	1.0	
+Major depressive disorder	TAC1	1.0	
+Major depressive disorder	TRH	1.0	
+Decreased testicular size	CHRM3	1.0	
+Decreased testicular size	GNRH1	1.0	
+Decreased testicular size	GNRHR	1.0	
+Decreased testicular size	KISS1	1.0	
+Decreased testicular size	KISS1R	1.0	
+Decreased testicular size	PROK2	1.0	
+Decreased testicular size	PROKR2	1.0	
+Decreased testicular size	TAC3	1.0	
+Decreased testicular size	TACR3	1.0	
+Neoplasm of the colon	APP	1.0	
+Neoplasm of the colon	CASR	1.0	
+Neoplasm of the colon	CCKBR	1.0	
+Neoplasm of the colon	CHRM3	1.0	
+Neoplasm of the colon	CYSLTR1	1.0	
+Neoplasm of the colon	EDN1	1.0	
+Neoplasm of the colon	F2R	1.0	
+Neoplasm of the colon	F2RL1	1.0	
+Neoplasm of the colon	F2RL3	1.0	
+Neoplasm of the colon	GAST	1.0	
+Neoplasm of the colon	GCG	1.0	
+Neoplasm of the colon	GHRL	1.0	
+Neoplasm of the colon	GRP	1.0	
+Neoplasm of the colon	GRPR	1.0	
+Neoplasm of the colon	HRH1	1.0	
+Neoplasm of the colon	KISS1	1.0	
+Neoplasm of the colon	LPAR1	1.0	
+Neoplasm of the colon	LPAR2	1.0	
+Neoplasm of the colon	OXT	1.0	
+Neoplasm of the colon	SAA1	1.0	
+Schizophrenia	ADRA1A	1.0	
+Schizophrenia	ADRA1D	1.0	
+Schizophrenia	APP	1.0	
+Schizophrenia	AVPR1A	1.0	
+Schizophrenia	CCK	1.0	
+Schizophrenia	CCKAR	1.0	
+Schizophrenia	CCKBR	1.0	
+Schizophrenia	CYSLTR2	1.0	
+Schizophrenia	EDNRA	1.0	
+Schizophrenia	F2R	1.0	
+Schizophrenia	GHRL	1.0	
+Schizophrenia	GNB1	1.0	
+Schizophrenia	GRM1	1.0	
+Schizophrenia	GRM5	1.0	
+Schizophrenia	GRP	1.0	
+Schizophrenia	HCRT	1.0	
+Schizophrenia	HCRTR1	1.0	
+Schizophrenia	HRH1	1.0	
+Schizophrenia	LPAR2	1.0	
+Schizophrenia	NMB	1.0	
+Schizophrenia	NPS	1.0	
+Schizophrenia	NPSR1	1.0	
+Schizophrenia	NTS	1.0	
+Schizophrenia	NTSR1	1.0	
+Schizophrenia	OXT	1.0	
+Schizophrenia	OXTR	1.0	
+Schizophrenia	P2RY1	1.0	
+Schizophrenia	P2RY2	1.0	
+Schizophrenia	TAC1	1.0	
+Schizophrenia	TACR1	1.0	
+Schizophrenia	TACR3	1.0	
+Neuroendocrine neoplasm	CCK	1.0	
+Neuroendocrine neoplasm	GAST	1.0	
+Neuroendocrine neoplasm	GCG	1.0	
+Neuroendocrine neoplasm	GCGR	1.0	
+Neuroendocrine neoplasm	GHRL	1.0	
+Neuroendocrine neoplasm	GHSR	1.0	
+Neuroendocrine neoplasm	GPRC6A	1.0	
+Neuroendocrine neoplasm	GRP	1.0	
+Neuroendocrine neoplasm	LPAR3	1.0	
+Neuroendocrine neoplasm	NTS	1.0	
+Neuroendocrine neoplasm	OXT	1.0	
+Neuroendocrine neoplasm	OXTR	1.0	
+Colon cancer	ADRA1D	1.0	
+Colon cancer	CASR	1.0	
+Colon cancer	CCKBR	1.0	
+Colon cancer	CHRM3	1.0	
+Colon cancer	CYSLTR1	1.0	
+Colon cancer	CYSLTR2	1.0	
+Colon cancer	EDN1	1.0	
+Colon cancer	EDN2	1.0	
+Colon cancer	EDN3	1.0	
+Colon cancer	F2R	1.0	
+Colon cancer	F2RL1	1.0	
+Colon cancer	GAST	1.0	
+Colon cancer	GCG	1.0	
+Colon cancer	GRP	1.0	
+Colon cancer	GRPR	1.0	
+Colon cancer	HCRT	1.0	
+Colon cancer	HCRTR1	1.0	
+Colon cancer	KISS1	1.0	
+Colon cancer	KISS1R	1.0	
+Colon cancer	LPAR1	1.0	
+Colon cancer	LPAR2	1.0	
+Colon cancer	LPAR3	1.0	
+Colon cancer	LTB4R	1.0	
+Colon cancer	NTS	1.0	
+Colon cancer	NTSR1	1.0	
+Colon cancer	PTGER1	1.0	
+Colon cancer	SAA1	1.0	
+Colon cancer	UTS2	1.0	
+Colon cancer	UTS2R	1.0	
+Increased body weight	APP	1.0	
+Increased body weight	CCKAR	1.0	
+Increased body weight	CHRM3	1.0	
+Increased body weight	EDNRB	1.0	
+Increased body weight	GHRL	1.0	
+Increased body weight	GRM1	1.0	
+Increased body weight	GRM5	1.0	
+Increased body weight	HCRT	1.0	
+Increased body weight	HRH1	1.0	
+Increased body weight	HTR2B	1.0	
+Increased body weight	KISS1R	1.0	
+Increased body weight	OXT	1.0	
+Increased body weight	P2RY11	1.0	
+Increased body weight	PROK2	1.0	
+Increased body weight	PROKR2	1.0	
+Increased body weight	TACR3	1.0	
+Malignant neoplasm of endometrium	AGT	1.0	
+Malignant neoplasm of endometrium	EDN1	1.0	
+Malignant neoplasm of endometrium	EDNRB	1.0	
+Malignant neoplasm of endometrium	F2R	1.0	
+Malignant neoplasm of endometrium	F2RL3	1.0	
+Malignant neoplasm of endometrium	GHSR	1.0	
+Malignant neoplasm of endometrium	GNA11	1.0	
+Malignant neoplasm of endometrium	GNRH1	1.0	
+Malignant neoplasm of endometrium	GNRHR	1.0	
+Malignant neoplasm of endometrium	GRP	1.0	
+Malignant neoplasm of endometrium	HCRT	1.0	
+Malignant neoplasm of endometrium	KISS1	1.0	
+Malignant neoplasm of endometrium	KISS1R	1.0	
+Malignant neoplasm of endometrium	LPAR2	1.0	
+Malignant neoplasm of endometrium	P2RY2	1.0	
+Malignant neoplasm of endometrium	PROK1	1.0	
+Uterine Corpus Cancer	AGT	1.0	
+Uterine Corpus Cancer	EDN1	1.0	
+Uterine Corpus Cancer	EDNRB	1.0	
+Uterine Corpus Cancer	F2R	1.0	
+Uterine Corpus Cancer	F2RL3	1.0	
+Uterine Corpus Cancer	GHSR	1.0	
+Uterine Corpus Cancer	GNA11	1.0	
+Uterine Corpus Cancer	GNRH1	1.0	
+Uterine Corpus Cancer	GNRHR	1.0	
+Uterine Corpus Cancer	GRP	1.0	
+Uterine Corpus Cancer	HCRT	1.0	
+Uterine Corpus Cancer	KISS1	1.0	
+Uterine Corpus Cancer	KISS1R	1.0	
+Uterine Corpus Cancer	LPAR2	1.0	
+Uterine Corpus Cancer	P2RY2	1.0	
+Uterine Corpus Cancer	PROK1	1.0	
+Inflammatory pain	ADRA1A	1.0	
+Inflammatory pain	AVPR1A	1.0	
+Inflammatory pain	BDKRB1	1.0	
+Inflammatory pain	CYSLTR2	1.0	
+Inflammatory pain	EDNRA	1.0	
+Inflammatory pain	F2RL1	1.0	
+Inflammatory pain	LPAR2	1.0	
+Carcinoma of colon	ADRA1D	1.0	
+Carcinoma of colon	CASR	1.0	
+Carcinoma of colon	CCK	1.0	
+Carcinoma of colon	CCKBR	1.0	
+Carcinoma of colon	CHRM3	1.0	
+Carcinoma of colon	CYSLTR1	1.0	
+Carcinoma of colon	CYSLTR2	1.0	
+Carcinoma of colon	EDN1	1.0	
+Carcinoma of colon	EDN2	1.0	
+Carcinoma of colon	EDN3	1.0	
+Carcinoma of colon	F2R	1.0	
+Carcinoma of colon	F2RL1	1.0	
+Carcinoma of colon	GAST	1.0	
+Carcinoma of colon	GCG	1.0	
+Carcinoma of colon	GRP	1.0	
+Carcinoma of colon	GRPR	1.0	
+Carcinoma of colon	HCRT	1.0	
+Carcinoma of colon	HCRTR1	1.0	
+Carcinoma of colon	KISS1	1.0	
+Carcinoma of colon	KISS1R	1.0	
+Carcinoma of colon	LPAR1	1.0	
+Carcinoma of colon	LPAR2	1.0	
+Carcinoma of colon	LPAR3	1.0	
+Carcinoma of colon	LTB4R	1.0	
+Carcinoma of colon	NTS	1.0	
+Carcinoma of colon	NTSR1	1.0	
+Carcinoma of colon	PTGER1	1.0	
+Carcinoma of colon	SAA1	1.0	
+Carcinoma of colon	UTS2	1.0	
+Carcinoma of colon	UTS2R	1.0	
+Animal Mammary Neoplasms	ADRA1D	1.0	
+Animal Mammary Neoplasms	AGT	1.0	
+Animal Mammary Neoplasms	BDKRB1	1.0	
+Animal Mammary Neoplasms	CASR	1.0	
+Animal Mammary Neoplasms	CYSLTR1	1.0	
+Animal Mammary Neoplasms	CYSLTR2	1.0	
+Animal Mammary Neoplasms	EDN1	1.0	
+Animal Mammary Neoplasms	EDN2	1.0	
+Animal Mammary Neoplasms	EDNRA	1.0	
+Animal Mammary Neoplasms	EDNRB	1.0	
+Animal Mammary Neoplasms	F2RL1	1.0	
+Animal Mammary Neoplasms	FFAR1	1.0	
+Animal Mammary Neoplasms	GHRL	1.0	
+Animal Mammary Neoplasms	GHSR	1.0	
+Animal Mammary Neoplasms	GNRH1	1.0	
+Animal Mammary Neoplasms	GNRHR	1.0	
+Animal Mammary Neoplasms	GRM1	1.0	
+Animal Mammary Neoplasms	GRP	1.0	
+Animal Mammary Neoplasms	KISS1	1.0	
+Animal Mammary Neoplasms	KISS1R	1.0	
+Animal Mammary Neoplasms	KNG1	1.0	
+Animal Mammary Neoplasms	LPAR1	1.0	
+Animal Mammary Neoplasms	LPAR2	1.0	
+Animal Mammary Neoplasms	NMBR	1.0	
+Animal Mammary Neoplasms	NMU	1.0	
+Animal Mammary Neoplasms	NTS	1.0	
+Animal Mammary Neoplasms	NTSR1	1.0	
+Animal Mammary Neoplasms	OXT	1.0	
+Animal Mammary Neoplasms	P2RY1	1.0	
+Animal Mammary Neoplasms	P2RY2	1.0	
+Animal Mammary Neoplasms	PTGER1	1.0	
+Animal Mammary Neoplasms	TAC1	1.0	
+Animal Mammary Neoplasms	TACR1	1.0	
+Animal Mammary Neoplasms	UTS2	1.0	
+Sepsis	ADRA1D	1.0	
+Sepsis	AGT	1.0	
+Sepsis	APP	1.0	
+Sepsis	EDN1	1.0	
+Sepsis	EDN3	1.0	
+Sepsis	EDNRB	1.0	
+Sepsis	F2	1.0	
+Sepsis	F2R	1.0	
+Sepsis	GAST	1.0	
+Sepsis	GRP	1.0	
+Sepsis	GRPR	1.0	
+Sepsis	KNG1	1.0	
+Sepsis	LTB4R	1.0	
+Sepsis	NTS	1.0	
+Sepsis	P2RY1	1.0	
+Sepsis	P2RY2	1.0	
+Sepsis	SAA1	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	ADRA1D	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	AGT	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	CYSLTR1	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	CYSLTR2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	EDN1	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2R	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2RL1	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2RL2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	F2RL3	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	LPAR1	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	LPAR2	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	LTB4R	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	PTGFR	1.0	
+Bronchial Hyperreactivity	ADRA1A	1.0	
+Bronchial Hyperreactivity	CHRM3	1.0	
+Bronchial Hyperreactivity	CYSLTR1	1.0	
+Bronchial Hyperreactivity	CYSLTR2	1.0	
+Bronchial Hyperreactivity	EDN1	1.0	
+Bronchial Hyperreactivity	EDNRA	1.0	
+Bronchial Hyperreactivity	F2RL1	1.0	
+Bronchial Hyperreactivity	NPSR1	1.0	
+Bronchial Hyperreactivity	TAC1	1.0	
+Bronchial Hyperreactivity	TACR1	1.0	
+Migraine Disorders	ADRA1D	1.0	
+Migraine Disorders	AGT	1.0	
+Migraine Disorders	APP	1.0	
+Migraine Disorders	EDN1	1.0	
+Migraine Disorders	EDNRA	1.0	
+Migraine Disorders	EDNRB	1.0	
+Migraine Disorders	F2	1.0	
+Migraine Disorders	HCRT	1.0	
+Migraine Disorders	HCRTR1	1.0	
+Migraine Disorders	HCRTR2	1.0	
+Migraine Disorders	HTR2B	1.0	
+Migraine Disorders	NTSR1	1.0	
+Migraine Disorders	TAC1	1.0	
+Cholestasis of pregnancy	ADRA1A	1.0	
+Cholestasis of pregnancy	CYSLTR2	1.0	
+Cholestasis of pregnancy	EDNRA	1.0	
+Cholestasis of pregnancy	F2R	1.0	
+Cholestasis of pregnancy	LPAR2	1.0	
+Cholestasis of pregnancy	OXTR	1.0	
+Lung Neoplasms	ADRA1A	1.0	
+Lung Neoplasms	CCK	1.0	
+Lung Neoplasms	CCKBR	1.0	
+Lung Neoplasms	CYSLTR2	1.0	
+Lung Neoplasms	EDN1	1.0	
+Lung Neoplasms	EDNRA	1.0	
+Lung Neoplasms	EDNRB	1.0	
+Lung Neoplasms	F2R	1.0	
+Lung Neoplasms	F2RL1	1.0	
+Lung Neoplasms	F2RL3	1.0	
+Lung Neoplasms	GAST	1.0	
+Lung Neoplasms	GHRL	1.0	
+Lung Neoplasms	GHSR	1.0	
+Lung Neoplasms	GRP	1.0	
+Lung Neoplasms	GRPR	1.0	
+Lung Neoplasms	LPAR2	1.0	
+Lung Neoplasms	NMU	1.0	
+Lung Neoplasms	NTS	1.0	
+Lung Neoplasms	NTSR1	1.0	
+Lung Neoplasms	OXTR	1.0	
+Lung Neoplasms	P2RY2	1.0	
+Lung Neoplasms	P2RY6	1.0	
+Lung Neoplasms	PTGER1	1.0	
+Aplasia/Hypoplasia of the testes	CHRM3	1.0	
+Aplasia/Hypoplasia of the testes	GNRH1	1.0	
+Aplasia/Hypoplasia of the testes	GNRHR	1.0	
+Aplasia/Hypoplasia of the testes	KISS1	1.0	
+Aplasia/Hypoplasia of the testes	KISS1R	1.0	
+Aplasia/Hypoplasia of the testes	PROK2	1.0	
+Aplasia/Hypoplasia of the testes	PROKR2	1.0	
+Aplasia/Hypoplasia of the testes	TAC3	1.0	
+Aplasia/Hypoplasia of the testes	TACR3	1.0	
+Coronary Artery Disease	ADRA1A	1.0	
+Coronary Artery Disease	ADRA1D	1.0	
+Coronary Artery Disease	AGT	1.0	
+Coronary Artery Disease	APP	1.0	
+Coronary Artery Disease	BDKRB1	1.0	
+Coronary Artery Disease	BDKRB2	1.0	
+Coronary Artery Disease	CASR	1.0	
+Coronary Artery Disease	CYSLTR1	1.0	
+Coronary Artery Disease	EDN1	1.0	
+Coronary Artery Disease	EDNRA	1.0	
+Coronary Artery Disease	F2	1.0	
+Coronary Artery Disease	F2R	1.0	
+Coronary Artery Disease	F2RL3	1.0	
+Coronary Artery Disease	GCG	1.0	
+Coronary Artery Disease	GHRL	1.0	
+Coronary Artery Disease	GHSR	1.0	
+Coronary Artery Disease	HRH1	1.0	
+Coronary Artery Disease	KNG1	1.0	
+Coronary Artery Disease	NPFFR2	1.0	
+Coronary Artery Disease	OPN4	1.0	
+Coronary Artery Disease	P2RY1	1.0	
+Coronary Artery Disease	SAA1	1.0	
+Coronary Artery Disease	TAC1	1.0	
+Coronary Artery Disease	UTS2	1.0	
+Coronary Artery Disease	UTS2B	1.0	
+Primary hyperaldosteronism	AGT	1.0	
+Primary hyperaldosteronism	GNRH1	1.0	
+Primary hyperaldosteronism	GNRHR	1.0	
+Primary hyperaldosteronism	GPRC6A	1.0	
+Primary hyperaldosteronism	KNG1	1.0	
+Primary hyperaldosteronism	LPAR3	1.0	
+Primary hyperaldosteronism	UTS2	1.0	
+Abnormal fear/anxiety-related behavior	CASR	1.0	
+Abnormal fear/anxiety-related behavior	GNA11	1.0	
+Abnormal fear/anxiety-related behavior	GNRH1	1.0	
+Abnormal fear/anxiety-related behavior	GNRHR	1.0	
+Abnormal fear/anxiety-related behavior	KISS1	1.0	
+Abnormal fear/anxiety-related behavior	KISS1R	1.0	
+Abnormal fear/anxiety-related behavior	PROK2	1.0	
+Abnormal fear/anxiety-related behavior	PROKR2	1.0	
+Abnormal fear/anxiety-related behavior	TAC3	1.0	
+Abnormal fear/anxiety-related behavior	TACR3	1.0	
+Unipolar Depression	APP	1.0	
+Unipolar Depression	BDKRB2	1.0	
+Unipolar Depression	CCKAR	1.0	
+Unipolar Depression	CHRM3	1.0	
+Unipolar Depression	GRM1	1.0	
+Unipolar Depression	GRM5	1.0	
+Unipolar Depression	HCRT	1.0	
+Unipolar Depression	NTSR1	1.0	
+Unipolar Depression	OXT	1.0	
+Unipolar Depression	OXTR	1.0	
+Unipolar Depression	PROK2	1.0	
+Unipolar Depression	PROKR2	1.0	
+Unipolar Depression	TAC1	1.0	
+Unipolar Depression	TRH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA1D	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AGT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AVPR1B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	F2R	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	F2RL3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GAST	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GHRL	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRM1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRM5	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	LPAR1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	OXT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	OXTR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PMCH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TAC1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TACR3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TRH	1.0	
+Neuroblastoma	ADRA1D	1.0	
+Neuroblastoma	AGT	1.0	
+Neuroblastoma	APP	1.0	
+Neuroblastoma	CASR	1.0	
+Neuroblastoma	CCK	1.0	
+Neuroblastoma	EDN1	1.0	
+Neuroblastoma	EDN3	1.0	
+Neuroblastoma	EDNRA	1.0	
+Neuroblastoma	EDNRB	1.0	
+Neuroblastoma	F2RL3	1.0	
+Neuroblastoma	FFAR1	1.0	
+Neuroblastoma	GCG	1.0	
+Neuroblastoma	GRM5	1.0	
+Neuroblastoma	GRP	1.0	
+Neuroblastoma	GRPR	1.0	
+Neuroblastoma	KNG1	1.0	
+Neuroblastoma	NPFF	1.0	
+Neuroblastoma	NPFFR2	1.0	
+Neuroblastoma	OPN4	1.0	
+Neuroblastoma	OXT	1.0	
+Neuroblastoma	P2RY2	1.0	
+Neuroblastoma	P2RY6	1.0	
+Neuroblastoma	PMCH	1.0	
+Neuroblastoma	SAA1	1.0	
+Neuroblastoma	TAC1	1.0	
+Neuroblastoma	TRH	1.0	
+Neuroblastoma	UTS2	1.0	
+Decreased beta-glucocerebrosidase protein and activity	GNRH1	1.0	
+Decreased beta-glucocerebrosidase protein and activity	GNRHR	1.0	
+Decreased beta-glucocerebrosidase protein and activity	KISS1	1.0	
+Decreased beta-glucocerebrosidase protein and activity	KISS1R	1.0	
+Decreased beta-glucocerebrosidase protein and activity	PROK2	1.0	
+Decreased beta-glucocerebrosidase protein and activity	PROKR2	1.0	
+Decreased beta-glucocerebrosidase protein and activity	TAC3	1.0	
+Decreased beta-glucocerebrosidase protein and activity	TACR3	1.0	
+Abnormal spermatogenesis	GNRH1	1.0	
+Abnormal spermatogenesis	GNRHR	1.0	
+Abnormal spermatogenesis	KISS1	1.0	
+Abnormal spermatogenesis	KISS1R	1.0	
+Abnormal spermatogenesis	PROK2	1.0	
+Abnormal spermatogenesis	PROKR2	1.0	
+Abnormal spermatogenesis	TAC3	1.0	
+Abnormal spermatogenesis	TACR3	1.0	
+Gynecomastia	GNRH1	1.0	
+Gynecomastia	GNRHR	1.0	
+Gynecomastia	KISS1	1.0	
+Gynecomastia	KISS1R	1.0	
+Gynecomastia	PROK2	1.0	
+Gynecomastia	PROKR2	1.0	
+Gynecomastia	TAC3	1.0	
+Gynecomastia	TACR3	1.0	
+Myocardial Infarction	ADRA1D	1.0	
+Myocardial Infarction	AGT	1.0	
+Myocardial Infarction	AVPR1A	1.0	
+Myocardial Infarction	BDKRB1	1.0	
+Myocardial Infarction	BDKRB2	1.0	
+Myocardial Infarction	CASR	1.0	
+Myocardial Infarction	EDN1	1.0	
+Myocardial Infarction	EDN2	1.0	
+Myocardial Infarction	EDNRA	1.0	
+Myocardial Infarction	EDNRB	1.0	
+Myocardial Infarction	F2	1.0	
+Myocardial Infarction	F2R	1.0	
+Myocardial Infarction	F2RL1	1.0	
+Myocardial Infarction	GCG	1.0	
+Myocardial Infarction	GHRL	1.0	
+Myocardial Infarction	GHSR	1.0	
+Myocardial Infarction	KNG1	1.0	
+Myocardial Infarction	P2RY11	1.0	
+Myocardial Infarction	P2RY2	1.0	
+Myocardial Infarction	UTS2	1.0	
+Myocardial Infarction	UTS2R	1.0	
+Abnormality of the testis size	CHRM3	1.0	
+Abnormality of the testis size	GNRH1	1.0	
+Abnormality of the testis size	GNRHR	1.0	
+Abnormality of the testis size	KISS1	1.0	
+Abnormality of the testis size	KISS1R	1.0	
+Abnormality of the testis size	PROK2	1.0	
+Abnormality of the testis size	PROKR2	1.0	
+Abnormality of the testis size	TAC3	1.0	
+Abnormality of the testis size	TACR3	1.0	
+Breast-ovarian cancer, familial 1	ADRA1A	1.0	
+Breast-ovarian cancer, familial 1	ADRA1D	1.0	
+Breast-ovarian cancer, familial 1	AGT	1.0	
+Breast-ovarian cancer, familial 1	APP	1.0	
+Breast-ovarian cancer, familial 1	BDKRB1	1.0	
+Breast-ovarian cancer, familial 1	CASR	1.0	
+Breast-ovarian cancer, familial 1	CYSLTR2	1.0	
+Breast-ovarian cancer, familial 1	EDN1	1.0	
+Breast-ovarian cancer, familial 1	EDN3	1.0	
+Breast-ovarian cancer, familial 1	EDNRA	1.0	
+Breast-ovarian cancer, familial 1	EDNRB	1.0	
+Breast-ovarian cancer, familial 1	F2	1.0	
+Breast-ovarian cancer, familial 1	F2R	1.0	
+Breast-ovarian cancer, familial 1	F2RL1	1.0	
+Breast-ovarian cancer, familial 1	F2RL2	1.0	
+Breast-ovarian cancer, familial 1	F2RL3	1.0	
+Breast-ovarian cancer, familial 1	FFAR1	1.0	
+Breast-ovarian cancer, familial 1	GAST	1.0	
+Breast-ovarian cancer, familial 1	GCG	1.0	
+Breast-ovarian cancer, familial 1	GHRL	1.0	
+Breast-ovarian cancer, familial 1	GHSR	1.0	
+Breast-ovarian cancer, familial 1	GNA11	1.0	
+Breast-ovarian cancer, familial 1	GNRH1	1.0	
+Breast-ovarian cancer, familial 1	GNRHR	1.0	
+Breast-ovarian cancer, familial 1	GRM1	1.0	
+Breast-ovarian cancer, familial 1	GRP	1.0	
+Breast-ovarian cancer, familial 1	GRPR	1.0	
+Breast-ovarian cancer, familial 1	KISS1	1.0	
+Breast-ovarian cancer, familial 1	KISS1R	1.0	
+Breast-ovarian cancer, familial 1	KNG1	1.0	
+Breast-ovarian cancer, familial 1	LPAR1	1.0	
+Breast-ovarian cancer, familial 1	LPAR2	1.0	
+Breast-ovarian cancer, familial 1	LPAR3	1.0	
+Breast-ovarian cancer, familial 1	LTB4R2	1.0	
+Breast-ovarian cancer, familial 1	MLN	1.0	
+Breast-ovarian cancer, familial 1	NMBR	1.0	
+Breast-ovarian cancer, familial 1	NMU	1.0	
+Breast-ovarian cancer, familial 1	NTS	1.0	
+Breast-ovarian cancer, familial 1	NTSR1	1.0	
+Breast-ovarian cancer, familial 1	OPN4	1.0	
+Breast-ovarian cancer, familial 1	OXT	1.0	
+Breast-ovarian cancer, familial 1	OXTR	1.0	
+Breast-ovarian cancer, familial 1	P2RY2	1.0	
+Breast-ovarian cancer, familial 1	TAC1	1.0	
+Breast-ovarian cancer, familial 1	TACR1	1.0	
+Breast-ovarian cancer, familial 1	TRH	1.0	
+Breast-ovarian cancer, familial 1	UTS2	1.0	
+Breast-ovarian cancer, familial 1	XCL1	1.0	
+Delayed menarche	GNRH1	1.0	
+Delayed menarche	GNRHR	1.0	
+Delayed menarche	KISS1	1.0	
+Delayed menarche	KISS1R	1.0	
+Delayed menarche	PROK2	1.0	
+Delayed menarche	PROKR2	1.0	
+Delayed menarche	TAC3	1.0	
+Delayed menarche	TACR3	1.0	
+Amenorrhea	GNRH1	1.0	
+Amenorrhea	GNRHR	1.0	
+Amenorrhea	KISS1	1.0	
+Amenorrhea	KISS1R	1.0	
+Amenorrhea	OXTR	1.0	
+Amenorrhea	PROK2	1.0	
+Amenorrhea	PROKR2	1.0	
+Amenorrhea	TAC3	1.0	
+Amenorrhea	TACR3	1.0	
+Abnormality of the sense of smell	KISS1	1.0	
+Abnormality of the sense of smell	KISS1R	1.0	
+Abnormality of the sense of smell	PROK2	1.0	
+Abnormality of the sense of smell	PROKR2	1.0	
+Abnormality of the sense of smell	TAC3	1.0	
+Abnormality of the sense of smell	TACR3	1.0	
+Hereditary pancreatitis	CASR	1.0	
+Hereditary pancreatitis	CCKBR	1.0	
+Hereditary pancreatitis	EDN1	1.0	
+Hereditary pancreatitis	F2RL1	1.0	
+Hereditary pancreatitis	GAST	1.0	
+Hereditary pancreatitis	GCG	1.0	
+Hereditary pancreatitis	NTS	1.0	
+Hereditary pancreatitis	NTSR1	1.0	
+Hereditary pancreatitis	P2RY6	1.0	
+Hereditary pancreatitis	TAC1	1.0	
+Hereditary pancreatitis	TACR1	1.0	
+Hereditary pancreatitis	TACR2	1.0	
+Hereditary pancreatitis	TACR3	1.0	
+Breast carcinoma	ADRA1A	1.0	
+Breast carcinoma	ADRA1D	1.0	
+Breast carcinoma	AGT	1.0	
+Breast carcinoma	APP	1.0	
+Breast carcinoma	BDKRB1	1.0	
+Breast carcinoma	CASR	1.0	
+Breast carcinoma	CYSLTR2	1.0	
+Breast carcinoma	EDN1	1.0	
+Breast carcinoma	EDN3	1.0	
+Breast carcinoma	EDNRA	1.0	
+Breast carcinoma	EDNRB	1.0	
+Breast carcinoma	F2	1.0	
+Breast carcinoma	F2R	1.0	
+Breast carcinoma	F2RL1	1.0	
+Breast carcinoma	F2RL3	1.0	
+Breast carcinoma	FFAR1	1.0	
+Breast carcinoma	GAST	1.0	
+Breast carcinoma	GCG	1.0	
+Breast carcinoma	GHRL	1.0	
+Breast carcinoma	GHSR	1.0	
+Breast carcinoma	GNRH1	1.0	
+Breast carcinoma	GNRHR	1.0	
+Breast carcinoma	GRM1	1.0	
+Breast carcinoma	GRP	1.0	
+Breast carcinoma	GRPR	1.0	
+Breast carcinoma	KISS1	1.0	
+Breast carcinoma	KISS1R	1.0	
+Breast carcinoma	KNG1	1.0	
+Breast carcinoma	LPAR1	1.0	
+Breast carcinoma	LPAR2	1.0	
+Breast carcinoma	LPAR3	1.0	
+Breast carcinoma	LTB4R2	1.0	
+Breast carcinoma	MLN	1.0	
+Breast carcinoma	NMBR	1.0	
+Breast carcinoma	NMU	1.0	
+Breast carcinoma	NTS	1.0	
+Breast carcinoma	NTSR1	1.0	
+Breast carcinoma	OPN4	1.0	
+Breast carcinoma	OXT	1.0	
+Breast carcinoma	OXTR	1.0	
+Breast carcinoma	P2RY2	1.0	
+Breast carcinoma	TAC1	1.0	
+Breast carcinoma	TACR1	1.0	
+Breast carcinoma	TRH	1.0	
+Breast carcinoma	UTS2	1.0	
+Breast carcinoma	XCL1	1.0	
+Pancreatic Carcinoma	ADRA1D	1.0	
+Pancreatic Carcinoma	AGT	1.0	
+Pancreatic Carcinoma	CASR	1.0	
+Pancreatic Carcinoma	CCK	1.0	
+Pancreatic Carcinoma	CCKAR	1.0	
+Pancreatic Carcinoma	CCKBR	1.0	
+Pancreatic Carcinoma	F2R	1.0	
+Pancreatic Carcinoma	F2RL1	1.0	
+Pancreatic Carcinoma	GAST	1.0	
+Pancreatic Carcinoma	GCG	1.0	
+Pancreatic Carcinoma	GNA15	1.0	
+Pancreatic Carcinoma	GPRC6A	1.0	
+Pancreatic Carcinoma	GRP	1.0	
+Pancreatic Carcinoma	KISS1	1.0	
+Pancreatic Carcinoma	LPAR1	1.0	
+Pancreatic Carcinoma	LPAR2	1.0	
+Pancreatic Carcinoma	LPAR3	1.0	
+Pancreatic Carcinoma	LTB4R	1.0	
+Pancreatic Carcinoma	LTB4R2	1.0	
+Pancreatic Carcinoma	NMU	1.0	
+Pancreatic Carcinoma	NTS	1.0	
+Pancreatic Carcinoma	NTSR1	1.0	
+Pancreatic Carcinoma	P2RY2	1.0	
+Pancreatic Carcinoma	P2RY6	1.0	
+Pancreatic Carcinoma	PROK1	1.0	
+Pancreatic Carcinoma	TAC1	1.0	
+Pancreatic Carcinoma	TACR1	1.0	
+Migraine with aura	ADRA1D	1.0	
+Migraine with aura	AGT	1.0	
+Migraine with aura	EDN1	1.0	
+Migraine with aura	EDNRA	1.0	
+Migraine with aura	EDNRB	1.0	
+Migraine with aura	F2	1.0	
+Migraine with aura	HTR2B	1.0	
+Attention deficit hyperactivity disorder	ADRA1A	1.0	
+Attention deficit hyperactivity disorder	ADRA1B	1.0	
+Attention deficit hyperactivity disorder	AGT	1.0	
+Attention deficit hyperactivity disorder	APP	1.0	
+Attention deficit hyperactivity disorder	AVPR1B	1.0	
+Attention deficit hyperactivity disorder	CYSLTR2	1.0	
+Attention deficit hyperactivity disorder	EDNRA	1.0	
+Attention deficit hyperactivity disorder	F2R	1.0	
+Attention deficit hyperactivity disorder	GNAQ	1.0	
+Attention deficit hyperactivity disorder	GRM1	1.0	
+Attention deficit hyperactivity disorder	GRM5	1.0	
+Attention deficit hyperactivity disorder	LPAR2	1.0	
+Attention deficit hyperactivity disorder	NPSR1	1.0	
+Attention deficit hyperactivity disorder	OXTR	1.0	
+Attention deficit hyperactivity disorder	TACR1	1.0	
+Abnormal uterus morphology	CHRM3	1.0	
+Abnormal uterus morphology	GNRH1	1.0	
+Abnormal uterus morphology	GNRHR	1.0	
+Abnormal uterus morphology	KISS1	1.0	
+Abnormal uterus morphology	KISS1R	1.0	
+Abnormal uterus morphology	PROK2	1.0	
+Abnormal uterus morphology	PROKR2	1.0	
+Abnormal uterus morphology	TAC3	1.0	
+Abnormal uterus morphology	TACR3	1.0	
+Gastric ulcer	BDKRB1	1.0	
+Gastric ulcer	BDKRB2	1.0	
+Gastric ulcer	CCK	1.0	
+Gastric ulcer	EDN1	1.0	
+Gastric ulcer	GAST	1.0	
+Gastric ulcer	GHRL	1.0	
+Gastric ulcer	OXT	1.0	
+Gastric ulcer	OXTR	1.0	
+Functional abnormality of male internal genitalia	GNRH1	1.0	
+Functional abnormality of male internal genitalia	GNRHR	1.0	
+Functional abnormality of male internal genitalia	KISS1	1.0	
+Functional abnormality of male internal genitalia	KISS1R	1.0	
+Functional abnormality of male internal genitalia	PROK2	1.0	
+Functional abnormality of male internal genitalia	PROKR2	1.0	
+Functional abnormality of male internal genitalia	TAC3	1.0	
+Functional abnormality of male internal genitalia	TACR3	1.0	
+Diabetes Mellitus, Type 1	ADRA1A	1.0	
+Diabetes Mellitus, Type 1	ADRA1B	1.0	
+Diabetes Mellitus, Type 1	ADRA1D	1.0	
+Diabetes Mellitus, Type 1	AGT	1.0	
+Diabetes Mellitus, Type 1	APP	1.0	
+Diabetes Mellitus, Type 1	AVPR1A	1.0	
+Diabetes Mellitus, Type 1	BDKRB1	1.0	
+Diabetes Mellitus, Type 1	BDKRB2	1.0	
+Diabetes Mellitus, Type 1	CASR	1.0	
+Diabetes Mellitus, Type 1	CCK	1.0	
+Diabetes Mellitus, Type 1	CCKAR	1.0	
+Diabetes Mellitus, Type 1	CCKBR	1.0	
+Diabetes Mellitus, Type 1	CHRM3	1.0	
+Diabetes Mellitus, Type 1	EDN1	1.0	
+Diabetes Mellitus, Type 1	EDNRA	1.0	
+Diabetes Mellitus, Type 1	F2	1.0	
+Diabetes Mellitus, Type 1	FFAR1	1.0	
+Diabetes Mellitus, Type 1	GCG	1.0	
+Diabetes Mellitus, Type 1	GCGR	1.0	
+Diabetes Mellitus, Type 1	GHRL	1.0	
+Diabetes Mellitus, Type 1	GHSR	1.0	
+Diabetes Mellitus, Type 1	HCRT	1.0	
+Diabetes Mellitus, Type 1	HRH1	1.0	
+Diabetes Mellitus, Type 1	KNG1	1.0	
+Diabetes Mellitus, Type 1	P2RY1	1.0	
+Diabetes Mellitus, Type 1	PROK2	1.0	
+Diabetes Mellitus, Type 1	PROKR2	1.0	
+Diabetes Mellitus, Type 1	TAC1	1.0	
+Diabetes Mellitus, Type 1	UTS2	1.0	
+Diabetes Mellitus, Type 1	UTS2R	1.0	
+Cocaine-Related Disorders	CCKBR	1.0	
+Cocaine-Related Disorders	GHRL	1.0	
+Cocaine-Related Disorders	GRM5	1.0	
+Cocaine-Related Disorders	HCRT	1.0	
+Cocaine-Related Disorders	HCRTR1	1.0	
+Cocaine-Related Disorders	NPS	1.0	
+Cocaine-Related Disorders	NPSR1	1.0	
+Cocaine-Related Disorders	TACR3	1.0	
+Depression	CASR	1.0	
+Depression	GNA11	1.0	
+Depression	GNRH1	1.0	
+Depression	GNRHR	1.0	
+Depression	KISS1	1.0	
+Depression	KISS1R	1.0	
+Depression	PROK2	1.0	
+Depression	PROKR2	1.0	
+Depression	TAC3	1.0	
+Depression	TACR3	1.0	
+Diabetes mellitus type 2	ADRA1A	1.0	
+Diabetes mellitus type 2	AGT	1.0	
+Diabetes mellitus type 2	AVPR1A	1.0	
+Diabetes mellitus type 2	BDKRB2	1.0	
+Diabetes mellitus type 2	CASR	1.0	
+Diabetes mellitus type 2	CCK	1.0	
+Diabetes mellitus type 2	CCKAR	1.0	
+Diabetes mellitus type 2	CCKBR	1.0	
+Diabetes mellitus type 2	CHRM3	1.0	
+Diabetes mellitus type 2	CYSLTR2	1.0	
+Diabetes mellitus type 2	EDN1	1.0	
+Diabetes mellitus type 2	EDNRA	1.0	
+Diabetes mellitus type 2	EDNRB	1.0	
+Diabetes mellitus type 2	F2	1.0	
+Diabetes mellitus type 2	FFAR1	1.0	
+Diabetes mellitus type 2	GCG	1.0	
+Diabetes mellitus type 2	GCGR	1.0	
+Diabetes mellitus type 2	GHRL	1.0	
+Diabetes mellitus type 2	GHSR	1.0	
+Diabetes mellitus type 2	GPRC6A	1.0	
+Diabetes mellitus type 2	HCRT	1.0	
+Diabetes mellitus type 2	KNG1	1.0	
+Diabetes mellitus type 2	LPAR1	1.0	
+Diabetes mellitus type 2	LPAR2	1.0	
+Diabetes mellitus type 2	LPAR3	1.0	
+Diabetes mellitus type 2	TACR3	1.0	
+Diabetes mellitus type 2	TRH	1.0	
+Diabetes mellitus type 2	UTS2	1.0	
+Diabetes mellitus type 2	UTS2R	1.0	
+Abnormality of the menstrual cycle	F2	1.0	
+Abnormality of the menstrual cycle	GNRH1	1.0	
+Abnormality of the menstrual cycle	GNRHR	1.0	
+Abnormality of the menstrual cycle	KISS1	1.0	
+Abnormality of the menstrual cycle	KISS1R	1.0	
+Abnormality of the menstrual cycle	PROK2	1.0	
+Abnormality of the menstrual cycle	PROKR2	1.0	
+Abnormality of the menstrual cycle	TAC3	1.0	
+Abnormality of the menstrual cycle	TACR3	1.0	
+Gastrointestinal Diseases	AGT	1.0	
+Gastrointestinal Diseases	CASR	1.0	
+Gastrointestinal Diseases	CCK	1.0	
+Gastrointestinal Diseases	EDN1	1.0	
+Gastrointestinal Diseases	GAST	1.0	
+Gastrointestinal Diseases	NPSR1	1.0	
+Gastrointestinal Diseases	PROK2	1.0	
+Sparse hair	EDNRA	1.0	
+Sparse hair	GNRH1	1.0	
+Sparse hair	GNRHR	1.0	
+Sparse hair	KISS1	1.0	
+Sparse hair	KISS1R	1.0	
+Sparse hair	LPAR6	1.0	
+Sparse hair	PROK2	1.0	
+Sparse hair	PROKR2	1.0	
+Sparse hair	TAC3	1.0	
+Sparse hair	TACR3	1.0	
+Abnormal nipple morphology	GNRH1	1.0	
+Abnormal nipple morphology	GNRHR	1.0	
+Abnormal nipple morphology	KISS1	1.0	
+Abnormal nipple morphology	KISS1R	1.0	
+Abnormal nipple morphology	PROK2	1.0	
+Abnormal nipple morphology	PROKR2	1.0	
+Abnormal nipple morphology	TAC3	1.0	
+Abnormal nipple morphology	TACR3	1.0	
+Melanoma	ADRA1A	1.0	
+Melanoma	ADRA1D	1.0	
+Melanoma	AGT	1.0	
+Melanoma	APP	1.0	
+Melanoma	CASR	1.0	
+Melanoma	CCKBR	1.0	
+Melanoma	CHRM3	1.0	
+Melanoma	CYSLTR2	1.0	
+Melanoma	EDN1	1.0	
+Melanoma	EDN3	1.0	
+Melanoma	EDNRA	1.0	
+Melanoma	EDNRB	1.0	
+Melanoma	F2	1.0	
+Melanoma	F2R	1.0	
+Melanoma	F2RL1	1.0	
+Melanoma	F2RL3	1.0	
+Melanoma	GNA11	1.0	
+Melanoma	GNAQ	1.0	
+Melanoma	GNG2	1.0	
+Melanoma	GNRH1	1.0	
+Melanoma	GNRHR	1.0	
+Melanoma	GPRC6A	1.0	
+Melanoma	GRM1	1.0	
+Melanoma	KISS1	1.0	
+Melanoma	KISS1R	1.0	
+Melanoma	LPAR1	1.0	
+Melanoma	LPAR2	1.0	
+Melanoma	LPAR3	1.0	
+Melanoma	LPAR5	1.0	
+Melanoma	TAC1	1.0	
+Melanoma	TACR1	1.0	
+Melanoma	TRH	1.0	
+Abnormal male reproductive system physiology	GNRH1	1.0	
+Abnormal male reproductive system physiology	GNRHR	1.0	
+Abnormal male reproductive system physiology	KISS1	1.0	
+Abnormal male reproductive system physiology	KISS1R	1.0	
+Abnormal male reproductive system physiology	PROK2	1.0	
+Abnormal male reproductive system physiology	PROKR2	1.0	
+Abnormal male reproductive system physiology	TAC3	1.0	
+Abnormal male reproductive system physiology	TACR3	1.0	
+Acute myocardial ischemia	ADRA1A	1.0	
+Acute myocardial ischemia	ADRA1D	1.0	
+Acute myocardial ischemia	AGT	1.0	
+Acute myocardial ischemia	CYSLTR1	1.0	
+Acute myocardial ischemia	EDN1	1.0	
+Acute myocardial ischemia	EDNRA	1.0	
+Acute myocardial ischemia	EDNRB	1.0	
+Acute myocardial ischemia	F2	1.0	
+Acute myocardial ischemia	F2RL1	1.0	
+Acute myocardial ischemia	KISS1	1.0	
+Acute myocardial ischemia	KNG1	1.0	
+Acute myocardial ischemia	UTS2	1.0	
+Acute myocardial ischemia	UTS2B	1.0	
+Acute myocardial ischemia	UTS2R	1.0	
+Albinism, ocular, with sensorineural deafness	ADRA1A	1.0	
+Albinism, ocular, with sensorineural deafness	CYSLTR2	1.0	
+Albinism, ocular, with sensorineural deafness	EDNRA	1.0	
+Albinism, ocular, with sensorineural deafness	EDNRB	1.0	
+Albinism, ocular, with sensorineural deafness	GPRC6A	1.0	
+Albinism, ocular, with sensorineural deafness	LPAR2	1.0	
+Albinism, ocular, with sensorineural deafness	LPAR3	1.0	
+Abnormality of hair density	EDNRA	1.0	
+Abnormality of hair density	GNRH1	1.0	
+Abnormality of hair density	GNRHR	1.0	
+Abnormality of hair density	KISS1	1.0	
+Abnormality of hair density	KISS1R	1.0	
+Abnormality of hair density	LPAR6	1.0	
+Abnormality of hair density	PROK2	1.0	
+Abnormality of hair density	PROKR2	1.0	
+Abnormality of hair density	TAC3	1.0	
+Abnormality of hair density	TACR3	1.0	
+Primary pulmonary hypertension	BDKRB1	1.0	
+Primary pulmonary hypertension	BDKRB2	1.0	
+Primary pulmonary hypertension	EDN1	1.0	
+Primary pulmonary hypertension	EDNRA	1.0	
+Primary pulmonary hypertension	EDNRB	1.0	
+Primary pulmonary hypertension	F2R	1.0	
+Primary pulmonary hypertension	F2RL1	1.0	
+Primary pulmonary hypertension	HTR2B	1.0	
+Primary pulmonary hypertension	KNG1	1.0	
+Primary pulmonary hypertension	NPS	1.0	
+Pituitary adenoma	CASR	1.0	
+Pituitary adenoma	GHRL	1.0	
+Pituitary adenoma	GHSR	1.0	
+Pituitary adenoma	GNRH1	1.0	
+Pituitary adenoma	GNRHR	1.0	
+Pituitary adenoma	KISS1	1.0	
+Pituitary adenoma	KISS1R	1.0	
+Pituitary adenoma	NTS	1.0	
+Pituitary adenoma	NTSR2	1.0	
+Pituitary adenoma	TRH	1.0	
+Pituitary adenoma	TRHR	1.0	
+Cardiovascular Diseases	ADRA1A	1.0	
+Cardiovascular Diseases	AGT	1.0	
+Cardiovascular Diseases	APP	1.0	
+Cardiovascular Diseases	BDKRB1	1.0	
+Cardiovascular Diseases	BDKRB2	1.0	
+Cardiovascular Diseases	CASR	1.0	
+Cardiovascular Diseases	EDN1	1.0	
+Cardiovascular Diseases	EDN2	1.0	
+Cardiovascular Diseases	EDNRA	1.0	
+Cardiovascular Diseases	EDNRB	1.0	
+Cardiovascular Diseases	F2	1.0	
+Cardiovascular Diseases	F2R	1.0	
+Cardiovascular Diseases	FFAR2	1.0	
+Cardiovascular Diseases	GCG	1.0	
+Cardiovascular Diseases	GHRL	1.0	
+Cardiovascular Diseases	HRH1	1.0	
+Cardiovascular Diseases	KNG1	1.0	
+Cardiovascular Diseases	NMBR	1.0	
+Cardiovascular Diseases	SAA1	1.0	
+Cardiovascular Diseases	UTS2	1.0	
+Hereditary hearing loss and deafness	EDN3	1.0	
+Hereditary hearing loss and deafness	EDNRB	1.0	
+Hereditary hearing loss and deafness	GNRH1	1.0	
+Hereditary hearing loss and deafness	GNRHR	1.0	
+Hereditary hearing loss and deafness	KISS1	1.0	
+Hereditary hearing loss and deafness	KISS1R	1.0	
+Hereditary hearing loss and deafness	PROK2	1.0	
+Hereditary hearing loss and deafness	PROKR2	1.0	
+Hereditary hearing loss and deafness	TAC3	1.0	
+Hereditary hearing loss and deafness	TACR3	1.0	
+Menstrual irregularities	F2	1.0	
+Menstrual irregularities	GNRH1	1.0	
+Menstrual irregularities	GNRHR	1.0	
+Menstrual irregularities	KISS1	1.0	
+Menstrual irregularities	KISS1R	1.0	
+Menstrual irregularities	PROK2	1.0	
+Menstrual irregularities	PROKR2	1.0	
+Menstrual irregularities	TAC3	1.0	
+Menstrual irregularities	TACR3	1.0	
+Delayed skeletal maturation	GHSR	1.0	
+Delayed skeletal maturation	GNRH1	1.0	
+Delayed skeletal maturation	GNRHR	1.0	
+Delayed skeletal maturation	KISS1	1.0	
+Delayed skeletal maturation	KISS1R	1.0	
+Delayed skeletal maturation	PROK2	1.0	
+Delayed skeletal maturation	PROKR2	1.0	
+Delayed skeletal maturation	TAC3	1.0	
+Delayed skeletal maturation	TACR3	1.0	
+Delayed skeletal maturation	TRH	1.0	
+Anorexia	CCK	1.0	
+Anorexia	GHRL	1.0	
+Anorexia	GHSR	1.0	
+Anorexia	HTR2B	1.0	
+Anorexia	NMU	1.0	
+Anorexia	NPSR1	1.0	
+Anorexia	OXT	1.0	
+Anorexia	TAC1	1.0	
+Memory Loss	ADRA1D	1.0	
+Memory Loss	APP	1.0	
+Memory Loss	GRP	1.0	
+Memory Loss	PTGER1	1.0	
+Memory Loss	TAC1	1.0	
+Memory Loss	TRH	1.0	
+Delayed puberty	GHSR	1.0	
+Delayed puberty	GNRH1	1.0	
+Delayed puberty	GNRHR	1.0	
+Delayed puberty	KISS1	1.0	
+Delayed puberty	KISS1R	1.0	
+Delayed puberty	PROK2	1.0	
+Delayed puberty	PROKR2	1.0	
+Delayed puberty	TAC3	1.0	
+Delayed puberty	TACR3	1.0	
+Prostatic Neoplasms	ADRA1A	1.0	
+Prostatic Neoplasms	AGT	1.0	
+Prostatic Neoplasms	CASR	1.0	
+Prostatic Neoplasms	CYSLTR1	1.0	
+Prostatic Neoplasms	EDN1	1.0	
+Prostatic Neoplasms	EDNRA	1.0	
+Prostatic Neoplasms	EDNRB	1.0	
+Prostatic Neoplasms	F2R	1.0	
+Prostatic Neoplasms	F2RL1	1.0	
+Prostatic Neoplasms	F2RL3	1.0	
+Prostatic Neoplasms	GHRL	1.0	
+Prostatic Neoplasms	GHSR	1.0	
+Prostatic Neoplasms	GNRH1	1.0	
+Prostatic Neoplasms	GNRH2	1.0	
+Prostatic Neoplasms	GNRHR	1.0	
+Prostatic Neoplasms	GNRHR2	1.0	
+Prostatic Neoplasms	GPR68	1.0	
+Prostatic Neoplasms	GRPR	1.0	
+Prostatic Neoplasms	KNG1	1.0	
+Prostatic Neoplasms	LPAR1	1.0	
+Prostatic Neoplasms	LPAR2	1.0	
+Prostatic Neoplasms	LPAR3	1.0	
+Prostatic Neoplasms	NTS	1.0	
+Prostatic Neoplasms	NTSR1	1.0	
+Prostatic Neoplasms	PROK1	1.0	
+Reperfusion Injury	AGT	1.0	
+Reperfusion Injury	CYSLTR1	1.0	
+Reperfusion Injury	CYSLTR2	1.0	
+Reperfusion Injury	EDN1	1.0	
+Reperfusion Injury	EDN2	1.0	
+Reperfusion Injury	EDNRB	1.0	
+Reperfusion Injury	F2	1.0	
+Reperfusion Injury	GAST	1.0	
+Reperfusion Injury	GHRL	1.0	
+Reperfusion Injury	OXT	1.0	
+Reperfusion Injury	PTAFR	1.0	
+Rheumatoid arthritis	ADRA1A	1.0	
+Rheumatoid arthritis	ADRA1D	1.0	
+Rheumatoid arthritis	APP	1.0	
+Rheumatoid arthritis	BDKRB2	1.0	
+Rheumatoid arthritis	CCL23	1.0	
+Rheumatoid arthritis	CYSLTR2	1.0	
+Rheumatoid arthritis	EDN1	1.0	
+Rheumatoid arthritis	EDNRA	1.0	
+Rheumatoid arthritis	EDNRB	1.0	
+Rheumatoid arthritis	F2	1.0	
+Rheumatoid arthritis	F2R	1.0	
+Rheumatoid arthritis	F2RL1	1.0	
+Rheumatoid arthritis	GHRL	1.0	
+Rheumatoid arthritis	GHSR	1.0	
+Rheumatoid arthritis	GRP	1.0	
+Rheumatoid arthritis	LPAR1	1.0	
+Rheumatoid arthritis	LPAR2	1.0	
+Rheumatoid arthritis	LPAR3	1.0	
+Rheumatoid arthritis	LTB4R	1.0	
+Rheumatoid arthritis	LTB4R2	1.0	
+Rheumatoid arthritis	NPSR1	1.0	
+Rheumatoid arthritis	SAA1	1.0	
+Rheumatoid arthritis	TAC1	1.0	
+Rheumatoid arthritis	TACR1	1.0	
+Rheumatoid arthritis	TACR3	1.0	
+Rheumatoid arthritis	UTS2	1.0	
+Rheumatoid arthritis	XCL1	1.0	
+Nephrosclerosis	ADRA1A	1.0	
+Nephrosclerosis	AGT	1.0	
+Nephrosclerosis	CYSLTR2	1.0	
+Nephrosclerosis	EDNRA	1.0	
+Nephrosclerosis	LPAR2	1.0	
+Paroxysmal atrial fibrillation	ADRA1A	1.0	
+Paroxysmal atrial fibrillation	CYSLTR2	1.0	
+Paroxysmal atrial fibrillation	EDNRA	1.0	
+Paroxysmal atrial fibrillation	LPAR2	1.0	
+Paroxysmal atrial fibrillation	NPS	1.0	
+Pulmonary Disease, Chronic Obstructive	ADRA1A	1.0	
+Pulmonary Disease, Chronic Obstructive	BDKRB2	1.0	
+Pulmonary Disease, Chronic Obstructive	CYSLTR2	1.0	
+Pulmonary Disease, Chronic Obstructive	EDN1	1.0	
+Pulmonary Disease, Chronic Obstructive	EDNRA	1.0	
+Pulmonary Disease, Chronic Obstructive	EDNRB	1.0	
+Pulmonary Disease, Chronic Obstructive	F2	1.0	
+Pulmonary Disease, Chronic Obstructive	F2R	1.0	
+Pulmonary Disease, Chronic Obstructive	F2RL1	1.0	
+Pulmonary Disease, Chronic Obstructive	LPAR2	1.0	
+Pulmonary Disease, Chronic Obstructive	LPAR6	1.0	
+Pulmonary Disease, Chronic Obstructive	NPSR1	1.0	
+Inflammatory Bowel Diseases	ADRA1B	1.0	
+Inflammatory Bowel Diseases	AGT	1.0	
+Inflammatory Bowel Diseases	BDKRB1	1.0	
+Inflammatory Bowel Diseases	BDKRB2	1.0	
+Inflammatory Bowel Diseases	CASR	1.0	
+Inflammatory Bowel Diseases	EDN1	1.0	
+Inflammatory Bowel Diseases	F2	1.0	
+Inflammatory Bowel Diseases	F2R	1.0	
+Inflammatory Bowel Diseases	F2RL1	1.0	
+Inflammatory Bowel Diseases	GHSR	1.0	
+Inflammatory Bowel Diseases	GPR65	1.0	
+Inflammatory Bowel Diseases	KNG1	1.0	
+Inflammatory Bowel Diseases	NPSR1	1.0	
+Inflammatory Bowel Diseases	NTS	1.0	
+Inflammatory Bowel Diseases	NTSR1	1.0	
+Inflammatory Bowel Diseases	PROK2	1.0	
+Inflammatory Bowel Diseases	TAC1	1.0	
+Inflammatory Bowel Diseases	TACR1	1.0	
+Inflammatory Bowel Diseases	TACR2	1.0	
+Kidney Failure, Chronic	ADRA1A	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Kidney Failure, Chronic	ADRA1D	1.0	
+Kidney Failure, Chronic	AGT	1.0	
+Kidney Failure, Chronic	BDKRB1	1.0	
+Kidney Failure, Chronic	BDKRB2	1.0	
+Kidney Failure, Chronic	CASR	1.0	
+Kidney Failure, Chronic	EDN1	1.0	
+Kidney Failure, Chronic	EDNRA	1.0	
+Kidney Failure, Chronic	F2	1.0	
+Kidney Failure, Chronic	GCGR	1.0	
+Kidney Failure, Chronic	GHRL	1.0	
+Kidney Failure, Chronic	KNG1	1.0	
+Kidney Failure, Chronic	SAA1	1.0	
+Kidney Failure, Chronic	UTS2	1.0	
+Myocardial Reperfusion Injury	AGT	1.0	
+Myocardial Reperfusion Injury	CASR	1.0	
+Myocardial Reperfusion Injury	EDN1	1.0	
+Myocardial Reperfusion Injury	EDNRA	1.0	
+Myocardial Reperfusion Injury	EDNRB	1.0	
+Myocardial Reperfusion Injury	KNG1	1.0	
+Myocardial Reperfusion Injury	OXT	1.0	
+Myocardial Reperfusion Injury	UTS2	1.0	
+Myocardial Reperfusion Injury	UTS2R	1.0	
+Leiomyoma	EDN1	1.0	
+Leiomyoma	EDNRA	1.0	
+Leiomyoma	EDNRB	1.0	
+Leiomyoma	GNRH1	1.0	
+Leiomyoma	GNRH2	1.0	
+Leiomyoma	GNRHR	1.0	
+Leiomyoma	GNRHR2	1.0	
+Leiomyoma	NTS	1.0	
+Leiomyoma	OXTR	1.0	
+Leiomyoma	TAC3	1.0	
+Leiomyoma	TACR3	1.0	
+Septicemia	ADRA1D	1.0	
+Septicemia	AGT	1.0	
+Septicemia	APP	1.0	
+Septicemia	EDN1	1.0	
+Septicemia	F2	1.0	
+Septicemia	F2R	1.0	
+Septicemia	GAST	1.0	
+Septicemia	GRP	1.0	
+Septicemia	GRPR	1.0	
+Septicemia	NTS	1.0	
+Septicemia	P2RY1	1.0	
+Septicemia	P2RY2	1.0	
+Cancer Cell Growth	ADRA1A	1.0	
+Cancer Cell Growth	AGT	1.0	
+Cancer Cell Growth	CCKBR	1.0	
+Cancer Cell Growth	CYSLTR2	1.0	
+Cancer Cell Growth	EDNRA	1.0	
+Cancer Cell Growth	GPRC6A	1.0	
+Cancer Cell Growth	KISS1	1.0	
+Cancer Cell Growth	KISS1R	1.0	
+Cancer Cell Growth	LPAR2	1.0	
+Cancer Cell Growth	LPAR3	1.0	
+Cancer Cell Growth	TACR1	1.0	
+Abnormality of the diencephalon	KISS1R	1.0	
+Abnormality of the diencephalon	PROK2	1.0	
+Abnormality of the diencephalon	PROKR2	1.0	
+Abnormality of the diencephalon	TACR3	1.0	
+Abnormality of the diencephalon	TRH	1.0	
+Pheochromocytoma	AGT	1.0	
+Pheochromocytoma	EDNRA	1.0	
+Pheochromocytoma	EDNRB	1.0	
+Pheochromocytoma	GCG	1.0	
+Pheochromocytoma	GCGR	1.0	
+Pheochromocytoma	GHRL	1.0	
+Pheochromocytoma	NTS	1.0	
+Pheochromocytoma	PMCH	1.0	
+Pheochromocytoma	UTS2	1.0	
+Pheochromocytoma	UTS2R	1.0	
+Azoospermia	APP	1.0	
+Azoospermia	GCG	1.0	
+Azoospermia	GNRH1	1.0	
+Azoospermia	GNRHR	1.0	
+Azoospermia	KISS1	1.0	
+Azoospermia	KISS1R	1.0	
+Azoospermia	PROK2	1.0	
+Azoospermia	PROKR2	1.0	
+Azoospermia	TAC3	1.0	
+Azoospermia	TACR3	1.0	
+Nephrogenic diabetes insipidus, autosomal	ADRA1A	1.0	
+Nephrogenic diabetes insipidus, autosomal	CYSLTR2	1.0	
+Nephrogenic diabetes insipidus, autosomal	EDNRA	1.0	
+Nephrogenic diabetes insipidus, autosomal	LPAR2	1.0	
+Nephrogenic diabetes insipidus, autosomal	OXT	1.0	
+Abnormality of circulating hormone level	CASR	1.0	
+Abnormality of circulating hormone level	GHSR	1.0	
+Abnormality of circulating hormone level	GNRH1	1.0	
+Abnormality of circulating hormone level	GNRHR	1.0	
+Abnormality of circulating hormone level	KISS1	1.0	
+Abnormality of circulating hormone level	KISS1R	1.0	
+Abnormality of circulating hormone level	PROK2	1.0	
+Abnormality of circulating hormone level	PROKR2	1.0	
+Abnormality of circulating hormone level	TAC3	1.0	
+Abnormality of circulating hormone level	TACR3	1.0	
+Carcinogenesis	ADRA1A	1.0	
+Carcinogenesis	ADRA1D	1.0	
+Carcinogenesis	AGT	1.0	
+Carcinogenesis	APP	1.0	
+Carcinogenesis	CASR	1.0	
+Carcinogenesis	CCK	1.0	
+Carcinogenesis	CCKAR	1.0	
+Carcinogenesis	CCKBR	1.0	
+Carcinogenesis	CHRM3	1.0	
+Carcinogenesis	CYSLTR1	1.0	
+Carcinogenesis	CYSLTR2	1.0	
+Carcinogenesis	EDN1	1.0	
+Carcinogenesis	EDNRA	1.0	
+Carcinogenesis	EDNRB	1.0	
+Carcinogenesis	F2R	1.0	
+Carcinogenesis	F2RL1	1.0	
+Carcinogenesis	F2RL2	1.0	
+Carcinogenesis	F2RL3	1.0	
+Carcinogenesis	FFAR2	1.0	
+Carcinogenesis	GAST	1.0	
+Carcinogenesis	GNAQ	1.0	
+Carcinogenesis	GPRC6A	1.0	
+Carcinogenesis	GRM1	1.0	
+Carcinogenesis	GRP	1.0	
+Carcinogenesis	GRPR	1.0	
+Carcinogenesis	KISS1R	1.0	
+Carcinogenesis	LPAR1	1.0	
+Carcinogenesis	LPAR2	1.0	
+Carcinogenesis	LPAR3	1.0	
+Carcinogenesis	LPAR6	1.0	
+Carcinogenesis	NMU	1.0	
+Carcinogenesis	NTSR1	1.0	
+Carcinogenesis	P2RY1	1.0	
+Carcinogenesis	P2RY2	1.0	
+Carcinogenesis	PROK1	1.0	
+Carcinogenesis	PTAFR	1.0	
+Carcinogenesis	PTGER1	1.0	
+Carcinogenesis	TAC1	1.0	
+Carcinogenesis	TACR1	1.0	
+Carcinogenesis	UTS2	1.0	
+Endometrial carcinoma	AGT	1.0	
+Endometrial carcinoma	EDN1	1.0	
+Endometrial carcinoma	EDNRB	1.0	
+Endometrial carcinoma	F2R	1.0	
+Endometrial carcinoma	F2RL3	1.0	
+Endometrial carcinoma	GHSR	1.0	
+Endometrial carcinoma	GNA11	1.0	
+Endometrial carcinoma	GNRH1	1.0	
+Endometrial carcinoma	GNRHR	1.0	
+Endometrial carcinoma	GRP	1.0	
+Endometrial carcinoma	HCRT	1.0	
+Endometrial carcinoma	KISS1	1.0	
+Endometrial carcinoma	KISS1R	1.0	
+Endometrial carcinoma	LPAR2	1.0	
+Endometrial carcinoma	P2RY2	1.0	
+Endometrial carcinoma	PROK1	1.0	
+Uterine leiomyoma	EDN1	1.0	
+Uterine leiomyoma	EDNRA	1.0	
+Uterine leiomyoma	EDNRB	1.0	
+Uterine leiomyoma	GNRH1	1.0	
+Uterine leiomyoma	GNRH2	1.0	
+Uterine leiomyoma	GNRHR	1.0	
+Uterine leiomyoma	GNRHR2	1.0	
+Uterine leiomyoma	NTS	1.0	
+Uterine leiomyoma	OXTR	1.0	
+Uterine leiomyoma	TAC3	1.0	
+Uterine leiomyoma	TACR3	1.0	
+Osteoporosis	ADRA1D	1.0	
+Osteoporosis	AGT	1.0	
+Osteoporosis	CASR	1.0	
+Osteoporosis	GAST	1.0	
+Osteoporosis	GHSR	1.0	
+Osteoporosis	GNRH1	1.0	
+Osteoporosis	GNRHR	1.0	
+Osteoporosis	KISS1	1.0	
+Osteoporosis	KISS1R	1.0	
+Osteoporosis	LTB4R	1.0	
+Osteoporosis	PROK2	1.0	
+Osteoporosis	PROKR2	1.0	
+Osteoporosis	TAC3	1.0	
+Osteoporosis	TACR3	1.0	
+Osteoporosis	XCL1	1.0	
+Neoplasm of the adrenal gland	ADRA1D	1.0	
+Neoplasm of the adrenal gland	AGT	1.0	
+Neoplasm of the adrenal gland	GNRH1	1.0	
+Neoplasm of the adrenal gland	GNRHR	1.0	
+Neoplasm of the adrenal gland	HCRT	1.0	
+Neoplasm of the adrenal gland	PMCH	1.0	
+Neoplasm of the adrenal gland	UTS2	1.0	
+Abnormality of skeletal maturation	GHSR	1.0	
+Abnormality of skeletal maturation	GNRH1	1.0	
+Abnormality of skeletal maturation	GNRHR	1.0	
+Abnormality of skeletal maturation	KISS1	1.0	
+Abnormality of skeletal maturation	KISS1R	1.0	
+Abnormality of skeletal maturation	PROK2	1.0	
+Abnormality of skeletal maturation	PROKR2	1.0	
+Abnormality of skeletal maturation	TAC3	1.0	
+Abnormality of skeletal maturation	TACR3	1.0	
+Abnormality of skeletal maturation	TRH	1.0	
+Osteoarthritis	ADRA1D	1.0	
+Osteoarthritis	APP	1.0	
+Osteoarthritis	EDN1	1.0	
+Osteoarthritis	EDNRB	1.0	
+Osteoarthritis	F2R	1.0	
+Osteoarthritis	F2RL1	1.0	
+Osteoarthritis	GNAQ	1.0	
+Osteoarthritis	GPRC6A	1.0	
+Osteoarthritis	GRP	1.0	
+Osteoarthritis	LPAR1	1.0	
+Osteoarthritis	LPAR2	1.0	
+Osteoarthritis	LPAR3	1.0	
+Osteoarthritis	LTB4R	1.0	
+Osteoarthritis	LTB4R2	1.0	
+Osteoarthritis	SAA1	1.0	
+Osteoarthritis	TAC1	1.0	
+Osteoarthritis	TACR1	1.0	
+Osteoarthritis	UTS2	1.0	
+polyps	ADRA1A	1.0	
+polyps	APP	1.0	
+polyps	CYSLTR2	1.0	
+polyps	EDNRA	1.0	
+polyps	GAST	1.0	
+polyps	GCG	1.0	
+polyps	KNG1	1.0	
+polyps	LPAR2	1.0	
+polyps	LTB4R	1.0	
+polyps	TAC1	1.0	
+Malignant neoplasm of pancreas	ADRA1D	1.0	
+Malignant neoplasm of pancreas	AGT	1.0	
+Malignant neoplasm of pancreas	CASR	1.0	
+Malignant neoplasm of pancreas	CCK	1.0	
+Malignant neoplasm of pancreas	CCKAR	1.0	
+Malignant neoplasm of pancreas	CCKBR	1.0	
+Malignant neoplasm of pancreas	F2R	1.0	
+Malignant neoplasm of pancreas	F2RL1	1.0	
+Malignant neoplasm of pancreas	GAST	1.0	
+Malignant neoplasm of pancreas	GCG	1.0	
+Malignant neoplasm of pancreas	GRP	1.0	
+Malignant neoplasm of pancreas	KISS1	1.0	
+Malignant neoplasm of pancreas	LPAR1	1.0	
+Malignant neoplasm of pancreas	LPAR2	1.0	
+Malignant neoplasm of pancreas	LTB4R	1.0	
+Malignant neoplasm of pancreas	LTB4R2	1.0	
+Malignant neoplasm of pancreas	NMU	1.0	
+Malignant neoplasm of pancreas	NTS	1.0	
+Malignant neoplasm of pancreas	NTSR1	1.0	
+Malignant neoplasm of pancreas	P2RY2	1.0	
+Malignant neoplasm of pancreas	P2RY6	1.0	
+Malignant neoplasm of pancreas	PROK1	1.0	
+Malignant neoplasm of pancreas	TAC1	1.0	
+Malignant neoplasm of pancreas	TACR1	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	ADRA1A	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	CYSLTR2	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	EDNRA	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	LPAR2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	ADRA1A	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	CYSLTR2	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	EDNRA	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	LPAR2	1.0	
+Polydipsia	CASR	1.0	
+Polydipsia	HCRT	1.0	
+Polydipsia	HCRTR1	1.0	
+Polydipsia	HCRTR2	1.0	
+Polydipsia	PROKR2	1.0	
+Abnormality of the ovary	GNRH1	1.0	
+Abnormality of the ovary	GNRHR	1.0	
+Abnormality of the ovary	KISS1	1.0	
+Abnormality of the ovary	KISS1R	1.0	
+Abnormality of the ovary	PROK2	1.0	
+Abnormality of the ovary	PROKR2	1.0	
+Abnormality of the ovary	TAC3	1.0	
+Abnormality of the ovary	TACR3	1.0	
+Colorectal cancer	ADRA1A	1.0	
+Colorectal cancer	ADRA1B	1.0	
+Colorectal cancer	ADRA1D	1.0	
+Colorectal cancer	AGT	1.0	
+Colorectal cancer	AVPR1B	1.0	
+Colorectal cancer	CASR	1.0	
+Colorectal cancer	CCK	1.0	
+Colorectal cancer	CCKBR	1.0	
+Colorectal cancer	CHRM3	1.0	
+Colorectal cancer	CYSLTR2	1.0	
+Colorectal cancer	EDN1	1.0	
+Colorectal cancer	EDNRA	1.0	
+Colorectal cancer	F2	1.0	
+Colorectal cancer	F2R	1.0	
+Colorectal cancer	F2RL1	1.0	
+Colorectal cancer	F2RL3	1.0	
+Colorectal cancer	GAST	1.0	
+Colorectal cancer	GHRL	1.0	
+Colorectal cancer	GHSR	1.0	
+Colorectal cancer	GRP	1.0	
+Colorectal cancer	GRPR	1.0	
+Colorectal cancer	KISS1	1.0	
+Colorectal cancer	KISS1R	1.0	
+Colorectal cancer	KNG1	1.0	
+Colorectal cancer	LPAR1	1.0	
+Colorectal cancer	LPAR2	1.0	
+Colorectal cancer	LPAR3	1.0	
+Colorectal cancer	NTS	1.0	
+Colorectal cancer	NTSR1	1.0	
+Colorectal cancer	PROK1	1.0	
+Colorectal cancer	TAC1	1.0	
+Colorectal cancer	UTS2	1.0	
+Osteopenia	GNRH1	1.0	
+Osteopenia	GNRHR	1.0	
+Osteopenia	KISS1	1.0	
+Osteopenia	KISS1R	1.0	
+Osteopenia	PROK2	1.0	
+Osteopenia	PROKR2	1.0	
+Osteopenia	TAC3	1.0	
+Osteopenia	TACR3	1.0	
+Narcolepsy-Cataplexy Syndrome	HCRT	1.0	
+Narcolepsy-Cataplexy Syndrome	HCRTR1	1.0	
+Narcolepsy-Cataplexy Syndrome	HCRTR2	1.0	
+Narcolepsy-Cataplexy Syndrome	P2RY11	1.0	
+Chronic heart failure	AGT	1.0	
+Chronic heart failure	EDN1	1.0	
+Chronic heart failure	EDNRA	1.0	
+Chronic heart failure	EDNRB	1.0	
+Chronic heart failure	GHRL	1.0	
+Chronic heart failure	GHSR	1.0	
+Constipation	CASR	1.0	
+Constipation	CHRM3	1.0	
+Constipation	EDN3	1.0	
+Constipation	EDNRB	1.0	
+Constipation	GCG	1.0	
+Constipation	PROKR2	1.0	
+Constipation	TAC1	1.0	
+Constipation	TRH	1.0	
+Constipation	TRHR	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	GNRH1	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	GNRHR	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	KISS1	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	KISS1R	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	PROK2	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	PROKR2	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	TAC3	1.0	
+Camptodactyly, tall stature, and hearing loss syndrome	TACR3	1.0	
+Abnormality of the voice	GNRH1	1.0	
+Abnormality of the voice	GNRHR	1.0	
+Abnormality of the voice	KISS1	1.0	
+Abnormality of the voice	KISS1R	1.0	
+Abnormality of the voice	PROK2	1.0	
+Abnormality of the voice	PROKR2	1.0	
+Abnormality of the voice	TAC3	1.0	
+Abnormality of the voice	TACR3	1.0	
+Abnormality of the voice	TRH	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	ADRA1A	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	CYSLTR2	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	EDNRA	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	LPAR2	1.0	
+Hyposmia	KISS1R	1.0	
+Hyposmia	PROK2	1.0	
+Hyposmia	PROKR2	1.0	
+Hyposmia	TACR3	1.0	
+Glucose intolerance	APP	1.0	
+Glucose intolerance	FFAR1	1.0	
+Glucose intolerance	FFAR2	1.0	
+Glucose intolerance	GCG	1.0	
+Glucose intolerance	GCGR	1.0	
+Glucose intolerance	GHRL	1.0	
+Glucose intolerance	GHSR	1.0	
+Glucose intolerance	TAC1	1.0	
+Glucose intolerance	UTS2	1.0	
+Glucose intolerance	UTS2R	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	ADRA1D	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	AGT	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	APP	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	CCKBR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	EDN1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	EDN2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	F2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	F2R	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	GAST	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	GHRL	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	KNG1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	OXTR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PROKR2	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGER1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PTGFR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	SAA1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TAC1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TACR1	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	TACR3	1.0	
+Flexion contracture of digit	GNRH1	1.0	
+Flexion contracture of digit	GNRHR	1.0	
+Flexion contracture of digit	KISS1	1.0	
+Flexion contracture of digit	KISS1R	1.0	
+Flexion contracture of digit	PROK2	1.0	
+Flexion contracture of digit	PROKR2	1.0	
+Flexion contracture of digit	TAC3	1.0	
+Flexion contracture of digit	TACR3	1.0	
+Pulmonary arterial hypertension	BDKRB1	1.0	
+Pulmonary arterial hypertension	BDKRB2	1.0	
+Pulmonary arterial hypertension	EDN1	1.0	
+Pulmonary arterial hypertension	EDNRA	1.0	
+Pulmonary arterial hypertension	EDNRB	1.0	
+Pulmonary arterial hypertension	F2R	1.0	
+Pulmonary arterial hypertension	F2RL1	1.0	
+Pulmonary arterial hypertension	HTR2B	1.0	
+Pulmonary arterial hypertension	KNG1	1.0	
+Pulmonary arterial hypertension	NPS	1.0	
+Bimanual synkinesia	KISS1R	1.0	
+Bimanual synkinesia	PROK2	1.0	
+Bimanual synkinesia	PROKR2	1.0	
+Bimanual synkinesia	TACR3	1.0	
+Polycystic Ovary Syndrome	ADRA1A	1.0	
+Polycystic Ovary Syndrome	ADRA1B	1.0	
+Polycystic Ovary Syndrome	ADRA1D	1.0	
+Polycystic Ovary Syndrome	AGT	1.0	
+Polycystic Ovary Syndrome	CCK	1.0	
+Polycystic Ovary Syndrome	F2	1.0	
+Polycystic Ovary Syndrome	GHRL	1.0	
+Polycystic Ovary Syndrome	GNAQ	1.0	
+Polycystic Ovary Syndrome	GNRH1	1.0	
+Polycystic Ovary Syndrome	GNRHR	1.0	
+Polycystic Ovary Syndrome	KISS1	1.0	
+Polycystic Ovary Syndrome	PTAFR	1.0	
+Glioma	ADRA1A	1.0	
+Glioma	BDKRB1	1.0	
+Glioma	BDKRB2	1.0	
+Glioma	CASR	1.0	
+Glioma	CCK	1.0	
+Glioma	CCKAR	1.0	
+Glioma	CCKBR	1.0	
+Glioma	CYSLTR2	1.0	
+Glioma	EDN1	1.0	
+Glioma	EDNRA	1.0	
+Glioma	EDNRB	1.0	
+Glioma	F2	1.0	
+Glioma	F2R	1.0	
+Glioma	F2RL1	1.0	
+Glioma	F2RL3	1.0	
+Glioma	GAST	1.0	
+Glioma	GRP	1.0	
+Glioma	KNG1	1.0	
+Glioma	LPAR1	1.0	
+Glioma	LPAR2	1.0	
+Glioma	NTS	1.0	
+Glioma	NTSR1	1.0	
+Glioma	P2RY1	1.0	
+Glioma	P2RY6	1.0	
+Glioma	TAC1	1.0	
+Glioma	TACR1	1.0	
+Colorectal cancer 1	ADRA1A	1.0	
+Colorectal cancer 1	ADRA1B	1.0	
+Colorectal cancer 1	ADRA1D	1.0	
+Colorectal cancer 1	AGT	1.0	
+Colorectal cancer 1	AVPR1B	1.0	
+Colorectal cancer 1	CASR	1.0	
+Colorectal cancer 1	CCK	1.0	
+Colorectal cancer 1	CCKBR	1.0	
+Colorectal cancer 1	CHRM3	1.0	
+Colorectal cancer 1	CYSLTR2	1.0	
+Colorectal cancer 1	EDN1	1.0	
+Colorectal cancer 1	EDNRA	1.0	
+Colorectal cancer 1	F2	1.0	
+Colorectal cancer 1	F2R	1.0	
+Colorectal cancer 1	F2RL1	1.0	
+Colorectal cancer 1	F2RL3	1.0	
+Colorectal cancer 1	GAST	1.0	
+Colorectal cancer 1	GRP	1.0	
+Colorectal cancer 1	GRPR	1.0	
+Colorectal cancer 1	KISS1	1.0	
+Colorectal cancer 1	KISS1R	1.0	
+Colorectal cancer 1	KNG1	1.0	
+Colorectal cancer 1	LPAR1	1.0	
+Colorectal cancer 1	LPAR2	1.0	
+Colorectal cancer 1	LPAR3	1.0	
+Colorectal cancer 1	NTS	1.0	
+Colorectal cancer 1	NTSR1	1.0	
+Colorectal cancer 1	PROK1	1.0	
+Colorectal cancer 1	TAC1	1.0	
+Colorectal cancer 1	UTS2	1.0	
+Pulmonary Cystic Fibrosis	ADRA1A	1.0	
+Pulmonary Cystic Fibrosis	CYSLTR2	1.0	
+Pulmonary Cystic Fibrosis	EDNRA	1.0	
+Pulmonary Cystic Fibrosis	LPAR2	1.0	
+Intraocular melanoma	ADRA1A	1.0	
+Intraocular melanoma	CYSLTR2	1.0	
+Intraocular melanoma	EDNRA	1.0	
+Intraocular melanoma	EDNRB	1.0	
+Intraocular melanoma	GNA11	1.0	
+Intraocular melanoma	GNAQ	1.0	
+Intraocular melanoma	GNRH1	1.0	
+Intraocular melanoma	LPAR2	1.0	
+Reduced bone mineral density	CASR	1.0	
+Reduced bone mineral density	GNA11	1.0	
+Reduced bone mineral density	GNRH1	1.0	
+Reduced bone mineral density	GNRHR	1.0	
+Reduced bone mineral density	KISS1	1.0	
+Reduced bone mineral density	KISS1R	1.0	
+Reduced bone mineral density	PROK2	1.0	
+Reduced bone mineral density	PROKR2	1.0	
+Reduced bone mineral density	TAC3	1.0	
+Reduced bone mineral density	TACR3	1.0	
+Acute kidney injury	AGT	1.0	
+Acute kidney injury	AVPR1A	1.0	
+Acute kidney injury	BDKRB2	1.0	
+Acute kidney injury	EDN1	1.0	
+Acute kidney injury	EDNRA	1.0	
+Acute kidney injury	KNG1	1.0	
+Acute kidney injury	PTAFR	1.0	
+Acute kidney injury	SAA1	1.0	
+Acute kidney injury	UTS2R	1.0	
+Congenital Myotonic Dystrophy	ADRA1A	1.0	
+Congenital Myotonic Dystrophy	ADRA1D	1.0	
+Congenital Myotonic Dystrophy	CYSLTR2	1.0	
+Congenital Myotonic Dystrophy	EDNRA	1.0	
+Congenital Myotonic Dystrophy	GPR4	1.0	
+Congenital Myotonic Dystrophy	HCRT	1.0	
+Congenital Myotonic Dystrophy	LPAR2	1.0	
+Methamphetamine abuse	ADRA1A	1.0	
+Methamphetamine abuse	CYSLTR2	1.0	
+Methamphetamine abuse	EDNRA	1.0	
+Methamphetamine abuse	GRM5	1.0	
+Methamphetamine abuse	LPAR2	1.0	
+Methamphetamine abuse	NTS	1.0	
+Abnormality of the endocrine system	CASR	1.0	
+Abnormality of the endocrine system	EDN3	1.0	
+Abnormality of the endocrine system	EDNRB	1.0	
+Abnormality of the endocrine system	F2	1.0	
+Abnormality of the endocrine system	GHSR	1.0	
+Abnormality of the endocrine system	GNRH1	1.0	
+Abnormality of the endocrine system	GNRHR	1.0	
+Abnormality of the endocrine system	KISS1	1.0	
+Abnormality of the endocrine system	KISS1R	1.0	
+Abnormality of the endocrine system	PROK2	1.0	
+Abnormality of the endocrine system	PROKR2	1.0	
+Abnormality of the endocrine system	SAA1	1.0	
+Abnormality of the endocrine system	TAC3	1.0	
+Abnormality of the endocrine system	TACR3	1.0	
+Abnormality of the endocrine system	TRH	1.0	
+Abnormality of the endocrine system	TRHR	1.0	
+Dyspareunia	KISS1R	1.0	
+Dyspareunia	PROK2	1.0	
+Dyspareunia	PROKR2	1.0	
+Dyspareunia	TACR3	1.0	
+Malignant ascites	LPAR1	1.0	
+Malignant ascites	LPAR2	1.0	
+Malignant ascites	XCL1	1.0	
+Malignant ascites	XCL2	1.0	
+Benign Prostatic Hyperplasia	ADRA1A	1.0	
+Benign Prostatic Hyperplasia	ADRA1D	1.0	
+Benign Prostatic Hyperplasia	CYSLTR2	1.0	
+Benign Prostatic Hyperplasia	EDN1	1.0	
+Benign Prostatic Hyperplasia	EDNRA	1.0	
+Benign Prostatic Hyperplasia	EDNRB	1.0	
+Benign Prostatic Hyperplasia	F2R	1.0	
+Benign Prostatic Hyperplasia	F2RL1	1.0	
+Benign Prostatic Hyperplasia	GNRH1	1.0	
+Benign Prostatic Hyperplasia	GRP	1.0	
+Benign Prostatic Hyperplasia	LPAR2	1.0	
+Anorexia nervosa 1	CCKAR	1.0	
+Anorexia nervosa 1	GCG	1.0	
+Anorexia nervosa 1	GHRL	1.0	
+Anorexia nervosa 1	GHSR	1.0	
+Anorexia nervosa 1	OXT	1.0	
+Anorexia nervosa 1	OXTR	1.0	
+Insulinoma	ADRA1D	1.0	
+Insulinoma	CASR	1.0	
+Insulinoma	CCK	1.0	
+Insulinoma	FFAR1	1.0	
+Insulinoma	GAST	1.0	
+Insulinoma	GCG	1.0	
+Insulinoma	GCGR	1.0	
+Prader-Willi syndrome	F2R	1.0	
+Prader-Willi syndrome	GHRL	1.0	
+Prader-Willi syndrome	GHSR	1.0	
+Prader-Willi syndrome	GNAQ	1.0	
+Prader-Willi syndrome	HCRT	1.0	
+Prader-Willi syndrome	OXT	1.0	
+Overweight	AGT	1.0	
+Overweight	AVPR1A	1.0	
+Overweight	EDN1	1.0	
+Overweight	GHRL	1.0	
+Overweight	GHSR	1.0	
+Overweight	NMB	1.0	
+Overweight	NMU	1.0	
+Overweight	TRH	1.0	
+Steinert myotonic dystrophy syndrome	ADRA1A	1.0	
+Steinert myotonic dystrophy syndrome	ADRA1D	1.0	
+Steinert myotonic dystrophy syndrome	CYSLTR2	1.0	
+Steinert myotonic dystrophy syndrome	EDNRA	1.0	
+Steinert myotonic dystrophy syndrome	GPR4	1.0	
+Steinert myotonic dystrophy syndrome	HCRT	1.0	
+Steinert myotonic dystrophy syndrome	LPAR2	1.0	
+Decreased fertility	CHRM3	1.0	
+Decreased fertility	GNRH1	1.0	
+Decreased fertility	GNRHR	1.0	
+Decreased fertility	KISS1R	1.0	
+Decreased fertility	PROK2	1.0	
+Decreased fertility	PROKR2	1.0	
+Decreased fertility	TACR3	1.0	
+Common Migraine	EDNRA	1.0	
+Common Migraine	HCRT	1.0	
+Common Migraine	HCRTR1	1.0	
+Common Migraine	HTR2B	1.0	
+Common Migraine	TAC1	1.0	
+Abnormality of skeletal physiology	CASR	1.0	
+Abnormality of skeletal physiology	GHSR	1.0	
+Abnormality of skeletal physiology	GNRH1	1.0	
+Abnormality of skeletal physiology	GNRHR	1.0	
+Abnormality of skeletal physiology	KISS1	1.0	
+Abnormality of skeletal physiology	KISS1R	1.0	
+Abnormality of skeletal physiology	PROK2	1.0	
+Abnormality of skeletal physiology	PROKR2	1.0	
+Abnormality of skeletal physiology	TAC3	1.0	
+Abnormality of skeletal physiology	TACR3	1.0	
+Abnormality of skeletal physiology	TRH	1.0	
+Portal hypertension, noncirrhotic	AGT	1.0	
+Portal hypertension, noncirrhotic	BDKRB2	1.0	
+Portal hypertension, noncirrhotic	EDN1	1.0	
+Portal hypertension, noncirrhotic	EDNRA	1.0	
+Portal hypertension, noncirrhotic	EDNRB	1.0	
+Portal hypertension, noncirrhotic	UTS2B	1.0	
+Lung cancer	ADRA1A	1.0	
+Lung cancer	ADRA1D	1.0	
+Lung cancer	AGT	1.0	
+Lung cancer	CASR	1.0	
+Lung cancer	CYSLTR2	1.0	
+Lung cancer	EDN1	1.0	
+Lung cancer	EDNRA	1.0	
+Lung cancer	EDNRB	1.0	
+Lung cancer	F2R	1.0	
+Lung cancer	F2RL3	1.0	
+Lung cancer	GAST	1.0	
+Lung cancer	GHSR	1.0	
+Lung cancer	GPR4	1.0	
+Lung cancer	GRP	1.0	
+Lung cancer	GRPR	1.0	
+Lung cancer	KNG1	1.0	
+Lung cancer	LPAR1	1.0	
+Lung cancer	LPAR2	1.0	
+Lung cancer	NMB	1.0	
+Lung cancer	NMBR	1.0	
+Lung cancer	NMU	1.0	
+Lung cancer	NTS	1.0	
+Lung cancer	NTSR1	1.0	
+Lung cancer	OPN4	1.0	
+Lung cancer	OXT	1.0	
+Lung cancer	OXTR	1.0	
+Lung cancer	TAC1	1.0	
+Renal Insufficiency, Chronic	AGT	1.0	
+Renal Insufficiency, Chronic	APP	1.0	
+Renal Insufficiency, Chronic	BDKRB1	1.0	
+Renal Insufficiency, Chronic	BDKRB2	1.0	
+Renal Insufficiency, Chronic	CASR	1.0	
+Renal Insufficiency, Chronic	EDN1	1.0	
+Renal Insufficiency, Chronic	EDNRA	1.0	
+Renal Insufficiency, Chronic	GHRL	1.0	
+Renal Insufficiency, Chronic	KNG1	1.0	
+Renal Insufficiency, Chronic	UTS2	1.0	
+Diabetic Nephropathies	ADRA1D	1.0	
+Diabetic Nephropathies	AGT	1.0	
+Diabetic Nephropathies	BDKRB1	1.0	
+Diabetic Nephropathies	BDKRB2	1.0	
+Diabetic Nephropathies	EDN1	1.0	
+Diabetic Nephropathies	EDNRA	1.0	
+Diabetic Nephropathies	GCG	1.0	
+Diabetic Nephropathies	GHRL	1.0	
+Diabetic Nephropathies	GHSR	1.0	
+Diabetic Nephropathies	KNG1	1.0	
+Diabetic Nephropathies	SAA1	1.0	
+Diabetic Nephropathies	UTS2	1.0	
+Diabetic Nephropathies	UTS2R	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	EDNRA	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GPRC6A	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	LPAR3	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	MLN	1.0	
+Bleeding with minor or no trauma	AGT	1.0	
+Bleeding with minor or no trauma	AVPR1A	1.0	
+Bleeding with minor or no trauma	BDKRB2	1.0	
+Bleeding with minor or no trauma	F2	1.0	
+Bleeding with minor or no trauma	F2R	1.0	
+Granulomatosis with Polyangiitis	AGT	1.0	
+Granulomatosis with Polyangiitis	F2	1.0	
+Granulomatosis with Polyangiitis	F2RL1	1.0	
+Granulomatosis with Polyangiitis	GHRL	1.0	
+Granulomatosis with Polyangiitis	GHSR	1.0	
+Immediate hypersensitivity	CHRM3	1.0	
+Immediate hypersensitivity	CYSLTR1	1.0	
+Immediate hypersensitivity	CYSLTR2	1.0	
+Immediate hypersensitivity	EDN1	1.0	
+Immediate hypersensitivity	EDNRA	1.0	
+Immediate hypersensitivity	NPSR1	1.0	
+Eating disorder	CCKAR	1.0	
+Eating disorder	GHRL	1.0	
+Eating disorder	GHSR	1.0	
+Eating disorder	OXTR	1.0	
+Eating disorder	UTS2	1.0	
+Cryptorchidism	ADRA1A	1.0	
+Cryptorchidism	CHRM3	1.0	
+Cryptorchidism	CYSLTR2	1.0	
+Cryptorchidism	EDNRA	1.0	
+Cryptorchidism	GNRH1	1.0	
+Cryptorchidism	GNRHR	1.0	
+Cryptorchidism	KISS1	1.0	
+Cryptorchidism	KISS1R	1.0	
+Cryptorchidism	LPAR2	1.0	
+Cryptorchidism	PROK2	1.0	
+Cryptorchidism	PROKR2	1.0	
+Cryptorchidism	TAC3	1.0	
+Cryptorchidism	TACR3	1.0	
+Endometriosis	BDKRB1	1.0	
+Endometriosis	F2	1.0	
+Endometriosis	F2R	1.0	
+Endometriosis	F2RL1	1.0	
+Endometriosis	GNRH1	1.0	
+Endometriosis	GNRHR	1.0	
+Endometriosis	KNG1	1.0	
+Endometriosis	LPAR3	1.0	
+Endometriosis	PROK1	1.0	
+Endometriosis	PTGFR	1.0	
+Endometriosis	TAC1	1.0	
+Endometriosis	TACR1	1.0	
+Endometriosis	TRH	1.0	
+Endometriosis	UTS2	1.0	
+Anaphylactic shock NOS	AGT	1.0	
+Anaphylactic shock NOS	CYSLTR2	1.0	
+Anaphylactic shock NOS	KNG1	1.0	
+Anaphylactic shock NOS	LTB4R	1.0	
+Sciatic Neuropathy	AGT	1.0	
+Sciatic Neuropathy	BDKRB1	1.0	
+Sciatic Neuropathy	BDKRB2	1.0	
+Sciatic Neuropathy	NTS	1.0	
+Sciatic Neuropathy	PTAFR	1.0	
+Abnormal breast morphology	GNRH1	1.0	
+Abnormal breast morphology	GNRHR	1.0	
+Abnormal breast morphology	KISS1	1.0	
+Abnormal breast morphology	KISS1R	1.0	
+Abnormal breast morphology	PROK2	1.0	
+Abnormal breast morphology	PROKR2	1.0	
+Abnormal breast morphology	TAC3	1.0	
+Abnormal breast morphology	TACR3	1.0	
+Bleeding disorder, platelet-type, 21	F2	1.0	
+Bleeding disorder, platelet-type, 21	F2R	1.0	
+Bleeding disorder, platelet-type, 21	F2RL3	1.0	
+Bleeding disorder, platelet-type, 21	GNAQ	1.0	
+Bleeding disorder, platelet-type, 21	GPRC6A	1.0	
+Bleeding disorder, platelet-type, 21	LPAR3	1.0	
+Bleeding disorder, platelet-type, 21	P2RY1	1.0	
+Ischemia	AGT	1.0	
+Ischemia	APP	1.0	
+Ischemia	EDN1	1.0	
+Ischemia	EDNRB	1.0	
+Ischemia	F2	1.0	
+Ischemia	F2R	1.0	
+Ischemia	F2RL1	1.0	
+Ischemia	GPR17	1.0	
+Ischemia	GPRC6A	1.0	
+Ischemia	LPAR3	1.0	
+Ischemia	OXT	1.0	
+Ischemia	P2RY1	1.0	
+Ischemia	UTS2	1.0	
+Substance Withdrawal Syndrome	CCKBR	1.0	
+Substance Withdrawal Syndrome	HCRT	1.0	
+Substance Withdrawal Syndrome	HCRTR1	1.0	
+Substance Withdrawal Syndrome	HRH1	1.0	
+Substance Withdrawal Syndrome	TACR1	1.0	
+Abnormality of the breast	GNRH1	1.0	
+Abnormality of the breast	GNRHR	1.0	
+Abnormality of the breast	KISS1	1.0	
+Abnormality of the breast	KISS1R	1.0	
+Abnormality of the breast	PROK2	1.0	
+Abnormality of the breast	PROKR2	1.0	
+Abnormality of the breast	TAC3	1.0	
+Abnormality of the breast	TACR3	1.0	
+Renal cell carcinoma, nonpapillary	AGT	1.0	
+Renal cell carcinoma, nonpapillary	CASR	1.0	
+Renal cell carcinoma, nonpapillary	CCK	1.0	
+Renal cell carcinoma, nonpapillary	EDN1	1.0	
+Renal cell carcinoma, nonpapillary	EDN2	1.0	
+Renal cell carcinoma, nonpapillary	EDNRA	1.0	
+Renal cell carcinoma, nonpapillary	EDNRB	1.0	
+Renal cell carcinoma, nonpapillary	F2	1.0	
+Renal cell carcinoma, nonpapillary	F2R	1.0	
+Renal cell carcinoma, nonpapillary	F2RL1	1.0	
+Renal cell carcinoma, nonpapillary	F2RL2	1.0	
+Renal cell carcinoma, nonpapillary	GHSR	1.0	
+Renal cell carcinoma, nonpapillary	GRM1	1.0	
+Renal cell carcinoma, nonpapillary	GRP	1.0	
+Renal cell carcinoma, nonpapillary	GRPR	1.0	
+Renal cell carcinoma, nonpapillary	KISS1	1.0	
+Renal cell carcinoma, nonpapillary	KISS1R	1.0	
+Renal cell carcinoma, nonpapillary	LPAR1	1.0	
+Renal cell carcinoma, nonpapillary	NMU	1.0	
+Renal cell carcinoma, nonpapillary	NMUR1	1.0	
+Synovial Cyst	ADRA1D	1.0	
+Synovial Cyst	CCK	1.0	
+Synovial Cyst	EDN1	1.0	
+Synovial Cyst	EDNRA	1.0	
+Synovial Cyst	EDNRB	1.0	
+Synovial Cyst	LPAR1	1.0	
+Synovial Cyst	TAC1	1.0	
+Eclampsia	AGT	1.0	
+Eclampsia	BDKRB1	1.0	
+Eclampsia	EDN1	1.0	
+Eclampsia	F2	1.0	
+Eclampsia	TAC3	1.0	
+Eclampsia	TACR3	1.0	
+Eclampsia	UTS2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRA1A	1.0	
+Disorders of Intracellular Cobalamin Metabolism	AGT	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CASR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	CYSLTR2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	EDN1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	EDNRA	1.0	
+Disorders of Intracellular Cobalamin Metabolism	FFAR2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GCG	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GHSR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	LPAR2	1.0	
+Joint hypermobility	GNRH1	1.0	
+Joint hypermobility	GNRHR	1.0	
+Joint hypermobility	KISS1	1.0	
+Joint hypermobility	KISS1R	1.0	
+Joint hypermobility	PROK2	1.0	
+Joint hypermobility	PROKR2	1.0	
+Joint hypermobility	TAC3	1.0	
+Joint hypermobility	TACR3	1.0	
+Abnormality of bone mineral density	CASR	1.0	
+Abnormality of bone mineral density	GNA11	1.0	
+Abnormality of bone mineral density	GNRH1	1.0	
+Abnormality of bone mineral density	GNRHR	1.0	
+Abnormality of bone mineral density	KISS1	1.0	
+Abnormality of bone mineral density	KISS1R	1.0	
+Abnormality of bone mineral density	PROK2	1.0	
+Abnormality of bone mineral density	PROKR2	1.0	
+Abnormality of bone mineral density	TAC3	1.0	
+Abnormality of bone mineral density	TACR3	1.0	
+Recurrent tumor	ADRA1A	1.0	
+Recurrent tumor	CCK	1.0	
+Recurrent tumor	CYSLTR2	1.0	
+Recurrent tumor	EDNRA	1.0	
+Recurrent tumor	EDNRB	1.0	
+Recurrent tumor	F2R	1.0	
+Recurrent tumor	KISS1	1.0	
+Recurrent tumor	LPAR2	1.0	
+Recurrent tumor	TAC1	1.0	
+Abnormality of female internal genitalia	CHRM3	1.0	
+Abnormality of female internal genitalia	F2	1.0	
+Abnormality of female internal genitalia	GNRH1	1.0	
+Abnormality of female internal genitalia	GNRHR	1.0	
+Abnormality of female internal genitalia	KISS1	1.0	
+Abnormality of female internal genitalia	KISS1R	1.0	
+Abnormality of female internal genitalia	PROK2	1.0	
+Abnormality of female internal genitalia	PROKR2	1.0	
+Abnormality of female internal genitalia	TAC3	1.0	
+Abnormality of female internal genitalia	TACR3	1.0	
+Abdominal pain	CASR	1.0	
+Abdominal pain	EDN3	1.0	
+Abdominal pain	EDNRB	1.0	
+Abdominal pain	GHSR	1.0	
+Abdominal pain	GNA11	1.0	
+Abdominal pain	SAA1	1.0	
+Abdominal pain	TAC1	1.0	
+Abnormality of the hair	CASR	1.0	
+Abnormality of the hair	EDN3	1.0	
+Abnormality of the hair	EDNRA	1.0	
+Abnormality of the hair	EDNRB	1.0	
+Abnormality of the hair	GNA11	1.0	
+Abnormality of the hair	GNRH1	1.0	
+Abnormality of the hair	GNRHR	1.0	
+Abnormality of the hair	KISS1	1.0	
+Abnormality of the hair	KISS1R	1.0	
+Abnormality of the hair	LPAR6	1.0	
+Abnormality of the hair	PROK2	1.0	
+Abnormality of the hair	PROKR2	1.0	
+Abnormality of the hair	TAC3	1.0	
+Abnormality of the hair	TACR3	1.0	
+Ganglioneuroblastoma	EDN3	1.0	
+Ganglioneuroblastoma	PMCH	1.0	
+Ganglioneuroblastoma	TAC1	1.0	
+Ganglioneuroblastoma	UTS2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ADRA1A	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ADRA1D	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	AGT	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CASR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CCK	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CYSLTR2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	EDN1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	EDNRA	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	F2RL1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GAST	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GNRH1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GNRH2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GNRHR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GPR4	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GPR68	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GRP	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	GRPR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	KISS1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	KNG1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	LPAR1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	LPAR2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	LPAR3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PROK1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PTAFR	1.0	
+Cough	BDKRB2	1.0	
+Cough	KNG1	1.0	
+Cough	TAC1	1.0	
+Cough	TACR1	1.0	
+Cough	TACR2	1.0	
+Colitis, Ulcerative	ADRA1B	1.0	
+Colitis, Ulcerative	ADRA1D	1.0	
+Colitis, Ulcerative	APP	1.0	
+Colitis, Ulcerative	CASR	1.0	
+Colitis, Ulcerative	CCKBR	1.0	
+Colitis, Ulcerative	F2RL1	1.0	
+Colitis, Ulcerative	GCG	1.0	
+Colitis, Ulcerative	GHRL	1.0	
+Colitis, Ulcerative	LTB4R2	1.0	
+Colitis, Ulcerative	NTS	1.0	
+Colitis, Ulcerative	TAC1	1.0	
+Colitis, Ulcerative	TACR1	1.0	
+Colitis, Ulcerative	TACR2	1.0	
+Behavioral abnormality	APP	1.0	
+Behavioral abnormality	CASR	1.0	
+Behavioral abnormality	GNA11	1.0	
+Behavioral abnormality	GNAQ	1.0	
+Behavioral abnormality	GNRH1	1.0	
+Behavioral abnormality	GNRHR	1.0	
+Behavioral abnormality	HCRT	1.0	
+Behavioral abnormality	KISS1	1.0	
+Behavioral abnormality	KISS1R	1.0	
+Behavioral abnormality	P2RY11	1.0	
+Behavioral abnormality	PROK2	1.0	
+Behavioral abnormality	PROKR2	1.0	
+Behavioral abnormality	TAC3	1.0	
+Behavioral abnormality	TACR3	1.0	
+Behavioral abnormality	TRHR	1.0	
+Rhinitis, Allergic, Seasonal	BDKRB1	1.0	
+Rhinitis, Allergic, Seasonal	CYSLTR1	1.0	
+Rhinitis, Allergic, Seasonal	CYSLTR2	1.0	
+Rhinitis, Allergic, Seasonal	F2RL1	1.0	
+Rhinitis, Allergic, Seasonal	HRH1	1.0	
+Rhinitis, Allergic, Seasonal	NPSR1	1.0	
+Nephrosis	AGT	1.0	
+Nephrosis	EDN1	1.0	
+Nephrosis	EDNRB	1.0	
+Nephrosis	F2	1.0	
+Abnormal pupillary morphology	CYSLTR2	1.0	
+Abnormal pupillary morphology	GNA11	1.0	
+Abnormal pupillary morphology	GNAQ	1.0	
+Abnormal pupillary morphology	LPAR6	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	EDN1	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	GNRH1	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	GNRHR	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	KISS1	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	KISS1R	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	PROK2	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	PROKR2	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	TAC3	1.0	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	TACR3	1.0	
+Pain insensitivity	AVPR1A	1.0	
+Pain insensitivity	EDNRB	1.0	
+Pain insensitivity	NPFF	1.0	
+Pain insensitivity	NTS	1.0	
+Abnormal internal genitalia	CHRM3	1.0	
+Abnormal internal genitalia	F2	1.0	
+Abnormal internal genitalia	GNRH1	1.0	
+Abnormal internal genitalia	GNRHR	1.0	
+Abnormal internal genitalia	KISS1	1.0	
+Abnormal internal genitalia	KISS1R	1.0	
+Abnormal internal genitalia	PROK2	1.0	
+Abnormal internal genitalia	PROKR2	1.0	
+Abnormal internal genitalia	TAC3	1.0	
+Abnormal internal genitalia	TACR3	1.0	
+Premature Obstetric Labor	AGT	1.0	
+Premature Obstetric Labor	EDN1	1.0	
+Premature Obstetric Labor	F2	1.0	
+Premature Obstetric Labor	F2R	1.0	
+Premature Obstetric Labor	OXTR	1.0	
+Premature Obstetric Labor	PTGER1	1.0	
+Premature Obstetric Labor	TAC3	1.0	
+body mass	GCGR	1.0	
+body mass	GHRL	1.0	
+body mass	NMB	1.0	
+body mass	PMCH	1.0	
+body mass	TRHR	1.0	
+Thyroid hormone receptor defect	F2R	1.0	
+Thyroid hormone receptor defect	TRH	1.0	
+Thyroid hormone receptor defect	TRHR	1.0	
+Depressed nasal bridge	GNRH1	1.0	
+Depressed nasal bridge	GNRHR	1.0	
+Depressed nasal bridge	KISS1	1.0	
+Depressed nasal bridge	KISS1R	1.0	
+Depressed nasal bridge	PROK2	1.0	
+Depressed nasal bridge	PROKR2	1.0	
+Depressed nasal bridge	TAC3	1.0	
+Depressed nasal bridge	TACR3	1.0	
+Decreased body weight	CASR	1.0	
+Decreased body weight	CHRM3	1.0	
+Decreased body weight	EDN3	1.0	
+Decreased body weight	EDNRB	1.0	
+Decreased body weight	GHSR	1.0	
+Decreased body weight	GNRH1	1.0	
+Decreased body weight	GNRHR	1.0	
+Decreased body weight	KISS1	1.0	
+Decreased body weight	KISS1R	1.0	
+Decreased body weight	OXT	1.0	
+Decreased body weight	PROK2	1.0	
+Decreased body weight	PROKR2	1.0	
+Decreased body weight	TAC3	1.0	
+Decreased body weight	TACR3	1.0	
+Abnormal emotion/affect behavior	CASR	1.0	
+Abnormal emotion/affect behavior	GNA11	1.0	
+Abnormal emotion/affect behavior	GNRH1	1.0	
+Abnormal emotion/affect behavior	GNRHR	1.0	
+Abnormal emotion/affect behavior	KISS1	1.0	
+Abnormal emotion/affect behavior	KISS1R	1.0	
+Abnormal emotion/affect behavior	PROK2	1.0	
+Abnormal emotion/affect behavior	PROKR2	1.0	
+Abnormal emotion/affect behavior	TAC3	1.0	
+Abnormal emotion/affect behavior	TACR3	1.0	
+Liver Cirrhosis, Biliary	ADRA1A	1.0	
+Liver Cirrhosis, Biliary	ADRA1D	1.0	
+Liver Cirrhosis, Biliary	AGT	1.0	
+Liver Cirrhosis, Biliary	CASR	1.0	
+Liver Cirrhosis, Biliary	CHRM3	1.0	
+Liver Cirrhosis, Biliary	EDN1	1.0	
+Liver Cirrhosis, Biliary	EDNRA	1.0	
+Liver Cirrhosis, Biliary	EDNRB	1.0	
+Liver Cirrhosis, Biliary	F2	1.0	
+Liver Cirrhosis, Biliary	F2R	1.0	
+Liver Cirrhosis, Biliary	GCG	1.0	
+Liver Cirrhosis, Biliary	GHRL	1.0	
+Liver Cirrhosis, Biliary	HTR2B	1.0	
+Liver Cirrhosis, Biliary	KNG1	1.0	
+Liver Cirrhosis, Biliary	UTS2	1.0	
+Hypoplastic male external genitalia	CHRM3	1.0	
+Hypoplastic male external genitalia	GNRH1	1.0	
+Hypoplastic male external genitalia	GNRHR	1.0	
+Hypoplastic male external genitalia	KISS1	1.0	
+Hypoplastic male external genitalia	KISS1R	1.0	
+Hypoplastic male external genitalia	PROK2	1.0	
+Hypoplastic male external genitalia	PROKR2	1.0	
+Hypoplastic male external genitalia	TAC3	1.0	
+Hypoplastic male external genitalia	TACR3	1.0	
+Symptomatic human immunodeficiency virus infection	ADRA1A	1.0	
+Symptomatic human immunodeficiency virus infection	ADRA1D	1.0	
+Symptomatic human immunodeficiency virus infection	APP	1.0	
+Symptomatic human immunodeficiency virus infection	CCL23	1.0	
+Symptomatic human immunodeficiency virus infection	CYSLTR2	1.0	
+Symptomatic human immunodeficiency virus infection	EDN1	1.0	
+Symptomatic human immunodeficiency virus infection	EDNRA	1.0	
+Symptomatic human immunodeficiency virus infection	F2R	1.0	
+Symptomatic human immunodeficiency virus infection	F2RL1	1.0	
+Symptomatic human immunodeficiency virus infection	F2RL3	1.0	
+Symptomatic human immunodeficiency virus infection	GAST	1.0	
+Symptomatic human immunodeficiency virus infection	GNAQ	1.0	
+Symptomatic human immunodeficiency virus infection	GPRC6A	1.0	
+Symptomatic human immunodeficiency virus infection	LPAR2	1.0	
+Symptomatic human immunodeficiency virus infection	LPAR3	1.0	
+Symptomatic human immunodeficiency virus infection	LTB4R	1.0	
+Symptomatic human immunodeficiency virus infection	P2RY1	1.0	
+Symptomatic human immunodeficiency virus infection	P2RY2	1.0	
+Symptomatic human immunodeficiency virus infection	TAC1	1.0	
+Symptomatic human immunodeficiency virus infection	TACR1	1.0	
+Symptomatic human immunodeficiency virus infection	TACR3	1.0	
+Symptomatic human immunodeficiency virus infection	XCL1	1.0	
+Symptomatic human immunodeficiency virus infection	XCR1	1.0	
+Abnormality of the vitreous humor	CYSLTR2	1.0	
+Abnormality of the vitreous humor	GNA11	1.0	
+Abnormality of the vitreous humor	GNAQ	1.0	
+Malignant neoplasm of lung	ADRA1A	1.0	
+Malignant neoplasm of lung	ADRA1D	1.0	
+Malignant neoplasm of lung	AGT	1.0	
+Malignant neoplasm of lung	CASR	1.0	
+Malignant neoplasm of lung	CYSLTR2	1.0	
+Malignant neoplasm of lung	EDN1	1.0	
+Malignant neoplasm of lung	EDNRA	1.0	
+Malignant neoplasm of lung	EDNRB	1.0	
+Malignant neoplasm of lung	F2R	1.0	
+Malignant neoplasm of lung	F2RL3	1.0	
+Malignant neoplasm of lung	GAST	1.0	
+Malignant neoplasm of lung	GHSR	1.0	
+Malignant neoplasm of lung	GPR4	1.0	
+Malignant neoplasm of lung	GRP	1.0	
+Malignant neoplasm of lung	GRPR	1.0	
+Malignant neoplasm of lung	KNG1	1.0	
+Malignant neoplasm of lung	LPAR1	1.0	
+Malignant neoplasm of lung	LPAR2	1.0	
+Malignant neoplasm of lung	NMB	1.0	
+Malignant neoplasm of lung	NMBR	1.0	
+Malignant neoplasm of lung	NMU	1.0	
+Malignant neoplasm of lung	NTS	1.0	
+Malignant neoplasm of lung	NTSR1	1.0	
+Malignant neoplasm of lung	OPN4	1.0	
+Malignant neoplasm of lung	OXT	1.0	
+Malignant neoplasm of lung	OXTR	1.0	
+Malignant neoplasm of lung	TAC1	1.0	
+Tachycardia	AGT	1.0	
+Tachycardia	APP	1.0	
+Tachycardia	GCG	1.0	
+Tachycardia	GNRH1	1.0	
+Tachycardia	TAC1	1.0	
+Tachycardia	TRH	1.0	
+Glioblastoma	ADRA1A	1.0	
+Glioblastoma	ADRA1D	1.0	
+Glioblastoma	AGT	1.0	
+Glioblastoma	APP	1.0	
+Glioblastoma	CYSLTR2	1.0	
+Glioblastoma	EDN1	1.0	
+Glioblastoma	EDN3	1.0	
+Glioblastoma	EDNRA	1.0	
+Glioblastoma	EDNRB	1.0	
+Glioblastoma	F2R	1.0	
+Glioblastoma	F2RL1	1.0	
+Glioblastoma	GAST	1.0	
+Glioblastoma	GNRH1	1.0	
+Glioblastoma	GPRC6A	1.0	
+Glioblastoma	GRP	1.0	
+Glioblastoma	LPAR2	1.0	
+Glioblastoma	LPAR3	1.0	
+Glioblastoma	NTS	1.0	
+Glioblastoma	NTSR1	1.0	
+Glioblastoma	TACR1	1.0	
+Glioblastoma	TRH	1.0	
+Choriocarcinoma	AGT	1.0	
+Choriocarcinoma	EDN1	1.0	
+Choriocarcinoma	EDNRA	1.0	
+Choriocarcinoma	EDNRB	1.0	
+Choriocarcinoma	F2R	1.0	
+Choriocarcinoma	KISS1	1.0	
+Choriocarcinoma	KISS1R	1.0	
+Choriocarcinoma	OXT	1.0	
+Bronchiolitis, Viral	CCL23	1.0	
+Bronchiolitis, Viral	CYSLTR1	1.0	
+Bronchiolitis, Viral	EDN1	1.0	
+Bronchiolitis, Viral	NPSR1	1.0	
+Bronchiolitis, Viral	TAC1	1.0	
+Bronchiolitis, Viral	TACR2	1.0	
+Bronchiolitis, Viral	TACR3	1.0	
+Squamous cell carcinoma of the head and neck	ADRA1A	1.0	
+Squamous cell carcinoma of the head and neck	ADRA1D	1.0	
+Squamous cell carcinoma of the head and neck	CYSLTR2	1.0	
+Squamous cell carcinoma of the head and neck	EDNRA	1.0	
+Squamous cell carcinoma of the head and neck	EDNRB	1.0	
+Squamous cell carcinoma of the head and neck	F2R	1.0	
+Squamous cell carcinoma of the head and neck	GRP	1.0	
+Squamous cell carcinoma of the head and neck	GRPR	1.0	
+Squamous cell carcinoma of the head and neck	KISS1	1.0	
+Squamous cell carcinoma of the head and neck	KNG1	1.0	
+Squamous cell carcinoma of the head and neck	LPAR2	1.0	
+Squamous cell carcinoma of the head and neck	NMU	1.0	
+Squamous cell carcinoma of the head and neck	TAC1	1.0	
+Squamous cell carcinoma of the head and neck	TACR1	1.0	
+Weight Gain Adverse Event	CCKAR	1.0	
+Weight Gain Adverse Event	CHRM3	1.0	
+Weight Gain Adverse Event	GRM1	1.0	
+Weight Gain Adverse Event	GRM5	1.0	
+Weight Gain Adverse Event	HRH1	1.0	
+Weight Gain Adverse Event	HTR2B	1.0	
+Bulimia	CCKAR	1.0	
+Bulimia	GHRL	1.0	
+Bulimia	GHSR	1.0	
+Tumor Angiogenesis	AGT	1.0	
+Tumor Angiogenesis	CCK	1.0	
+Tumor Angiogenesis	EDN1	1.0	
+Tumor Angiogenesis	F2	1.0	
+Tumor Angiogenesis	F2R	1.0	
+Tumor Angiogenesis	GPRC6A	1.0	
+Tumor Angiogenesis	GRP	1.0	
+Tumor Angiogenesis	KISS1R	1.0	
+Tumor Angiogenesis	KNG1	1.0	
+Tumor Angiogenesis	LPAR3	1.0	
+Abnormality of the hard palate	EDNRA	1.0	
+Abnormality of the hard palate	GNRH1	1.0	
+Abnormality of the hard palate	GNRHR	1.0	
+Abnormality of the hard palate	KISS1	1.0	
+Abnormality of the hard palate	KISS1R	1.0	
+Abnormality of the hard palate	PROK2	1.0	
+Abnormality of the hard palate	PROKR2	1.0	
+Abnormality of the hard palate	TAC3	1.0	
+Abnormality of the hard palate	TACR3	1.0	
+Ovarian Neoplasms	EDN1	1.0	
+Ovarian Neoplasms	EDNRA	1.0	
+Ovarian Neoplasms	GAST	1.0	
+Ovarian Neoplasms	GNRH1	1.0	
+Ovarian Neoplasms	GNRH2	1.0	
+Ovarian Neoplasms	GNRHR	1.0	
+Ovarian Neoplasms	GRP	1.0	
+Ovarian Neoplasms	GRPR	1.0	
+Ovarian Neoplasms	KISS1	1.0	
+Ovarian Neoplasms	LPAR2	1.0	
+Ovarian Neoplasms	LPAR3	1.0	
+Ovarian Neoplasms	LTB4R	1.0	
+Ovarian Neoplasms	LTB4R2	1.0	
+Ovarian Neoplasms	NTS	1.0	
+Ovarian Neoplasms	PTAFR	1.0	
+External genital hypoplasia	CHRM3	1.0	
+External genital hypoplasia	GNRH1	1.0	
+External genital hypoplasia	GNRHR	1.0	
+External genital hypoplasia	KISS1	1.0	
+External genital hypoplasia	KISS1R	1.0	
+External genital hypoplasia	PROK2	1.0	
+External genital hypoplasia	PROKR2	1.0	
+External genital hypoplasia	TAC3	1.0	
+External genital hypoplasia	TACR3	1.0	
+Ulcerative colitis	ADRA1D	1.0	
+Ulcerative colitis	BDKRB1	1.0	
+Ulcerative colitis	F2	1.0	
+Ulcerative colitis	F2RL1	1.0	
+Ulcerative colitis	GHRL	1.0	
+Ulcerative colitis	GHSR	1.0	
+Ulcerative colitis	KNG1	1.0	
+Ulcerative colitis	LPAR6	1.0	
+Ulcerative colitis	MLN	1.0	
+Ulcerative colitis	NPSR1	1.0	
+Ulcerative colitis	SAA1	1.0	
+Ulcerative colitis	TAC1	1.0	
+Ulcerative colitis	TACR1	1.0	
+Ulcerative colitis	TACR2	1.0	
+Abnormality of the female genitalia	CHRM3	1.0	
+Abnormality of the female genitalia	F2	1.0	
+Abnormality of the female genitalia	GNRH1	1.0	
+Abnormality of the female genitalia	GNRHR	1.0	
+Abnormality of the female genitalia	KISS1	1.0	
+Abnormality of the female genitalia	KISS1R	1.0	
+Abnormality of the female genitalia	PROK2	1.0	
+Abnormality of the female genitalia	PROKR2	1.0	
+Abnormality of the female genitalia	TAC3	1.0	
+Abnormality of the female genitalia	TACR3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ADRA1B	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	ADRA1D	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	AGT	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	APP	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BDKRB1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	BDKRB2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CCK	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CCKAR	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	CCKBR	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EDN1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	EDNRA	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2R	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2RL1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	F2RL3	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GAST	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GHRL	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GRP	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	GRPR	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	KISS1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	LPAR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NTS	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	NTSR1	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	XCL1	1.0	
+Intraocular pressure disorder	AGT	1.0	
+Intraocular pressure disorder	EDN1	1.0	
+Intraocular pressure disorder	GHSR	1.0	
+Intraocular pressure disorder	P2RY1	1.0	
+Intraocular pressure disorder	PTGFR	1.0	
+Zonular cataract	CYSLTR2	1.0	
+Zonular cataract	GNA11	1.0	
+Zonular cataract	GNAQ	1.0	
+Cystic Fibrosis	ADRA1D	1.0	
+Cystic Fibrosis	EDN1	1.0	
+Cystic Fibrosis	EDN2	1.0	
+Cystic Fibrosis	EDN3	1.0	
+Cystic Fibrosis	EDNRA	1.0	
+Cystic Fibrosis	EDNRB	1.0	
+Cystic Fibrosis	F2RL1	1.0	
+Cystic Fibrosis	GRM1	1.0	
+Cystic Fibrosis	P2RY11	1.0	
+Cystic Fibrosis	P2RY2	1.0	
+Alcoholic Liver Diseases	ADRA1D	1.0	
+Alcoholic Liver Diseases	AGT	1.0	
+Alcoholic Liver Diseases	CCK	1.0	
+Alcoholic Liver Diseases	CCKAR	1.0	
+Alcoholic Liver Diseases	CCKBR	1.0	
+Small cell lung cancer	AVPR1A	1.0	
+Small cell lung cancer	AVPR1B	1.0	
+Small cell lung cancer	CCK	1.0	
+Small cell lung cancer	CCKBR	1.0	
+Small cell lung cancer	EDNRB	1.0	
+Small cell lung cancer	GAST	1.0	
+Small cell lung cancer	GRP	1.0	
+Small cell lung cancer	GRPR	1.0	
+Small cell lung cancer	NMBR	1.0	
+Small cell lung cancer	NTS	1.0	
+Small cell lung cancer	OXT	1.0	
+Small cell lung cancer	OXTR	1.0	
+Metabolic Syndrome X	ADRA1A	1.0	
+Metabolic Syndrome X	ADRA1D	1.0	
+Metabolic Syndrome X	AGT	1.0	
+Metabolic Syndrome X	APP	1.0	
+Metabolic Syndrome X	EDN1	1.0	
+Metabolic Syndrome X	F2	1.0	
+Metabolic Syndrome X	GCG	1.0	
+Metabolic Syndrome X	GHRL	1.0	
+Metabolic Syndrome X	GHSR	1.0	
+Metabolic Syndrome X	OPN4	1.0	
+Metabolic Syndrome X	UTS2	1.0	
+Metabolic Syndrome X	UTS2R	1.0	
+Restenosis	AGT	1.0	
+Restenosis	CASR	1.0	
+Restenosis	EDN1	1.0	
+Restenosis	EDNRA	1.0	
+Restenosis	F2	1.0	
+Restenosis	F2R	1.0	
+Restenosis	UTS2	1.0	
+Hepatocellular carcinoma	ADRA1A	1.0	
+Hepatocellular carcinoma	ADRA1D	1.0	
+Hepatocellular carcinoma	AGT	1.0	
+Hepatocellular carcinoma	APP	1.0	
+Hepatocellular carcinoma	CASR	1.0	
+Hepatocellular carcinoma	CCKBR	1.0	
+Hepatocellular carcinoma	EDN1	1.0	
+Hepatocellular carcinoma	EDNRA	1.0	
+Hepatocellular carcinoma	EDNRB	1.0	
+Hepatocellular carcinoma	F2	1.0	
+Hepatocellular carcinoma	F2R	1.0	
+Hepatocellular carcinoma	F2RL1	1.0	
+Hepatocellular carcinoma	F2RL2	1.0	
+Hepatocellular carcinoma	F2RL3	1.0	
+Hepatocellular carcinoma	GCG	1.0	
+Hepatocellular carcinoma	GNA14	1.0	
+Hepatocellular carcinoma	HTR2B	1.0	
+Hepatocellular carcinoma	KISS1	1.0	
+Hepatocellular carcinoma	KISS1R	1.0	
+Hepatocellular carcinoma	LPAR1	1.0	
+Hepatocellular carcinoma	LPAR3	1.0	
+Hepatocellular carcinoma	LPAR6	1.0	
+Hepatocellular carcinoma	NTS	1.0	
+Hepatocellular carcinoma	P2RY2	1.0	
+Hepatocellular carcinoma	PROK1	1.0	
+Hepatocellular carcinoma	PTGER1	1.0	
+Hepatocellular carcinoma	SAA1	1.0	
+Hepatocellular carcinoma	TRH	1.0	
+Hepatocellular carcinoma	UTS2	1.0	
+Hepatocellular carcinoma	XCL1	1.0	
+Hepatocellular carcinoma	XCL2	1.0	
+Hypothermia	GCG	1.0	
+Hypothermia	GNRH1	1.0	
+Hypothermia	TRH	1.0	
+Hypoplasia of penis	GNRH1	1.0	
+Hypoplasia of penis	GNRHR	1.0	
+Hypoplasia of penis	KISS1	1.0	
+Hypoplasia of penis	KISS1R	1.0	
+Hypoplasia of penis	PROK2	1.0	
+Hypoplasia of penis	PROKR2	1.0	
+Hypoplasia of penis	TAC3	1.0	
+Hypoplasia of penis	TACR3	1.0	
+Glaucoma, Angle-Closure	AGT	1.0	
+Glaucoma, Angle-Closure	CYSLTR2	1.0	
+Glaucoma, Angle-Closure	EDN1	1.0	
+Glaucoma, Angle-Closure	EDN2	1.0	
+Glaucoma, Angle-Closure	EDNRA	1.0	
+Glaucoma, Angle-Closure	EDNRB	1.0	
+Glaucoma, Angle-Closure	GNA11	1.0	
+Glaucoma, Angle-Closure	GNAQ	1.0	
+Glaucoma, Angle-Closure	PTGFR	1.0	
+Glaucoma, Angle-Closure	SAA1	1.0	
+Adenocarcinoma of prostate	EDN1	1.0	
+Adenocarcinoma of prostate	EDNRB	1.0	
+Adenocarcinoma of prostate	GNRH1	1.0	
+Adenocarcinoma of prostate	NTS	1.0	
+Adenocarcinoma of prostate	TAC1	1.0	
+Adenocarcinoma of prostate	UTS2R	1.0	
+Thyroid Diseases	ADRA1B	1.0	
+Thyroid Diseases	CASR	1.0	
+Thyroid Diseases	EDN3	1.0	
+Thyroid Diseases	EDNRB	1.0	
+Thyroid Diseases	GNAQ	1.0	
+Thyroid Diseases	KISS1R	1.0	
+Thyroid Diseases	SAA1	1.0	
+Thyroid Diseases	TRH	1.0	
+Thyroid Diseases	TRHR	1.0	
+Abnormality of body weight	CASR	1.0	
+Abnormality of body weight	CHRM3	1.0	
+Abnormality of body weight	EDN3	1.0	
+Abnormality of body weight	EDNRB	1.0	
+Abnormality of body weight	GHSR	1.0	
+Abnormality of body weight	GNRH1	1.0	
+Abnormality of body weight	GNRHR	1.0	
+Abnormality of body weight	HCRT	1.0	
+Abnormality of body weight	KISS1	1.0	
+Abnormality of body weight	KISS1R	1.0	
+Abnormality of body weight	P2RY11	1.0	
+Abnormality of body weight	PROK2	1.0	
+Abnormality of body weight	PROKR2	1.0	
+Abnormality of body weight	TAC3	1.0	
+Abnormality of body weight	TACR3	1.0	
+Stomach cancer	ADRA1B	1.0	
+Stomach cancer	AGT	1.0	
+Stomach cancer	APP	1.0	
+Stomach cancer	BDKRB1	1.0	
+Stomach cancer	BDKRB2	1.0	
+Stomach cancer	CCK	1.0	
+Stomach cancer	CCKAR	1.0	
+Stomach cancer	CCKBR	1.0	
+Stomach cancer	EDN1	1.0	
+Stomach cancer	EDNRA	1.0	
+Stomach cancer	F2	1.0	
+Stomach cancer	F2R	1.0	
+Stomach cancer	F2RL1	1.0	
+Stomach cancer	F2RL3	1.0	
+Stomach cancer	GAST	1.0	
+Stomach cancer	GHRL	1.0	
+Stomach cancer	GRP	1.0	
+Stomach cancer	GRPR	1.0	
+Stomach cancer	KISS1	1.0	
+Stomach cancer	LPAR1	1.0	
+Stomach cancer	NTS	1.0	
+Stomach cancer	NTSR1	1.0	
+Stomach cancer	PTAFR	1.0	
+Stomach cancer	XCL1	1.0	
+Respiratory Syncytial Virus Infections	CCL23	1.0	
+Respiratory Syncytial Virus Infections	CYSLTR1	1.0	
+Respiratory Syncytial Virus Infections	EDN1	1.0	
+Respiratory Syncytial Virus Infections	NPSR1	1.0	
+Respiratory Syncytial Virus Infections	TAC1	1.0	
+Respiratory Syncytial Virus Infections	TACR1	1.0	
+Respiratory Syncytial Virus Infections	TACR2	1.0	
+Respiratory Syncytial Virus Infections	TACR3	1.0	
+Diaphragmatic hernia	AGT	1.0	
+Diaphragmatic hernia	EDN1	1.0	
+Diaphragmatic hernia	EDNRA	1.0	
+Diaphragmatic hernia	EDNRB	1.0	
+gliosarcoma	CCK	1.0	
+gliosarcoma	CCKAR	1.0	
+gliosarcoma	CCKBR	1.0	
+gliosarcoma	GAST	1.0	
+Abnormal bone ossification	CASR	1.0	
+Abnormal bone ossification	GNA11	1.0	
+Abnormal bone ossification	GNRH1	1.0	
+Abnormal bone ossification	GNRHR	1.0	
+Abnormal bone ossification	KISS1	1.0	
+Abnormal bone ossification	KISS1R	1.0	
+Abnormal bone ossification	PROK2	1.0	
+Abnormal bone ossification	PROKR2	1.0	
+Abnormal bone ossification	TAC3	1.0	
+Abnormal bone ossification	TACR3	1.0	
+Hemolytic uremic syndrome	AGT	1.0	
+Hemolytic uremic syndrome	BDKRB2	1.0	
+Hemolytic uremic syndrome	F2	1.0	
+Hemolytic uremic syndrome	SAA1	1.0	
+Retinal detachment	ADRA1D	1.0	
+Retinal detachment	CYSLTR2	1.0	
+Retinal detachment	EDN1	1.0	
+Retinal detachment	GNA11	1.0	
+Retinal detachment	GNAQ	1.0	
+Dry skin	CASR	1.0	
+Dry skin	GNA11	1.0	
+Dry skin	GRP	1.0	
+Dry skin	PROKR2	1.0	
+Dry skin	TRH	1.0	
+Paraplegia/paraparesis	EDNRB	1.0	
+Paraplegia/paraparesis	KISS1R	1.0	
+Paraplegia/paraparesis	PROK2	1.0	
+Paraplegia/paraparesis	PROKR2	1.0	
+Paraplegia/paraparesis	TACR3	1.0	
+Eczema	CASR	1.0	
+Eczema	CCL23	1.0	
+Eczema	CYSLTR1	1.0	
+Eczema	F2RL1	1.0	
+Eczema	GNA11	1.0	
+Eczema	NPSR1	1.0	
+Eczema	NTS	1.0	
+Eczema	NTSR1	1.0	
+Eczema	OXT	1.0	
+Eczema	TAC1	1.0	
+Recurrent fractures	CASR	1.0	
+Recurrent fractures	KISS1R	1.0	
+Recurrent fractures	PROK2	1.0	
+Recurrent fractures	PROKR2	1.0	
+Recurrent fractures	TACR3	1.0	
+Oral cleft	EDNRA	1.0	
+Oral cleft	GNRH1	1.0	
+Oral cleft	GNRHR	1.0	
+Oral cleft	KISS1	1.0	
+Oral cleft	KISS1R	1.0	
+Oral cleft	PROK2	1.0	
+Oral cleft	PROKR2	1.0	
+Oral cleft	TAC3	1.0	
+Oral cleft	TACR3	1.0	
+Epilepsy	ADRA1A	1.0	
+Epilepsy	ADRA1D	1.0	
+Epilepsy	BDKRB1	1.0	
+Epilepsy	BDKRB2	1.0	
+Epilepsy	CASR	1.0	
+Epilepsy	CHRM3	1.0	
+Epilepsy	CYSLTR2	1.0	
+Epilepsy	EDNRA	1.0	
+Epilepsy	F2	1.0	
+Epilepsy	GRM1	1.0	
+Epilepsy	LPAR2	1.0	
+Epilepsy	TRH	1.0	
+Sensorineural hearing impairment	AGT	1.0	
+Sensorineural hearing impairment	EDN3	1.0	
+Sensorineural hearing impairment	EDNRB	1.0	
+Sensorineural hearing impairment	F2	1.0	
+Sensorineural hearing impairment	GNRH1	1.0	
+Sensorineural hearing impairment	GNRHR	1.0	
+Sensorineural hearing impairment	KISS1	1.0	
+Sensorineural hearing impairment	KISS1R	1.0	
+Sensorineural hearing impairment	PROK2	1.0	
+Sensorineural hearing impairment	PROKR2	1.0	
+Sensorineural hearing impairment	TAC3	1.0	
+Sensorineural hearing impairment	TACR3	1.0	
+Astrocytoma	ADRA1D	1.0	
+Astrocytoma	CASR	1.0	
+Astrocytoma	CCK	1.0	
+Astrocytoma	EDN1	1.0	
+Astrocytoma	EDNRA	1.0	
+Astrocytoma	EDNRB	1.0	
+Astrocytoma	GAST	1.0	
+Astrocytoma	GRM5	1.0	
+Astrocytoma	P2RY1	1.0	
+Astrocytoma	P2RY6	1.0	
+Astrocytoma	TAC1	1.0	
+Astrocytoma	TACR1	1.0	
+Stage IV Ovarian Carcinoma	EDN1	1.0	
+Stage IV Ovarian Carcinoma	EDNRA	1.0	
+Stage IV Ovarian Carcinoma	GNRHR	1.0	
+Sparse axillary hair	GNRH1	1.0	
+Sparse axillary hair	GNRHR	1.0	
+Sparse axillary hair	LPAR6	1.0	
+Allergic rhinitis	AGT	1.0	
+Allergic rhinitis	EDN1	1.0	
+Allergic rhinitis	F2RL1	1.0	
+Allergic rhinitis	HRH1	1.0	
+Allergic rhinitis	KNG1	1.0	
+Allergic rhinitis	TACR1	1.0	
+Sleep apnea	AGT	1.0	
+Sleep apnea	CYSLTR1	1.0	
+Sleep apnea	HCRT	1.0	
+Sleep apnea	NPS	1.0	
+Cardiac fibrosis	AGT	1.0	
+Cardiac fibrosis	EDN1	1.0	
+Cardiac fibrosis	F2RL1	1.0	
+Cardiac fibrosis	UTS2	1.0	
+Puberty and gonadal disorders	F2	1.0	
+Puberty and gonadal disorders	GHSR	1.0	
+Puberty and gonadal disorders	GNRH1	1.0	
+Puberty and gonadal disorders	GNRHR	1.0	
+Puberty and gonadal disorders	KISS1	1.0	
+Puberty and gonadal disorders	KISS1R	1.0	
+Puberty and gonadal disorders	PROK2	1.0	
+Puberty and gonadal disorders	PROKR2	1.0	
+Puberty and gonadal disorders	TAC3	1.0	
+Puberty and gonadal disorders	TACR3	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	GHRL	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	PROK2	1.0	
+ {Nicotine dependence, protection against}, 188890 (3)	PROKR2	1.0	
+Acromegaly	AGT	1.0	
+Acromegaly	GHRL	1.0	
+Acromegaly	TRH	1.0	
+Acromegaly	TRHR	1.0	
+Pituitary Neoplasms	ADRA1D	1.0	
+Pituitary Neoplasms	GHSR	1.0	
+Pituitary Neoplasms	GNRHR	1.0	
+Pituitary Neoplasms	GRP	1.0	
+Pituitary Neoplasms	KISS1	1.0	
+Pituitary Neoplasms	KISS1R	1.0	
+Pituitary Neoplasms	TRH	1.0	
+Pituitary Neoplasms	TRHR	1.0	
+Antisocial Personality Disorder	ADRA1D	1.0	
+Antisocial Personality Disorder	OXT	1.0	
+Antisocial Personality Disorder	OXTR	1.0	
+Abnormality of body height	CASR	1.0	
+Abnormality of body height	EDN3	1.0	
+Abnormality of body height	EDNRB	1.0	
+Abnormality of body height	GHSR	1.0	
+Abnormality of body height	GNRH1	1.0	
+Abnormality of body height	GNRHR	1.0	
+Abnormality of body height	GRM1	1.0	
+Abnormality of body height	KISS1	1.0	
+Abnormality of body height	KISS1R	1.0	
+Abnormality of body height	PROK2	1.0	
+Abnormality of body height	PROKR2	1.0	
+Abnormality of body height	TAC3	1.0	
+Abnormality of body height	TACR3	1.0	
+Abnormality of body height	TRH	1.0	
+Abnormality of reproductive system physiology	CHRM3	1.0	
+Abnormality of reproductive system physiology	GNRH1	1.0	
+Abnormality of reproductive system physiology	GNRHR	1.0	
+Abnormality of reproductive system physiology	KISS1	1.0	
+Abnormality of reproductive system physiology	KISS1R	1.0	
+Abnormality of reproductive system physiology	PROK2	1.0	
+Abnormality of reproductive system physiology	PROKR2	1.0	
+Abnormality of reproductive system physiology	TAC3	1.0	
+Abnormality of reproductive system physiology	TACR3	1.0	
+Precocious puberty	GNRH1	1.0	
+Precocious puberty	KISS1	1.0	
+Precocious puberty	KISS1R	1.0	
+Precocious puberty	TAC3	1.0	
+Precocious puberty	TACR3	1.0	
+Abnormality of color vision	KISS1R	1.0	
+Abnormality of color vision	PROK2	1.0	
+Abnormality of color vision	PROKR2	1.0	
+Abnormality of color vision	TACR3	1.0	
+Cone dysfunction syndrome	KISS1R	1.0	
+Cone dysfunction syndrome	PROK2	1.0	
+Cone dysfunction syndrome	PROKR2	1.0	
+Cone dysfunction syndrome	TACR3	1.0	
+Primary Effusion Lymphoma	ADRA1A	1.0	
+Primary Effusion Lymphoma	ADRA1D	1.0	
+Primary Effusion Lymphoma	CYSLTR2	1.0	
+Primary Effusion Lymphoma	EDNRA	1.0	
+Primary Effusion Lymphoma	LPAR2	1.0	
+Gastroparesis	ADRA1A	1.0	
+Gastroparesis	ADRA1B	1.0	
+Gastroparesis	ADRA1D	1.0	
+Abnormality of the axillary hair	GNRH1	1.0	
+Abnormality of the axillary hair	GNRHR	1.0	
+Abnormality of the axillary hair	LPAR6	1.0	
+Hearing impairment	AGT	1.0	
+Hearing impairment	EDN1	1.0	
+Hearing impairment	EDN3	1.0	
+Hearing impairment	EDNRA	1.0	
+Hearing impairment	EDNRB	1.0	
+Hearing impairment	F2RL2	1.0	
+Hearing impairment	GNA14	1.0	
+Hearing impairment	GNRH1	1.0	
+Hearing impairment	GNRHR	1.0	
+Hearing impairment	KISS1	1.0	
+Hearing impairment	KISS1R	1.0	
+Hearing impairment	PROK2	1.0	
+Hearing impairment	PROKR2	1.0	
+Hearing impairment	TAC3	1.0	
+Hearing impairment	TACR3	1.0	
+Secondary hyperparathyroidism	CASR	1.0	
+Secondary hyperparathyroidism	CCK	1.0	
+Secondary hyperparathyroidism	CCKAR	1.0	
+Secondary hyperparathyroidism	GNRH1	1.0	
+Secondary hyperparathyroidism	MLNR	1.0	
+Secondary hyperparathyroidism	NTSR1	1.0	
+Abnormality of the nasal bridge	EDN3	1.0	
+Abnormality of the nasal bridge	EDNRA	1.0	
+Abnormality of the nasal bridge	EDNRB	1.0	
+Abnormality of the nasal bridge	GNRH1	1.0	
+Abnormality of the nasal bridge	GNRHR	1.0	
+Abnormality of the nasal bridge	KISS1	1.0	
+Abnormality of the nasal bridge	KISS1R	1.0	
+Abnormality of the nasal bridge	PROK2	1.0	
+Abnormality of the nasal bridge	PROKR2	1.0	
+Abnormality of the nasal bridge	TAC3	1.0	
+Abnormality of the nasal bridge	TACR3	1.0	
+Cardiomyopathy	AGT	1.0	
+Cardiomyopathy	AVPR1A	1.0	
+Cardiomyopathy	BDKRB2	1.0	
+Cardiomyopathy	CASR	1.0	
+Cardiomyopathy	EDN1	1.0	
+Cardiomyopathy	EDN2	1.0	
+Cardiomyopathy	EDNRA	1.0	
+Cardiomyopathy	EDNRB	1.0	
+Cardiomyopathy	KISS1	1.0	
+Cardiomyopathy	KNG1	1.0	
+Cardiomyopathy	UTS2	1.0	
+Cardiomyopathy	UTS2R	1.0	
+Kaposi's sarcoma	ADRA1A	1.0	
+Kaposi's sarcoma	CYSLTR2	1.0	
+Kaposi's sarcoma	EDNRA	1.0	
+Kaposi's sarcoma	EDNRB	1.0	
+Kaposi's sarcoma	KISS1R	1.0	
+Kaposi's sarcoma	LPAR2	1.0	
+Acute postoperative pain	ADRA1A	1.0	
+Acute postoperative pain	TAC1	1.0	
+Acute postoperative pain	TACR1	1.0	
+Seizures, Febrile	ADRA1B	1.0	
+Seizures, Febrile	ADRA1D	1.0	
+Seizures, Febrile	AGT	1.0	
+Seizures, Febrile	APP	1.0	
+Seizures, Febrile	CASR	1.0	
+Seizures, Febrile	CCK	1.0	
+Seizures, Febrile	EDN3	1.0	
+Seizures, Febrile	F2	1.0	
+Seizures, Febrile	GHRL	1.0	
+Seizures, Febrile	GNAQ	1.0	
+Seizures, Febrile	GRM1	1.0	
+Seizures, Febrile	GRM5	1.0	
+Seizures, Febrile	KISS1R	1.0	
+Seizures, Febrile	OXT	1.0	
+Seizures, Febrile	PROK2	1.0	
+Seizures, Febrile	PROKR2	1.0	
+Seizures, Febrile	TAC1	1.0	
+Seizures, Febrile	TACR3	1.0	
+Seizures, Febrile	TRH	1.0	
+Hypersensitivity	CYSLTR1	1.0	
+Hypersensitivity	F2RL1	1.0	
+Hypersensitivity	HTR2B	1.0	
+Hypersensitivity	KNG1	1.0	
+Hypersensitivity	NPSR1	1.0	
+Hypersensitivity	TAC1	1.0	
+Hallucinations	CCK	1.0	
+Hallucinations	CCKAR	1.0	
+Hallucinations	CCKBR	1.0	
+Hallucinations	HCRT	1.0	
+Hallucinations	P2RY11	1.0	
+Gastroesophageal reflux	CCK	1.0	
+Gastroesophageal reflux	F2R	1.0	
+Gastroesophageal reflux	F2RL1	1.0	
+Gastroesophageal reflux	GPRC6A	1.0	
+Gastroesophageal reflux	LPAR3	1.0	
+Gastroesophageal reflux	TAC1	1.0	
+Gastroesophageal reflux	TACR1	1.0	
+Ectopia lentis, isolated autosomal recessive	CYSLTR2	1.0	
+Ectopia lentis, isolated autosomal recessive	GNA11	1.0	
+Ectopia lentis, isolated autosomal recessive	GNAQ	1.0	
+Osteosarcoma	ADRA1D	1.0	
+Osteosarcoma	CASR	1.0	
+Osteosarcoma	EDN1	1.0	
+Osteosarcoma	EDNRA	1.0	
+Osteosarcoma	EDNRB	1.0	
+Osteosarcoma	F2RL3	1.0	
+Osteosarcoma	GRM1	1.0	
+Osteosarcoma	GRM5	1.0	
+Osteosarcoma	LPAR1	1.0	
+Osteosarcoma	NMS	1.0	
+Osteosarcoma	OXT	1.0	
+Osteosarcoma	OXTR	1.0	
+Osteosarcoma	P2RY2	1.0	
+Osteosarcoma	PMCH	1.0	
+Ichthyosis bullosa of Siemens	F2RL1	1.0	
+Ichthyosis bullosa of Siemens	HTR2B	1.0	
+Ichthyosis bullosa of Siemens	NPSR1	1.0	
+Ichthyosis bullosa of Siemens	TAC1	1.0	
+Abnormality of the skeletal system	AGT	1.0	
+Abnormality of the skeletal system	APP	1.0	
+Abnormality of the skeletal system	CASR	1.0	
+Abnormality of the skeletal system	CHRM3	1.0	
+Abnormality of the skeletal system	EDN1	1.0	
+Abnormality of the skeletal system	EDN3	1.0	
+Abnormality of the skeletal system	EDNRA	1.0	
+Abnormality of the skeletal system	EDNRB	1.0	
+Abnormality of the skeletal system	F2	1.0	
+Abnormality of the skeletal system	GHSR	1.0	
+Abnormality of the skeletal system	GNA11	1.0	
+Abnormality of the skeletal system	GNAQ	1.0	
+Abnormality of the skeletal system	GNRH1	1.0	
+Abnormality of the skeletal system	GNRHR	1.0	
+Abnormality of the skeletal system	KISS1	1.0	
+Abnormality of the skeletal system	KISS1R	1.0	
+Abnormality of the skeletal system	PROK2	1.0	
+Abnormality of the skeletal system	PROKR2	1.0	
+Abnormality of the skeletal system	TAC3	1.0	
+Abnormality of the skeletal system	TACR3	1.0	
+Abnormality of the skeletal system	TRH	1.0	
+Abnormality of the skeletal system	TRHR	1.0	
+Abnormality of skin adnexa morphology	CASR	1.0	
+Abnormality of skin adnexa morphology	EDN3	1.0	
+Abnormality of skin adnexa morphology	EDNRA	1.0	
+Abnormality of skin adnexa morphology	EDNRB	1.0	
+Abnormality of skin adnexa morphology	GNA11	1.0	
+Abnormality of skin adnexa morphology	GNRH1	1.0	
+Abnormality of skin adnexa morphology	GNRHR	1.0	
+Abnormality of skin adnexa morphology	KISS1	1.0	
+Abnormality of skin adnexa morphology	KISS1R	1.0	
+Abnormality of skin adnexa morphology	LPAR6	1.0	
+Abnormality of skin adnexa morphology	PROK2	1.0	
+Abnormality of skin adnexa morphology	PROKR2	1.0	
+Abnormality of skin adnexa morphology	TAC3	1.0	
+Abnormality of skin adnexa morphology	TACR3	1.0	
+Cerebral aneurysm	AGT	1.0	
+Cerebral aneurysm	EDNRB	1.0	
+Cerebral aneurysm	XCL1	1.0	
+Bulimia nervosa 1	GHRL	1.0	
+Bulimia nervosa 1	GHSR	1.0	
+Bulimia nervosa 1	OXTR	1.0	
+Epilepsy, Temporal Lobe	AGT	1.0	
+Epilepsy, Temporal Lobe	BDKRB1	1.0	
+Epilepsy, Temporal Lobe	BDKRB2	1.0	
+Epilepsy, Temporal Lobe	GNA14	1.0	
+Epilepsy, Temporal Lobe	GRM1	1.0	
+Epilepsy, Temporal Lobe	GRM5	1.0	
+Recurrent abortion	F2	1.0	
+Recurrent abortion	PROK1	1.0	
+Recurrent abortion	PROKR1	1.0	
+Recurrent abortion	PROKR2	1.0	
+Drug Allergy	CYSLTR1	1.0	
+Drug Allergy	CYSLTR2	1.0	
+Drug Allergy	MLN	1.0	
+Drug Allergy	TAC1	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	AGT	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	F2	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	F2R	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GCG	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GCGR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GHSR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	TRH	1.0	
+Vomiting	CASR	1.0	
+Vomiting	GHSR	1.0	
+Vomiting	GNRH1	1.0	
+Vomiting	SAA1	1.0	
+Vomiting	TAC1	1.0	
+Vomiting	TACR1	1.0	
+Neoplasm of the eye	CYSLTR2	1.0	
+Neoplasm of the eye	GNA11	1.0	
+Neoplasm of the eye	GNAQ	1.0	
+Cerebral edema	AVPR1A	1.0	
+Cerebral edema	EDN1	1.0	
+Cerebral edema	F2	1.0	
+Cerebral edema	F2R	1.0	
+Pulmonary Embolism	ADRA1D	1.0	
+Pulmonary Embolism	EDN1	1.0	
+Pulmonary Embolism	F2	1.0	
+Pulmonary Embolism	GNAQ	1.0	
+Pulmonary Embolism	KNG1	1.0	
+Abnormal bone structure	CASR	1.0	
+Abnormal bone structure	GNA11	1.0	
+Abnormal bone structure	GNRH1	1.0	
+Abnormal bone structure	GNRHR	1.0	
+Abnormal bone structure	KISS1	1.0	
+Abnormal bone structure	KISS1R	1.0	
+Abnormal bone structure	PROK2	1.0	
+Abnormal bone structure	PROKR2	1.0	
+Abnormal bone structure	TAC3	1.0	
+Abnormal bone structure	TACR3	1.0	
+Growth abnormality	CASR	1.0	
+Growth abnormality	CHRM3	1.0	
+Growth abnormality	EDN3	1.0	
+Growth abnormality	EDNRB	1.0	
+Growth abnormality	GHSR	1.0	
+Growth abnormality	GNAQ	1.0	
+Growth abnormality	GNRH1	1.0	
+Growth abnormality	GNRHR	1.0	
+Growth abnormality	GRM1	1.0	
+Growth abnormality	HCRT	1.0	
+Growth abnormality	KISS1	1.0	
+Growth abnormality	KISS1R	1.0	
+Growth abnormality	P2RY11	1.0	
+Growth abnormality	PROK2	1.0	
+Growth abnormality	PROKR2	1.0	
+Growth abnormality	TAC3	1.0	
+Growth abnormality	TACR3	1.0	
+Growth abnormality	TRH	1.0	
+Growth abnormality	TRHR	1.0	
+Schizoaffective Disorder	ADRA1A	1.0	
+Schizoaffective Disorder	CYSLTR2	1.0	
+Schizoaffective Disorder	EDNRA	1.0	
+Schizoaffective Disorder	LPAR2	1.0	
+Cerebral ischemia	AGT	1.0	
+Cerebral ischemia	APP	1.0	
+Cerebral ischemia	EDNRB	1.0	
+Cerebral ischemia	F2	1.0	
+Cerebral ischemia	F2R	1.0	
+Cerebral ischemia	F2RL3	1.0	
+Cerebral ischemia	PTGER1	1.0	
+Allergic asthma	CYSLTR2	1.0	
+Allergic asthma	EDN1	1.0	
+Allergic asthma	LPAR2	1.0	
+Allergic asthma	LTB4R2	1.0	
+Allergic asthma	NPSR1	1.0	
+Allergic asthma	PTAFR	1.0	
+Infarction, Middle Cerebral Artery	AGT	1.0	
+Infarction, Middle Cerebral Artery	EDN1	1.0	
+Infarction, Middle Cerebral Artery	GHRL	1.0	
+Infarction, Middle Cerebral Artery	GHSR	1.0	
+Pancreatitis	BDKRB2	1.0	
+Pancreatitis	CASR	1.0	
+Pancreatitis	CCK	1.0	
+Pancreatitis	EDN1	1.0	
+Pancreatitis	EDNRA	1.0	
+Pancreatitis	GHRL	1.0	
+Pancreatitis	TACR1	1.0	
+Chronic obstructive pulmonary disease	AGT	1.0	
+Chronic obstructive pulmonary disease	BDKRB2	1.0	
+Chronic obstructive pulmonary disease	CASR	1.0	
+Chronic obstructive pulmonary disease	CHRM3	1.0	
+Chronic obstructive pulmonary disease	EDN1	1.0	
+Chronic obstructive pulmonary disease	EDNRA	1.0	
+Chronic obstructive pulmonary disease	EDNRB	1.0	
+Chronic obstructive pulmonary disease	F2R	1.0	
+Chronic obstructive pulmonary disease	F2RL1	1.0	
+Chronic obstructive pulmonary disease	GPR65	1.0	
+Chronic obstructive pulmonary disease	KNG1	1.0	
+Chronic obstructive pulmonary disease	TAC1	1.0	
+Chronic obstructive pulmonary disease	TACR2	1.0	
+Kidney Diseases	ADRA1B	1.0	
+Kidney Diseases	ADRA1D	1.0	
+Kidney Diseases	AGT	1.0	
+Kidney Diseases	BDKRB1	1.0	
+Kidney Diseases	CASR	1.0	
+Kidney Diseases	EDN1	1.0	
+Kidney Diseases	EDNRA	1.0	
+Kidney Diseases	EDNRB	1.0	
+Kidney Diseases	F2	1.0	
+Kidney Diseases	KNG1	1.0	
+Kidney Diseases	SAA1	1.0	
+Kidney Diseases	UTS2	1.0	
+Growth delay	CASR	1.0	
+Growth delay	EDN3	1.0	
+Growth delay	EDNRB	1.0	
+Growth delay	GHSR	1.0	
+Growth delay	GNRH1	1.0	
+Growth delay	GNRHR	1.0	
+Growth delay	GRM1	1.0	
+Growth delay	KISS1	1.0	
+Growth delay	KISS1R	1.0	
+Growth delay	PROK2	1.0	
+Growth delay	PROKR2	1.0	
+Growth delay	TAC3	1.0	
+Growth delay	TACR3	1.0	
+Growth delay	TRH	1.0	
+Growth delay	TRHR	1.0	
+Disseminated intravascular coagulation	ADRA1D	1.0	
+Disseminated intravascular coagulation	F2	1.0	
+Disseminated intravascular coagulation	OXT	1.0	
+Ocular Hypertension	EDNRB	1.0	
+Ocular Hypertension	GHSR	1.0	
+Ocular Hypertension	PTGFR	1.0	
+Subacute Sclerosing Panencephalitis	EDN1	1.0	
+Subacute Sclerosing Panencephalitis	EDNRA	1.0	
+Subacute Sclerosing Panencephalitis	GCG	1.0	
+Chronic pain	BDKRB1	1.0	
+Chronic pain	KNG1	1.0	
+Chronic pain	TAC1	1.0	
+Stroke	AGT	1.0	
+Stroke	APP	1.0	
+Stroke	EDN1	1.0	
+Stroke	EDNRA	1.0	
+Stroke	EDNRB	1.0	
+Stroke	F2	1.0	
+Stroke	F2R	1.0	
+Stroke	F2RL3	1.0	
+Stroke	GNAQ	1.0	
+Stroke	HRH1	1.0	
+Stroke	KNG1	1.0	
+Stroke	LTB4R	1.0	
+Stroke	LTB4R2	1.0	
+Stroke	P2RY2	1.0	
+Stroke	PTGER1	1.0	
+Stroke	TAC1	1.0	
+Herpes NOS	ADRA1A	1.0	
+Herpes NOS	CYSLTR2	1.0	
+Herpes NOS	EDNRA	1.0	
+Herpes NOS	LPAR2	1.0	
+Abnormality of the oral cavity	CHRM3	1.0	
+Abnormality of the oral cavity	EDN1	1.0	
+Abnormality of the oral cavity	EDNRA	1.0	
+Abnormality of the oral cavity	F2	1.0	
+Abnormality of the oral cavity	GNAQ	1.0	
+Abnormality of the oral cavity	GNRH1	1.0	
+Abnormality of the oral cavity	GNRHR	1.0	
+Abnormality of the oral cavity	KISS1	1.0	
+Abnormality of the oral cavity	KISS1R	1.0	
+Abnormality of the oral cavity	PROK2	1.0	
+Abnormality of the oral cavity	PROKR2	1.0	
+Abnormality of the oral cavity	SAA1	1.0	
+Abnormality of the oral cavity	TAC3	1.0	
+Abnormality of the oral cavity	TACR3	1.0	
+Abnormality of the oral cavity	TRHR	1.0	
+Maternal diabetes	CASR	1.0	
+Maternal diabetes	GCG	1.0	
+Maternal diabetes	GHRL	1.0	
+Maternal diabetes	PROKR2	1.0	
+Maternal diabetes	UTS2	1.0	
+Maternal diabetes	UTS2B	1.0	
+Sleep disturbance	HCRT	1.0	
+Sleep disturbance	HCRTR2	1.0	
+Sleep disturbance	OPN4	1.0	
+Sleep disturbance	P2RY11	1.0	
+Sleep disturbance	PROKR2	1.0	
+Sleep disturbance	TRHR	1.0	
+Premature Birth	AGT	1.0	
+Premature Birth	EDN1	1.0	
+Premature Birth	EDN2	1.0	
+Premature Birth	F2	1.0	
+Premature Birth	F2R	1.0	
+Premature Birth	OXTR	1.0	
+Premature Birth	PTGER1	1.0	
+Premature Birth	PTGFR	1.0	
+Diarrhea 8, secretory sodium, congenital	ADRA1D	1.0	
+Diarrhea 8, secretory sodium, congenital	EDN3	1.0	
+Diarrhea 8, secretory sodium, congenital	EDNRB	1.0	
+Diarrhea 8, secretory sodium, congenital	F2RL1	1.0	
+Diarrhea 8, secretory sodium, congenital	GCG	1.0	
+Diarrhea 8, secretory sodium, congenital	SAA1	1.0	
+Diarrhea 8, secretory sodium, congenital	TAC1	1.0	
+Diarrhea 8, secretory sodium, congenital	TRH	1.0	
+Pneumonia	CYSLTR1	1.0	
+Pneumonia	F2R	1.0	
+Pneumonia	F2RL1	1.0	
+Pneumonia	KNG1	1.0	
+Pneumonia	LPAR1	1.0	
+Pneumonia	LPAR2	1.0	
+Pneumonia	LTB4R	1.0	
+Pneumonia	PTAFR	1.0	
+Pneumonia	TAC1	1.0	
+Fibromyalgia	ADRA1A	1.0	
+Fibromyalgia	TAC1	1.0	
+Fibromyalgia	TACR1	1.0	
+Abnormality of secondary sexual hair	GNRH1	1.0	
+Abnormality of secondary sexual hair	GNRHR	1.0	
+Abnormality of secondary sexual hair	LPAR6	1.0	
+Cleft Palate	EDN1	1.0	
+Cleft Palate	EDNRA	1.0	
+Cleft Palate	GNRH1	1.0	
+Cleft Palate	GNRHR	1.0	
+Cleft Palate	KISS1	1.0	
+Cleft Palate	KISS1R	1.0	
+Cleft Palate	PROK2	1.0	
+Cleft Palate	PROKR2	1.0	
+Cleft Palate	TAC3	1.0	
+Cleft Palate	TACR3	1.0	
+Hyperactivity	CCK	1.0	
+Hyperactivity	GCG	1.0	
+Hyperactivity	GNAQ	1.0	
+Hyperactivity	NPS	1.0	
+Hyperactivity	NTS	1.0	
+Hyperactivity	OXT	1.0	
+Ischaemic cerebral infarction	AGT	1.0	
+Ischaemic cerebral infarction	EDNRB	1.0	
+Ischaemic cerebral infarction	F2	1.0	
+Ischaemic cerebral infarction	F2R	1.0	
+Ischaemic cerebral infarction	F2RL3	1.0	
+Ischaemic cerebral infarction	P2RY2	1.0	
+Ischaemic cerebral infarction	PTGER1	1.0	
+Mesothelioma, malignant	ADRA1A	1.0	
+Mesothelioma, malignant	CYSLTR2	1.0	
+Mesothelioma, malignant	EDNRA	1.0	
+Mesothelioma, malignant	F2R	1.0	
+Mesothelioma, malignant	LPAR2	1.0	
+Mesothelioma, malignant	NTS	1.0	
+Mesothelioma, malignant	NTSR1	1.0	
+Mesothelioma, malignant	PROK1	1.0	
+Paraplegia	KISS1R	1.0	
+Paraplegia	PROK2	1.0	
+Paraplegia	PROKR2	1.0	
+Paraplegia	TACR3	1.0	
+Pleuritis	BDKRB1	1.0	
+Pleuritis	BDKRB2	1.0	
+Pleuritis	PTAFR	1.0	
+Abnormality of the integument	CASR	1.0	
+Abnormality of the integument	CHRM3	1.0	
+Abnormality of the integument	EDN3	1.0	
+Abnormality of the integument	EDNRA	1.0	
+Abnormality of the integument	EDNRB	1.0	
+Abnormality of the integument	F2	1.0	
+Abnormality of the integument	GNA11	1.0	
+Abnormality of the integument	GNAQ	1.0	
+Abnormality of the integument	GNRH1	1.0	
+Abnormality of the integument	GNRHR	1.0	
+Abnormality of the integument	KISS1	1.0	
+Abnormality of the integument	KISS1R	1.0	
+Abnormality of the integument	LPAR6	1.0	
+Abnormality of the integument	PROK2	1.0	
+Abnormality of the integument	PROKR2	1.0	
+Abnormality of the integument	TAC3	1.0	
+Abnormality of the integument	TACR3	1.0	
+Abnormality of the integument	TRH	1.0	
+Abnormality of the integument	TRHR	1.0	
+Renal agenesis	KISS1R	1.0	
+Renal agenesis	PROK2	1.0	
+Renal agenesis	PROKR2	1.0	
+Renal agenesis	TACR3	1.0	
+Thrombosis	AGT	1.0	
+Thrombosis	BDKRB2	1.0	
+Thrombosis	F2	1.0	
+Thrombosis	KNG1	1.0	
+Thrombosis	P2RY1	1.0	
+Abnormality of higher mental function	APP	1.0	
+Abnormality of higher mental function	CASR	1.0	
+Abnormality of higher mental function	CHRM3	1.0	
+Abnormality of higher mental function	EDN3	1.0	
+Abnormality of higher mental function	GNA11	1.0	
+Abnormality of higher mental function	GNAQ	1.0	
+Abnormality of higher mental function	GRM1	1.0	
+Abnormality of higher mental function	HCRT	1.0	
+Abnormality of higher mental function	KISS1R	1.0	
+Abnormality of higher mental function	P2RY11	1.0	
+Abnormality of higher mental function	PROK2	1.0	
+Abnormality of higher mental function	PROKR2	1.0	
+Abnormality of higher mental function	TACR3	1.0	
+Dyslipidemias	ADRA1A	1.0	
+Dyslipidemias	AGT	1.0	
+Dyslipidemias	CYSLTR2	1.0	
+Dyslipidemias	EDNRA	1.0	
+Dyslipidemias	GCG	1.0	
+Dyslipidemias	LPAR2	1.0	
+Hearing abnormality	EDN1	1.0	
+Hearing abnormality	EDN3	1.0	
+Hearing abnormality	EDNRA	1.0	
+Hearing abnormality	EDNRB	1.0	
+Hearing abnormality	GNAQ	1.0	
+Hearing abnormality	GNRH1	1.0	
+Hearing abnormality	GNRHR	1.0	
+Hearing abnormality	KISS1	1.0	
+Hearing abnormality	KISS1R	1.0	
+Hearing abnormality	PROK2	1.0	
+Hearing abnormality	PROKR2	1.0	
+Hearing abnormality	TAC3	1.0	
+Hearing abnormality	TACR3	1.0	
+Polycystic Kidney, Autosomal Dominant	ADRA1D	1.0	
+Polycystic Kidney, Autosomal Dominant	AGT	1.0	
+Polycystic Kidney, Autosomal Dominant	EDN1	1.0	
+Polycystic Kidney, Autosomal Dominant	EDNRA	1.0	
+Polycystic Kidney, Autosomal Dominant	EDNRB	1.0	
+Hepatopulmonary Syndrome	EDN1	1.0	
+Hepatopulmonary Syndrome	EDNRA	1.0	
+Hepatopulmonary Syndrome	EDNRB	1.0	
+Hepatopulmonary Syndrome	HTR2B	1.0	
+Adrenocortical carcinoma	AGT	1.0	
+Adrenocortical carcinoma	EDN1	1.0	
+Adrenocortical carcinoma	EDNRB	1.0	
+Adrenocortical carcinoma	GHSR	1.0	
+Adrenocortical carcinoma	UTS2	1.0	
+Cystitis	ADRA1D	1.0	
+Cystitis	F2RL1	1.0	
+Cystitis	F2RL3	1.0	
+Cystitis	TACR1	1.0	
+Amyotrophic Lateral Sclerosis	ADRA1D	1.0	
+Amyotrophic Lateral Sclerosis	AGT	1.0	
+Amyotrophic Lateral Sclerosis	APP	1.0	
+Amyotrophic Lateral Sclerosis	CASR	1.0	
+Amyotrophic Lateral Sclerosis	EDN1	1.0	
+Amyotrophic Lateral Sclerosis	F2	1.0	
+Amyotrophic Lateral Sclerosis	GRM1	1.0	
+Amyotrophic Lateral Sclerosis	GRM5	1.0	
+Amyotrophic Lateral Sclerosis	P2RY1	1.0	
+Amyotrophic Lateral Sclerosis	P2RY2	1.0	
+Amyotrophic Lateral Sclerosis	TAC1	1.0	
+Amyotrophic Lateral Sclerosis	TACR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ADRA1D	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	AGT	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CCK	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CCKAR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CCKBR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CYSLTR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	EDNRA	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	EDNRB	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	F2RL1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GAST	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GCG	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GHRL	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GRP	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	KISS1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	LTB4R	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NTS	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NTSR1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGER1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PTGFR	1.0	
+Urticaria Pigmentosa	NTSR1	1.0	
+Urticaria Pigmentosa	TAC1	1.0	
+Urticaria Pigmentosa	TACR1	1.0	
+Primary hyperparathyroidism	CASR	1.0	
+Primary hyperparathyroidism	GAST	1.0	
+Primary hyperparathyroidism	GNA11	1.0	
+Intestinal polyposis	EDN3	1.0	
+Intestinal polyposis	EDNRB	1.0	
+Intestinal polyposis	GAST	1.0	
+Abnormality of cardiovascular system electrophysiology	AGT	1.0	
+Abnormality of cardiovascular system electrophysiology	APP	1.0	
+Abnormality of cardiovascular system electrophysiology	CASR	1.0	
+Abnormality of cardiovascular system electrophysiology	CHRM3	1.0	
+Abnormality of cardiovascular system electrophysiology	CYSLTR2	1.0	
+Abnormality of cardiovascular system electrophysiology	EDN1	1.0	
+Abnormality of cardiovascular system electrophysiology	EDN3	1.0	
+Abnormality of cardiovascular system electrophysiology	EDNRA	1.0	
+Abnormality of cardiovascular system electrophysiology	F2	1.0	
+Abnormality of cardiovascular system electrophysiology	GNA11	1.0	
+Abnormality of cardiovascular system electrophysiology	GNAQ	1.0	
+Abnormality of cardiovascular system electrophysiology	HCRT	1.0	
+Abnormality of cardiovascular system electrophysiology	KISS1R	1.0	
+Abnormality of cardiovascular system electrophysiology	P2RY11	1.0	
+Abnormality of cardiovascular system electrophysiology	PROK2	1.0	
+Abnormality of cardiovascular system electrophysiology	PROKR2	1.0	
+Abnormality of cardiovascular system electrophysiology	SAA1	1.0	
+Abnormality of cardiovascular system electrophysiology	TACR3	1.0	
+Abnormality of the mouth	CHRM3	1.0	
+Abnormality of the mouth	EDN1	1.0	
+Abnormality of the mouth	EDN3	1.0	
+Abnormality of the mouth	EDNRA	1.0	
+Abnormality of the mouth	F2	1.0	
+Abnormality of the mouth	GNAQ	1.0	
+Abnormality of the mouth	GNRH1	1.0	
+Abnormality of the mouth	GNRHR	1.0	
+Abnormality of the mouth	KISS1	1.0	
+Abnormality of the mouth	KISS1R	1.0	
+Abnormality of the mouth	PROK2	1.0	
+Abnormality of the mouth	PROKR2	1.0	
+Abnormality of the mouth	SAA1	1.0	
+Abnormality of the mouth	TAC3	1.0	
+Abnormality of the mouth	TACR3	1.0	
+Abnormality of the mouth	TRHR	1.0	
+Abnormality of the palate	EDN1	1.0	
+Abnormality of the palate	EDNRA	1.0	
+Abnormality of the palate	GNRH1	1.0	
+Abnormality of the palate	GNRHR	1.0	
+Abnormality of the palate	KISS1	1.0	
+Abnormality of the palate	KISS1R	1.0	
+Abnormality of the palate	PROK2	1.0	
+Abnormality of the palate	PROKR2	1.0	
+Abnormality of the palate	TAC3	1.0	
+Abnormality of the palate	TACR3	1.0	
+Albuminuria	AGT	1.0	
+Albuminuria	CASR	1.0	
+Albuminuria	EDN1	1.0	
+Albuminuria	F2	1.0	
+Albuminuria	GNAQ	1.0	
+Pes planus	GRM1	1.0	
+Pes planus	KISS1R	1.0	
+Pes planus	PROK2	1.0	
+Pes planus	PROKR2	1.0	
+Pes planus	TACR3	1.0	
+Ovarian Diseases	AGT	1.0	
+Ovarian Diseases	APP	1.0	
+Ovarian Diseases	GHRL	1.0	
+Ovarian Diseases	GNAQ	1.0	
+Ovarian Diseases	GNRHR	1.0	
+Ovarian Diseases	PROK1	1.0	
+Acute myocardial infarction	AGT	1.0	
+Acute myocardial infarction	EDN1	1.0	
+Acute myocardial infarction	EDNRA	1.0	
+Acute myocardial infarction	F2	1.0	
+Acute myocardial infarction	GCG	1.0	
+Acute myocardial infarction	P2RY11	1.0	
+Vascular Diseases	AGT	1.0	
+Vascular Diseases	APP	1.0	
+Vascular Diseases	EDN1	1.0	
+Vascular Diseases	EDN2	1.0	
+Vascular Diseases	EDNRA	1.0	
+Vascular Diseases	F2	1.0	
+Vascular Diseases	GCG	1.0	
+Vascular Diseases	LTB4R	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	CASR	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	KISS1R	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	PROK2	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	PROKR2	1.0	
+Bone fragility with contractures, arterial rupture, and deafness	TACR3	1.0	
+Venous Thromboembolism	AGT	1.0	
+Venous Thromboembolism	CHRM3	1.0	
+Venous Thromboembolism	F2	1.0	
+Venous Thromboembolism	F2R	1.0	
+Venous Thromboembolism	GNA14	1.0	
+Venous Thromboembolism	KNG1	1.0	
+Child Development Disorders, Pervasive	AVPR1A	1.0	
+Child Development Disorders, Pervasive	NTSR1	1.0	
+Child Development Disorders, Pervasive	OXTR	1.0	
+Memory Disorders	ADRA1A	1.0	
+Memory Disorders	APP	1.0	
+Memory Disorders	GRPR	1.0	
+Aicardi Goutieres syndrome 1	CCK	1.0	
+Aicardi Goutieres syndrome 1	CCKBR	1.0	
+Aicardi Goutieres syndrome 1	GAST	1.0	
+Diabetic Cardiomyopathies	AGT	1.0	
+Diabetic Cardiomyopathies	CASR	1.0	
+Diabetic Cardiomyopathies	EDN1	1.0	
+Anterior hypopituitarism	KISS1R	1.0	
+Anterior hypopituitarism	PROK2	1.0	
+Anterior hypopituitarism	PROKR2	1.0	
+Anterior hypopituitarism	TACR3	1.0	
+Abnormality of vision	CYSLTR2	1.0	
+Abnormality of vision	EDN3	1.0	
+Abnormality of vision	EDNRB	1.0	
+Abnormality of vision	GNA11	1.0	
+Abnormality of vision	GNAQ	1.0	
+Abnormality of vision	HCRT	1.0	
+Abnormality of vision	KISS1R	1.0	
+Abnormality of vision	P2RY11	1.0	
+Abnormality of vision	PROK2	1.0	
+Abnormality of vision	PROKR2	1.0	
+Abnormality of vision	TACR3	1.0	
+Neoplasms, Experimental	F2R	1.0	
+Neoplasms, Experimental	NTS	1.0	
+Neoplasms, Experimental	NTSR1	1.0	
+Fragile X syndrome	APP	1.0	
+Fragile X syndrome	GRM1	1.0	
+Fragile X syndrome	GRM5	1.0	
+Fragile X syndrome	OXT	1.0	
+ {Septic shock, susceptibility to} (3)	CCKBR	1.0	
+ {Septic shock, susceptibility to} (3)	EDN1	1.0	
+ {Septic shock, susceptibility to} (3)	SAA1	1.0	
+Internal hemorrhage	APP	1.0	
+Internal hemorrhage	CYSLTR2	1.0	
+Internal hemorrhage	F2	1.0	
+Internal hemorrhage	GNA11	1.0	
+Internal hemorrhage	GNAQ	1.0	
+Functional abnormality of the inner ear	EDN3	1.0	
+Functional abnormality of the inner ear	EDNRB	1.0	
+Functional abnormality of the inner ear	GNRH1	1.0	
+Functional abnormality of the inner ear	GNRHR	1.0	
+Functional abnormality of the inner ear	KISS1	1.0	
+Functional abnormality of the inner ear	KISS1R	1.0	
+Functional abnormality of the inner ear	PROK2	1.0	
+Functional abnormality of the inner ear	PROKR2	1.0	
+Functional abnormality of the inner ear	TAC3	1.0	
+Functional abnormality of the inner ear	TACR3	1.0	
+Hypoxia	APP	1.0	
+Hypoxia	CASR	1.0	
+Hypoxia	EDN1	1.0	
+Hypoxia	EDN2	1.0	
+Hypoxia	EDNRB	1.0	
+Hypoxia	F2	1.0	
+Hypoxia	OXTR	1.0	
+Atrial Fibrillation	AGT	1.0	
+Atrial Fibrillation	EDN1	1.0	
+Atrial Fibrillation	EDN2	1.0	
+Atrial Fibrillation	F2	1.0	
+Atrial Fibrillation	TAC1	1.0	
+Aortic valve disease 2	AGT	1.0	
+Aortic valve disease 2	EDN1	1.0	
+Aortic valve disease 2	EDNRA	1.0	
+Crohn Disease	ADRA1B	1.0	
+Crohn Disease	AGT	1.0	
+Crohn Disease	F2	1.0	
+Crohn Disease	GCG	1.0	
+Crohn Disease	GHRL	1.0	
+Crohn Disease	GHSR	1.0	
+Crohn Disease	GPR65	1.0	
+Crohn Disease	KNG1	1.0	
+Crohn Disease	MLN	1.0	
+Crohn Disease	NPSR1	1.0	
+Crohn Disease	TAC1	1.0	
+Crohn Disease	TACR1	1.0	
+Crohn Disease	TACR2	1.0	
+Arrhythmias, Cardiac	AGT	1.0	
+Arrhythmias, Cardiac	CASR	1.0	
+Arrhythmias, Cardiac	EDN1	1.0	
+Arrhythmias, Cardiac	GNA11	1.0	
+Arrhythmias, Cardiac	GNAQ	1.0	
+Arrhythmias, Cardiac	KNG1	1.0	
+Arrhythmias, Cardiac	TRH	1.0	
+Keloid	ADRA1D	1.0	
+Keloid	AGT	1.0	
+Keloid	CCK	1.0	
+Keloid	F2R	1.0	
+Keloid	F2RL1	1.0	
+Cooley's anemia	AGT	1.0	
+Cooley's anemia	F2	1.0	
+Cooley's anemia	PMCH	1.0	
+Gastrointestinal stromal tumor	CCK	1.0	
+Gastrointestinal stromal tumor	CCKBR	1.0	
+Gastrointestinal stromal tumor	GAST	1.0	
+Gastrointestinal stromal tumor	GCG	1.0	
+Gastrointestinal stromal tumor	GHRL	1.0	
+Gastrointestinal stromal tumor	NTS	1.0	
+Gastrointestinal stromal tumor	NTSR1	1.0	
+Hay fever	CYSLTR1	1.0	
+Hay fever	CYSLTR2	1.0	
+Hay fever	EDN1	1.0	
+Hay fever	F2RL1	1.0	
+early pregnancy	F2	1.0	
+early pregnancy	PROK1	1.0	
+early pregnancy	PROKR1	1.0	
+early pregnancy	PROKR2	1.0	
+Hypothyroidism	ADRA1D	1.0	
+Hypothyroidism	APP	1.0	
+Hypothyroidism	CASR	1.0	
+Hypothyroidism	KISS1R	1.0	
+Hypothyroidism	SAA1	1.0	
+Hypothyroidism	TRH	1.0	
+Hypothyroidism	TRHR	1.0	
+Idiopathic Pulmonary Fibrosis	AGT	1.0	
+Idiopathic Pulmonary Fibrosis	EDN1	1.0	
+Idiopathic Pulmonary Fibrosis	F2R	1.0	
+Idiopathic Pulmonary Fibrosis	F2RL1	1.0	
+Idiopathic Pulmonary Fibrosis	F2RL2	1.0	
+Idiopathic Pulmonary Fibrosis	LPAR1	1.0	
+Idiopathic Pulmonary Fibrosis	PTGFR	1.0	
+As If Personality	AVPR1A	1.0	
+As If Personality	CCK	1.0	
+As If Personality	CCKAR	1.0	
+Syncope	EDN1	1.0	
+Syncope	HCRT	1.0	
+Syncope	P2RY11	1.0	
+Abnormality of the inner ear	EDN3	1.0	
+Abnormality of the inner ear	EDNRB	1.0	
+Abnormality of the inner ear	GNRH1	1.0	
+Abnormality of the inner ear	GNRHR	1.0	
+Abnormality of the inner ear	KISS1	1.0	
+Abnormality of the inner ear	KISS1R	1.0	
+Abnormality of the inner ear	PROK2	1.0	
+Abnormality of the inner ear	PROKR2	1.0	
+Abnormality of the inner ear	TAC3	1.0	
+Abnormality of the inner ear	TACR3	1.0	
+Flexion contracture	GNRH1	1.0	
+Flexion contracture	GNRHR	1.0	
+Flexion contracture	KISS1	1.0	
+Flexion contracture	KISS1R	1.0	
+Flexion contracture	PROK2	1.0	
+Flexion contracture	PROKR2	1.0	
+Flexion contracture	TAC3	1.0	
+Flexion contracture	TACR3	1.0	
+Non-Malignant Ascites Adverse Event	EDN1	1.0	
+Non-Malignant Ascites Adverse Event	F2	1.0	
+Non-Malignant Ascites Adverse Event	GPR4	1.0	
+Non-Malignant Ascites Adverse Event	KNG1	1.0	
+Non-Malignant Ascites Adverse Event	LPAR2	1.0	
+Arterial dissection	ADRA1D	1.0	
+Arterial dissection	AGT	1.0	
+Drug Eruptions	KNG1	1.0	
+Drug Eruptions	TAC1	1.0	
+Hypercapnia	EDN1	1.0	
+Hypercapnia	HCRT	1.0	
+Hyperphosphatemia	CASR	1.0	
+Hyperphosphatemia	GNA11	1.0	
+Polyglandular Type I Autoimmune Syndrome	CASR	1.0	
+Polyglandular Type I Autoimmune Syndrome	GNA11	1.0	
+High altitude pulmonary edema	EDN1	1.0	
+High altitude pulmonary edema	EDNRA	1.0	
+Blue irides	EDN3	1.0	
+Blue irides	EDNRB	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	EDN1	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	EDNRB	1.0	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	F2R	1.0	
+Hypertelorism	GNRH1	1.0	
+Hypertelorism	GNRHR	1.0	
+Hypertelorism	KISS1	1.0	
+Hypertelorism	KISS1R	1.0	
+Hypertelorism	PROK2	1.0	
+Hypertelorism	PROKR2	1.0	
+Hypertelorism	TAC3	1.0	
+Hypertelorism	TACR3	1.0	
+Carcinoid tumor	CCKBR	1.0	
+Carcinoid tumor	GAST	1.0	
+Carcinoid tumor	GRP	1.0	
+Carcinoid tumor	HTR2B	1.0	
+Carcinoid tumor	NTS	1.0	
+Chronic sciatica	ADRA1A	1.0	
+Chronic sciatica	TAC1	1.0	
+Acute hepatitis	F2	1.0	
+Acute hepatitis	NTSR1	1.0	
+Vascular inflammations	AGT	1.0	
+Vascular inflammations	P2RY6	1.0	
+Vascular inflammations	TAC1	1.0	
+Vascular inflammations	XCL1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CASR	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	EDN1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	EDN3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	EDNRA	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	EDNRB	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	F2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GNAQ	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GNRH1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GNRHR	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HCRT	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KISS1R	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	LPAR6	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PROK2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PROKR2	1.0	
+Narcolepsy	HCRT	1.0	
+Narcolepsy	HCRTR1	1.0	
+Narcolepsy	HCRTR2	1.0	
+Narcolepsy	P2RY11	1.0	
+Narcolepsy	TAC1	1.0	
+Narcolepsy	TRH	1.0	
+Abnormal tendon morphology	GNRH1	1.0	
+Abnormal tendon morphology	GNRHR	1.0	
+Abnormal tendon morphology	KISS1	1.0	
+Abnormal tendon morphology	KISS1R	1.0	
+Abnormal tendon morphology	PROK2	1.0	
+Abnormal tendon morphology	PROKR2	1.0	
+Abnormal tendon morphology	TAC3	1.0	
+Abnormal tendon morphology	TACR3	1.0	
+Focal segmental glomerulosclerosis	ADRA1D	1.0	
+Focal segmental glomerulosclerosis	AGT	1.0	
+Focal segmental glomerulosclerosis	EDN1	1.0	
+Focal segmental glomerulosclerosis	GNAQ	1.0	
+Adenocarcinoma of the large intestine	CYSLTR1	1.0	
+Adenocarcinoma of the large intestine	F2R	1.0	
+Adenocarcinoma of the large intestine	GAST	1.0	
+Adenocarcinoma of the large intestine	KISS1	1.0	
+Adenocarcinoma of the large intestine	KISS1R	1.0	
+Abnormality of blood circulation	APP	1.0	
+Abnormality of blood circulation	CYSLTR2	1.0	
+Abnormality of blood circulation	F2	1.0	
+Abnormality of blood circulation	GNA11	1.0	
+Abnormality of blood circulation	GNAQ	1.0	
+Abnormality of the face	AGT	1.0	
+Abnormality of the face	CHRM3	1.0	
+Abnormality of the face	EDN1	1.0	
+Abnormality of the face	EDN3	1.0	
+Abnormality of the face	EDNRA	1.0	
+Abnormality of the face	EDNRB	1.0	
+Abnormality of the face	F2	1.0	
+Abnormality of the face	GNAQ	1.0	
+Abnormality of the face	GNRH1	1.0	
+Abnormality of the face	GNRHR	1.0	
+Abnormality of the face	KISS1	1.0	
+Abnormality of the face	KISS1R	1.0	
+Abnormality of the face	LPAR6	1.0	
+Abnormality of the face	PROK2	1.0	
+Abnormality of the face	PROKR2	1.0	
+Abnormality of the face	SAA1	1.0	
+Abnormality of the face	TAC3	1.0	
+Abnormality of the face	TACR3	1.0	
+Abnormality of the face	TRHR	1.0	
+Urolithiasis	AGT	1.0	
+Urolithiasis	CASR	1.0	
+Carotid Artery Diseases	AGT	1.0	
+Carotid Artery Diseases	CYSLTR1	1.0	
+Carotid Artery Diseases	CYSLTR2	1.0	
+Carotid Artery Diseases	LTB4R	1.0	
+Carotid Artery Diseases	LTB4R2	1.0	
+Aortic Aneurysm, Abdominal	AGT	1.0	
+Aortic Aneurysm, Abdominal	APP	1.0	
+Aortic Aneurysm, Abdominal	LTB4R	1.0	
+Aortic Aneurysm, Abdominal	UTS2	1.0	
+Aortic Aneurysm, Abdominal	UTS2R	1.0	
+Secondary malignant neoplasm of pancreas	ADRA1D	1.0	
+Secondary malignant neoplasm of pancreas	AGT	1.0	
+Secondary malignant neoplasm of pancreas	CASR	1.0	
+Secondary malignant neoplasm of pancreas	CCKBR	1.0	
+Secondary malignant neoplasm of pancreas	EDN1	1.0	
+Secondary malignant neoplasm of pancreas	EDNRA	1.0	
+Secondary malignant neoplasm of pancreas	F2R	1.0	
+Secondary malignant neoplasm of pancreas	F2RL1	1.0	
+Secondary malignant neoplasm of pancreas	GAST	1.0	
+Secondary malignant neoplasm of pancreas	GPR4	1.0	
+Secondary malignant neoplasm of pancreas	GRP	1.0	
+Secondary malignant neoplasm of pancreas	GRPR	1.0	
+Secondary malignant neoplasm of pancreas	HCRTR1	1.0	
+Secondary malignant neoplasm of pancreas	KISS1	1.0	
+Secondary malignant neoplasm of pancreas	KISS1R	1.0	
+Secondary malignant neoplasm of pancreas	PROK1	1.0	
+Secondary malignant neoplasm of pancreas	TAC1	1.0	
+Meningioma	CCK	1.0	
+Meningioma	CCKAR	1.0	
+Meningioma	CCKBR	1.0	
+Meningioma	EDN1	1.0	
+Meningioma	EDNRB	1.0	
+Meningioma	GCG	1.0	
+Meningioma	GNRH1	1.0	
+Meningioma	GNRHR	1.0	
+Fibrosis	AGT	1.0	
+Fibrosis	BDKRB1	1.0	
+Fibrosis	EDN1	1.0	
+Fibrosis	F2RL1	1.0	
+Fibrosis	P2RY6	1.0	
+Cardiomyopathy, Dilated	ADRA1D	1.0	
+Cardiomyopathy, Dilated	AGT	1.0	
+Cardiomyopathy, Dilated	CASR	1.0	
+Cardiomyopathy, Dilated	EDN1	1.0	
+Cardiomyopathy, Dilated	EDNRA	1.0	
+Cardiomyopathy, Dilated	EDNRB	1.0	
+Cardiomyopathy, Dilated	F2	1.0	
+Cardiomyopathy, Dilated	GCG	1.0	
+Peptic ulcer	AGT	1.0	
+Peptic ulcer	EDN1	1.0	
+Peptic ulcer	GAST	1.0	
+Peptic ulcer	PTGER1	1.0	

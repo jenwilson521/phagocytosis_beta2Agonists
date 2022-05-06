@@ -1,0 +1,41 @@
+Gene	CUI	Phenotype	Source Databases	
+BCHE	C0877008	Enzyme inhibition disorder	DisGeNet	
+BCHE	C0220603	childhood brain tumor	DisGeNet	
+BCHE	C0008728	Churg-Strauss Syndrome	DisGeNet	
+BCHE	C0235032	Neurotoxicity Syndromes	DisGeNet	
+BCHE	C1135868	Gestational trophoblastic disease	DisGeNet	
+BCHE	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+BCHE	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+BCHE	C0023364	Leptospirosis	DisGeNet	
+BCHE	C1842937	Aural atresia, congenital	DisGeNet	
+BCHE	C0002893	Refractory anemia	DisGeNet	
+BCHE	C0002894	Refractory anaemia with excess blasts	DisGeNet	
+BCHE	C0600427	Cocaine Dependence	DisGeNet	
+BCHE	C0041755	Adverse drug events and drug allergies	DisGeNet	
+BCHE	C0002622	Memory Loss	DisGeNet	
+BCHE	C0751882	Congenital myasthenic syndrome	DisGeNet	
+BCHE	C0009241	Cognition Disorders	DisGeNet	
+BCHE	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+BCHE	C0015644	Fasciculations	DisGeNet	
+BCHE	C0037315	Sleep apnea	DisGeNet	
+BCHE	C0032787	Postoperative Complications	DisGeNet	
+BCHE	C0282577	Congenital disorder of glycosylation	DisGeNet	
+BCHE	C0522224	Paralysis	DisGeNet	
+BCHE	C0518010	body mass	DisGeNet	
+BCHE	C0270814	Spastic syndrome	DisGeNet	
+BCHE	C0013146	Methamphetamine abuse	DisGeNet	
+BCHE	C0836924	Thrombocytosis, benign familial microcytic	DisGeNet	
+BCHE	C0747845	early pregnancy	DisGeNet	
+BCHE	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+BCHE	C0598608	Hereditary hyperhomocysteinemia	DisGeNet	
+BCHE	C0236736	Cocaine-Related Disorders	DisGeNet	
+BCHE	C0020557	Hypertriglyceridemia	DisGeNet	
+BCHE	C1853562	Adult onset ataxia with oculomotor apraxia	DisGeNet	
+BCHE	C0752347	Lewy Body Disease	DisGeNet	
+BCHE	C0040147	Thyroiditis	DisGeNet	
+BCHE	C0027766	Neoplasm of the nervous system	DisGeNet	
+BCHE	C1270972	Mild cognitive impairment	DisGeNet	
+BCHE	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+BCHE	C3827868	Tachycardia	DisGeNet	
+BCHE	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCHE	C0003578	Apnea	DisGeNet	

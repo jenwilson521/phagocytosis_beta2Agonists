@@ -1,0 +1,35 @@
+node_name	node_type	
+DB01388	drug	
+CACNA1C	drug_target	
+CACNB3	drug_target	
+CACNB4	drug_target	
+CYP3A5	drug_target	
+CACNA1S	drug_target	
+CYP2D6	drug_target	
+CACNB2	drug_target	
+CACNA1H	drug_target	
+CYP1A2	drug_target	
+ABCB1	drug_target	
+CACNB1	drug_target	
+CYP3A4	drug_target	
+CYP1A1	drug_target	
+CACNA1G	drug_target	
+CACNA1D	drug_target	
+CACNA1F	drug_target	
+CACNA1I	drug_target	
+CYP11B2	drug_target	
+Polydipsia	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Epilepsy, generalized, with febrile seizures plus, type 6 (2)	phenotype	
+Pain insensitivity	phenotype	
+Nausea	phenotype	
+Congenital long QT syndrome	phenotype	
+Impaired vibratory sensation	phenotype	
+Acute postoperative pain	phenotype	
+Cognition Disorders	phenotype	
+Tardive Dyskinesia	phenotype	
+Primary hyperaldosteronism	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Chemical Carcinogenesis	phenotype	
+Age-related macular degeneration 2	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	

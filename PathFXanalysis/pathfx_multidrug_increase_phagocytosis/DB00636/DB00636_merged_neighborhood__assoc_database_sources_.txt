@@ -1,0 +1,32 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+GSTA2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTA2	C0023055	Neoplasm of the larynx	DisGeNet	
+MGST1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+GSTA2	C0919532	Genomic Instability	DisGeNet	
+CYP1A1	C1332977	Childhood Leukemia	DisGeNet	
+CYP2B6	C1332977	Childhood Leukemia	DisGeNet	
+CYP2E1	C1332977	Childhood Leukemia	DisGeNet	
+NCOR1	C1332977	Childhood Leukemia	DisGeNet	
+CYP1A1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP2E1	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP3A4	C0206720	Squamous Cell Neoplasms	DisGeNet	
+CYP1A1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2A6	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP3A4	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTA2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+CYP2B6	C2711227	Steatohepatitis	DisGeNet	
+CYP2E1	C2711227	Steatohepatitis	DisGeNet	
+CYP3A4	C2711227	Steatohepatitis	DisGeNet	
+PPARA	C2711227	Steatohepatitis	DisGeNet	
+TBL1X	C2711227	Steatohepatitis	DisGeNet	
+TBL1XR1	C2711227	Steatohepatitis	DisGeNet	

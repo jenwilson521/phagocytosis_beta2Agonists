@@ -1,0 +1,206 @@
+node1	node2	edge_score	
+DB00291	GSTP1	1.0	
+DB00291	SLCO1A2	1.0	
+GSTP1		1
+GSTP1	rs1695	0.99
+GSTP1	rs1138272	0.99
+SLCO1A2		1
+Asbestosis	GSTP1	1.0	
+Drug Eruptions	GSTP1	1.0	
+Hypercapnia	GSTP1	1.0	
+High altitude pulmonary edema	GSTP1	1.0	
+Slow acetylator due to N-acetyltransferase enzyme variant	GSTP1	1.0	
+Pseudomonas Infections	GSTP1	1.0	
+Signs and Symptoms, Respiratory	GSTP1	1.0	
+Asthma, Occupational	GSTP1	1.0	
+Malignant neoplasm of pharynx	GSTP1	1.0	
+Chromosomal translocation	GSTP1	1.0	
+Squamous Cell Neoplasms	GSTP1	1.0	
+Acute Coronary Syndrome	GSTP1	1.0	
+Acute Coronary Syndrome	SLCO1A2	1.0	
+Gastric Mucosa-Associated Lymphoid Tissue Lymphoma	GSTP1	1.0	
+Malaria, Vivax	GSTP1	1.0	
+Respiratory Hypersensitivity	GSTP1	1.0	
+Xeroderma Pigmentosum, Complementation Group D	GSTP1	1.0	
+Medulloblastoma, Childhood	GSTP1	1.0	
+Germinoma	GSTP1	1.0	
+Lupus Erythematosus, Cutaneous	GSTP1	1.0	
+Rhinitis, Allergic, Perennial	GSTP1	1.0	
+Myelosuppression	GSTP1	1.0	
+AIDS related complex	GSTP1	1.0	
+Simple pneumoconiosis	GSTP1	1.0	
+Pregnancy associated hypertension	GSTP1	1.0	
+Prostate cancer stage C	GSTP1	1.0	
+Pancreatitis, Alcoholic	GSTP1	1.0	
+Gastro-esophageal reflux disease with esophagitis	GSTP1	1.0	
+Exfoliation Syndrome	GSTP1	1.0	
+Neurotoxicity Syndromes	GSTP1	1.0	
+Bronchogenic Carcinoma	GSTP1	1.0	
+Allergic sensitization	GSTP1	1.0	
+Stomach Diseases	GSTP1	1.0	
+Substance abuse problem	GSTP1	1.0	
+Noise-induced hearing loss	GSTP1	1.0	
+Age-related cataract	GSTP1	1.0	
+Mammary Carcinoma, Human	GSTP1	1.0	
+Myelopathy	GSTP1	1.0	
+Esophageal atresia	GSTP1	1.0	
+Kidney Calculi	GSTP1	1.0	
+Dyskinesia, Drug-Induced	GSTP1	1.0	
+Neoplasm of the gallbladder	GSTP1	1.0	
+Papillomavirus Infections	GSTP1	1.0	
+Papillary renal cell carcinoma	GSTP1	1.0	
+Hemoglobinopathy	GSTP1	1.0	
+Silicosis	GSTP1	1.0	
+Peptic Esophagitis	GSTP1	1.0	
+Leukoplakia	GSTP1	1.0	
+Prenatal Exposure Delayed Effects	GSTP1	1.0	
+Gorlin syndrome	GSTP1	1.0	
+Chromosome Xq28 deletion syndrome	GSTP1	1.0	
+Dyspepsia	GSTP1	1.0	
+Necrosis	GSTP1	1.0	
+Respiratory Tract Diseases	GSTP1	1.0	
+Cocaine Dependence	GSTP1	1.0	
+Adenomatous polyp of colon	GSTP1	1.0	
+Esophagitis	GSTP1	1.0	
+Childhood Leukemia	GSTP1	1.0	
+Neoplasms, Germ Cell and Embryonal	GSTP1	1.0	
+Pharyngeal Neoplasms	GSTP1	1.0	
+Essential tremor	GSTP1	1.0	
+Early-Stage Breast Carcinoma	GSTP1	1.0	
+Progressive supranuclear ophthalmoplegia	SLCO1A2	1.0	
+Thyroid Nodule	GSTP1	1.0	
+Alpha-1-antitrypsin deficiency	GSTP1	1.0	
+Psychoses, Substance-Induced	GSTP1	1.0	
+Colorectal polyposis	GSTP1	1.0	
+Neurodegeneration with brain iron accumulation 4	GSTP1	1.0	
+Occupational Diseases	GSTP1	1.0	
+Retinopathy of Prematurity	GSTP1	1.0	
+Bronchiolitis	GSTP1	1.0	
+Bronchitis	GSTP1	1.0	
+Arsenic Poisoning	GSTP1	1.0	
+Acute Lung Injury	GSTP1	1.0	
+Bronchitis, Chronic	GSTP1	1.0	
+Oral leukoplakia	GSTP1	1.0	
+Postoperative Complications	GSTP1	1.0	
+Ehlers-Danlos syndrome, type vii, autosomal recessive	GSTP1	1.0	
+Chronic gastritis	GSTP1	1.0	
+Neonatal respiratory distress	GSTP1	1.0	
+Drug Allergy	GSTP1	1.0	
+Metaplasia	GSTP1	1.0	
+Chromosome Aberrations	GSTP1	1.0	
+Respiration Disorders	GSTP1	1.0	
+Amphetamine-Related Disorders	GSTP1	1.0	
+Alveolar cell carcinoma	GSTP1	1.0	
+Wheezing	GSTP1	1.0	
+Cholecystolithiasis	SLCO1A2	1.0	
+Vestibular Schwannoma	GSTP1	1.0	
+Contact Dermatitis	GSTP1	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	GSTP1	1.0	
+Thyroid associated opthalmopathies	GSTP1	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	GSTP1	1.0	
+DNA Damage	GSTP1	1.0	
+Actinic keratosis	GSTP1	1.0	
+Chronic ulcerative colitis	GSTP1	1.0	
+Skin carcinoma	GSTP1	1.0	
+Testicular malignant germ cell tumor	GSTP1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	GSTP1	1.0	
+Paresthesia	GSTP1	1.0	
+Hemochromatosis	GSTP1	1.0	
+Liver Cirrhosis, Alcoholic	GSTP1	1.0	
+Alcoholic Liver Diseases	GSTP1	1.0	
+Testicular Germ Cell Tumor	GSTP1	1.0	
+Methamphetamine abuse	GSTP1	1.0	
+Neoplasm of the rectum	GSTP1	1.0	
+Childhood asthma	GSTP1	1.0	
+Hamartoma	GSTP1	1.0	
+Neoplasm of the larynx	GSTP1	1.0	
+precancerous lesions	GSTP1	1.0	
+Teratoma	GSTP1	1.0	
+Carcinoma, Small Cell	GSTP1	1.0	
+Intrahepatic Cholangiocarcinoma	GSTP1	1.0	
+Hairy Cell Leukemia	GSTP1	1.0	
+Helicobacter Infections	GSTP1	1.0	
+Carotid Atherosclerosis	GSTP1	1.0	
+Glaucoma, Open-Angle	GSTP1	1.0	
+Portal hypertension, noncirrhotic	GSTP1	1.0	
+Urinary tract neoplasm	GSTP1	1.0	
+Chronic atrophic gastritis	GSTP1	1.0	
+Immediate hypersensitivity	GSTP1	1.0	
+Hereditary nonpolyposis colorectal cancer type 8	GSTP1	1.0	
+Squamous cell carcinoma of the head and neck	GSTP1	1.0	
+Squamous cell carcinoma of the head and neck	SLCO1A2	1.0	
+Ependymoma	GSTP1	1.0	
+Ulcerative colitis	GSTP1	1.0	
+Ulcerative colitis	SLCO1A2	1.0	
+Peptic ulcer	GSTP1	1.0	
+Telangiectases in sun-exposed and nonexposed skin	GSTP1	1.0	
+Carcinoma, Endometrioid	GSTP1	1.0	
+Gingival Diseases	GSTP1	1.0	
+Musculoskeletal Diseases	GSTP1	1.0	
+Schwannoma	GSTP1	1.0	
+Transitional cell carcinoma of the bladder	GSTP1	1.0	
+Intraepithelial Neoplasia	GSTP1	1.0	
+Malignant neoplasm of larynx	GSTP1	1.0	
+Biliary cirrhosis	GSTP1	1.0	
+Pregnancy Complications, Hematologic	GSTP1	1.0	
+Basal cell carcinoma	GSTP1	1.0	
+Liver Neoplasms, Experimental	GSTP1	1.0	
+Motor Neuron Disease	GSTP1	1.0	
+Anaplastic astrocytoma	GSTP1	1.0	
+Testicular Neoplasms	GSTP1	1.0	
+Adrenoleukodystrophy	GSTP1	1.0	
+Respiratory Distress Syndrome, Adult	GSTP1	1.0	
+Prostatic Intraepithelial Neoplasias	GSTP1	1.0	
+Hematological Disease	GSTP1	1.0	
+Neoplastic Cell Transformation	GSTP1	1.0	
+orbit (eye disorders)	GSTP1	1.0	
+Malaria, Falciparum	GSTP1	1.0	
+Sporadic Breast Carcinoma	GSTP1	1.0	
+Barrett Esophagus	GSTP1	1.0	
+Hearing Loss, Partial	GSTP1	1.0	
+Fetal Diseases	GSTP1	1.0	
+Oligospermia	GSTP1	1.0	
+Malignant neoplasm of brain and nervous system	GSTP1	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	GSTP1	1.0	
+Adenocarcinoma of prostate	GSTP1	1.0	
+Disseminated Malignant Neoplasm	GSTP1	1.0	
+Neoplasm Invasiveness	GSTP1	1.0	
+Malignant neoplasm of gallbladder	GSTP1	1.0	
+Bronchial Hyperreactivity	GSTP1	1.0	
+Uterine Cervical Neoplasms	GSTP1	1.0	
+Cholelithiasis	SLCO1A2	1.0	
+Substance-Related Disorders	GSTP1	1.0	
+Primary open angle glaucoma juvenile onset 1	GSTP1	1.0	
+Lymphoma, Large-Cell, Follicular	GSTP1	1.0	
+Trisomy	GSTP1	1.0	
+Embryonal Carcinoma	GSTP1	1.0	
+Laryngeal carcinoma	GSTP1	1.0	
+Hypersensitivity	GSTP1	1.0	
+Carotid Artery Diseases	GSTP1	1.0	
+Juvenile rheumatoid arthritis	GSTP1	1.0	
+Fibrosis	GSTP1	1.0	
+Well Differentiated Oligodendroglioma	GSTP1	1.0	
+Dilated cardiomyopathy 1A	GSTP1	1.0	
+Squamous cell carcinoma of lung	GSTP1	1.0	
+Gallbladder Carcinoma	GSTP1	1.0	
+Cycloid psychosis	GSTP1	1.0	
+Neoplasms, Second Primary	GSTP1	1.0	
+Primary cutaneous marginal zone B-cell lymphoma	GSTP1	1.0	
+Connective Tissue Diseases	GSTP1	1.0	
+Chronic hepatitis	GSTP1	1.0	
+Drug-Induced Liver Injury	GSTP1	1.0	
+Allergic asthma	GSTP1	1.0	
+Medullary thyroid carcinoma	GSTP1	1.0	
+Dyspnea	GSTP1	1.0	
+Allergic disposition	GSTP1	1.0	
+Pulmonary Emphysema	GSTP1	1.0	
+Liver failure acute infantile	GSTP1	1.0	
+Neoplasm of the oral cavity	GSTP1	1.0	
+Invasive Ductal Breast Carcinoma	GSTP1	1.0	
+Carcinoma, Papillary	GSTP1	1.0	
+Parkinsonism	GSTP1	1.0	
+Disease Progression	GSTP1	1.0	
+Bronchopulmonary Dysplasia	GSTP1	1.0	
+Dermal atrophy	GSTP1	1.0	
+Acute myocardial infarction	GSTP1	1.0	
+Vitiligo	GSTP1	1.0	

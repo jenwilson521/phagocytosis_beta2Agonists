@@ -1,0 +1,12 @@
+node_name	node_type	
+DB00819	drug	
+CA1	drug_target	
+SLC22A6	drug_target	
+CYP3A4	drug_target	
+CA3	drug_target	
+CA7	drug_target	
+CA14	drug_target	
+CA2	drug_target	
+CA4	drug_target	
+AQP1	drug_target	
+Simple pneumoconiosis	phenotype	

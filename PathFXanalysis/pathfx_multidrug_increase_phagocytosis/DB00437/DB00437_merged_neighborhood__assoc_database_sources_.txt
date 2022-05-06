@@ -1,0 +1,17 @@
+Gene	CUI	Phenotype	Source Databases	
+AOX1	C0018772	Hearing Loss, Partial	DisGeNet	
+XDH	C0018772	Hearing Loss, Partial	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+XDH	C1833683	Calcium oxalate urolithiasis	DisGeNet	
+XDH	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+AOX1	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+XDH	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+XDH	C0022660	Acute kidney injury	DisGeNet	
+XDH	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+XDH	C0022650	Kidney Calculi	DisGeNet	
+XDH	C0034186	Pyelonephritis	HumPhenOnt	
+XDH	C0025284	Meningeal Neoplasms	DisGeNet	
+XDH	C0853897	Diabetic Cardiomyopathies	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	

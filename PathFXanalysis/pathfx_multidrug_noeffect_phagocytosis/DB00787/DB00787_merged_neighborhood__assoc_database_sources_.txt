@@ -1,0 +1,3 @@
+Gene	CUI	Phenotype	Source Databases	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	

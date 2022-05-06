@@ -1,0 +1,1048 @@
+node1	node2	edge_score	
+DB00472	SLC6A4	1.0	
+DB00472	CYP2B6	1.0	
+DB00472	CYP2C9	1.0	
+DB00472	ALB	1.0	
+DB00472	CYP1A2	1.0	
+DB00472	CYP3A5	1.0	
+DB00472	ABCB1	1.0	
+DB00472	CYP3A4	1.0	
+DB00472	ORM1	1.0	
+DB00472	CYP2C19	1.0	
+DB00472	CYP2D6	1.0	
+SLC6A4	rs1042173	0.99
+SLC6A4	rs57098334	0.99
+SLC6A4	rs25531	0.99
+SLC6A4		1
+SLC6A4	SLC6A4 HTTLPR long form (L allele), SLC6A4 HTTLPR short form (S allele)	0.99
+CYP2B6	rs8192719	0.99
+CYP2B6	rs4803419	0.99
+CYP2B6	rs36118214	0.99
+CYP2B6	rs2279343	0.99
+CYP2B6	rs12721646	0.99
+CYP2B6	rs2054675	0.99
+CYP2B6	rs28399499	0.99
+CYP2B6	rs35303484	0.99
+CYP2B6	rs8192709	0.99
+CYP2B6	rs3211371	0.99
+CYP2B6		1
+CYP2B6	CYP2B6*27, CYP2B6*28	0.99
+CYP2B6	CYP2B6*1, CYP2B6*6	0.99
+CYP2B6	CYP2B6*1, CYP2B6*5	0.99
+CYP2B6	rs58425034	0.99
+CYP2B6	rs4802101	0.99
+CYP2B6	rs3745274	0.99
+CYP2B6	rs7254579	0.99
+CYP2B6	rs2279345	0.99
+CYP2B6	rs3786547	0.99
+CYP2B6	rs12721655	0.99
+CYP2B6	CYP2B6*1, CYP2B6*18, CYP2B6*2, CYP2B6*22, CYP2B6*4, CYP2B6*5, CYP2B6*6	0.99
+CYP2B6	CYP2B6*1, CYP2B6*4, CYP2B6*5, CYP2B6*6, CYP2B6*7	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3	0.99
+CYP2C9	rs10509680	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9		1
+CYP2C9	rs1799853	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*6	0.99
+CYP2C9	rs28371686	0.99
+CYP2C9	rs1057910	0.99
+CYP2C9	CYP2C9*1, CYP2C9*59	0.99
+CYP2C9	rs9332239	0.99
+CYP2C9	rs28371685	0.99
+CYP2C9	rs4918758	0.99
+CYP2C9	rs9332131	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8	0.99
+CYP2C9	rs56165452	0.99
+CYP2C9	rs12782374	0.99
+CYP2C9	rs9332096	0.99
+CYP2C9	rs1934969	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3, CYP2C9*8	0.99
+CYP2C9	CYP2C9*1, CYP2C9*11, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6	0.99
+CYP2C9	rs72558187	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3	0.99
+CYP2C9	rs4917639	0.99
+CYP2C9	rs7089580	0.99
+CYP2C9	rs7900194	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	rs71486745	0.99
+CYP2C9	rs4086116	0.99
+ITGA2	rs1062535	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GFAP	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT10	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CABLES1	0.8638247395845513
+rs429358	TOMM40	0.829786598184209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HP	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC9A8	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GRAP2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF232	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOA1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DERL1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NLRC4	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CDC45	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KCNMA1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCED1B	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GCN1L1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTAGE5	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NCOA3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SCAF1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CFB	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ITGA2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AP1M1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TRAPPC11	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ATM	0.8638247395845513
+APOC1	rs7412	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AMPD3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF292	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CLCA2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SH3BP5	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ADRA1B	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ITGB5	0.8638247395845513
+APOC1	rs429358	0.8551864921887058
+APOE	APOE E2, APOE E3, APOE E4	0.8381682809941505
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SETX	0.8638247395845513
+CFH	rs800292	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CST3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT5	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOC3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOC1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR3A2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SGOL2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LDB3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OBSL1	0.8638247395845513
+rs7412	APOE	0.8466346272668187
+ALB		1
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PF4V1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT6A	0.8638247395845513
+ALB	FABP6	0.8421959353175904
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GABBR1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NPHS1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SERPING1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CNOT1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	IGDCC4	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	EXOC6	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GJC2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOC2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PLAG1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOA2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PEG3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CFD	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PALB2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:Ze+0W0eVhC83twMz3vRT3padrsk9606	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HPX	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CAMTA1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOE	0.8638247395845513
+ITGA2	rs1126643	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR2T6	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTPAL	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RANBP2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPATA31A7	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PDZRN4	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CEP44	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AHSG	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SORBS3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOA4	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	MYLK3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT13	0.8638247395845513
+CFH	rs1061170	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTN	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTSL	0.8638247395845513
+NPHS1	rs3814995	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT6B	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ST13	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CDCP1	0.8638247395845513
+APOE	rs429358	0.8381682809941505
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RLF	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TIAM1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CROT	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CHKB	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC1A5	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RYR2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA1551	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT14	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LAT	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	BBC3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ITIH1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GSN	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SCN5A	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CACNA1I	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLA2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	uniprotkb:P01857	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:q6IZvGeHHY4cOWPHVW3Z7k177/w32630	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPAST	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT16	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RANBP3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SACS	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DGKG	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	refseq:NP_001914	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCDH1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AP4E1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:xz86zyvibNFDhT+J8v28Znx5/2M9913	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	F7	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PRSS3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DCD	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CFH	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	MYL4	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KLK3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA0232	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	THRAP3	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PPBP	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	JARID2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TLN2	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	QTRTD1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PDE4B	0.8638247395845513
+RYR2	rs2819742	0.8551864921887058
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DICER1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	FN1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PLA2G4F	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:x6cpThd263Mg5MI1OElxwfuSmiY9606	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PHC3	0.8638247395845513
+ALB	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.954526206676
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	FAM71E2	0.8638247395845513
+rs429358	APOC1	0.829786598184209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.9111202792312738
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.9111202792312738
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TSC22D1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DMD	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC25A13	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CRB1	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTR	0.8638247395845513
+CYP1A2	MGST3	0.792109822701367
+CYP1A2	rs2470890	0.99
+CYP1A2		1
+CYP1A2	rs762551	0.99
+CYP1A2	MGST1	0.792109822701367
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2069526	0.99
+CYP1A2	rs2472304	0.99
+CYP1A2	rs2069514	0.99
+CYP1A2	rs72547517	0.99
+CYP1A2	rs4646425	0.99
+CYP1A2	rs72547516	0.99
+CYP1A2	MGST2	0.792109822701367
+CYP3A5	rs17161788	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A, CYP3A5*6, CYP3A5*7	0.99
+CYP3A5		1
+CYP3A5	rs10264272	0.99
+CYP3A5	rs776746	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A	0.99
+CYP3A5	rs41303343	0.99
+ABCB1	rs72552784	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1045642	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs4148738	0.99
+ABCB1	rs10248420	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs4728709	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs28401781	0.99
+ABCB1		1
+ABCB1	rs1128503	0.99
+ABCB1	rs2235067	0.99
+ABCB1	rs3842	0.99
+ABCB1	rs2235047	0.99
+ABCB1	rs12720067	0.99
+ABCB1	rs1922242	0.99
+ABCB1	rs10280101	0.99
+ABCB1	rs11983225	0.99
+ABCB1	rs4148740	0.99
+ABCB1	rs2235040	0.99
+ABCB1	rs2235015	0.99
+ABCB1	rs2229109	0.99
+ABCB1	rs2032583	0.99
+ABCB1	rs10267099	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs4148737	0.99
+ABCB1	rs17160359	0.99
+ABCB1	rs9282564	0.99
+ABCB1	rs7787082	0.99
+CYP3A4	rs2242480	0.99
+CYP3A4	rs35599367	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs56324128	0.99
+CYP3A	rs2740574	0.9702989999999999
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A	rs12721627	0.9702989999999999
+rs2740574	CYP3A	0.9414801494009999
+CYP3A4	rs4986910	0.99
+CYP3A4	rs4646437	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs2740574	0.99
+CYP3A4	MGST1	0.792109822701367
+CYP3A4	rs3735451	0.99
+CYP3A4		1
+CYP3A4	rs12721627	0.99
+rs4987161	CYP3A	0.9801
+CYP3A4	rs28371759	0.99
+CYP3A4	rs2246709	0.99
+rs4987161	CYP3A4	0.8863848717161291
+rs2740574	CYP3A4	0.92274469442792
+CYP3A4	rs4987161	0.99
+rs12721627	CYP3A4	0.96059601
+CYP3A	rs4987161	0.8953382542587163
+CYP3A4	MGST3	0.792109822701367
+CYP3A4	MGST2	0.792109822701367
+ORM1		1
+CYP2C19	rs12768009	0.99
+CYP2C19	rs12248560	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+CYP2C19	rs4986893	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP2C19	rs28399504	0.99
+CYP2C19		1
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	rs3814637	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+CYP2C19	rs11188072	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*40, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*38, CYP2D6*4, CYP2D6*5, CYP2D6*9	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*18, CYP2D6*2, CYP2D6*21, CYP2D6*44, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*3, CYP2D6*31, CYP2D6*35, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6, CYP2D6*9	0.99
+CYP2D6	rs76088846	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*36, CYP2D6*4, CYP2D6*40, CYP2D6*42, CYP2D6*4xN, CYP2D6*56	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*4xN, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs3892097	0.99
+CYP2D6	rs28371706	0.99
+CYP2D6	rs1080985	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*11, CYP2D6*12, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*59, CYP2D6*62, CYP2D6*7, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs745746329	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs28360521	0.99
+CYP2D6	rs367543000	0.99
+CYP2D6	CYP2D6*10, CYP2D6*14, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*21, CYP2D6*36, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10	0.99
+CYP2D6	CYP2D6*1, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*72, CYP2D6*89, CYP2D6*92, CYP2D6*93, CYP2D6*96	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs5030655	0.99
+CYP2D6	rs138417770	0.99
+CYP2D6	CYP2D6*1, CYP2D6*100, CYP2D6*101, CYP2D6*13, CYP2D6*2, CYP2D6*31, CYP2D6*4, CYP2D6*5, CYP2D6*69	0.99
+CYP2D6	CYP2D6*1, CYP2D6*5, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*15, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*29	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs567606867	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN	0.99
+CYP2D6	rs777560972	0.99
+CYP2D6	rs750996195	0.99
+CYP2D6	CYP2D6*20, CYP2D6*4	0.99
+CYP2D6	rs371793722	0.99
+CYP2D6		1
+CYP2D6	rs1065852	0.99
+CYP2D6	CYP2D6*10, CYP2D6*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+Epidermolysis bullosa simplex, Cockayne-Touraine type	FN1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	GFAP	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT10	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT14	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT5	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Palmar hyperkeratosis	KRT1	1.0	
+Palmar hyperkeratosis	KRT10	1.0	
+Palmar hyperkeratosis	KRT14	1.0	
+Palmar hyperkeratosis	KRT16	1.0	
+Palmar hyperkeratosis	KRT5	1.0	
+Palmar hyperkeratosis	KRT6A	1.0	
+Palmar hyperkeratosis	KRT9	1.0	
+Hyperlipidemia, combined, 1	ABCB1	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	APOA1	1.0	
+Hyperlipidemia, combined, 1	APOA2	1.0	
+Hyperlipidemia, combined, 1	APOA4	1.0	
+Hyperlipidemia, combined, 1	APOC1	1.0	
+Hyperlipidemia, combined, 1	APOC2	1.0	
+Hyperlipidemia, combined, 1	APOC3	1.0	
+Hyperlipidemia, combined, 1	APOE	1.0	
+Hyperlipidemia, combined, 1	CDCP1	1.0	
+Hyperlipidemia, combined, 1	CYP2C19	1.0	
+Hyperlipidemia, combined, 1	CYP2C9	1.0	
+Hyperlipidemia, combined, 1	CYP2D6	1.0	
+Hyperlipidemia, combined, 1	CYP3A4	1.0	
+Hyperlipidemia, combined, 1	CYP3A5	1.0	
+Hyperlipidemia, combined, 1	F7	1.0	
+Hyperlipidemia, combined, 1	HP	1.0	
+Hyperlipidemia, combined, 1	NPHS1	1.0	
+Hyperlipidemia, combined, 1	SLC25A13	1.0	
+Plantar hyperkeratosis	KRT1	1.0	
+Plantar hyperkeratosis	KRT10	1.0	
+Plantar hyperkeratosis	KRT14	1.0	
+Plantar hyperkeratosis	KRT16	1.0	
+Plantar hyperkeratosis	KRT5	1.0	
+Plantar hyperkeratosis	KRT6A	1.0	
+Plantar hyperkeratosis	KRT9	1.0	
+Acute Coronary Syndrome	ABCB1	1.0	
+Acute Coronary Syndrome	ALB	1.0	
+Acute Coronary Syndrome	APOA1	1.0	
+Acute Coronary Syndrome	APOC3	1.0	
+Acute Coronary Syndrome	APOE	1.0	
+Acute Coronary Syndrome	ATM	1.0	
+Acute Coronary Syndrome	CST3	1.0	
+Acute Coronary Syndrome	CYP1A2	1.0	
+Acute Coronary Syndrome	CYP2B6	1.0	
+Acute Coronary Syndrome	CYP2C19	1.0	
+Acute Coronary Syndrome	CYP2C9	1.0	
+Acute Coronary Syndrome	CYP3A4	1.0	
+Acute Coronary Syndrome	CYP3A5	1.0	
+Acute Coronary Syndrome	F7	1.0	
+Acute Coronary Syndrome	GSN	1.0	
+Acute Coronary Syndrome	ITGA2	1.0	
+Acute Coronary Syndrome	PPBP	1.0	
+Acute Coronary Syndrome	SLC6A4	1.0	
+Tardive Dyskinesia	APOE	1.0	
+Tardive Dyskinesia	CYP1A2	1.0	
+Tardive Dyskinesia	CYP2B6	1.0	
+Tardive Dyskinesia	CYP2D6	1.0	
+Tardive Dyskinesia	CYP3A4	1.0	
+Tardive Dyskinesia	CYP3A5	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Tardive Dyskinesia	SLC6A4	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ABCB1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ALB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOA1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOA2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOA4	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOC3	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOE	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2B6	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2C19	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2C9	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP2D6	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP3A4	1.0	
+Hypercholesterolemia, autosomal dominant, type B	CYP3A5	1.0	
+Hypercholesterolemia, autosomal dominant, type B	SLC25A13	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	DMD	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT1	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT10	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT14	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT16	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT5	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT6A	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT6B	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	KRT9	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	LDB3	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	SCN5A	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	TTN	1.0	
+Familial type 3 hyperlipoproteinemia	APOA1	1.0	
+Familial type 3 hyperlipoproteinemia	APOC1	1.0	
+Familial type 3 hyperlipoproteinemia	APOC2	1.0	
+Familial type 3 hyperlipoproteinemia	APOC3	1.0	
+Familial type 3 hyperlipoproteinemia	APOE	1.0	
+Familial type 3 hyperlipoproteinemia	CYP3A4	1.0	
+Myofibrillar myopathy, BAG3-related	CFH	1.0	
+Myofibrillar myopathy, BAG3-related	DMD	1.0	
+Myofibrillar myopathy, BAG3-related	FN1	1.0	
+Myofibrillar myopathy, BAG3-related	GSN	1.0	
+Myofibrillar myopathy, BAG3-related	LDB3	1.0	
+Myofibrillar myopathy, BAG3-related	TTN	1.0	
+Orofacial dyskinesia	APOE	1.0	
+Orofacial dyskinesia	CYP1A2	1.0	
+Orofacial dyskinesia	CYP2B6	1.0	
+Orofacial dyskinesia	CYP2D6	1.0	
+Orofacial dyskinesia	CYP3A4	1.0	
+Orofacial dyskinesia	CYP3A5	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Orofacial dyskinesia	SLC6A4	1.0	
+Primary malignant neoplasm of liver	ABCB1	1.0	
+Primary malignant neoplasm of liver	CYP2C19	1.0	
+Primary malignant neoplasm of liver	CYP2D6	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Primary malignant neoplasm of liver	CYP3A5	1.0	
+SUDDEN INFANT DEATH SYNDROME	APOE	1.0	
+SUDDEN INFANT DEATH SYNDROME	ATM	1.0	
+SUDDEN INFANT DEATH SYNDROME	CTSL	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2B6	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C19	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C9	1.0	
+SUDDEN INFANT DEATH SYNDROME	RYR2	1.0	
+SUDDEN INFANT DEATH SYNDROME	SCN5A	1.0	
+SUDDEN INFANT DEATH SYNDROME	SLC6A4	1.0	
+Abnormality of the plantar skin of foot	KRT1	1.0	
+Abnormality of the plantar skin of foot	KRT10	1.0	
+Abnormality of the plantar skin of foot	KRT14	1.0	
+Abnormality of the plantar skin of foot	KRT16	1.0	
+Abnormality of the plantar skin of foot	KRT5	1.0	
+Abnormality of the plantar skin of foot	KRT6A	1.0	
+Abnormality of the plantar skin of foot	KRT9	1.0	
+Neurotoxicity Syndromes	ABCB1	1.0	
+Neurotoxicity Syndromes	ADRA1B	1.0	
+Neurotoxicity Syndromes	CYP2C19	1.0	
+Neurotoxicity Syndromes	CYP2C9	1.0	
+Neurotoxicity Syndromes	CYP3A5	1.0	
+Neurotoxicity Syndromes	LAT	1.0	
+Hyperlipoproteinemia	ALB	1.0	
+Hyperlipoproteinemia	APOA1	1.0	
+Hyperlipoproteinemia	APOA2	1.0	
+Hyperlipoproteinemia	APOC2	1.0	
+Hyperlipoproteinemia	APOC3	1.0	
+Hyperlipoproteinemia	APOE	1.0	
+Hypertriglyceridemia result	APOA1	1.0	
+Hypertriglyceridemia result	APOA2	1.0	
+Hypertriglyceridemia result	APOA4	1.0	
+Hypertriglyceridemia result	APOC2	1.0	
+Hypertriglyceridemia result	APOC3	1.0	
+Hypertriglyceridemia result	APOE	1.0	
+Hyperkeratosis	APOC1	1.0	
+Hyperkeratosis	DMD	1.0	
+Hyperkeratosis	KRT1	1.0	
+Hyperkeratosis	KRT10	1.0	
+Hyperkeratosis	KRT13	1.0	
+Hyperkeratosis	KRT14	1.0	
+Hyperkeratosis	KRT16	1.0	
+Hyperkeratosis	KRT5	1.0	
+Hyperkeratosis	KRT6A	1.0	
+Hyperkeratosis	KRT6B	1.0	
+Hyperkeratosis	KRT9	1.0	
+Hyperkeratosis	LDB3	1.0	
+Hyperkeratosis	SCN5A	1.0	
+Hyperkeratosis	TTN	1.0	
+cardiac event	ABCB1	1.0	
+cardiac event	CYP2C19	1.0	
+cardiac event	HP	1.0	
+cardiac event	RYR2	1.0	
+cardiac event	SCN5A	1.0	
+cardiac event	SLC6A4	1.0	
+Acute myocardial ischemia	ABCB1	1.0	
+Acute myocardial ischemia	ALB	1.0	
+Acute myocardial ischemia	APOA1	1.0	
+Acute myocardial ischemia	APOA4	1.0	
+Acute myocardial ischemia	APOC3	1.0	
+Acute myocardial ischemia	APOE	1.0	
+Acute myocardial ischemia	ATM	1.0	
+Acute myocardial ischemia	CFH	1.0	
+Acute myocardial ischemia	CYP2B6	1.0	
+Acute myocardial ischemia	CYP2C19	1.0	
+Acute myocardial ischemia	CYP2C9	1.0	
+Acute myocardial ischemia	CYP2D6	1.0	
+Acute myocardial ischemia	CYP3A4	1.0	
+Acute myocardial ischemia	DMD	1.0	
+Acute myocardial ischemia	F7	1.0	
+Acute myocardial ischemia	ITGA2	1.0	
+Acute myocardial ischemia	PDE4B	1.0	
+Acute myocardial ischemia	RYR2	1.0	
+Acute myocardial ischemia	SCN5A	1.0	
+Acute myocardial ischemia	TTN	1.0	
+Drug-Induced Liver Injury	ABCB1	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Drug-Induced Liver Injury	APOA1	1.0	
+Drug-Induced Liver Injury	APOE	1.0	
+Drug-Induced Liver Injury	CYP2B6	1.0	
+Drug-Induced Liver Injury	CYP2C19	1.0	
+Drug-Induced Liver Injury	CYP2C9	1.0	
+Drug-Induced Liver Injury	CYP2D6	1.0	
+Drug-Induced Liver Injury	CYP3A5	1.0	
+Drug-Induced Liver Injury	GSN	1.0	
+Drug-Induced Liver Injury	HPX	1.0	
+Drug-Induced Liver Injury	TTR	1.0	
+Kidney Failure, Chronic	ABCB1	1.0	
+Kidney Failure, Chronic	ADRA1B	1.0	
+Kidney Failure, Chronic	AHSG	1.0	
+Kidney Failure, Chronic	ALB	1.0	
+Kidney Failure, Chronic	APOA1	1.0	
+Kidney Failure, Chronic	APOC3	1.0	
+Kidney Failure, Chronic	APOE	1.0	
+Kidney Failure, Chronic	ATM	1.0	
+Kidney Failure, Chronic	CFH	1.0	
+Kidney Failure, Chronic	CST3	1.0	
+Kidney Failure, Chronic	CYP2B6	1.0	
+Kidney Failure, Chronic	CYP2C19	1.0	
+Kidney Failure, Chronic	CYP2C9	1.0	
+Kidney Failure, Chronic	CYP2D6	1.0	
+Kidney Failure, Chronic	CYP3A4	1.0	
+Kidney Failure, Chronic	CYP3A5	1.0	
+Kidney Failure, Chronic	F7	1.0	
+Kidney Failure, Chronic	GSN	1.0	
+Kidney Failure, Chronic	HP	1.0	
+Kidney Failure, Chronic	ITGA2	1.0	
+Kidney Failure, Chronic	KLK3	1.0	
+Kidney Failure, Chronic	NPHS1	1.0	
+Kidney Failure, Chronic	TTR	1.0	
+Coronary heart disease 7	ABCB1	1.0	
+Coronary heart disease 7	AHSG	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	APOA1	1.0	
+Coronary heart disease 7	APOA2	1.0	
+Coronary heart disease 7	APOA4	1.0	
+Coronary heart disease 7	APOC1	1.0	
+Coronary heart disease 7	APOC3	1.0	
+Coronary heart disease 7	APOE	1.0	
+Coronary heart disease 7	ATM	1.0	
+Coronary heart disease 7	CFH	1.0	
+Coronary heart disease 7	CST3	1.0	
+Coronary heart disease 7	CYP2B6	1.0	
+Coronary heart disease 7	CYP2C19	1.0	
+Coronary heart disease 7	CYP2C9	1.0	
+Coronary heart disease 7	CYP2D6	1.0	
+Coronary heart disease 7	CYP3A4	1.0	
+Coronary heart disease 7	CYP3A5	1.0	
+Coronary heart disease 7	F7	1.0	
+Coronary heart disease 7	FN1	1.0	
+Coronary heart disease 7	HP	1.0	
+Coronary heart disease 7	ITGA2	1.0	
+Coronary heart disease 7	PF4V1	1.0	
+Coronary heart disease 7	SCN5A	1.0	
+Coronary heart disease 7	SLC6A4	1.0	
+Coronary heart disease 7	TTN	1.0	
+Acute kidney injury	ABCB1	1.0	
+Acute kidney injury	ALB	1.0	
+Acute kidney injury	APOE	1.0	
+Acute kidney injury	ATM	1.0	
+Acute kidney injury	CFB	1.0	
+Acute kidney injury	CFH	1.0	
+Acute kidney injury	CST3	1.0	
+Acute kidney injury	CYP2C19	1.0	
+Acute kidney injury	CYP2C9	1.0	
+Acute kidney injury	CYP2D6	1.0	
+Acute kidney injury	CYP3A4	1.0	
+Acute kidney injury	CYP3A5	1.0	
+Acute kidney injury	FN1	1.0	
+Acute kidney injury	HP	1.0	
+Acute myocardial infarction	ABCB1	1.0	
+Acute myocardial infarction	APOA1	1.0	
+Acute myocardial infarction	APOE	1.0	
+Acute myocardial infarction	CST3	1.0	
+Acute myocardial infarction	CYP2B6	1.0	
+Acute myocardial infarction	CYP2C19	1.0	
+Acute myocardial infarction	CYP2D6	1.0	
+Acute myocardial infarction	DMD	1.0	
+Acute myocardial infarction	F7	1.0	
+Acute myocardial infarction	HP	1.0	
+Acute myocardial infarction	ITGA2	1.0	
+Acute myocardial infarction	SCN5A	1.0	
+Acute myocardial infarction	SLC6A4	1.0	
+Thromboembolism	APOA4	1.0	
+Thromboembolism	ATM	1.0	
+Thromboembolism	CFH	1.0	
+Thromboembolism	CYP2C19	1.0	
+Thromboembolism	CYP2C9	1.0	
+Thromboembolism	CYP3A4	1.0	
+Thromboembolism	CYP3A5	1.0	
+Thromboembolism	F7	1.0	
+Thromboembolism	ITGA2	1.0	
+Cerebral Amyloid Angiopathy	ABCB1	1.0	
+Cerebral Amyloid Angiopathy	APOA1	1.0	
+Cerebral Amyloid Angiopathy	APOE	1.0	
+Cerebral Amyloid Angiopathy	CST3	1.0	
+Cerebral Amyloid Angiopathy	GSN	1.0	
+Cerebral Amyloid Angiopathy	TTR	1.0	
+Abnormal blistering of the skin	KRT1	1.0	
+Abnormal blistering of the skin	KRT10	1.0	
+Abnormal blistering of the skin	KRT14	1.0	
+Abnormal blistering of the skin	KRT16	1.0	
+Abnormal blistering of the skin	KRT5	1.0	
+Abnormal blistering of the skin	KRT6A	1.0	
+Abnormal blistering of the skin	KRT6B	1.0	
+Nausea	ABCB1	1.0	
+Nausea	CYP1A2	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	CYP2C9	1.0	
+Nausea	CYP2D6	1.0	
+Nausea	SLC6A4	1.0	
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	CYP2D6	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	KLK3	1.0	
+Acute postoperative pain	SLC6A4	1.0	
+Thrombosis	ABCB1	1.0	
+Thrombosis	APOE	1.0	
+Thrombosis	CYP1A2	1.0	
+Thrombosis	CYP2B6	1.0	
+Thrombosis	CYP2C19	1.0	
+Thrombosis	CYP2C9	1.0	
+Thrombosis	CYP3A5	1.0	
+Thrombosis	F7	1.0	
+Thrombosis	ITGA2	1.0	
+Thrombosis	ORM1	1.0	
+Hyperhidrosis	KRT1	1.0	
+Hyperhidrosis	KRT14	1.0	
+Hyperhidrosis	KRT16	1.0	
+Hyperhidrosis	KRT5	1.0	
+Hyperhidrosis	KRT6A	1.0	
+Hyperhidrosis	KRT6B	1.0	
+Hyperhidrosis	KRT9	1.0	
+Hyperhidrosis	NLRC4	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	APOE	1.0	
+Myopathy, scapulohumeroperoneal	CFH	1.0	
+Myopathy, scapulohumeroperoneal	CHKB	1.0	
+Myopathy, scapulohumeroperoneal	CYP2B6	1.0	
+Myopathy, scapulohumeroperoneal	CYP2C9	1.0	
+Myopathy, scapulohumeroperoneal	CYP2D6	1.0	
+Myopathy, scapulohumeroperoneal	CYP3A4	1.0	
+Myopathy, scapulohumeroperoneal	CYP3A5	1.0	
+Myopathy, scapulohumeroperoneal	DMD	1.0	
+Myopathy, scapulohumeroperoneal	GFAP	1.0	
+Myopathy, scapulohumeroperoneal	LDB3	1.0	
+Myopathy, scapulohumeroperoneal	OBSL1	1.0	
+Myopathy, scapulohumeroperoneal	RYR2	1.0	
+Myopathy, scapulohumeroperoneal	SCN5A	1.0	
+Myopathy, scapulohumeroperoneal	TRAPPC11	1.0	
+Myopathy, scapulohumeroperoneal	TTN	1.0	
+Myopathy, scapulohumeroperoneal	TTR	1.0	
+Adverse drug events and drug allergies	ABCB1	1.0	
+Adverse drug events and drug allergies	ALB	1.0	
+Adverse drug events and drug allergies	CYP1A2	1.0	
+Adverse drug events and drug allergies	CYP2C9	1.0	
+Adverse drug events and drug allergies	CYP2D6	1.0	
+Adverse drug events and drug allergies	SLC6A4	1.0	
+Drug Eruptions	APOA1	1.0	
+Drug Eruptions	APOC2	1.0	
+Drug Eruptions	APOC3	1.0	
+Drug Eruptions	TTR	1.0	
+Age-related macular degeneration 2	ALB	1.0	
+Age-related macular degeneration 2	APOC1	1.0	
+Age-related macular degeneration 2	APOC3	1.0	
+Age-related macular degeneration 2	APOE	1.0	
+Age-related macular degeneration 2	ATM	1.0	
+Age-related macular degeneration 2	CFB	1.0	
+Age-related macular degeneration 2	CFD	1.0	
+Age-related macular degeneration 2	CFH	1.0	
+Age-related macular degeneration 2	CST3	1.0	
+Age-related macular degeneration 2	CYP1A2	1.0	
+Age-related macular degeneration 2	CYP2D6	1.0	
+Age-related macular degeneration 2	CYP3A5	1.0	
+Age-related macular degeneration 2	DICER1	1.0	
+Age-related macular degeneration 2	HP	1.0	
+Age-related macular degeneration 2	MGST1	1.0	
+Age-related macular degeneration 2	SERPING1	1.0	
+Age-related macular degeneration 2	TOMM40	1.0	
+Cognition Disorders	APOC1	1.0	
+Cognition Disorders	APOE	1.0	
+Cognition Disorders	CST3	1.0	
+Cognition Disorders	CYP2D6	1.0	
+Cognition Disorders	SLC6A4	1.0	
+Cognition Disorders	SPAST	1.0	
+Chemical Carcinogenesis	CYP1A2	1.0	
+Chemical Carcinogenesis	CYP2B6	1.0	
+Chemical Carcinogenesis	CYP2D6	1.0	
+Chemical Carcinogenesis	GSN	1.0	
+Chemical Carcinogenesis	KRT14	1.0	
+Myocardial Infarction	ABCB1	1.0	
+Myocardial Infarction	AHSG	1.0	
+Myocardial Infarction	APOA1	1.0	
+Myocardial Infarction	APOA2	1.0	
+Myocardial Infarction	APOA4	1.0	
+Myocardial Infarction	APOC1	1.0	
+Myocardial Infarction	APOC3	1.0	
+Myocardial Infarction	APOE	1.0	
+Myocardial Infarction	ATM	1.0	
+Myocardial Infarction	CDCP1	1.0	
+Myocardial Infarction	CFH	1.0	
+Myocardial Infarction	CST3	1.0	
+Myocardial Infarction	CYP1A2	1.0	
+Myocardial Infarction	CYP2B6	1.0	
+Myocardial Infarction	CYP2C19	1.0	
+Myocardial Infarction	CYP2C9	1.0	
+Myocardial Infarction	CYP2D6	1.0	
+Myocardial Infarction	CYP3A4	1.0	
+Myocardial Infarction	CYP3A5	1.0	
+Myocardial Infarction	F7	1.0	
+Myocardial Infarction	FN1	1.0	
+Myocardial Infarction	GFAP	1.0	
+Myocardial Infarction	GSN	1.0	
+Myocardial Infarction	HP	1.0	
+Myocardial Infarction	ITGA2	1.0	
+Myocardial Infarction	KCNMA1	1.0	
+Myocardial Infarction	KRT16	1.0	
+Myocardial Infarction	SCN5A	1.0	
+Myocardial Infarction	SERPING1	1.0	
+Myocardial Infarction	SLC6A4	1.0	
+Epidermal thickening	CHKB	1.0	
+Epidermal thickening	DMD	1.0	
+Epidermal thickening	KRT1	1.0	
+Epidermal thickening	KRT10	1.0	
+Epidermal thickening	KRT13	1.0	
+Epidermal thickening	KRT14	1.0	
+Epidermal thickening	KRT16	1.0	
+Epidermal thickening	KRT5	1.0	
+Epidermal thickening	KRT6A	1.0	
+Epidermal thickening	KRT6B	1.0	
+Epidermal thickening	KRT9	1.0	
+Epidermal thickening	LDB3	1.0	
+Epidermal thickening	SCN5A	1.0	
+Epidermal thickening	TTN	1.0	
+Cholecystolithiasis	APOA1	1.0	
+Cholecystolithiasis	APOA4	1.0	
+Cholecystolithiasis	APOC1	1.0	
+Cholecystolithiasis	APOC3	1.0	
+Cholecystolithiasis	APOE	1.0	
+Cholecystolithiasis	FABP6	1.0	
+Cholecystolithiasis	TTR	1.0	
+Nephrotic Syndrome, Minimal Change	ABCB1	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	APOE	1.0	
+Nephrotic Syndrome, Minimal Change	HPX	1.0	
+Nephrotic Syndrome, Minimal Change	NPHS1	1.0	
+Skin Diseases, Genetic	KRT1	1.0	
+Skin Diseases, Genetic	KRT10	1.0	
+Skin Diseases, Genetic	KRT14	1.0	
+Skin Diseases, Genetic	KRT5	1.0	
+Skin Diseases, Genetic	KRT9	1.0	
+Kidney Diseases	ABCB1	1.0	
+Kidney Diseases	ADRA1B	1.0	
+Kidney Diseases	AHSG	1.0	
+Kidney Diseases	ALB	1.0	
+Kidney Diseases	APOA1	1.0	
+Kidney Diseases	APOA4	1.0	
+Kidney Diseases	APOC3	1.0	
+Kidney Diseases	APOE	1.0	
+Kidney Diseases	ATM	1.0	
+Kidney Diseases	CFH	1.0	
+Kidney Diseases	CST3	1.0	
+Kidney Diseases	CTSL	1.0	
+Kidney Diseases	CYP2B6	1.0	
+Kidney Diseases	CYP2C9	1.0	
+Kidney Diseases	CYP2D6	1.0	
+Kidney Diseases	CYP3A4	1.0	
+Kidney Diseases	CYP3A5	1.0	
+Kidney Diseases	F7	1.0	
+Kidney Diseases	FN1	1.0	
+Kidney Diseases	GSN	1.0	
+Kidney Diseases	HP	1.0	
+Kidney Diseases	NPHS1	1.0	
+Kidney Diseases	RYR2	1.0	
+Kidney Diseases	TTR	1.0	
+Old myocardial infarction	APOA1	1.0	
+Old myocardial infarction	APOA4	1.0	
+Old myocardial infarction	APOE	1.0	
+Old myocardial infarction	CYP2C9	1.0	
+Diabetes mellitus type 2	ABCB1	1.0	
+Diabetes mellitus type 2	AHSG	1.0	
+Diabetes mellitus type 2	ALB	1.0	
+Diabetes mellitus type 2	APOA1	1.0	
+Diabetes mellitus type 2	APOA2	1.0	
+Diabetes mellitus type 2	APOA4	1.0	
+Diabetes mellitus type 2	APOC1	1.0	
+Diabetes mellitus type 2	APOC2	1.0	
+Diabetes mellitus type 2	APOC3	1.0	
+Diabetes mellitus type 2	APOE	1.0	
+Diabetes mellitus type 2	ATM	1.0	
+Diabetes mellitus type 2	CAMTA1	1.0	
+Diabetes mellitus type 2	CFB	1.0	
+Diabetes mellitus type 2	CFH	1.0	
+Diabetes mellitus type 2	CRB1	1.0	
+Diabetes mellitus type 2	CST3	1.0	
+Diabetes mellitus type 2	CTSL	1.0	
+Diabetes mellitus type 2	CYP1A2	1.0	
+Diabetes mellitus type 2	CYP2B6	1.0	
+Diabetes mellitus type 2	CYP2C19	1.0	
+Diabetes mellitus type 2	CYP2C9	1.0	
+Diabetes mellitus type 2	CYP2D6	1.0	
+Diabetes mellitus type 2	CYP3A4	1.0	
+Diabetes mellitus type 2	CYP3A5	1.0	
+Diabetes mellitus type 2	DCD	1.0	
+Diabetes mellitus type 2	DGKG	1.0	
+Diabetes mellitus type 2	DICER1	1.0	
+Diabetes mellitus type 2	DMD	1.0	
+Diabetes mellitus type 2	F7	1.0	
+Diabetes mellitus type 2	FABP6	1.0	
+Diabetes mellitus type 2	FN1	1.0	
+Diabetes mellitus type 2	GRAP2	1.0	
+Diabetes mellitus type 2	GSN	1.0	
+Diabetes mellitus type 2	HP	1.0	
+Diabetes mellitus type 2	HPX	1.0	
+Diabetes mellitus type 2	ITGA2	1.0	
+Diabetes mellitus type 2	KRT16	1.0	
+Diabetes mellitus type 2	MGST3	1.0	
+Diabetes mellitus type 2	NPHS1	1.0	
+Diabetes mellitus type 2	PEG3	1.0	
+Diabetes mellitus type 2	SCN5A	1.0	
+Diabetes mellitus type 2	SLC6A4	1.0	
+Diabetes mellitus type 2	ST13	1.0	
+Diabetes mellitus type 2	THRAP3	1.0	
+Diabetes mellitus type 2	TOMM40	1.0	
+Diabetes mellitus type 2	TSC22D1	1.0	
+Diabetes mellitus type 2	TTR	1.0	
+Depressive Symptoms	ABCB1	1.0	
+Depressive Symptoms	APOE	1.0	
+Depressive Symptoms	CYP2C19	1.0	
+Depressive Symptoms	CYP2D6	1.0	
+Depressive Symptoms	CYP3A4	1.0	
+Depressive Symptoms	GRAP2	1.0	
+Depressive Symptoms	SLC6A4	1.0	
+Depressive Symptoms	TTN	1.0	
+Ichthyosis, congenital, autosomal recessive 12	CHKB	1.0	
+Ichthyosis, congenital, autosomal recessive 12	DMD	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT1	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT10	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT14	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT16	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT6A	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT6B	1.0	
+Ichthyosis, congenital, autosomal recessive 12	KRT9	1.0	
+Hyperlipidemia, familial combined	ALB	1.0	
+Hyperlipidemia, familial combined	APOA1	1.0	
+Hyperlipidemia, familial combined	APOA2	1.0	
+Hyperlipidemia, familial combined	APOA4	1.0	
+Hyperlipidemia, familial combined	APOC3	1.0	
+Hyperlipidemia, familial combined	APOE	1.0	
+Hyperlipidemia, familial combined	FN1	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Insulin resistance syndrome	APOA2	1.0	
+Insulin resistance syndrome	APOA4	1.0	
+Insulin resistance syndrome	APOC1	1.0	
+Insulin resistance syndrome	APOC2	1.0	
+Chronic Kidney Insufficiency	ABCB1	1.0	
+Chronic Kidney Insufficiency	AHSG	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	APOA4	1.0	
+Chronic Kidney Insufficiency	APOE	1.0	
+Chronic Kidney Insufficiency	ATM	1.0	
+Chronic Kidney Insufficiency	CST3	1.0	
+Chronic Kidney Insufficiency	CYP2C19	1.0	
+Chronic Kidney Insufficiency	CYP3A5	1.0	
+Chronic Kidney Insufficiency	HP	1.0	
+Acute Cerebrovascular Accidents	APOE	1.0	
+Acute Cerebrovascular Accidents	CYP2B6	1.0	
+Acute Cerebrovascular Accidents	CYP2C19	1.0	
+Acute Cerebrovascular Accidents	CYP2C9	1.0	
+Acute Cerebrovascular Accidents	F7	1.0	
+Coronary Restenosis	ABCB1	1.0	
+Coronary Restenosis	APOE	1.0	
+Coronary Restenosis	CYP2C19	1.0	
+Coronary Restenosis	F7	1.0	
+Coronary Restenosis	SLC6A4	1.0	
+ Cerebrovascular disease, occlusive (3)	APOA1	1.0	
+ Cerebrovascular disease, occlusive (3)	APOA4	1.0	
+ Cerebrovascular disease, occlusive (3)	APOC3	1.0	
+ Cerebrovascular disease, occlusive (3)	APOE	1.0	
+ Cerebrovascular disease, occlusive (3)	F7	1.0	
+ Cerebrovascular disease, occlusive (3)	ITGA2	1.0	
+Lupus Nephritis	ABCB1	1.0	
+Lupus Nephritis	CFH	1.0	
+Lupus Nephritis	CYP2B6	1.0	
+Lupus Nephritis	CYP2C19	1.0	
+Lupus Nephritis	CYP2C9	1.0	
+Lupus Nephritis	CYP3A4	1.0	
+Lupus Nephritis	CYP3A5	1.0	
+Lupus Nephritis	FN1	1.0	
+Lupus Nephritis	KLK3	1.0	
+Lupus Nephritis	SERPING1	1.0	
+Lupus Nephritis	SLC6A4	1.0	
+Thickened skin	CHKB	1.0	
+Thickened skin	DMD	1.0	
+Thickened skin	KRT1	1.0	
+Thickened skin	KRT10	1.0	
+Thickened skin	KRT13	1.0	
+Thickened skin	KRT14	1.0	
+Thickened skin	KRT16	1.0	
+Thickened skin	KRT5	1.0	
+Thickened skin	KRT6A	1.0	
+Thickened skin	KRT6B	1.0	
+Thickened skin	KRT9	1.0	
+Thickened skin	LDB3	1.0	
+Thickened skin	SCN5A	1.0	
+Thickened skin	TTN	1.0	
+Nephrosis	ALB	1.0	
+Nephrosis	APOA1	1.0	
+Nephrosis	CFH	1.0	
+Nephrosis	CYP3A5	1.0	
+Nephrosis	NPHS1	1.0	
+Bleeding with minor or no trauma	APOE	1.0	
+Bleeding with minor or no trauma	CYP2C19	1.0	
+Bleeding with minor or no trauma	CYP2C9	1.0	
+Bleeding with minor or no trauma	F7	1.0	
+Bleeding with minor or no trauma	ITGA2	1.0	
+Bleeding with minor or no trauma	KRT1	1.0	
+Chronic kidney disease	ABCB1	1.0	
+Chronic kidney disease	AHSG	1.0	
+Chronic kidney disease	ALB	1.0	
+Chronic kidney disease	APOA4	1.0	
+Chronic kidney disease	APOE	1.0	
+Chronic kidney disease	ATM	1.0	
+Chronic kidney disease	CFH	1.0	
+Chronic kidney disease	CST3	1.0	
+Chronic kidney disease	CYP2C19	1.0	
+Chronic kidney disease	CYP3A5	1.0	
+Chronic kidney disease	FN1	1.0	
+Chronic kidney disease	HP	1.0	
+Chronic kidney disease	ITGA2	1.0	
+Chronic kidney disease	TOMM40	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ABCB1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOA2	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOE	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	CYP3A4	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	CYP3A5	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSN	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	LDB3	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SACS	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SERPING1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SETX	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	TTR	1.0	
+Oral leukoplakia	ATM	1.0	
+Oral leukoplakia	KRT14	1.0	
+Oral leukoplakia	KRT16	1.0	
+Oral leukoplakia	KRT5	1.0	
+Oral leukoplakia	KRT6A	1.0	
+Oral leukoplakia	KRT6B	1.0	
+Postoperative Complications	ABCB1	1.0	
+Postoperative Complications	APOE	1.0	
+Postoperative Complications	CYP2D6	1.0	
+Postoperative Complications	CYP3A5	1.0	
+Postoperative Complications	F7	1.0	
+Postoperative Complications	SLC6A4	1.0	
+Enzyme inhibition disorder	CST3	1.0	
+Enzyme inhibition disorder	CYP2B6	1.0	
+Enzyme inhibition disorder	CYP2D6	1.0	
+Enzyme inhibition disorder	CYP3A4	1.0	
+Abnormality of the level of lipoprotein cholesterol	APOA1	1.0	
+Abnormality of the level of lipoprotein cholesterol	APOC3	1.0	
+Abnormality of the level of lipoprotein cholesterol	APOE	1.0	
+Abnormality of the level of lipoprotein cholesterol	SLC25A13	1.0	
+Drug Resistant Epilepsy	ABCB1	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Drug Resistant Epilepsy	APOE	1.0	
+Drug Resistant Epilepsy	CYP2C19	1.0	
+Drug Resistant Epilepsy	GFAP	1.0	
+Alzheimer Disease, Late Onset	APOC1	1.0	
+Alzheimer Disease, Late Onset	APOC2	1.0	
+Alzheimer Disease, Late Onset	APOE	1.0	
+Alzheimer Disease, Late Onset	CST3	1.0	
+Alzheimer Disease, Late Onset	GFAP	1.0	
+Alzheimer Disease, Late Onset	TOMM40	1.0	
+Stage 5 chronic kidney disease	AHSG	1.0	
+Stage 5 chronic kidney disease	ALB	1.0	
+Stage 5 chronic kidney disease	APOA1	1.0	
+Stage 5 chronic kidney disease	APOE	1.0	
+Stage 5 chronic kidney disease	CFH	1.0	
+Stage 5 chronic kidney disease	CYP2D6	1.0	
+Stage 5 chronic kidney disease	FN1	1.0	
+Stage 5 chronic kidney disease	GSN	1.0	
+Stage 5 chronic kidney disease	KLK3	1.0	
+Stage 5 chronic kidney disease	NPHS1	1.0	
+Stage 5 chronic kidney disease	TTR	1.0	

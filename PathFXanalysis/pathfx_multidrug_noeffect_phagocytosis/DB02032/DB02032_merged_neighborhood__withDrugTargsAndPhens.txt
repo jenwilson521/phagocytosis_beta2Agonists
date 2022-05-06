@@ -1,0 +1,878 @@
+node1	node2	edge_score	
+DB02032	ACE	1.0	
+ACE	rs4646994	0.99
+ACE		1
+ACE	rs1799752	0.99
+ACE	rs4359	0.99
+ACE	rs4344	0.99
+ACE	rs4343	0.99
+ACE	rs4292	0.99
+ACE	AGT	0.8580060915991022
+REN	rs2368564	0.8350751364976787
+ACE	rs4291	0.99
+ACE	rs4341	0.99
+ACE	REN	0.8435102388865442
+genetic hypertension	ACE	1.0	
+genetic hypertension	AGT	1.0	
+genetic hypertension	REN	1.0	
+Otosclerosis	ACE	1.0	
+Otosclerosis	AGT	1.0	
+Otosclerosis	REN	1.0	
+Abnormal urine output	ACE	1.0	
+Abnormal urine output	AGT	1.0	
+Abnormal urine output	REN	1.0	
+Hypervolemia	ACE	1.0	
+Hypervolemia	AGT	1.0	
+Hypervolemia	REN	1.0	
+Abnormality of renal excretion	ACE	1.0	
+Abnormality of renal excretion	AGT	1.0	
+Abnormality of renal excretion	REN	1.0	
+Nephrosclerosis	ACE	1.0	
+Nephrosclerosis	AGT	1.0	
+Nephrosclerosis	REN	1.0	
+Coronary Thrombosis	ACE	1.0	
+Coronary Thrombosis	AGT	1.0	
+Coronary Thrombosis	REN	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ACE	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	AGT	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	REN	1.0	
+Focal segmental glomerulosclerosis 1	ACE	1.0	
+Focal segmental glomerulosclerosis 1	AGT	1.0	
+Focal segmental glomerulosclerosis 1	REN	1.0	
+Renovascular hypertension	ACE	1.0	
+Renovascular hypertension	AGT	1.0	
+Renovascular hypertension	REN	1.0	
+Nephrosis	ACE	1.0	
+Nephrosis	AGT	1.0	
+Nephrosis	REN	1.0	
+Diabetic Cardiomyopathies	ACE	1.0	
+Diabetic Cardiomyopathies	AGT	1.0	
+Diabetic Cardiomyopathies	REN	1.0	
+Henoch-Schoenlein Purpura	ACE	1.0	
+Henoch-Schoenlein Purpura	AGT	1.0	
+Henoch-Schoenlein Purpura	REN	1.0	
+Lymphangiomyomatosis	ACE	1.0	
+Lymphangiomyomatosis	AGT	1.0	
+Lymphangiomyomatosis	REN	1.0	
+Aortic valve disease 2	ACE	1.0	
+Aortic valve disease 2	AGT	1.0	
+Aortic valve disease 2	REN	1.0	
+Hemolytic uremic syndrome	ACE	1.0	
+Hemolytic uremic syndrome	AGT	1.0	
+Hemolytic uremic syndrome	REN	1.0	
+Renal dysplasia	ACE	1.0	
+Renal dysplasia	AGT	1.0	
+Renal dysplasia	REN	1.0	
+Microalbuminuria	ACE	1.0	
+Microalbuminuria	AGT	1.0	
+Microalbuminuria	REN	1.0	
+Cardiac fibrosis	ACE	1.0	
+Cardiac fibrosis	AGT	1.0	
+Cardiac fibrosis	REN	1.0	
+Uremia	ACE	1.0	
+Uremia	AGT	1.0	
+Uremia	REN	1.0	
+Abnormality of the renal tubule	ACE	1.0	
+Abnormality of the renal tubule	AGT	1.0	
+Abnormality of the renal tubule	REN	1.0	
+Brain Infarction	ACE	1.0	
+Brain Infarction	AGT	1.0	
+Brain Infarction	REN	1.0	
+Coronary artery stenosis	ACE	1.0	
+Coronary artery stenosis	AGT	1.0	
+Coronary artery stenosis	REN	1.0	
+Membranous nephropathy, susceptibility to	ACE	1.0	
+Membranous nephropathy, susceptibility to	AGT	1.0	
+Membranous nephropathy, susceptibility to	REN	1.0	
+Mitral Valve Prolapse	ACE	1.0	
+Mitral Valve Prolapse	AGT	1.0	
+Mitral Valve Prolapse	REN	1.0	
+Chronic heart failure	ACE	1.0	
+Chronic heart failure	AGT	1.0	
+Chronic heart failure	REN	1.0	
+Pulmonary hypoplasia	ACE	1.0	
+Pulmonary hypoplasia	AGT	1.0	
+Pulmonary hypoplasia	REN	1.0	
+Diabetic Angiopathies	ACE	1.0	
+Diabetic Angiopathies	AGT	1.0	
+Diabetic Angiopathies	REN	1.0	
+Mitral regurgitation	ACE	1.0	
+Mitral regurgitation	AGT	1.0	
+Mitral regurgitation	REN	1.0	
+Oligohydramnios	ACE	1.0	
+Oligohydramnios	AGT	1.0	
+Oligohydramnios	REN	1.0	
+Aplasia/Hypoplasia of the lungs	ACE	1.0	
+Aplasia/Hypoplasia of the lungs	AGT	1.0	
+Aplasia/Hypoplasia of the lungs	REN	1.0	
+Angina, Unstable	ACE	1.0	
+Angina, Unstable	AGT	1.0	
+Angina, Unstable	REN	1.0	
+Aortic regurgitation	ACE	1.0	
+Aortic regurgitation	AGT	1.0	
+Aortic regurgitation	REN	1.0	
+Interstitial fibrosis	ACE	1.0	
+Interstitial fibrosis	AGT	1.0	
+Interstitial fibrosis	REN	1.0	
+Acute pancreatitis	ACE	1.0	
+Acute pancreatitis	AGT	1.0	
+Acute pancreatitis	REN	1.0	
+Glomerulosclerosis, Focal Segmental	ACE	1.0	
+Glomerulosclerosis, Focal Segmental	AGT	1.0	
+Glomerulosclerosis, Focal Segmental	REN	1.0	
+Carotid Atherosclerosis	ACE	1.0	
+Carotid Atherosclerosis	AGT	1.0	
+Carotid Atherosclerosis	REN	1.0	
+Portal hypertension, noncirrhotic	ACE	1.0	
+Portal hypertension, noncirrhotic	AGT	1.0	
+Portal hypertension, noncirrhotic	REN	1.0	
+High altitude pulmonary edema	ACE	1.0	
+High altitude pulmonary edema	REN	1.0	
+Intracranial Aneurysm	ACE	1.0	
+Intracranial Aneurysm	AGT	1.0	
+Intracranial Aneurysm	REN	1.0	
+Large fontanelles	ACE	1.0	
+Large fontanelles	AGT	1.0	
+Large fontanelles	REN	1.0	
+Focal segmental glomerulosclerosis	ACE	1.0	
+Focal segmental glomerulosclerosis	AGT	1.0	
+Focal segmental glomerulosclerosis	REN	1.0	
+Esophageal varix	ACE	1.0	
+Esophageal varix	AGT	1.0	
+Cardiovascular morbidity	ACE	1.0	
+Cardiovascular morbidity	REN	1.0	
+Thrombophilia	ACE	1.0	
+Thrombophilia	AGT	1.0	
+Thrombophilia	REN	1.0	
+Old myocardial infarction	ACE	1.0	
+Old myocardial infarction	REN	1.0	
+Aortic atherosclerosis	ACE	1.0	
+Aortic atherosclerosis	AGT	1.0	
+Proliferative retinopathy	ACE	1.0	
+Proliferative retinopathy	REN	1.0	
+Proteinuria Adverse Event	ACE	1.0	
+Proteinuria Adverse Event	AGT	1.0	
+Vesicoureteral reflux	ACE	1.0	
+Vesicoureteral reflux	AGT	1.0	
+Vesicoureteral reflux	REN	1.0	
+Hypotension	ACE	1.0	
+Hypotension	AGT	1.0	
+Hypotension	REN	1.0	
+Ventricular Fibrillation Adverse Event	ACE	1.0	
+Ventricular Fibrillation Adverse Event	AGT	1.0	
+Ventricular Fibrillation Adverse Event	REN	1.0	
+Pancreatic fibrosis	ACE	1.0	
+Pancreatic fibrosis	REN	1.0	
+Pregnancy Complications	ACE	1.0	
+Pregnancy Complications	AGT	1.0	
+Pregnancy Complications	REN	1.0	
+Biliary cirrhosis	ACE	1.0	
+Biliary cirrhosis	AGT	1.0	
+Biliary cirrhosis	REN	1.0	
+Aortic valve stenosis	ACE	1.0	
+Aortic valve stenosis	AGT	1.0	
+Aortic valve stenosis	REN	1.0	
+Enzyme inhibition disorder	AGT	1.0	
+Enzyme inhibition disorder	REN	1.0	
+Respiratory Distress Syndrome, Adult	ACE	1.0	
+Respiratory Distress Syndrome, Adult	AGT	1.0	
+Respiratory Distress Syndrome, Adult	REN	1.0	
+Renal hypertension	ACE	1.0	
+Renal hypertension	AGT	1.0	
+Aortic aneurysm without mention of rupture NOS	ACE	1.0	
+Aortic aneurysm without mention of rupture NOS	AGT	1.0	
+Polycystic kidney disease, autosomal dominant	ACE	1.0	
+Polycystic kidney disease, autosomal dominant	AGT	1.0	
+Polycystic kidney disease, autosomal dominant	REN	1.0	
+Alport syndrome	ACE	1.0	
+Alport syndrome	REN	1.0	
+Tachycardia	ACE	1.0	
+Tachycardia	AGT	1.0	
+Tachycardia	REN	1.0	
+{Aneurysm, familial abdominal 3} (2)	ACE	1.0	
+{Aneurysm, familial abdominal 3} (2)	AGT	1.0	
+{Aneurysm, familial abdominal 3} (2)	REN	1.0	
+Peptic Ulcer Hemorrhage	ACE	1.0	
+Peptic Ulcer Hemorrhage	AGT	1.0	
+Sudden death	ACE	1.0	
+Sudden death	AGT	1.0	
+Pregnancy associated hypertension	ACE	1.0	
+Pregnancy associated hypertension	AGT	1.0	
+Polycystic Kidney, Autosomal Dominant	ACE	1.0	
+Polycystic Kidney, Autosomal Dominant	AGT	1.0	
+Polycystic Kidney, Autosomal Dominant	REN	1.0	
+Glomerulopathy	ACE	1.0	
+Glomerulopathy	AGT	1.0	
+Glomerulopathy	REN	1.0	
+Alkalosis	AGT	1.0	
+Alkalosis	REN	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	ACE	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	AGT	1.0	
+Cerebral aneurysm	AGT	1.0	
+Cerebral aneurysm	REN	1.0	
+Carotid Stenosis	ACE	1.0	
+Carotid Stenosis	AGT	1.0	
+Carotid Stenosis	REN	1.0	
+Abnormality of the nephron	ACE	1.0	
+Abnormality of the nephron	AGT	1.0	
+Abnormality of the nephron	REN	1.0	
+Albuminuria	ACE	1.0	
+Albuminuria	AGT	1.0	
+Albuminuria	REN	1.0	
+Obstructive nephropathy	AGT	1.0	
+Obstructive nephropathy	REN	1.0	
+Granulomatosis	ACE	1.0	
+Granulomatosis	AGT	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	ACE	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	AGT	1.0	
+46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	REN	1.0	
+Obstructive sleep apnea	ACE	1.0	
+Obstructive sleep apnea	AGT	1.0	
+Obstructive sleep apnea	REN	1.0	
+Chronic rejection of renal transplant	ACE	1.0	
+Chronic rejection of renal transplant	AGT	1.0	
+Hypotension, Orthostatic	ACE	1.0	
+Hypotension, Orthostatic	AGT	1.0	
+Hyperaldosteronism, familial, type IV	AGT	1.0	
+Hyperaldosteronism, familial, type IV	REN	1.0	
+Tubulointerstitial nephritis	ACE	1.0	
+Tubulointerstitial nephritis	AGT	1.0	
+Fabry disease	ACE	1.0	
+Fabry disease	AGT	1.0	
+Drug usage	ACE	1.0	
+Drug usage	AGT	1.0	
+Familial hypercholesterolemia	ACE	1.0	
+Familial hypercholesterolemia	AGT	1.0	
+Familial hypercholesterolemia	REN	1.0	
+Chronic Periodontitis	ACE	1.0	
+Chronic Periodontitis	AGT	1.0	
+Chronic Periodontitis	REN	1.0	
+Eclampsia	ACE	1.0	
+Eclampsia	AGT	1.0	
+Eclampsia	REN	1.0	
+Chronic Kidney Insufficiency	ACE	1.0	
+Chronic Kidney Insufficiency	AGT	1.0	
+Chronic Kidney Insufficiency	REN	1.0	
+Aortic Aneurysm, Abdominal	ACE	1.0	
+Aortic Aneurysm, Abdominal	AGT	1.0	
+Aortic Aneurysm, Abdominal	REN	1.0	
+Fibrosis	ACE	1.0	
+Fibrosis	AGT	1.0	
+Fibrosis	REN	1.0	
+Coronary Restenosis	ACE	1.0	
+Coronary Restenosis	AGT	1.0	
+Epilepsy, Temporal Lobe	ACE	1.0	
+Epilepsy, Temporal Lobe	AGT	1.0	
+Epilepsy, Temporal Lobe	REN	1.0	
+Fetal Membranes, Premature Rupture	ACE	1.0	
+Fetal Membranes, Premature Rupture	AGT	1.0	
+Fetal Membranes, Premature Rupture	REN	1.0	
+Other rheumatic heart disease	ACE	1.0	
+Other rheumatic heart disease	AGT	1.0	
+Chorioamnionitis	ACE	1.0	
+Chorioamnionitis	AGT	1.0	
+Chorioamnionitis	REN	1.0	
+Abnormality of cranial sutures	ACE	1.0	
+Abnormality of cranial sutures	AGT	1.0	
+Abnormality of cranial sutures	REN	1.0	
+Ovarian Failure, Premature	ACE	1.0	
+Ovarian Failure, Premature	AGT	1.0	
+Ovarian Failure, Premature	REN	1.0	
+Premature Obstetric Labor	ACE	1.0	
+Premature Obstetric Labor	AGT	1.0	
+Premature Obstetric Labor	REN	1.0	
+Abnormality of the amniotic fluid	ACE	1.0	
+Abnormality of the amniotic fluid	AGT	1.0	
+Abnormality of the amniotic fluid	REN	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	ACE	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	AGT	1.0	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	REN	1.0	
+Chromosome Xq28 deletion syndrome	ACE	1.0	
+Chromosome Xq28 deletion syndrome	AGT	1.0	
+Marfan syndrome	ACE	1.0	
+Marfan syndrome	AGT	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ACE	1.0	
+Hypercholesterolemia, autosomal dominant, type B	AGT	1.0	
+Hypercholesterolemia, autosomal dominant, type B	REN	1.0	
+Endothelial dysfunction	ACE	1.0	
+Endothelial dysfunction	AGT	1.0	
+Endothelial dysfunction	REN	1.0	
+Restenosis	ACE	1.0	
+Restenosis	AGT	1.0	
+Restenosis	REN	1.0	
+Lupus Nephritis	ACE	1.0	
+Lupus Nephritis	AGT	1.0	
+Lupus Nephritis	REN	1.0	
+Familial hypertrophic cardiomyopathy 11	ACE	1.0	
+Familial hypertrophic cardiomyopathy 11	AGT	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	ACE	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	AGT	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	REN	1.0	
+Meningococcal Infections	ACE	1.0	
+Meningococcal Infections	AGT	1.0	
+Aortic dissection	ACE	1.0	
+Aortic dissection	AGT	1.0	
+Stage 5 chronic kidney disease	ACE	1.0	
+Stage 5 chronic kidney disease	AGT	1.0	
+Stage 5 chronic kidney disease	REN	1.0	
+Diaphragmatic hernia	ACE	1.0	
+Diaphragmatic hernia	AGT	1.0	
+Acute myocardial infarction	ACE	1.0	
+Acute myocardial infarction	AGT	1.0	
+Acute myocardial infarction	REN	1.0	
+Primary hyperaldosteronism	AGT	1.0	
+Primary hyperaldosteronism	REN	1.0	
+Proliferative diabetic retinopathy	ACE	1.0	
+Proliferative diabetic retinopathy	REN	1.0	
+Retinopathy of Prematurity	ACE	1.0	
+Retinopathy of Prematurity	AGT	1.0	
+Sleep apnea	ACE	1.0	
+Sleep apnea	AGT	1.0	
+Right ventricular hypertrophy	ACE	1.0	
+Right ventricular hypertrophy	REN	1.0	
+Ventricular Dysfunction, Right	ACE	1.0	
+Ventricular Dysfunction, Right	AGT	1.0	
+{Atopy, susceptibility to}, 147050 (3)	ACE	1.0	
+{Atopy, susceptibility to}, 147050 (3)	AGT	1.0	
+MAJOR AFFECTIVE DISORDER 4	ACE	1.0	
+MAJOR AFFECTIVE DISORDER 4	AGT	1.0	
+MAJOR AFFECTIVE DISORDER 5	ACE	1.0	
+MAJOR AFFECTIVE DISORDER 5	AGT	1.0	
+MAJOR AFFECTIVE DISORDER 6	ACE	1.0	
+MAJOR AFFECTIVE DISORDER 6	AGT	1.0	
+Major affective disorder 7	ACE	1.0	
+Major affective disorder 7	AGT	1.0	
+MAJOR AFFECTIVE DISORDER 8	ACE	1.0	
+MAJOR AFFECTIVE DISORDER 8	AGT	1.0	
+MAJOR AFFECTIVE DISORDER 9	ACE	1.0	
+MAJOR AFFECTIVE DISORDER 9	AGT	1.0	
+ Cerebrovascular disease, occlusive (3)	ACE	1.0	
+ Cerebrovascular disease, occlusive (3)	AGT	1.0	
+Abnormality of fontanelles	ACE	1.0	
+Abnormality of fontanelles	AGT	1.0	
+Abnormality of fontanelles	REN	1.0	
+Bleeding with minor or no trauma	AGT	1.0	
+Bleeding with minor or no trauma	REN	1.0	
+Homocysteinemia due to MTHFR deficiency	ACE	1.0	
+Homocysteinemia due to MTHFR deficiency	AGT	1.0	
+Granulomatosis with Polyangiitis	ACE	1.0	
+Granulomatosis with Polyangiitis	AGT	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	ACE	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	AGT	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	REN	1.0	
+Postoperative Complications	ACE	1.0	
+Postoperative Complications	AGT	1.0	
+Glomerulonephritis, Membranous	ACE	1.0	
+Glomerulonephritis, Membranous	AGT	1.0	
+Glomerulonephritis, Membranous	REN	1.0	
+Diabetic Retinopathy	ACE	1.0	
+Diabetic Retinopathy	AGT	1.0	
+Diabetic Retinopathy	REN	1.0	
+Acute kidney injury	ACE	1.0	
+Acute kidney injury	AGT	1.0	
+Acute kidney injury	REN	1.0	
+Migraine with aura	ACE	1.0	
+Migraine with aura	AGT	1.0	
+Left ventricular hypertrophy	ACE	1.0	
+Left ventricular hypertrophy	AGT	1.0	
+Left ventricular hypertrophy	REN	1.0	
+Ventricular hypertrophy	ACE	1.0	
+Ventricular hypertrophy	AGT	1.0	
+Duodenal Ulcer	ACE	1.0	
+Duodenal Ulcer	AGT	1.0	
+Substance Withdrawal Syndrome	ACE	1.0	
+Substance Withdrawal Syndrome	REN	1.0	
+Panic disorder 1	ACE	1.0	
+Panic disorder 1	AGT	1.0	
+Cardiomegaly	ACE	1.0	
+Cardiomegaly	AGT	1.0	
+Cardiomegaly	REN	1.0	
+Stable angina	ACE	1.0	
+Stable angina	REN	1.0	
+Dementia, Vascular	ACE	1.0	
+Dementia, Vascular	AGT	1.0	
+Gastrointestinal Diseases	ACE	1.0	
+Gastrointestinal Diseases	AGT	1.0	
+Infarction, Middle Cerebral Artery	ACE	1.0	
+Infarction, Middle Cerebral Artery	AGT	1.0	
+Renal ischaemia	AGT	1.0	
+Renal ischaemia	REN	1.0	
+Hyperlipidemia, combined, 1	ACE	1.0	
+Hyperlipidemia, combined, 1	AGT	1.0	
+Hyperlipidemia, combined, 1	REN	1.0	
+Pterygium	ACE	1.0	
+Pterygium	AGT	1.0	
+Cough	ACE	1.0	
+Cough	REN	1.0	
+Ischaemic cerebral infarction	ACE	1.0	
+Ischaemic cerebral infarction	AGT	1.0	
+Ischaemic cerebral infarction	REN	1.0	
+Abnormal systemic blood pressure	ACE	1.0	
+Abnormal systemic blood pressure	AGT	1.0	
+Abnormal systemic blood pressure	REN	1.0	
+Adrenocortical adenoma	AGT	1.0	
+Adrenocortical adenoma	REN	1.0	
+Type 1 diabetic neuropathy	ACE	1.0	
+Type 1 diabetic neuropathy	AGT	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	ACE	1.0	
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	AGT	1.0	
+Essential hypertension	ACE	1.0	
+Essential hypertension	AGT	1.0	
+Essential hypertension	REN	1.0	
+DNA Damage	ACE	1.0	
+DNA Damage	AGT	1.0	
+Malaria, Cerebral	ACE	1.0	
+Malaria, Cerebral	AGT	1.0	
+Severe Acute Respiratory Syndrome	ACE	1.0	
+Severe Acute Respiratory Syndrome	AGT	1.0	
+Periodontitis	ACE	1.0	
+Periodontitis	AGT	1.0	
+Periodontitis	REN	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	ACE	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	AGT	1.0	
+Pulmonary hypertension, neonatal, susceptibility to	REN	1.0	
+Migraine Disorders	ACE	1.0	
+Migraine Disorders	AGT	1.0	
+Migraine Disorders	REN	1.0	
+Intraocular pressure disorder	AGT	1.0	
+Intraocular pressure disorder	REN	1.0	
+Calcinosis	ACE	1.0	
+Calcinosis	AGT	1.0	
+Ischemic Cerebrovascular Accident	ACE	1.0	
+Ischemic Cerebrovascular Accident	AGT	1.0	
+Ischemic Cerebrovascular Accident	REN	1.0	
+Chronic kidney disease	ACE	1.0	
+Chronic kidney disease	AGT	1.0	
+Chronic kidney disease	REN	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	ACE	1.0	
+NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	AGT	1.0	
+Posttraumatic stress disorder	ACE	1.0	
+Posttraumatic stress disorder	REN	1.0	
+Renal insufficiency	ACE	1.0	
+Renal insufficiency	AGT	1.0	
+Renal insufficiency	REN	1.0	
+Hyperinsulinemia	ACE	1.0	
+Hyperinsulinemia	AGT	1.0	
+Hyperinsulinemia	REN	1.0	
+Glaucoma, Open-Angle	ACE	1.0	
+Glaucoma, Open-Angle	AGT	1.0	
+Deep venous thrombosis	ACE	1.0	
+Deep venous thrombosis	REN	1.0	
+Renal Insufficiency, Chronic	ACE	1.0	
+Renal Insufficiency, Chronic	AGT	1.0	
+Renal Insufficiency, Chronic	REN	1.0	
+Acquired long QT syndrome	ACE	1.0	
+Acquired long QT syndrome	AGT	1.0	
+Panic disorder syndrome 1 (2)	ACE	1.0	
+Panic disorder syndrome 1 (2)	AGT	1.0	
+Gastric ulcer	ACE	1.0	
+Gastric ulcer	REN	1.0	
+Aortic Aneurysm, Thoracic	ACE	1.0	
+Aortic Aneurysm, Thoracic	AGT	1.0	
+Hereditary hyperhomocysteinemia	ACE	1.0	
+Hereditary hyperhomocysteinemia	AGT	1.0	
+Preeclampsia/eclampsia 1	ACE	1.0	
+Preeclampsia/eclampsia 1	AGT	1.0	
+Preeclampsia/eclampsia 1	REN	1.0	
+Premature Birth	ACE	1.0	
+Premature Birth	AGT	1.0	
+Premature Birth	REN	1.0	
+Vascular inflammations	ACE	1.0	
+Vascular inflammations	AGT	1.0	
+Intrauterine growth retardation	ACE	1.0	
+Intrauterine growth retardation	AGT	1.0	
+Intrauterine growth retardation	REN	1.0	
+Anxiety Disorders	ACE	1.0	
+Anxiety Disorders	AGT	1.0	
+Anxiety Disorders	REN	1.0	
+Hypertrophic cardiomyopathy	ACE	1.0	
+Hypertrophic cardiomyopathy	AGT	1.0	
+Hypertrophic cardiomyopathy	REN	1.0	
+Heart Diseases	ACE	1.0	
+Heart Diseases	AGT	1.0	
+Heart Diseases	REN	1.0	
+Peptic ulcer	ACE	1.0	
+Peptic ulcer	AGT	1.0	
+Impotence	ACE	1.0	
+Impotence	AGT	1.0	
+Ischemic stroke	ACE	1.0	
+Ischemic stroke	AGT	1.0	
+Ischemic stroke	REN	1.0	
+Obesity, severe, 601665 (3)	ACE	1.0	
+Obesity, severe, 601665 (3)	AGT	1.0	
+Vascular Diseases	ACE	1.0	
+Vascular Diseases	AGT	1.0	
+Vascular Diseases	REN	1.0	
+Gastrointestinal hemorrhage	ACE	1.0	
+Gastrointestinal hemorrhage	AGT	1.0	
+Abdominal obesity	ACE	1.0	
+Abdominal obesity	AGT	1.0	
+Brain Ischemia	ACE	1.0	
+Brain Ischemia	AGT	1.0	
+Brain Ischemia	REN	1.0	
+Hepatic fibrosis	ACE	1.0	
+Hepatic fibrosis	AGT	1.0	
+Hepatic fibrosis	REN	1.0	
+Respiratory failure	ACE	1.0	
+Respiratory failure	AGT	1.0	
+Respiratory failure	REN	1.0	
+Scarring	ACE	1.0	
+Scarring	REN	1.0	
+Abnormal renal physiology	ACE	1.0	
+Abnormal renal physiology	AGT	1.0	
+Abnormal renal physiology	REN	1.0	
+Venous thrombosis	ACE	1.0	
+Venous thrombosis	AGT	1.0	
+Tumor Angiogenesis	ACE	1.0	
+Tumor Angiogenesis	AGT	1.0	
+Tumor Angiogenesis	REN	1.0	
+Peripheral Arterial Disease	ACE	1.0	
+Peripheral Arterial Disease	AGT	1.0	
+Cardiomyopathy, Dilated	ACE	1.0	
+Cardiomyopathy, Dilated	AGT	1.0	
+Cardiomyopathy, Dilated	REN	1.0	
+Hepatitis C, Chronic	ACE	1.0	
+Hepatitis C, Chronic	AGT	1.0	
+Hepatitis C, Chronic	REN	1.0	
+Sudden cardiac death	ACE	1.0	
+Sudden cardiac death	AGT	1.0	
+Hyperglycemia	ACE	1.0	
+Hyperglycemia	AGT	1.0	
+Hyperglycemia	REN	1.0	
+Ureteral obstruction	AGT	1.0	
+Ureteral obstruction	REN	1.0	
+Invasive Carcinoma	AGT	1.0	
+Invasive Carcinoma	REN	1.0	
+Glaucoma, Angle-Closure	ACE	1.0	
+Glaucoma, Angle-Closure	AGT	1.0	
+Glaucoma, Angle-Closure	REN	1.0	
+Thrombosis	ACE	1.0	
+Thrombosis	AGT	1.0	
+Adrenocortical carcinoma	AGT	1.0	
+Adrenocortical carcinoma	REN	1.0	
+Acute myocardial ischemia	ACE	1.0	
+Acute myocardial ischemia	AGT	1.0	
+Acute myocardial ischemia	REN	1.0	
+Renal fibrosis	AGT	1.0	
+Renal fibrosis	REN	1.0	
+Arterial dissection	AGT	1.0	
+Chronic berylliosis	ACE	1.0	
+Familial hypokalemia-hypomagnesemia	REN	1.0	
+Polycystic Kidney - body part	REN	1.0	
+Allergic rhinitis	ACE	1.0	
+Allergic rhinitis	AGT	1.0	
+Signs and Symptoms, Respiratory	REN	1.0	
+Recurrent major depressive episodes	ACE	1.0	
+Aneurysm, Ruptured	ACE	1.0	
+Sarcoma, Epithelioid	REN	1.0	
+Thrombophilia due to activated protein C resistance	ACE	1.0	
+Atrial Fibrillation	ACE	1.0	
+Atrial Fibrillation	AGT	1.0	
+Steroid-sensitive nephrotic syndrome	ACE	1.0	
+Urolithiasis	AGT	1.0	
+Amyotrophy involving the shoulder musculature	AGT	1.0	
+Amyotrophy involving the shoulder musculature	REN	1.0	
+Adrenal Gland Hyperfunction	ACE	1.0	
+Thrombosis of retinal vein	ACE	1.0	
+Early gastric cancer	ACE	1.0	
+Abnormality of purine metabolism	REN	1.0	
+Cyst	AGT	1.0	
+Cyst	REN	1.0	
+Aortic Diseases	ACE	1.0	
+Recurrent E. coli infections	ACE	1.0	
+Femur Head Necrosis	ACE	1.0	
+Chromosomal translocation	ACE	1.0	
+Acute pyelonephritis	ACE	1.0	
+Carotid Artery Diseases	ACE	1.0	
+Carotid Artery Diseases	AGT	1.0	
+Depressive Disorder	ACE	1.0	
+Depressive Disorder	AGT	1.0	
+Depressive Disorder	REN	1.0	
+Renal interstitial fibrosis	AGT	1.0	
+Aortic valve calcification	ACE	1.0	
+Connective Tissue Diseases	ACE	1.0	
+Connective Tissue Diseases	AGT	1.0	
+Intermittent claudication	ACE	1.0	
+Chronic hepatitis	ACE	1.0	
+Chronic hepatitis	AGT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ACE	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AGT	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	REN	1.0	
+Puerperal Disorders	ACE	1.0	
+Interstitial lung and liver disease	ACE	1.0	
+Abnormal facial shape	ACE	1.0	
+Abnormal facial shape	AGT	1.0	
+Abnormal facial shape	REN	1.0	
+Normal pressure hydrocephalus	ACE	1.0	
+Rhabdomyolysis	ACE	1.0	
+Staphylococcal Infections	ACE	1.0	
+Anterior myocardial infarction	ACE	1.0	
+Oestrogen deficiency	AGT	1.0	
+Transient ischemic attack	ACE	1.0	
+Transient ischemic attack	AGT	1.0	
+Cushing's syndrome	ACE	1.0	
+Rheumatic fever / chorea	ACE	1.0	
+Seasonal Affective Disorder	ACE	1.0	
+Erythrocytosis	ACE	1.0	
+Steroid-resistant nephrotic syndrome	ACE	1.0	
+Liver Diseases	ACE	1.0	
+Liver Diseases	AGT	1.0	
+Liver Diseases	REN	1.0	
+Antisocial Personality Disorder	ACE	1.0	
+Rhinitis, Allergic, Perennial	ACE	1.0	
+Diastrophic dysplasia	ACE	1.0	
+Resistance to activated protein C	ACE	1.0	
+Overweight	ACE	1.0	
+Overweight	AGT	1.0	
+Chronic schizophrenia	ACE	1.0	
+Lipoid nephrosis	ACE	1.0	
+Acute postoperative pain	ACE	1.0	
+Diabetic foot ulcer	ACE	1.0	
+Community acquired pneumonia	ACE	1.0	
+Post MI	ACE	1.0	
+Peripheral artery occlusive disease	ACE	1.0	
+Gangrene	ACE	1.0	
+Ovarian hyperstimulation syndrome	REN	1.0	
+Neoplasm of the oral cavity	ACE	1.0	
+Neoplasm of the oral cavity	AGT	1.0	
+Diabetic Nephropathies	ACE	1.0	
+Diabetic Nephropathies	AGT	1.0	
+Diabetic Nephropathies	REN	1.0	
+Kidney Failure, Chronic	ACE	1.0	
+Kidney Failure, Chronic	AGT	1.0	
+Kidney Failure, Chronic	REN	1.0	
+Dyslipidemias	ACE	1.0	
+Dyslipidemias	AGT	1.0	
+Polyuria	REN	1.0	
+Cholestasis of pregnancy	ACE	1.0	
+Abnormality of nucleobase metabolism	REN	1.0	
+Anemia	ACE	1.0	
+Anemia	AGT	1.0	
+Anemia	REN	1.0	
+Exfoliation Syndrome	ACE	1.0	
+Abnormality of the calvaria	ACE	1.0	
+Abnormality of the calvaria	AGT	1.0	
+Abnormality of the calvaria	REN	1.0	
+Ovarian Diseases	ACE	1.0	
+Ovarian Diseases	AGT	1.0	
+Metabolic Syndrome X	ACE	1.0	
+Metabolic Syndrome X	AGT	1.0	
+Metabolic Syndrome X	REN	1.0	
+Arterial Occlusive Diseases	ACE	1.0	
+Arteriovenous fistula	ACE	1.0	
+Low back pain	ACE	1.0	
+Mitral stenosis	ACE	1.0	
+Mitral stenosis	AGT	1.0	
+Osteoporosis	ACE	1.0	
+Osteoporosis	AGT	1.0	
+Osteoporosis	REN	1.0	
+Venous Thromboembolism	ACE	1.0	
+Venous Thromboembolism	AGT	1.0	
+Ischemia	ACE	1.0	
+Ischemia	AGT	1.0	
+Ischemia	REN	1.0	
+Decreased head circumference	ACE	1.0	
+Decreased head circumference	AGT	1.0	
+Decreased head circumference	REN	1.0	
+Unilateral renal agenesis	ACE	1.0	
+Obesity, Visceral	AGT	1.0	
+IgA nephropathy, susceptibility to, 3	ACE	1.0	
+IgA nephropathy, susceptibility to, 3	AGT	1.0	
+IgA nephropathy, susceptibility to, 3	REN	1.0	
+Abnormality of lung morphology	ACE	1.0	
+Abnormality of lung morphology	AGT	1.0	
+Abnormality of lung morphology	REN	1.0	
+Abnormality of the urinary system physiology	ACE	1.0	
+Abnormality of the urinary system physiology	AGT	1.0	
+Abnormality of the urinary system physiology	REN	1.0	
+Anaphylactic shock NOS	AGT	1.0	
+Cellulitis	ACE	1.0	
+Coronary artery aneurysm	ACE	1.0	
+Hyperlipoproteinemia	ACE	1.0	
+Vitamin D Deficiency	REN	1.0	
+Deep vein thrombosis of lower limb	ACE	1.0	
+Cerebral Hemorrhage	ACE	1.0	
+Cerebral Hemorrhage	AGT	1.0	
+Ocular Hypertension	ACE	1.0	
+Subacute Sclerosing Panencephalitis	ACE	1.0	
+Nephrotic Syndrome, Minimal Change	ACE	1.0	
+Bone necrosis	ACE	1.0	
+Autosomal recessive polycystic kidney disease	ACE	1.0	
+Alcohol dependence	ACE	1.0	
+Alcohol dependence	AGT	1.0	
+Alcohol dependence	REN	1.0	
+Sarcoidosis	ACE	1.0	
+Sarcoidosis	AGT	1.0	
+Chronic Fatigue Syndrome	ACE	1.0	
+Heart valve disease	ACE	1.0	
+Skin Diseases, Genetic	ACE	1.0	
+Takayasu Arteritis	ACE	1.0	
+cardiac event	ACE	1.0	
+Atrioventricular septal defect 2	ACE	1.0	
+Weight Loss Adverse Event	ACE	1.0	
+Gastroesophageal reflux	ACE	1.0	
+Gastroesophageal reflux	REN	1.0	
+Pheochromocytoma	AGT	1.0	
+Pheochromocytoma	REN	1.0	
+Streptococcal Infections	ACE	1.0	
+Drusen	ACE	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	ACE	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	AGT	1.0	
+Fibromyalgia	ACE	1.0	
+Hypokalemia	AGT	1.0	
+Virilism	REN	1.0	
+Insulin resistance syndrome	ACE	1.0	
+Tubulointerstitial abnormality	REN	1.0	
+Abnormality of cardiovascular system physiology	ACE	1.0	
+Abnormality of cardiovascular system physiology	AGT	1.0	
+Abnormality of cardiovascular system physiology	REN	1.0	
+Subarachnoid hemorrhage	ACE	1.0	
+Subarachnoid hemorrhage	AGT	1.0	
+Airway Obstruction	ACE	1.0	
+Cystic kidney	REN	1.0	
+Polydipsia	ACE	1.0	
+Anti-Glomerular Basement Membrane Disease	AGT	1.0	
+Cardiomyopathy	ACE	1.0	
+Cardiomyopathy	AGT	1.0	
+Cardiomyopathy	REN	1.0	
+Anemia, Sickle Cell	ACE	1.0	
+Anemia, Sickle Cell	AGT	1.0	
+Cerebral ischemia	AGT	1.0	
+Cerebral ischemia	REN	1.0	
+Pyelonephritis	ACE	1.0	
+Ventricular fibrillation	ACE	1.0	
+Aural atresia, congenital	ACE	1.0	
+Microcephaly 16, primary, autosomal recessive	ACE	1.0	
+Microcephaly 16, primary, autosomal recessive	AGT	1.0	
+Microcephaly 16, primary, autosomal recessive	REN	1.0	
+Functional respiratory abnormality	ACE	1.0	
+Functional respiratory abnormality	AGT	1.0	
+Functional respiratory abnormality	REN	1.0	
+Chagas Cardiomyopathy	ACE	1.0	
+Cardiac defects	ACE	1.0	
+Bradycardia	AGT	1.0	
+pathologic fistula	ACE	1.0	
+Low Tension Glaucoma	REN	1.0	
+Pneumonitis	ACE	1.0	
+Memory Disorders	ACE	1.0	
+Necrosis	AGT	1.0	
+Respiratory Tract Diseases	ACE	1.0	
+Factor V Leiden mutation	ACE	1.0	
+Coronary heart disease 7	ACE	1.0	
+Coronary heart disease 7	AGT	1.0	
+Coronary heart disease 7	REN	1.0	
+Kidney Diseases	ACE	1.0	
+Kidney Diseases	AGT	1.0	
+Kidney Diseases	REN	1.0	
+Optic neuropathy	ACE	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ACE	1.0	
+Dementia familial British	ACE	1.0	
+Dementia familial British	REN	1.0	
+Glucose intolerance	ACE	1.0	
+Glucose intolerance	REN	1.0	
+ {Septic shock, susceptibility to} (3)	ACE	1.0	
+Reperfusion Injury	ACE	1.0	
+Reperfusion Injury	AGT	1.0	
+Abnormal respiratory system morphology	ACE	1.0	
+Abnormal respiratory system morphology	AGT	1.0	
+Abnormal respiratory system morphology	REN	1.0	
+Lupus Vulgaris	ACE	1.0	
+Lupus Vulgaris	REN	1.0	
+Sarcoidosis, Pulmonary	ACE	1.0	
+Adverse drug events and drug allergies	REN	1.0	
+Congestive heart failure	ACE	1.0	
+Congestive heart failure	AGT	1.0	
+Congestive heart failure	REN	1.0	
+Memory Loss	ACE	1.0	
+Cooley's anemia	AGT	1.0	
+Bronchiolitis Obliterans	ACE	1.0	
+Menopause present (finding)	AGT	1.0	
+Familial dilated cardiomyopathy	REN	1.0	
+Aplasia/Hypoplasia of the cerebrum	ACE	1.0	
+Aplasia/Hypoplasia of the cerebrum	AGT	1.0	
+Aplasia/Hypoplasia of the cerebrum	REN	1.0	
+Cognition Disorders	ACE	1.0	
+Syncope	ACE	1.0	
+Graft-versus-host disease, susceptibility to	ACE	1.0	
+Graft-versus-host disease, susceptibility to	AGT	1.0	
+Non-alcoholic Fatty Liver Disease	ACE	1.0	
+Non-alcoholic Fatty Liver Disease	AGT	1.0	
+Stress, Psychological	ACE	1.0	
+Adrenal hyperplasia	REN	1.0	
+Discoid lupus erythematosus	ACE	1.0	
+Discoid lupus erythematosus	REN	1.0	
+Heart Failure	ACE	1.0	
+Heart Failure	AGT	1.0	
+Heart Failure	REN	1.0	
+Acute Coronary Syndrome	ACE	1.0	
+Acute Coronary Syndrome	AGT	1.0	
+Mood Disorders	ACE	1.0	
+Mood Disorders	AGT	1.0	
+Renal tubular dysfunction	REN	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	ACE	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	AGT	1.0	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	REN	1.0	
+Dilatation	ACE	1.0	
+Psychoses, Substance-Induced	ACE	1.0	
+Metabolic acidosis	REN	1.0	
+Aqueous Humor Disorders	REN	1.0	
+Neurodegeneration with brain iron accumulation 4	ACE	1.0	
+Abnormality of the upper urinary tract	ACE	1.0	
+Abnormality of the upper urinary tract	AGT	1.0	
+Abnormality of the upper urinary tract	REN	1.0	
+Insulin Resistance	ACE	1.0	
+Insulin Resistance	AGT	1.0	
+Purpura	AGT	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	ACE	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	AGT	1.0	
+Disorder of endocrine system	REN	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	ACE	1.0	
+Arrhythmias, Cardiac	ACE	1.0	
+Arrhythmias, Cardiac	AGT	1.0	
+Abnormality of skull size	ACE	1.0	
+Abnormality of skull size	AGT	1.0	
+Abnormality of skull size	REN	1.0	
+Shock, Septic	ACE	1.0	
+Nephronophthisis	ACE	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	REN	1.0	
+Acromegaly	AGT	1.0	
+Chest pain	ACE	1.0	
+Urinary incontinence	ACE	1.0	
+Common Migraine	ACE	1.0	
+Arrhythmogenic right ventricular cardiomyopathy, type 11	ACE	1.0	
+Gaucher Disease	ACE	1.0	
+Renal hypoplasia	REN	1.0	
+Chronic obstructive pulmonary disease	ACE	1.0	
+Chronic obstructive pulmonary disease	AGT	1.0	
+Chronic obstructive pulmonary disease	REN	1.0	
+Angina pectoris	ACE	1.0	
+Peutz-Jeghers syndrome	AGT	1.0	
+Viral hepatitis	AGT	1.0	
+Ischemic cardiomyopathy	ACE	1.0	
+Congenital adrenal hyperplasia	REN	1.0	
+Abnormality of nitrogen compound homeostasis	REN	1.0	
+Azotemia	REN	1.0	
+Complications of Diabetes Mellitus	ACE	1.0	
+Pulmonary edema	ACE	1.0	
+Alzheimer Disease, Late Onset	ACE	1.0	
+Spondylarthropathies	ACE	1.0	
+Epithelial hyperplasia of skin	REN	1.0	
+Protein Deficiency	REN	1.0	
+Neonatal respiratory distress	ACE	1.0	
+Sciatic Neuropathy	AGT	1.0	
+Abnormality of T cell count	ACE	1.0	
+Abnormality of T cell count	AGT	1.0	
+Abnormality of T cell count	REN	1.0	
+Recurrent abortion	ACE	1.0	
+Drug Allergy	ACE	1.0	
+Scar conditions and fibrosis of skin	ACE	1.0	
+Werner syndrome	ACE	1.0	
+Chromosome Aberrations	ACE	1.0	
+Polycythemia	ACE	1.0	
+Pregnancy loss	ACE	1.0	
+Prediabetes syndrome	AGT	1.0	
+Hormone refractory prostate cancer	REN	1.0	
+Liver Cirrhosis, Biliary	ACE	1.0	
+Liver Cirrhosis, Biliary	AGT	1.0	
+Liver Cirrhosis, Biliary	REN	1.0	
+Respiration Disorders	ACE	1.0	

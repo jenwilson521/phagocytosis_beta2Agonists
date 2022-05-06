@@ -1,0 +1,489 @@
+node_name	node_type	
+DB07995	drug	
+GSG2	drug_target	
+PRKACA	drug_target	
+PKIA	drug_target	
+Heterotaxy, visceral, 7, autosomal	phenotype	
+Intellectual developmental disorder with dysmorphic facies and ptosis	phenotype	
+Chorioretinal abnormality	phenotype	
+Abnormality of the integument	phenotype	
+Ventriculomegaly	phenotype	
+Hirschsprung Disease	phenotype	
+Cerebellar vermis hypoplasia	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormality of the skull	phenotype	
+RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of neuronal migration	phenotype	
+Abnormality of midbrain morphology	phenotype	
+Ureteral duplication	phenotype	
+Aplasia/Hypoplasia of the spleen	phenotype	
+Abnormality of the nasal alae	phenotype	
+Ambiguous genitalia	phenotype	
+Apnea	phenotype	
+Abnormality of the nasal dorsum	phenotype	
+Abnormality of the lower limb	phenotype	
+Abnormality of male external genitalia	phenotype	
+Abnormality of the posterior segment of the globe	phenotype	
+Growth abnormality	phenotype	
+Abnormality of the orbital region	phenotype	
+Meckel syndrome type 6	phenotype	
+Abnormality of the 5th toe	phenotype	
+Postaxial hand polydactyly	phenotype	
+Widened posterior fossa	phenotype	
+Upper motor neuron dysfunction	phenotype	
+Abnormality of the genital system	phenotype	
+Abnormal genital system morphology	phenotype	
+Renal cyst	phenotype	
+Dandy-Walker like malformation with atrioventricular septal defect	phenotype	
+Abnormality of the vertebral column	phenotype	
+Seizures, Febrile	phenotype	
+Abnormality of limbs	phenotype	
+Elevated 7-dehydrocholesterol	phenotype	
+Abnormality of the lens	phenotype	
+Abnormality of skull size	phenotype	
+Abnormality of the anterior segment of the globe	phenotype	
+Abnormality of the posterior cranial fossa	phenotype	
+Abnormality of the curvature of the vertebral column	phenotype	
+Abnormality of the endocrine system	phenotype	
+Abnormal autonomic nervous system morphology	phenotype	
+Abnormality of enteric ganglion morphology	phenotype	
+Abnormality of enteric nervous system morphology	phenotype	
+Abnormality of eye movement	phenotype	
+Slanting of the palpebral fissure	phenotype	
+Abnormality of the palpebral fissures	phenotype	
+Abnormal renal physiology	phenotype	
+Abnormality of the upper limb	phenotype	
+Abnormality of the retina	phenotype	
+Abnormality of the head	phenotype	
+Cystic Kidney Diseases	phenotype	
+Abnormality of the cerebral subcortex	phenotype	
+Abnormality of the nasal bridge	phenotype	
+Abnormality of the palate	phenotype	
+Cerebellar malformation	phenotype	
+Abnormal cortical gyration	phenotype	
+Abnormality of higher mental function	phenotype	
+Abnormality of the cerebral white matter	phenotype	
+Abnormality of the fundus	phenotype	
+Foot polydactyly	phenotype	
+Microcornea	phenotype	
+Abnormality of the renal medulla	phenotype	
+Abnormality of the hair	phenotype	
+Neurodevelopmental delay	phenotype	
+Sloping forehead	phenotype	
+Abnormal spatial orientation of the cardiac segments	phenotype	
+Decreased head circumference	phenotype	
+Duplication involving bones of the feet	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Abnormality of the upper urinary tract	phenotype	
+Abnormal CSF metabolite level	phenotype	
+Abnormal location of ears	phenotype	
+Abnormality of calvarial morphology	phenotype	
+Oculomotor apraxia	phenotype	
+Abnormal morphology of the ocular adnexa	phenotype	
+Aplasia/Hypoplasia of the corpus callosum	phenotype	
+Congenital anomalies of kidney and urinary tract 1, susceptibility to	phenotype	
+Abnormality of the face	phenotype	
+Nystagmus	phenotype	
+Abnormality of the musculature	phenotype	
+Iris coloboma	phenotype	
+Abnormality of the skull base	phenotype	
+Abnormality of skin adnexa morphology	phenotype	
+Anophthalmia/Microphthalmia	phenotype	
+Abnormality of cardiovascular system electrophysiology	phenotype	
+Abnormality of the hard palate	phenotype	
+Postaxial foot polydactyly	phenotype	
+Abnormality of the nervous system	phenotype	
+Gait disturbance	phenotype	
+Full cheeks	phenotype	
+Aplasia/Hypoplasia of the cerebellum	phenotype	
+Anteverted nares	phenotype	
+Abnormality of the ear	phenotype	
+Cephalocele	phenotype	
+Abnormality of the eye	phenotype	
+Abnormality of the cerebellum	phenotype	
+Abnormality of the foot	phenotype	
+Abnormality of limb bone morphology	phenotype	
+Abnormal nasal morphology	phenotype	
+Furrowed tongue	phenotype	
+Sclerocornea	phenotype	
+Agenesis of corpus callosum	phenotype	
+Abnormality of phalanx of finger	phenotype	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	phenotype	
+Abnormality of the cheek	phenotype	
+Abnormality of the urinary system	phenotype	
+Abnormality of the cerebral ventricles	phenotype	
+Abnormality of head or neck	phenotype	
+Prominent nasal bridge	phenotype	
+Abnormality of the oral cavity	phenotype	
+Microcephaly 16, primary, autosomal recessive	phenotype	
+Abnormality of the outer ear	phenotype	
+Posteriorly rotated ears	phenotype	
+Abnormality of the hypothalamus-pituitary axis	phenotype	
+Nephronophthisis	phenotype	
+Abnormality of epiphysis morphology	phenotype	
+Abnormality of the lower urinary tract	phenotype	
+Large face	phenotype	
+Abnormality of the skeletal system	phenotype	
+Abnormality of the external nose	phenotype	
+Congenital cystic disease of liver	phenotype	
+Abnormal involuntary eye movements	phenotype	
+Abnormality of central motor function	phenotype	
+Abnormality of skeletal morphology	phenotype	
+Macrogyria	phenotype	
+Abnormality of the 5th finger	phenotype	
+Abnormality of toe	phenotype	
+Abnormality of nervous system morphology	phenotype	
+Abnormal facial shape	phenotype	
+Abnormality of the nose	phenotype	
+Micrognathia	phenotype	
+Aplasia/Hypoplasia of the mandible	phenotype	
+Aplasia/Hypoplasia of the cerebrum	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormality of the periorbital region	phenotype	
+Abnormality of brainstem morphology	phenotype	
+Abnormality of the calvaria	phenotype	
+Low-set ears	phenotype	
+Coloboma, osteopetrosis, microphthalmia, macrocephaly, albinism, and deafness	phenotype	
+Abnormality of the choroid	phenotype	
+Dilated fourth ventricle	phenotype	
+Abnormality of the fourth ventricle	phenotype	
+Abnormality of pancreas morphology	phenotype	
+Abnormality of globe location	phenotype	
+Dextrocardia	phenotype	
+Downslanted palpebral fissures	phenotype	
+Abnormality of the autonomic nervous system	phenotype	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	phenotype	
+Oral cleft	phenotype	
+Preaxial hand polydactyly	phenotype	
+Heterotopia	phenotype	
+Aplasia involving bones of the extremities	phenotype	
+Abnormality of forebrain morphology	phenotype	
+Abnormal muscle tone	phenotype	
+Abnormality of the cerebral cortex	phenotype	
+Abnormality of the globe	phenotype	
+Abnormal eye morphology	phenotype	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	phenotype	
+Renal insufficiency	phenotype	
+Abnormality of the cerebellar vermis	phenotype	
+Abnormality of the forehead	phenotype	
+Abnormality of the iris	phenotype	
+Abnormality of the nares	phenotype	
+Depressed nasal ridge	phenotype	
+Postaxial polydactyly type A1	phenotype	
+Abnormality of the mandible	phenotype	
+Abnormality of coordination	phenotype	
+Lobar holoprosencephaly	phenotype	
+Asplenia, isolated congenital	phenotype	
+Aplasia/Hypoplasia of the tongue	phenotype	
+Abnormality of the urethra	phenotype	
+Abnormality of lower limb bone	phenotype	
+Pancreatic cysts	phenotype	
+Growth delay	phenotype	
+Abnormality of digit	phenotype	
+Hand polydactyly	phenotype	
+Abnormal axial skeleton morphology	phenotype	
+Accessory spleen	phenotype	
+Pancreatic fibrosis	phenotype	
+Preaxial polydactyly 4	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Tachypnea	phenotype	
+Abnormality of limb bone	phenotype	
+Abnormal external genitalia	phenotype	
+Chorioretinal coloboma	phenotype	
+Abnormality of finger	phenotype	
+Abnormality of brain morphology	phenotype	
+Abnormality of body height	phenotype	
+Blindness	phenotype	
+Abnormality of globe size	phenotype	
+Multicystic kidney dysplasia	phenotype	
+Polydactyly, preaxial II	phenotype	
+Joubert syndrome	phenotype	
+Abnormality of the hand	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of vision	phenotype	
+Abnormality of the urinary system physiology	phenotype	
+Hypoplastic male external genitalia	phenotype	
+Abnormal systemic blood pressure	phenotype	
+Abnormal eye physiology	phenotype	
+Duplication of hand bones	phenotype	
+Congenital hepatic fibrosis	phenotype	
+Male pseudohermaphroditism	phenotype	
+Bardet-Biedl syndrome	phenotype	
+Abnormality of movement	phenotype	
+Apraxia	phenotype	
+Abnormality of the mouth	phenotype	
+Scoliosis	phenotype	
+Cone-shaped epiphyses fused within their metaphyses	phenotype	
+Anencephaly	phenotype	
+Long face	phenotype	
+Central nervous system cyst	phenotype	
+Intracranial cystic lesion	phenotype	
+Abnormality of the male genitalia	phenotype	
+Cataract, autosomal recessive congenital 5	phenotype	
+Abnormality of corneal size	phenotype	
+Abnormality of the cerebrum	phenotype	
+Abnormality of long bone morphology	phenotype	
+Abnormal appendicular skeleton morphology	phenotype	
+Duplication of phalanx of hand	phenotype	
+Abnormality of the corpus callosum	phenotype	
+Abnormal tongue morphology	phenotype	
+Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis	phenotype	
+Low-set, posteriorly rotated ears	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of the metencephalon	phenotype	
+Abnormality of the eyelid	phenotype	
+Aplasia/hypoplasia affecting bones of the axial skeleton	phenotype	
+Hydrocephalus	phenotype	
+Abnormality of the uvea	phenotype	
+External genital hypoplasia	phenotype	
+Biparietal narrowing	phenotype	
+Abnormal jaw morphology	phenotype	
+Abnormality of the eyebrow	phenotype	
+Abnormality of the digestive system	phenotype	
+Abnormal pattern of respiration	phenotype	
+Abnormality of the ureter	phenotype	
+Aplasia/Hypoplasia of the cerebellar vermis	phenotype	
+Abnormality of the peripheral nervous system	phenotype	
+Abnormal anatomic location of the heart	phenotype	
+Cerebellar cyst	phenotype	
+Abnormality of the cornea	phenotype	
+Holoprosencephaly sequence	phenotype	
+Visual impairment	phenotype	
+Abnormal conjugate eye movement	phenotype	
+Abnormality of the amniotic fluid	phenotype	
+Aplasia/Hypoplasia of the iris	phenotype	
+Abnormality of upper lip	phenotype	
+Abnormal QRS complex	phenotype	
+Abnormality of T cell count	phenotype	
+Abnormality of the ovary	phenotype	
+Oligohydramnios	phenotype	
+Abnormality of the tongue	phenotype	
+Abnormality of facial skeleton	phenotype	
+Hypotonia, infantile, with psychomotor retardation	phenotype	
+Hypoplasia of the brainstem	phenotype	
+Aplasia/Hypoplasia of the brainstem	phenotype	
+Abnormality of the liver	phenotype	
+Hepatic fibrosis	phenotype	
+Cleft Palate	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Deviation of finger	phenotype	
+Hypertelorism	phenotype	
+Deviation of the hand or of fingers of the hand	phenotype	
+Progressive visual loss	phenotype	
+Malformation of cortical development	phenotype	
+Abnormality of cardiovascular system morphology	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of retinal pigmentation	phenotype	
+Abnormal bone structure	phenotype	
+Biliary tract abnormality	phenotype	
+Microphthalmia syndromic 6	phenotype	
+Strabismus	phenotype	
+Hyperreflexia	phenotype	
+Medial flaring of the eyebrow	phenotype	
+Abnormal biliary tract morphology	phenotype	
+Abnormality of the abdominal organs	phenotype	
+Abnormality of the thumb	phenotype	
+Deviation of the 5th finger	phenotype	
+Retinitis pigmentosa	phenotype	
+Hypoplasia of the corpus callosum	phenotype	
+Abnormality of the intestine	phenotype	
+Clinodactyly	phenotype	
+Bowing of the long bones	phenotype	
+Abnormal internal genitalia	phenotype	
+Anomaly of the limb diaphyses	phenotype	
+Cerebellar hypoplasia	phenotype	
+Abnormality of the lip	phenotype	
+Hypoplasia of penis	phenotype	
+Feeding difficulties in infancy	phenotype	
+Heart Defects, Congenital	phenotype	
+Positional foot deformity	phenotype	
+Abnormality of the female genitalia	phenotype	
+Corneal opacity	phenotype	
+Functional respiratory abnormality	phenotype	
+Abnormality of the penis	phenotype	
+Renal agenesis	phenotype	
+Abnormal diaphysis morphology	phenotype	
+Abnormality of connective tissue	phenotype	
+Upslanted palpebral fissure	phenotype	
+Abnormality of female internal genitalia	phenotype	
+Renal dysplasia	phenotype	
+Abnormality of body weight	phenotype	
+Abnormal electroretinogram	phenotype	
+Morphological abnormality of the gastrointestinal tract	phenotype	
+Abnormality of digestive system morphology	phenotype	
+Increased body weight	phenotype	
+Abnormality of the optic disc	phenotype	
+Abnormality of the pancreas	phenotype	
+Involuntary movements	phenotype	
+Clinodactyly of the 5th finger	phenotype	
+Unilateral renal agenesis	phenotype	
+Abnormality of the respiratory system	phenotype	
+Ptosis, hereditary congenital 1	phenotype	
+Clubfoot	phenotype	
+Short neck	phenotype	
+Abnormality of the hepatic vasculature	phenotype	
+Abnormality of the testis	phenotype	
+Inguinal hernia	phenotype	
+Feeding difficulties	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Cystic kidney	phenotype	
+Acetabular dysplasia	phenotype	
+Vesicoureteral reflux	phenotype	
+Abnormality of the cervical spine	phenotype	
+Renal hypoplasia/aplasia	phenotype	
+Abnormality of the midface	phenotype	
+Heterogeneous	phenotype	
+Abnormal number of teeth	phenotype	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	phenotype	
+Abnormal cortical bone morphology	phenotype	
+Puberty and gonadal disorders	phenotype	
+EMG: myopathic abnormalities	phenotype	
+Abnormality of the gastrointestinal tract	phenotype	
+Abnormal visual electrophysiology	phenotype	
+Behavioral abnormality	phenotype	
+Cortical gyral simplification	phenotype	
+Abnormality of the optic nerve	phenotype	
+Generalized hirsutism	phenotype	
+Leber congenital amaurosis	phenotype	
+Abnormality of earlobe	phenotype	
+Abnormality of bladder morphology	phenotype	
+Abnormality of mouth size	phenotype	
+Abnormality of upper lip vermillion	phenotype	
+Lissencephaly	phenotype	
+Hernia of the abdominal wall	phenotype	
+Hirsutism	phenotype	
+Retinal degeneration	phenotype	
+Abdominal wall defect	phenotype	
+Aplasia/Hypoplasia of the earlobes	phenotype	
+Thin upper lip vermilion	phenotype	
+Portal hypertension, noncirrhotic	phenotype	
+Intrauterine growth retardation	phenotype	
+Abnormality of the neck	phenotype	
+Reduced number of teeth	phenotype	
+Abnormality of the renal tubule	phenotype	
+Abnormality of the biliary system	phenotype	
+Premature ovarian failure	phenotype	
+Abnormality of the abdominal wall	phenotype	
+Functional abnormality of the bladder	phenotype	
+Congenital onset	phenotype	
+Sandal gap	phenotype	
+Onset	phenotype	
+Chronic kidney disease	phenotype	
+Abnormality of the spleen	phenotype	
+Tubulointerstitial abnormality	phenotype	
+Cryptorchidism	phenotype	
+Hernia	phenotype	
+Convex nasal ridge	phenotype	
+Spasticity, childhood-onset, with hyperglycinemia	phenotype	
+Wide mouth	phenotype	
+Wide nose	phenotype	
+Abnormality of digestive system physiology	phenotype	
+Epicanthus	phenotype	
+Abnormal form of the vertebral bodies	phenotype	
+Spastic tetraplegia, thin corpus callosum, and progressive microcephaly	phenotype	
+Prematurely aged appearance	phenotype	
+Liver failure acute infantile	phenotype	
+Abnormality of the curvature of the cornea	phenotype	
+Round face	phenotype	
+Abnormality of bone mineral density	phenotype	
+Hypoplasia of the ovary	phenotype	
+Sparse scalp hair	phenotype	
+Aplasia/Hypoplasia of the ovary	phenotype	
+Myeloproliferative disorder (2)	phenotype	
+Narrow face	phenotype	
+Leukemia, Myeloid, Chronic, Atypical, BCR-ABL Negative	phenotype	
+Severe visual impairment	phenotype	
+Thin vermilion border	phenotype	
+Retrognathia	phenotype	
+Joint hypermobility	phenotype	
+Abnormal urine output	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Short nose	phenotype	
+Abnormality of the lymphatic system	phenotype	
+Hypogonadism, diabetes mellitus, alopecia, mental retardation and electrocardiographic abnormalities	phenotype	
+Abnormal drinking behavior	phenotype	
+Abnormality of dental enamel	phenotype	
+Kidney Diseases	phenotype	
+Hypertonia	phenotype	
+Peutz-Jeghers syndrome	phenotype	
+Abnormality of renal excretion	phenotype	
+Small face	phenotype	
+Elevated hepatic transaminases	phenotype	
+Abdominal symptom	phenotype	
+Abnormality of odontoid tissue	phenotype	
+Abnormality of the immune system	phenotype	
+Chromosome 5, trisomy 5q	phenotype	
+Glaucoma, Angle-Closure	phenotype	
+Skeletal muscle atrophy	phenotype	
+Polyuria	phenotype	
+Abnormality of skeletal muscles	phenotype	
+Abnormal bone ossification	phenotype	
+Abnormality of dental morphology	phenotype	
+Abnormality of muscle size	phenotype	
+Abnormality of the hip bone	phenotype	
+Abnormality of the vertebrae	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Abnormal hair quantity	phenotype	
+Blast Phase	phenotype	
+Finger syndactyly	phenotype	
+Increased corneal curvature	phenotype	
+Abnormality of reproductive system physiology	phenotype	
+Decreased corneal thickness	phenotype	
+Decreased liver function	phenotype	
+Abnormality of skin morphology	phenotype	
+Biliary Atresia	phenotype	
+Abnormality of corneal thickness	phenotype	
+Polydipsia	phenotype	
+Abnormality of the nephron	phenotype	
+Myeloproliferative Disorders	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Cachexia	phenotype	
+High palate	phenotype	
+Hearing abnormality	phenotype	
+Abnormality of female external genitalia	phenotype	
+Abnormality of pelvic girdle bone morphology	phenotype	
+Motor delay	phenotype	
+Abnormality of circulating hormone level	phenotype	
+Hypertension	phenotype	
+Increased head circumference	phenotype	
+Open mouth	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Cyst	phenotype	
+Abnormality of muscle morphology	phenotype	
+Abnormality of skeletal maturation	phenotype	
+Abnormality of the skin	phenotype	
+secondary acute myeloid leukemia	phenotype	
+Omphalocele	phenotype	
+Radial deviation of finger	phenotype	
+High forehead	phenotype	
+Underdeveloped nasal alae	phenotype	
+Abnormality of cranial sutures	phenotype	
+Macrocephaly, dysmorphic facies, and psychomotor retardation	phenotype	
+Polar cataract	phenotype	
+Incoordination	phenotype	
+Syndactyly type 9	phenotype	
+Radial deviation of the hand	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Philadelphia chromosome positive chronic myelogenous leukemia	phenotype	
+Pneumocystis jiroveci pneumonia	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Delayed gross motor development	phenotype	
+Abnormality of oral frenula	phenotype	
+Abnormality of the larynx	phenotype	
+Mental retardation 63, X-linked	phenotype	
+{Pemphigoid, susceptibility to} (2)	phenotype	
+Early onset of sexual maturation	phenotype	
+Abnormal consumption behavior	phenotype	
+Anemia	phenotype	
+Lyme Arthritis	phenotype	
+Immunologic hypersensitivity	phenotype	
+Sparse hair	phenotype	
+Hearing impairment	phenotype	
+Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	phenotype	
+Monocytosis	phenotype	
+Prostatic Intraepithelial Neoplasias	phenotype	
+Abnormal size of the palpebral fissures	phenotype	
+Abnormality of blood and blood-forming tissues	phenotype	
+Insulin-resistant diabetes mellitus AND acanthosis nigricans	phenotype	
+Abnormality of hair density	phenotype	

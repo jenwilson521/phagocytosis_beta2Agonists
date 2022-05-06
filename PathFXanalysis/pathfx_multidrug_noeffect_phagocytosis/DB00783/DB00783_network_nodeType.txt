@@ -1,0 +1,113 @@
+node_name	node_type	
+DB00783	drug	
+SLC22A11	drug_target	
+ABCB1	drug_target	
+ALB	drug_target	
+CYP1A1	drug_target	
+SLC22A8	drug_target	
+SLCO1B3	drug_target	
+CYP3A5	drug_target	
+FABP2	drug_target	
+SLCO2B1	drug_target	
+SLC22A1	drug_target	
+UGT1A1	drug_target	
+SLC22A3	drug_target	
+CYP2C8	drug_target	
+SHBG	drug_target	
+CYP1B1	drug_target	
+SLCO1B1	drug_target	
+ESR2	drug_target	
+SLC22A2	drug_target	
+SLCO1A2	drug_target	
+CYP1A2	drug_target	
+ABCC10	drug_target	
+NR1I2	drug_target	
+SLCO1C1	drug_target	
+CYP2C9	drug_target	
+SLCO4A1	drug_target	
+CYP3A4	drug_target	
+ABCG2	drug_target	
+ESR1	drug_target	
+CYP2C19	drug_target	
+Cholecystolithiasis	phenotype	
+Cholelithiasis	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Drug Allergy	phenotype	
+Hyperbilirubinemia	phenotype	
+Intrahepatic cholestasis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Acute Coronary Syndrome	phenotype	
+Plantar hyperkeratosis	phenotype	
+Coronary heart disease 7	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Acute kidney injury	phenotype	
+Febrile Neutropenia	phenotype	
+Mammographic breast density	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Hepatitis D Infection	phenotype	
+Postmenopausal osteoporosis	phenotype	
+Hypertriglyceridemia result	phenotype	
+Thromboembolism	phenotype	
+Anemia, Sickle Cell	phenotype	
+Leukopenia	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Myofibrillar myopathy, BAG3-related	phenotype	
+Neutropenia	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Neoplasm of the liver	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Familial hypercholesterolemia	phenotype	
+Drug Eruptions	phenotype	
+Pleural Neoplasms	phenotype	
+Oral leukoplakia	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Kidney Failure, Chronic	phenotype	
+Chronic kidney disease	phenotype	
+Myocardial Infarction	phenotype	
+Hyperlipoproteinemia	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Dyslipidemias	phenotype	
+Old myocardial infarction	phenotype	
+Cardiovascular Diseases	phenotype	
+Influenza	phenotype	
+Dermal atrophy	phenotype	
+Diabetes mellitus type 2	phenotype	
+Insulin resistance syndrome	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Liver Diseases	phenotype	
+Vascular Diseases	phenotype	
+Restenosis	phenotype	
+Acute myocardial ischemia	phenotype	
+Malignant neoplasm of female breast	phenotype	
+Mild cognitive impairment	phenotype	
+body mass	phenotype	
+Age-related macular degeneration 2	phenotype	
+Hyperkeratosis	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Female Breast Carcinoma	phenotype	
+Genomic Instability	phenotype	
+Abnormal blistering of the skin	phenotype	
+Testicular malignant germ cell tumor	phenotype	
+Depressive Symptoms	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Hearing Loss, Partial	phenotype	
+Pancreatitis, Alcoholic	phenotype	
+Head and Neck Neoplasms	phenotype	
+Peripheral Arterial Disease	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Liver Cirrhosis, Alcoholic	phenotype	
+Hyperhidrosis	phenotype	
+Kidney Diseases	phenotype	
+Epidermal thickening	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Chemical Carcinogenesis	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Menopause present (finding)	phenotype	
+Coronary Artery Disease	phenotype	
+Cognition Disorders	phenotype	
+Microsatellite Instability	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	

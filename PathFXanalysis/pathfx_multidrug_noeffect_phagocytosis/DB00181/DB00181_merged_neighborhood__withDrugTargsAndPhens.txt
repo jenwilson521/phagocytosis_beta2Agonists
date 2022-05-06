@@ -1,0 +1,203 @@
+node1	node2	edge_score	
+DB00181	GABBR1	1.0	
+DB00181	GABBR2	1.0	
+DB00181	SLC22A8	1.0	
+GABBR1	GNAI2	0.8497082254156562
+GABBR1	CXCL6	0.8407682499807351
+GABBR1	RLN3	0.8407682499807351
+GABBR1	GNG2	0.851577718501957
+GABBR1	PMCH	0.833320481754769
+GABBR1	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+GABBR1	CCL23	0.833320481754769
+GABBR1	GNAI1	0.8497082254156562
+GABBR1	POMC	0.833320481754769
+GABBR1	APP	0.833320481754769
+GABBR1	ANXA1	0.8407682499807351
+GABBR1	GABBR2	0.8219632471359692
+GABBR1	GNAT3	0.8497082254156562
+GABBR1		1
+GABBR1	GNAI3	0.8497082254156562
+GABBR1	GNB1	0.851577718501957
+GABBR1	MT-RNR2	0.8407682499807351
+GABBR1	SAA1	0.833320481754769
+GABBR1	PPBP	0.833320481754769
+GABBR2	GNB1	0.851577718501957
+GABBR2	GNG2	0.851577718501957
+GABBR2	CCL23	0.833320481754769
+GABBR2	GABBR1	0.8219632471359692
+GABBR2	APP	0.833320481754769
+GABBR2	PPBP	0.833320481754769
+GABBR2	CXCL6	0.8407682499807351
+GABBR2	RLN3	0.8407682499807351
+GABBR2	GNAI1	0.8497082254156562
+GABBR2	MT-RNR2	0.8407682499807351
+GABBR2	ANXA1	0.8407682499807351
+GABBR2	POMC	0.833320481754769
+GABBR2	PMCH	0.833320481754769
+GABBR2		1
+GABBR2	GNAI2	0.8497082254156562
+GABBR2	GNAT3	0.8497082254156562
+GABBR2	GNAI3	0.8497082254156562
+GABBR2	SAA1	0.833320481754769
+SLC22A8		1
+Memory Loss	APP	1.0	
+Memory Loss	GNAI1	1.0	
+Memory Loss	GNAI3	1.0	
+Memory Loss	POMC	1.0	
+Asthma	ANXA1	1.0	
+Asthma	APP	1.0	
+Asthma	CCL23	1.0	
+Asthma	CXCL6	1.0	
+Asthma	GABBR2	1.0	
+Asthma	GNB1	1.0	
+Asthma	PMCH	1.0	
+Asthma	POMC	1.0	
+Asthma	PPBP	1.0	
+Memory impairment	ANXA1	1.0	
+Memory impairment	APP	1.0	
+Memory impairment	GABBR1	1.0	
+Memory impairment	POMC	1.0	
+Major depressive disorder	APP	1.0	
+Major depressive disorder	GABBR1	1.0	
+Major depressive disorder	GABBR2	1.0	
+Major depressive disorder	GNAI3	1.0	
+Major depressive disorder	POMC	1.0	
+Pituitary dependent hypercortisolism	GNAI2	1.0	
+Pituitary dependent hypercortisolism	POMC	1.0	
+Neoplasm of the adrenal gland	GNAI2	1.0	
+Neoplasm of the adrenal gland	PMCH	1.0	
+Neoplasm of the adrenal gland	POMC	1.0	
+Niemann-Pick disease, type C	ANXA1	1.0	
+Niemann-Pick disease, type C	APP	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GNAI2	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	POMC	1.0	
+Hyperplasia	POMC	1.0	
+Hyperplasia	RLN3	1.0	
+Hyperplasia	SAA1	1.0	
+Hypothyroidism	ANXA1	1.0	
+Hypothyroidism	APP	1.0	
+Hypothyroidism	POMC	1.0	
+Hypothyroidism	SAA1	1.0	
+Pituitary corticotropic cell adenoma	GNAI2	1.0	
+Pituitary corticotropic cell adenoma	POMC	1.0	
+Inflammation	ANXA1	1.0	
+Inflammation	APP	1.0	
+Inflammation	CXCL6	1.0	
+Inflammation	POMC	1.0	
+Inflammation	SAA1	1.0	
+Encephalitis	APP	1.0	
+Encephalitis	GABBR1	1.0	
+Encephalitis	POMC	1.0	
+Bradycardia	GNAI2	1.0	
+Bradycardia	POMC	1.0	
+Nausea	POMC	1.0	
+Nausea	SAA1	1.0	
+Necrosis	APP	1.0	
+Necrosis	POMC	1.0	
+Unipolar Depression	APP	1.0	
+Unipolar Depression	GABBR1	1.0	
+Unipolar Depression	GABBR2	1.0	
+Unipolar Depression	POMC	1.0	
+Cowden syndrome 1	APP	1.0	
+Cowden syndrome 1	POMC	1.0	
+Hypertension	ANXA1	1.0	
+Hypertension	APP	1.0	
+Hypertension	GABBR1	1.0	
+Hypertension	GNAI2	1.0	
+Hypertension	POMC	1.0	
+Hypertension	PPBP	1.0	
+Hypertension	SAA1	1.0	
+Attention Deficit Disorder	APP	1.0	
+Attention Deficit Disorder	POMC	1.0	
+Bronchiolitis, Viral	CCL23	1.0	
+Bronchiolitis, Viral	CXCL6	1.0	
+Bronchiolitis, Viral	PPBP	1.0	
+Plaque, Atherosclerotic	APP	1.0	
+Plaque, Atherosclerotic	GNAI1	1.0	
+Plaque, Atherosclerotic	SAA1	1.0	
+Substance Withdrawal Syndrome	GNAI1	1.0	
+Substance Withdrawal Syndrome	POMC	1.0	
+Cerebral Hemorrhage	ANXA1	1.0	
+Cerebral Hemorrhage	APP	1.0	
+Cerebral Hemorrhage	POMC	1.0	
+Acute kidney injury	ANXA1	1.0	
+Acute kidney injury	SAA1	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Neuralgia	GABBR1	1.0	
+Neuralgia	POMC	1.0	
+body mass	PMCH	1.0	
+body mass	POMC	1.0	
+Methicillin resistant Staphylococcus aureus	POMC	1.0	
+Methicillin resistant Staphylococcus aureus	PPBP	1.0	
+Schizophrenia	ANXA1	1.0	
+Schizophrenia	APP	1.0	
+Schizophrenia	GABBR1	1.0	
+Schizophrenia	GABBR2	1.0	
+Schizophrenia	GNAI2	1.0	
+Schizophrenia	GNB1	1.0	
+Schizophrenia	POMC	1.0	
+Respiratory Syncytial Virus Infections	CCL23	1.0	
+Respiratory Syncytial Virus Infections	CXCL6	1.0	
+Respiratory Syncytial Virus Infections	PPBP	1.0	
+Fragile X syndrome	ANXA1	1.0	
+Fragile X syndrome	APP	1.0	
+Nicotine Dependence	GABBR1	1.0	
+Nicotine Dependence	GABBR2	1.0	
+Abnormality of adrenal physiology	POMC	1.0	
+Abnormality of adrenal physiology	SAA1	1.0	
+Adrenal insufficiency	POMC	1.0	
+Adrenal insufficiency	SAA1	1.0	
+Cocaine-Related Disorders	GABBR1	1.0	
+Cocaine-Related Disorders	POMC	1.0	
+Metabolic Syndrome X	APP	1.0	
+Metabolic Syndrome X	GNAI2	1.0	
+Metabolic Syndrome X	GNAT3	1.0	
+Metabolic Syndrome X	POMC	1.0	
+Malnutrition	POMC	1.0	
+Malnutrition	SAA1	1.0	
+Hepatitis, Autoimmune	APP	1.0	
+Hepatitis, Autoimmune	POMC	1.0	
+Amyloidosis	APP	1.0	
+Amyloidosis	SAA1	1.0	
+Hypotension	POMC	1.0	
+Hypotension	SAA1	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Hyperthyroidism	ANXA1	1.0	
+Hyperthyroidism	APP	1.0	
+Mild cognitive impairment	APP	1.0	
+Mild cognitive impairment	SAA1	1.0	
+Venous thrombosis	CXCL6	1.0	
+Venous thrombosis	SAA1	1.0	
+Achalasia	POMC	1.0	
+Congenital adrenal hypoplasia, X-linked	POMC	1.0	
+Malignant neoplasm of adrenal cortex	POMC	1.0	
+Peroxisome biogenesis disorders	APP	1.0	
+ Lissencephaly, X-linked 2, 300215 (3)	ANXA1	1.0	
+Anxiety Disorders	APP	1.0	
+Anxiety Disorders	GNB1	1.0	
+Anxiety Disorders	POMC	1.0	
+Fetal Alcohol Syndrome	POMC	1.0	
+Phenylketonuria	APP	1.0	
+Lobar Pneumonia	PPBP	1.0	
+Tachycardia	APP	1.0	
+Tachycardia	GNAI2	1.0	
+Adrenal Gland Hyperfunction	POMC	1.0	
+Hereditary Sensory Autonomic Neuropathy, Type 1	GABBR2	1.0	
+Sexually Transmitted Diseases	ANXA1	1.0	
+Cryopyrin-Associated Periodic Syndromes	SAA1	1.0	
+Uveitis	ANXA1	1.0	
+Uveitis	POMC	1.0	
+Femur Head Necrosis	POMC	1.0	
+Chondrocalcinosis	POMC	1.0	
+Cupped ear	GNAI3	1.0	
+Kidney Diseases	ANXA1	1.0	
+Kidney Diseases	POMC	1.0	
+Kidney Diseases	SAA1	1.0	
+Kidney Diseases	SLC22A8	1.0	
+Isolated somatotropin deficiency	POMC	1.0	
+Progressive Neoplastic Disease	APP	1.0	
+Progressive Neoplastic Disease	POMC	1.0	
+Progressive cGVHD	APP	1.0	
+Progressive cGVHD	POMC	1.0	
+Abnormality of the adrenal glands	POMC	1.0	
+Abnormality of the adrenal glands	SAA1	1.0	

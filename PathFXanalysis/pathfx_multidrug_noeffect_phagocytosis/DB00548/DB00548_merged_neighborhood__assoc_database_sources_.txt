@@ -1,0 +1,183 @@
+Gene	CUI	Phenotype	Source Databases	
+AKR1D1	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+SRD5A2	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+TYR	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+AKR1D1	C4025761	Abnormality of the integument	HumPhenOnt	
+SRD5A2	C4025761	Abnormality of the integument	HumPhenOnt	
+TYR	C4025761	Abnormality of the integument	HumPhenOnt	
+AKR1D1	C1291316	2,4-Dienoyl-CoA reductase deficiency	DisGeNet	
+SRD5A2	C1291316	2,4-Dienoyl-CoA reductase deficiency	DisGeNet	
+SRD5A2	C0153594	Malignant tumor of testis	DisGeNet	
+TYR	C0153594	Malignant tumor of testis	DisGeNet	
+SRD5A2	C0036875	Disorders of Sex Development	DisGeNet	
+TYR	C0578626	Blue irides	HumPhenOnt	
+TYR	C4025849	Abnormality of the fovea	HumPhenOnt	
+TYR	C0022603	Seborrheic keratosis	DisGeNet	
+TYR	C1876214	ALBINOIDISM, OCULOCUTANEOUS, AUTOSOMAL DOMINANT	DisGeNet	
+TYR	C0016629	Fowlpox	DisGeNet	
+TYR	C0019880	Homocystinuria due to CBS deficiency	DisGeNet	
+AKR1D1	C0038238	Steatorrhea	HumPhenOnt	
+AKR1D1	C0554103	Fat malabsorption	HumPhenOnt	
+AKR1D1	C0860204	Cholestatic liver disease	HumPhenOnt	
+TYR	C4024742	Aplasia/Hypoplasia of the macula	HumPhenOnt	
+TYR	C4024740	Aplasia/Hypoplasia of the retina	HumPhenOnt	
+TYR	C4023400	Generalized hypopigmentation of hair	HumPhenOnt	
+TYR	C0677944	Sentinel node (disorder)	DisGeNet	
+TYR	C1849923	Generalized hypopigmentation	HumPhenOnt	
+TYR	C0020302	Buphthalmos	DisGeNet	
+TYR	C0037354	Smallpox	DisGeNet	
+SRD5A2	C0033575	Prostatic Diseases	DisGeNet	
+TYR	C0037290	Skin/hair/eye pigmentation, variation in, 9	ClinVar,DisGeNet	
+TYR	C1298180	Single tumor	DisGeNet	
+TYR	C0079504	Hermansky-Pudlak syndrome	DisGeNet	
+TYR	C3665593	Melanocytic nevus of skin	DisGeNet	
+SRD5A2	C0042755	Virilism	DisGeNet	
+SRD5A2	C0238395	Male pseudohermaphroditism	DisGeNet	
+SRD5A2	C0431659	Scrotal hypoplasia	HumPhenOnt	
+SRD5A2	C2931456	Prostate cancer, familial	DisGeNet	
+TYR	C0522214	Abnormality of visual evoked potentials	HumPhenOnt	
+TYR	C0016689	Freckling	DisGeNet,HumPhenOnt	
+AKR1D1	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+SRD5A2	C1691215	Penile hypospadias	DisGeNet	
+AKR1D1	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+TYR	C1842774	Hypermelanotic macule	HumPhenOnt	
+AKR1D1	C0008372	Intrahepatic cholestasis	HumPhenOnt	
+SRD5A2	C0150312	Menopause present (finding)	DisGeNet	
+TYR	C0242994	Hantavirus infection in conditions classified elsewhere and of unspecified site	DisGeNet	
+TYR	C0162674	Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal recessive 4	DisGeNet	
+TYR	C0154920	Iris hypopigmentation	HumPhenOnt	
+AKR1D1	C0000768	EMG: myopathic abnormalities	DisGeNet	
+TYR	C0000768	EMG: myopathic abnormalities	DisGeNet	
+TYR	C0004106	Astigmatism	HumPhenOnt	
+TYR	C3665346	Unspecified visual loss	DisGeNet	
+TYR	C0014130	Disorder of endocrine system	DisGeNet	
+TYR	C1527390	Neoplasms, Intracranial	DisGeNet	
+AKR1D1	C0206132	Onset	HumPhenOnt	
+TYR	C0206132	Onset	HumPhenOnt	
+TYR	C0035369	Retroviridae Infections	DisGeNet	
+AKR1D1	C0549613	Biliary tract abnormality	HumPhenOnt	
+AKR1D1	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+TYR	C1511789	Desmoplastic spindle and epithelioid cell melanocytic nevus of skin	DisGeNet	
+SRD5A2	C0157733	Abnormality of the hair	HumPhenOnt	
+TYR	C0157733	Abnormality of the hair	HumPhenOnt	
+SRD5A2	C1856023	Abnormality of the vagina	HumPhenOnt	
+TYR	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+TYR	C1456781	Benign melanocytic nevus	DisGeNet	
+TYR	C0021079	IMMUNE SUPPRESSION	DisGeNet	
+TYR	C0042170	Uveomeningoencephalitic Syndrome	DisGeNet	
+TYR	C1843865	Vestibular dysfunction	HumPhenOnt	
+TYR	C3278401	Hypopigmentation of hair	HumPhenOnt	
+TYR	C0001916	Albinism, ocular, with sensorineural deafness	ClinVar,DisGeNet,HumPhenOnt	
+SRD5A2	C0266362	Ambiguous genitalia	DisGeNet,HumPhenOnt	
+TYR	C0022602	Actinic keratosis	DisGeNet	
+SRD5A2	C4025895	Abnormality of the scrotum	HumPhenOnt	
+SRD5A2	C0004352	Autism 15	DisGeNet	
+TYR	C0004352	Autism 15	DisGeNet	
+TYR	C0007097	Carcinoma, Squamous Cell	PheGenI	
+TYR	C0023520	Leukodystrophy, hypomyelinating 3	DisGeNet	
+TYR	C4024172	Abnormality of hair pigmentation	HumPhenOnt	
+SRD5A2	C0855197	Testicular malignant germ cell tumor	DisGeNet	
+TYR	C0332573	Macule	HumPhenOnt	
+AKR1D1	C0018995	Hemochromatosis	DisGeNet	
+AKR1D1	C0020433	Hyperbilirubinemia	HumPhenOnt	
+AKR1D1	C0023890	Liver Cirrhosis, Biliary	HumPhenOnt	
+SRD5A2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TYR	C0004565	Melanoma, B16	DisGeNet	
+SRD5A2	C4023518	Abnormality of skin adnexa morphology	HumPhenOnt	
+TYR	C4023518	Abnormality of skin adnexa morphology	HumPhenOnt	
+SRD5A2	C0018418	Gynecomastia	DisGeNet	
+TYR	C0032897	Prader-Willi syndrome	DisGeNet	
+SRD5A2	C0232939	Delayed menarche	DisGeNet	
+TYR	C1834387	Abnormal iris pigmentation	HumPhenOnt	
+AKR1D1	C1846821	Abnormality of coagulation	HumPhenOnt	
+AKR1D1	C4025717	Abnormality of the small intestine	HumPhenOnt	
+TYR	C1860236	Irregular hyperpigmentation	HumPhenOnt	
+TYR	C0020490	Hyperopia	HumPhenOnt	
+AKR1D1	C1848701	Elevated hepatic transaminases	HumPhenOnt	
+TYR	C0040517	Tourette Syndrome	DisGeNet	
+TYR	C0730362	Abnormality of the macula	HumPhenOnt	
+TYR	C0027809	Schwannoma	DisGeNet	
+TYR	C0007117	Basal cell carcinoma	DisGeNet,HumPhenOnt	
+TYR	C0234632	Reduced visual acuity	HumPhenOnt	
+AKR1D1	C0022346	Jaundice	HumPhenOnt	
+SRD5A2	C0085096	Peripheral Arterial Disease	DisGeNet	
+AKR1D1	C4025812	Dermatological manifestations of systemic disorders	HumPhenOnt	
+SRD5A2	C0019572	Hirsutism	DisGeNet	
+AKR1D1	C0232744	Decreased liver function	HumPhenOnt	
+TYR	C4021995	Abnormality of the curvature of the cornea	HumPhenOnt	
+TYR	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+TYR	C1847835	VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	DisGeNet	
+SRD5A2	C0520927	Decreased fertility	HumPhenOnt	
+TYR	C0677932	Progressive Neoplastic Disease	DisGeNet	
+TYR	C3539781	Progressive cGVHD	DisGeNet	
+AKR1D1	C4023528	Abnormality of skin morphology	HumPhenOnt	
+TYR	C4023528	Abnormality of skin morphology	HumPhenOnt	
+SRD5A2	C0041408	46,XY gonadal dysgenesis, partial, with minifascicular neuropathy	DisGeNet	
+TYR	C0553723	Squamous cell carcinoma of the skin	HumPhenOnt	
+TYR	C0333516	Tumor necrosis	DisGeNet	
+TYR	C0497388	Nevus	DisGeNet,HumPhenOnt	
+AKR1D1	C0005779	Bleeding disorder, platelet-type, 21	HumPhenOnt	
+TYR	C0162834	Hyperpigmentation of the skin	HumPhenOnt	
+TYR	C0085636	Photophobia	HumPhenOnt	
+TYR	C0085648	Synovial Cyst	DisGeNet	
+AKR1D1	C0037268	Abnormality of the skin	HumPhenOnt	
+TYR	C0037268	Abnormality of the skin	HumPhenOnt	
+TYR	C0027962	Melanocytic nevus	DisGeNet,HumPhenOnt	
+TYR	C1836142	Congenital onset	HumPhenOnt	
+SRD5A2	C0002170	Alopecia	DisGeNet	
+TYR	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+TYR	C0349204	Cycloid psychosis	DisGeNet	
+TYR	C4023186	Neoplasm by histology	HumPhenOnt	
+TYR	C4072945	Abnormal visual electrophysiology	HumPhenOnt	
+TYR	C0241764	X-linked inheritance	HumPhenOnt	
+TYR	C0848332	Spots on skin	DisGeNet	
+TYR	C0220633	Intraocular melanoma	DisGeNet	
+TYR	C0242596	Neoplasm, Residual	DisGeNet	
+TYR	C0004135	Ataxia-telangiectasia syndrome	DisGeNet	
+TYR	C4023613	Gonosomal inheritance	HumPhenOnt	
+SRD5A2	C4020961	Displacement of the external urethral meatus	HumPhenOnt	
+TYR	C0007114	Skin cancer	DisGeNet	
+AKR1D1	C0085605	Liver failure acute infantile	DisGeNet,HumPhenOnt	
+TYR	C0162835	Hypopigmentation of the skin	DisGeNet,HumPhenOnt	
+AKR1D1	C0024523	Malabsorption	HumPhenOnt	
+SRD5A2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+TYR	C0002793	Anaplasia	DisGeNet	
+AKR1D1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SRD5A2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SRD5A2	C0029928	Ovarian Diseases	DisGeNet	
+SRD5A2	C4021776	Abnormality of the voice	HumPhenOnt	
+TYR	C0042900	Vitiligo	DisGeNet,PheGenI	
+AKR1D1	C0940767	Abnormality of the biliary system	HumPhenOnt	
+TYR	C0026010	Microphthalmia syndromic 6	DisGeNet	
+TYR	C0870082	Hyperkeratosis	HumPhenOnt	
+SRD5A2	C4025826	Abnormality of the urethra	HumPhenOnt	
+TYR	C0151779	Cutaneous malignant melanoma 3	DisGeNet	
+TYR	C3811653	Experimental Organism Basal Cell Carcinoma	DisGeNet	
+SRD5A2	C0014170	Endometrial Neoplasms	DisGeNet	
+SRD5A2	C0848558	Hypospadias	DisGeNet,HumPhenOnt	
+AKR1D1	C0038002	Splenomegaly	HumPhenOnt	
+SRD5A2	C0266435	Hypoplasia of penis	DisGeNet,HumPhenOnt	
+TYR	C4025845	Abnormality of the iris	HumPhenOnt	
+TYR	C0494876	Epidermal thickening	HumPhenOnt	
+TYR	C1862475	Abnormality of retinal pigmentation	HumPhenOnt	
+SRD5A2	C0036341	Schizophrenia	DisGeNet	
+TYR	C0036341	Schizophrenia	DisGeNet	
+SRD5A2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+TYR	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+AKR1D1	C1458140	Abnormal bleeding	HumPhenOnt	
+TYR	C0525045	Mood Disorders	DisGeNet	
+TYR	C4025843	Abnormality of refraction	HumPhenOnt	
+AKR1D1	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+TYR	C0033975	Psychotic Disorders	DisGeNet	
+TYR	C0278883	Metastatic melanoma	DisGeNet	
+TYR	C0241165	Thickened skin	HumPhenOnt	
+AKR1D1	C2674432	Reduced bone mineral density	HumPhenOnt	
+TYR	C1260926	Abnormality of skin pigmentation	HumPhenOnt	
+AKR1D1	C4025749	Abnormality of the spleen	HumPhenOnt	
+TYR	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+SRD5A2	C1852534	Hypoplastic male external genitalia	HumPhenOnt	
+TYR	C0027092	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	HumPhenOnt	
+SRD5A2	C1855333	External genital hypoplasia	HumPhenOnt	
+TYR	C0015230	Exanthema	DisGeNet	
+SRD5A2	C0677886	Ovarian epithelial cancer	DisGeNet	
+TYR	C0677886	Ovarian epithelial cancer	DisGeNet	

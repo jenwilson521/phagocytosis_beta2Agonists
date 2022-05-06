@@ -1,0 +1,210 @@
+node_name	node_type	
+DB05383	drug	
+AKR1B1	drug_target	
+TIMP3	drug_target	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Arteriosclerosis	phenotype	
+Asthma	phenotype	
+Atherosclerosis	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Colon cancer	phenotype	
+Malignant tumor of cervix	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Diabetes mellitus type 1	phenotype	
+Diabetes mellitus type 2	phenotype	
+Diabetic Angiopathies	phenotype	
+Diabetic Nephropathies	phenotype	
+Diabetic Retinopathy	phenotype	
+Endometriosis	phenotype	
+Glioma	phenotype	
+Heart Failure	phenotype	
+Congestive heart failure	phenotype	
+Hypertension	phenotype	
+Kidney Diseases	phenotype	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Obesity	phenotype	
+Retinopathy	phenotype	
+Stroke	phenotype	
+Synovial Cyst	phenotype	
+Tumor Progression	phenotype	
+Carcinoma of cervix	phenotype	
+Endometrial carcinoma	phenotype	
+Carcinogenesis	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Lung cancer	phenotype	
+Carcinoma of colon	phenotype	
+Stomach cancer	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Coronary Artery Disease	phenotype	
+Hepatocellular carcinoma	phenotype	
+High altitude pulmonary edema	phenotype	
+Hereditary macular dystrophy	phenotype	
+Malignant neoplasm of adrenal cortex	phenotype	
+Hypersomnia	phenotype	
+Enzyme inhibition disorder	phenotype	
+Geographic Atrophy	phenotype	
+Endometriosis of ovary	phenotype	
+Bull's eye macular dystrophy	phenotype	
+Diabetic foot ulcer	phenotype	
+Diffuse Astrocytoma	phenotype	
+Prolymphocytic Leukemia	phenotype	
+Corneal pannus	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Leukemia, Plasma Cell	phenotype	
+Recurrent pneumonia	phenotype	
+Choroidal Neovascularization	phenotype	
+Drusen	phenotype	
+Hypokalemia	phenotype	
+Squamous cell carcinoma of mouth	phenotype	
+Papillary renal cell carcinoma	phenotype	
+Low Tension Glaucoma	phenotype	
+Marfan syndrome	phenotype	
+Photoreceptor degeneration	phenotype	
+Oropharyngeal squamous cell carcinoma	phenotype	
+Lymphangiomyomatosis	phenotype	
+Adenomatous polyp of colon	phenotype	
+Anaplastic carcinoma	phenotype	
+Aortic dissection	phenotype	
+Proliferative diabetic retinopathy	phenotype	
+Unspecified visual loss	phenotype	
+Hepatosplenic schistosomiasis	phenotype	
+Microalbuminuria	phenotype	
+Neoplasm of the adrenal cortex	phenotype	
+Bronchitis, Chronic	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Facioscapulohumeral muscular dystrophy	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+granulosa cell tumor	phenotype	
+Undifferentiated carcinoma	phenotype	
+Intervertebral disc degeneration	phenotype	
+Type 1 diabetic neuropathy	phenotype	
+airway disease	phenotype	
+Endotoxemia	phenotype	
+Intraocular pressure disorder	phenotype	
+Childhood asthma	phenotype	
+Intracranial Aneurysm	phenotype	
+Aortic Aneurysm, Thoracic	phenotype	
+Mammary Ductal Carcinoma	phenotype	
+Varicose Veins	phenotype	
+Vascular inflammations	phenotype	
+Bilateral cataracts (disorder)	phenotype	
+Focal segmental glomerulosclerosis	phenotype	
+Giant cell arteritis	phenotype	
+Cervical Squamous Cell Carcinoma	phenotype	
+Abnormality of the macula	phenotype	
+Gingival Diseases	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Abdominal obesity	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Fetal Diseases	phenotype	
+Nonalcoholic Steatohepatitis	phenotype	
+Glomerulopathy	phenotype	
+Adrenocortical carcinoma	phenotype	
+Carotid Stenosis	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Keratoconus	phenotype	
+Neoplasm Invasiveness	phenotype	
+Tumor necrosis	phenotype	
+Amyotrophic lateral sclerosis type 1	phenotype	
+Dissecting aneurysm of the thoracic aorta	phenotype	
+Hyperalgesia	phenotype	
+Night blindness, congenital stationary, type 1g	phenotype	
+Chronic Periodontitis	phenotype	
+Carcinoid tumor	phenotype	
+Eclampsia	phenotype	
+Vasculitis	phenotype	
+Sensory neuropathy	phenotype	
+Hypersensitivity	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Carotid Artery Diseases	phenotype	
+Aortic Aneurysm, Abdominal	phenotype	
+Primary cutaneous marginal zone B-cell lymphoma	phenotype	
+Macular Degeneration	phenotype	
+Connective Tissue Diseases	phenotype	
+Chronic hepatitis	phenotype	
+Intraocular melanoma	phenotype	
+Allergic disposition	phenotype	
+Benign neoplasm of other endocrine glands	phenotype	
+Endothelial dysfunction	phenotype	
+Meningioma, benign, no ICD-O subtype	phenotype	
+Restenosis	phenotype	
+Ductal Carcinoma	phenotype	
+Aortic aneurysm, familial thoracic 11, susceptibility to	phenotype	
+Adenocarcinoma of colon	phenotype	
+Neutropenia	phenotype	
+Spontaneous abortion	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+RETINAL DYSTROPHY WITH OR WITHOUT MACULAR STAPHYLOMA	phenotype	
+Cutaneous malignant melanoma 3	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Endometrial Neoplasms	phenotype	
+Subarachnoid hemorrhage	phenotype	
+Cerebral ischemia	phenotype	
+Choriocarcinoma	phenotype	
+Hypospadias	phenotype	
+Retinal degeneration	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Adenocarcinoma Of Esophagus	phenotype	
+Leukopenia	phenotype	
+Reperfusion Injury	phenotype	
+Muscular dystrophy-dystroglycanopathy (congenital with brain and eye anomalies), type a, 11	phenotype	
+Leiomyoma	phenotype	
+Recurrent tumor	phenotype	
+Periodontitis	phenotype	
+Uterine leiomyoma	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	
+Carcinoma breast stage IV	phenotype	
+Cleft Lip	phenotype	
+Renal insufficiency	phenotype	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Clear cell renal cell carcinoma	phenotype	
+Invasive breast carcinoma	phenotype	
+Premature Birth	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Cholangiocarcinoma	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Cancer of the lower GI tract	phenotype	
+Vascular Diseases	phenotype	
+Retinitis pigmentosa	phenotype	
+Age-related macular degeneration 2	phenotype	
+Cancer of Head and Neck	phenotype	
+Glioblastoma multiforme	phenotype	
+Tumor Angiogenesis	phenotype	
+Papillary thyroid carcinoma	phenotype	
+Meningioma	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Hepatitis C, Chronic	phenotype	
+Hyperglycemia	phenotype	
+Pneumonia	phenotype	
+Hepatocarcinogenesis	phenotype	
+Dermatosis NOS	phenotype	
+Acute myocardial ischemia	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Medulloblastoma	phenotype	
+Severe combined immunodeficiency due to ADA deficiency	phenotype	
+Xenograft Model	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Pancreatic Ductal Adenocarcinoma	phenotype	
+Cleft Palate	phenotype	
+Scleroderma	phenotype	
+Abnormality of the intestine	phenotype	
+Liver Diseases	phenotype	
+Abnormality of the retina	phenotype	
+Hepatic cancer metastatic	phenotype	
+Small cell lung cancer	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Malignant tumor of esophagus	phenotype	
+Thyroid carcinoma	phenotype	
+Nasopharyngeal carcinoma, susceptibility to, 3	phenotype	
+Colitis, Ulcerative	phenotype	
+Cataract, autosomal recessive congenital 5	phenotype	
+Neurodegenerative Diseases	phenotype	

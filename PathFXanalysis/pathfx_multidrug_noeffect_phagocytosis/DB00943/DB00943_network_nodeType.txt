@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00943	drug	
+CYP3A5	drug_target	
+SLC22A6	drug_target	
+CYP2C9	drug_target	
+CYP3A43	drug_target	
+CYP2D6	drug_target	
+DCK	drug_target	
+SLC29A1	drug_target	
+CYP3A4	drug_target	
+SLC29A2	drug_target	
+Primary malignant neoplasm of liver	phenotype	
+Drug Allergy	phenotype	

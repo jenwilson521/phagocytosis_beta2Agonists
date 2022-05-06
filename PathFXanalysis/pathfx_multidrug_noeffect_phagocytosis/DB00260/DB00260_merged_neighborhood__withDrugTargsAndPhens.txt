@@ -1,0 +1,136 @@
+node1	node2	edge_score	
+DB00260	DDC	1.0	
+DDC		1
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	DDC	1.0	
+Anaplasia	DDC	1.0	
+Anxiety Disorders	DDC	1.0	
+As If Personality	DDC	1.0	
+Autism 15	DDC	1.0	
+Mental disorders	DDC	1.0	
+Bipolar affective disorder	DDC	1.0	
+Ptosis, hereditary congenital 1	DDC	1.0	
+Abnormal systemic blood pressure	DDC	1.0	
+Borderline Personality Disorder	DDC	1.0	
+Brain Diseases	DDC	1.0	
+Carcinoid tumor	DDC	1.0	
+Squamous cell carcinoma	DDC	1.0	
+Cholangitis, Sclerosing	DDC	1.0	
+Chorea, childhood-onset, with psychomotor retardation	DDC	1.0	
+Constipation	DDC	1.0	
+Diarrhea 8, secretory sodium, congenital	DDC	1.0	
+Dyskinesia, Drug-Induced	DDC	1.0	
+Dystonia 2, torsion, autosomal recessive	DDC	1.0	
+Abnormality of the eye	DDC	1.0	
+Gastroesophageal reflux	DDC	1.0	
+Hepatitis, Alcoholic	DDC	1.0	
+Hyperhidrosis	DDC	1.0	
+Portal hypertension, noncirrhotic	DDC	1.0	
+Hypohidrosis	DDC	1.0	
+Hypotension	DDC	1.0	
+Hypothermia	DDC	1.0	
+Irritability	DDC	1.0	
+Kidney Failure, Chronic	DDC	1.0	
+Leukemia, Lymphocytic, Acute, L1	DDC	1.0	
+Liver Cirrhosis, Biliary	DDC	1.0	
+Liver Diseases	DDC	1.0	
+Malaria	DDC	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	DDC	1.0	
+Abnormality of movement	DDC	1.0	
+Hypertonia	DDC	1.0	
+Hypotonia, infantile, with psychomotor retardation	DDC	1.0	
+Myoclonus, intractable, neonatal	DDC	1.0	
+Secondary hypertriglyceridemia	DDC	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	DDC	1.0	
+Neurodegeneration with brain iron accumulation	DDC	1.0	
+Nicotine Dependence	DDC	1.0	
+Parkinson Disease	DDC	1.0	
+Pheochromocytoma	DDC	1.0	
+Prostatic Neoplasms	DDC	1.0	
+Psychotic Disorders	DDC	1.0	
+Babinski sign	DDC	1.0	
+Schizophrenia	DDC	1.0	
+Paranoid Schizophrenia	DDC	1.0	
+Sleep disturbance	DDC	1.0	
+Tobacco Use Disorder	DDC	1.0	
+Neoplasm of the tongue	DDC	1.0	
+Increased body weight	DDC	1.0	
+Choreoathetosis	DDC	1.0	
+Emotional lability	DDC	1.0	
+Small cell lung cancer	DDC	1.0	
+Migraine Disorders	DDC	1.0	
+Abnormal CSF metabolite level	DDC	1.0	
+Hyperreflexia	DDC	1.0	
+Migraine with aura	DDC	1.0	
+Abnormal pupillary morphology	DDC	1.0	
+Russell-Silver syndrome	DDC	1.0	
+Onset	DDC	1.0	
+Feeding difficulties	DDC	1.0	
+Behavioral abnormality	DDC	1.0	
+Abnormal pyramidal signs	DDC	1.0	
+Abnormality of limbs	DDC	1.0	
+Parkinsonism	DDC	1.0	
+Neoplasm, Residual	DDC	1.0	
+Abnormality of cardiovascular system electrophysiology	DDC	1.0	
+Abnormality of the digestive system	DDC	1.0	
+Abnormality of esophagus morphology	DDC	1.0	
+Common Migraine	DDC	1.0	
+Malignant tumor of prostate	DDC	1.0	
+Involuntary movements	DDC	1.0	
+Autosomal recessive inheritance	DDC	1.0	
+Abnormality of the nervous system	DDC	1.0	
+Mood Disorders	DDC	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	DDC	1.0	
+Primary sclerosing cholangitis	DDC	1.0	
+Prostate carcinoma	DDC	1.0	
+Ovarian epithelial cancer	DDC	1.0	
+Neurodevelopmental abnormality	DDC	1.0	
+Stomach cancer	DDC	1.0	
+Neuroblastoma	DDC	1.0	
+Abdominal symptom	DDC	1.0	
+Abnormal muscle tone	DDC	1.0	
+Abnormality of head or neck	DDC	1.0	
+Disseminated neuroblastoma	DDC	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DDC	1.0	
+Squamous cell carcinoma of the head and neck	DDC	1.0	
+Attention deficit hyperactivity disorder	DDC	1.0	
+Adenocarcinoma of the large intestine	DDC	1.0	
+Abnormal emotion/affect behavior	DDC	1.0	
+Abnormality of temperature regulation	DDC	1.0	
+Upper motor neuron dysfunction	DDC	1.0	
+Infantile-onset ascending hereditary spastic paralysis	DDC	1.0	
+Muscular hypotonia of the trunk	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 4	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 5	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 6	DDC	1.0	
+Hepatocellular carcinoma	DDC	1.0	
+Feeding difficulties in infancy	DDC	1.0	
+Major affective disorder 7	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 8	DDC	1.0	
+MAJOR AFFECTIVE DISORDER 9	DDC	1.0	
+Weight Gain Adverse Event	DDC	1.0	
+Morphological abnormality of the gastrointestinal tract	DDC	1.0	
+Abnormality of the musculature	DDC	1.0	
+Morphological abnormality of the central nervous system	DDC	1.0	
+Abnormality of metabolism/homeostasis	DDC	1.0	
+Abnormality of the head	DDC	1.0	
+Neurodevelopmental delay	DDC	1.0	
+Functional abnormality of the gastrointestinal tract	DDC	1.0	
+Abnormality of nervous system morphology	DDC	1.0	
+Abnormality of nervous system physiology	DDC	1.0	
+Abnormality of the globe	DDC	1.0	
+Abnormal eye physiology	DDC	1.0	
+Abnormal eye morphology	DDC	1.0	
+Abnormality of muscle physiology	DDC	1.0	
+Abnormality of central motor function	DDC	1.0	
+Abnormality of skin adnexa morphology	DDC	1.0	
+Abnormality of cardiovascular system physiology	DDC	1.0	
+Abnormality of the gastrointestinal tract	DDC	1.0	
+Abnormality of the musculature of the limbs	DDC	1.0	
+Abnormality of the anterior segment of the globe	DDC	1.0	
+Abnormality of the stomach	DDC	1.0	
+Abnormality of the integument	DDC	1.0	
+Abnormality of the uvea	DDC	1.0	
+Abnormality of the iris	DDC	1.0	
+Abnormality of the face	DDC	1.0	
+Abnormality of digestive system morphology	DDC	1.0	
+Abnormality of digestive system physiology	DDC	1.0	

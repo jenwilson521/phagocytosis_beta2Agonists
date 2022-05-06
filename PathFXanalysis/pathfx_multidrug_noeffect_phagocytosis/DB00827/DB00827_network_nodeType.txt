@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00827	drug	
+SLC22A6	drug_target	
+Bipolar affective disorder	phenotype	
+Calcinosis	phenotype	
+Ulcerative colitis	phenotype	
+Crohn Disease	phenotype	
+Diabetic Nephropathies	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Hypertension	phenotype	
+Kidney Diseases	phenotype	
+Acute kidney injury	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Chromosome 11p deletion syndrome	phenotype	

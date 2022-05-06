@@ -1,0 +1,27 @@
+node1	node2	edge_score	
+DB00437	AOX1	1.0	
+DB00437	XDH	1.0	
+DB00437	SLC22A8	1.0	
+AOX1	rs10931910	0.99
+AOX1		1
+AOX1	rs55754655	0.99
+XDH		1
+XDH	rs1594160	0.99
+XDH	rs1429376	0.99
+SLC22A8		1
+Hearing Loss, Partial	AOX1	1.0	
+Hearing Loss, Partial	XDH	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Calcium oxalate urolithiasis	XDH	1.0	
+Abnormality of purine metabolism	XDH	1.0	
+Deafness, autosomal recessive 44	AOX1	1.0	
+Deafness, autosomal recessive 44	XDH	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Acute kidney injury	XDH	1.0	
+Abnormality of nucleobase metabolism	XDH	1.0	
+Kidney Calculi	XDH	1.0	
+Pyelonephritis	XDH	1.0	
+Meningeal Neoplasms	XDH	1.0	
+Diabetic Cardiomyopathies	XDH	1.0	
+Occupational Diseases	XDH	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	XDH	1.0	

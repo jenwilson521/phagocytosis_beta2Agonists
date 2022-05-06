@@ -1,0 +1,14 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCC2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCG2	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+ABCB1	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ABCG2	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+GABRB3	C0270853	Juvenile myoclonic epilepsy	DisGeNet	
+ABCB1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCC1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCG2	C1504404	Hippocampal sclerosis	DisGeNet	

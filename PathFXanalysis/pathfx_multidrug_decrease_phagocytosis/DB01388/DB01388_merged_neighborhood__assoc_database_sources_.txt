@@ -1,0 +1,85 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0085602	Polydipsia	DisGeNet	
+CACNA1D	C0085602	Polydipsia	HumPhenOnt	
+CYP11B2	C0085602	Polydipsia	HumPhenOnt	
+CYP1A2	C0085602	Polydipsia	DisGeNet	
+CYP2D6	C0085602	Polydipsia	DisGeNet	
+NLRC4	C0085602	Polydipsia	HumPhenOnt	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CACNA1G	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CACNA1H	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+CACNB4	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+HP	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+KCNMA1	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+ABCB1	C0344307	Pain insensitivity	DisGeNet	
+CACNA1H	C0344307	Pain insensitivity	DisGeNet	
+CYP2D6	C0344307	Pain insensitivity	DisGeNet	
+CYP3A4	C0344307	Pain insensitivity	DisGeNet	
+CYP3A5	C0344307	Pain insensitivity	DisGeNet	
+ABCB1	C0027497	Nausea	DisGeNet	
+CACNA1D	C0027497	Nausea	HumPhenOnt	
+CYP11B2	C0027497	Nausea	HumPhenOnt	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2D6	C0027497	Nausea	DisGeNet	
+CACNA1C	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+SCN5A	C1141890	Congenital long QT syndrome	DisGeNet	
+CACNA1G	C1295585	Impaired vibratory sensation	HumPhenOnt	
+SACS	C1295585	Impaired vibratory sensation	HumPhenOnt	
+SETX	C1295585	Impaired vibratory sensation	HumPhenOnt	
+SPAST	C1295585	Impaired vibratory sensation	HumPhenOnt	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP2D6	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+KLK3	C0030201	Acute postoperative pain	DisGeNet	
+APOC1	C0009241	Cognition Disorders	DisGeNet	
+APOE	C0009241	Cognition Disorders	DisGeNet	
+CST3	C0009241	Cognition Disorders	DisGeNet	
+CYP2D6	C0009241	Cognition Disorders	DisGeNet	
+SPAST	C0009241	Cognition Disorders	DisGeNet	
+APOE	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+CACNA1C	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1D	C1384514	Primary hyperaldosteronism	DisGeNet	
+CACNA1H	C1384514	Primary hyperaldosteronism	DisGeNet	
+CYP11B2	C1384514	Primary hyperaldosteronism	DisGeNet,HumPhenOnt	
+KCNMA1	C1384514	Primary hyperaldosteronism	DisGeNet	
+ABCB1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+APOE	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A4	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A5	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSN	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+LDB3	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	HumPhenOnt	
+SACS	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SERPING1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SETX	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2D6	C0596321	Chemical Carcinogenesis	DisGeNet	
+GSN	C0596321	Chemical Carcinogenesis	DisGeNet	
+ALB	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOC1	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOE	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CACNA1C	C0242383	Age-related macular degeneration 2	DisGeNet	
+CST3	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CYP1A1	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP1A2	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP2D6	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP3A5	C0242383	Age-related macular degeneration 2	DisGeNet	
+HP	C0242383	Age-related macular degeneration 2	DisGeNet	
+MGST1	C0242383	Age-related macular degeneration 2	DisGeNet	
+SERPING1	C0242383	Age-related macular degeneration 2	DisGeNet	
+TOMM40	C0242383	Age-related macular degeneration 2	DisGeNet	
+ABCB1	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+APOE	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+HPX	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	

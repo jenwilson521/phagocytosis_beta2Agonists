@@ -1,0 +1,58 @@
+Gene	CUI	Phenotype	Source Databases	
+GSTA1	C0012860	DNA Damage	DisGeNet	
+GSTM1	C0012860	DNA Damage	DisGeNet	
+TPMT	C0012860	DNA Damage	DisGeNet	
+GSTA2	C0032229	Pleural Neoplasms	DisGeNet	
+GSTM1	C0032229	Pleural Neoplasms	DisGeNet	
+HPRT1	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+XDH	C4025346	Abnormality of purine metabolism	HumPhenOnt	
+GSTA1	C0040715	Chromosomal translocation	DisGeNet	
+GSTM1	C0040715	Chromosomal translocation	DisGeNet	
+GSTA2	C0919532	Genomic Instability	DisGeNet	
+GSTM1	C0919532	Genomic Instability	DisGeNet	
+GSTA1	C0023530	Leukopenia	DisGeNet	
+GSTM1	C0023530	Leukopenia	DisGeNet	
+HPRT1	C0023530	Leukopenia	DisGeNet	
+TPMT	C0023530	Leukopenia	DisGeNet	
+HPRT1	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+XDH	C4023643	Abnormality of nucleobase metabolism	HumPhenOnt	
+GSTM1	C0005956	Myelopathy	DisGeNet	
+TPMT	C0005956	Myelopathy	DisGeNet	
+GSTA1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTM1	C0019045	Hemoglobinopathy	DisGeNet	
+GSTA1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTM1	C0008628	Chromosome Xq28 deletion syndrome	DisGeNet	
+GSTA2	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTM1	C0031347	Pharyngeal Neoplasms	DisGeNet	
+GSTA1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTM1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+TPMT	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSTM1	C0028797	Occupational Diseases	DisGeNet	
+XDH	C0028797	Occupational Diseases	DisGeNet	
+HPRT1	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet,HumPhenOnt	
+XDH	C0740394	Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	DisGeNet	
+HPRT1	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+TPMT	C0278704	Malignant Childhood Neoplasm	DisGeNet	
+GSTM1	C0013182	Drug Allergy	DisGeNet	
+TPMT	C0013182	Drug Allergy	DisGeNet	
+GSTA1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTM1	C0008625	Chromosome Aberrations	DisGeNet	
+GSTA1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTM1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+GSTM1	C0023448	Lymphoid leukemia	DisGeNet	
+HPRT1	C0023448	Lymphoid leukemia	DisGeNet	
+TPMT	C0023448	Lymphoid leukemia	DisGeNet	
+GSTM1	C2919828	Chronic ulcerative colitis	DisGeNet	
+TPMT	C2919828	Chronic ulcerative colitis	DisGeNet	
+GSTA1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTM1	C0023896	Alcoholic Liver Diseases	DisGeNet	
+GSTA2	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTM1	C0023055	Neoplasm of the larynx	DisGeNet	
+GSTM1	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+TPMT	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+HPRT1	C0392525	Nephrolithiasis	HumPhenOnt	
+XDH	C0392525	Nephrolithiasis	DisGeNet,HumPhenOnt	
+GSTA1	C0041834	Erythema	DisGeNet	
+GSTM1	C0041834	Erythema	DisGeNet	
+GSTM1	C0241910	Hepatitis, Autoimmune	DisGeNet	
+TPMT	C0241910	Hepatitis, Autoimmune	DisGeNet	

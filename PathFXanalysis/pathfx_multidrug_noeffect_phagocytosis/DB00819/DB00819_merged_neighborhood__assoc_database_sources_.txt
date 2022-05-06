@@ -1,0 +1,3 @@
+Gene	CUI	Phenotype	Source Databases	
+CA1	C0032273	Simple pneumoconiosis	DisGeNet	
+CA3	C0032273	Simple pneumoconiosis	DisGeNet	

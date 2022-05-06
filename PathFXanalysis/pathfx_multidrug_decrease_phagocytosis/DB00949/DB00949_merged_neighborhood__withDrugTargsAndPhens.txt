@@ -1,0 +1,255 @@
+node1	node2	edge_score	
+DB00949	CYP2C19	1.0	
+DB00949	CYP3A4	1.0	
+DB00949	GRIN2B	1.0	
+DB00949	GRIN3A	1.0	
+DB00949	CYP2E1	1.0	
+DB00949	GRIN2A	1.0	
+CYP2C19	rs12768009	0.99
+CYP2C19	rs12248560	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+CYP2C19	rs4986893	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP2C19	rs28399504	0.99
+CYP2C19		1
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	rs3814637	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+CYP2C19	rs11188072	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP3A4	rs2242480	0.99
+CYP3A4	rs35599367	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs56324128	0.99
+CYP3A	rs2740574	0.9702989999999999
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A	rs12721627	0.9702989999999999
+rs2740574	CYP3A	0.9414801494009999
+CYP3A4	rs4986910	0.99
+CYP3A4	rs4646437	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs2740574	0.99
+CYP3A4	MGST1	0.792109822701367
+CYP3A4	rs3735451	0.99
+CYP3A4		1
+CYP3A4	rs12721627	0.99
+rs4987161	CYP3A	0.9801
+CYP3A4	rs28371759	0.99
+CYP3A4	rs2246709	0.99
+rs4987161	CYP3A4	0.8863848717161291
+rs2740574	CYP3A4	0.92274469442792
+CYP3A4	rs4987161	0.99
+rs12721627	CYP3A4	0.96059601
+CYP3A	rs4987161	0.8953382542587163
+CYP3A4	MGST3	0.792109822701367
+CYP3A4	MGST2	0.792109822701367
+GRIN2B	EPHB4	0.8526462282435747
+GRIN2B	rs1019385	0.99
+GRIN2B		1
+GRIN2B	GRIN2A	0.8354005520686607
+GRIN2B	EFNB2	0.8526462282435747
+GRIN2B	GRIN2D	0.8354005520686607
+GRIN2B	DLG4	0.851577718501957
+GRIN2B	LYN	0.8526462282435747
+GRIN2B	TIAM1	0.842023951637581
+GRIN2B	EPHB1	0.8526462282435747
+GRIN2B	CAMK2D	0.8516636985739204
+GRIN2B	EPHB6	0.8526462282435747
+GRIN2B	GRIN1	0.8611505155370949
+GRIN2B	CAMK2G	0.8516636985739204
+GRIN2B	ACTN2	0.8398120133516425
+GRIN2B	GRIN2B	0.8564332803525301
+GRIN2B	rs1806201	0.99
+GRIN2B	GRB2	0.8670770245481983
+GRIN2B	HRAS	0.852724204446584
+GRIN2B	CALM3	0.8319100629186602
+GRIN2B	YES1	0.8526462282435747
+GRIN2B	NEFL	0.8398120133516425
+GRIN2B	rs2058878	0.99
+GRIN2B	FYN	0.8567933402497072
+GRIN2B	SHC1	0.8601235081501506
+GRIN2B	CAMK2A	0.8516636985739204
+GRIN2B	GRIN2C	0.8354005520686607
+GRIN2B	SRC	0.8526462282435747
+GRIN2B	EPHB2	0.8526462282435747
+GRIN2B	CAMK2B	0.8516636985739204
+GRIN2B	SOS1	0.8672683872743503
+GRIN2B	EPHB3	0.8526462282435747
+GRIN2B	EFNB3	0.8526462282435747
+GRIN2B	EFNB1	0.8526462282435747
+GRIN2B	rs1072388	0.99
+GRIN3A		1
+GRIN3A	rs11788456	0.99
+GRIN3A	rs10121600	0.99
+CYP2E1	rs2070676	0.99
+CYP2E1	rs6413432	0.99
+CYP2E1	rs2031920	0.99
+CYP2E1	CYP2E1*1A, CYP2E1*5B	0.99
+CYP2E1		1
+CYP2E1	rs2515641	0.99
+CYP2E1	rs2070673	0.99
+GRIN2A	CAMK2G	0.8516636985739204
+GRIN2A	NEFL	0.8398120133516425
+GRIN2A	DLG4	0.851577718501957
+GRIN2A	ACTN2	0.8398120133516425
+GRIN2A	HRAS	0.852724204446584
+GRIN2A	CAMK2A	0.8516636985739204
+GRIN2A	GRIN2A	0.8354005520686607
+GRIN2A	GRIN2C	0.8354005520686607
+GRIN2A	GRB2	0.8670770245481983
+GRIN2A	CAMK2B	0.8516636985739204
+GRIN2A	CAMK2D	0.8516636985739204
+GRIN2A	GRIN1	0.8480904465605648
+GRIN2A	SHC1	0.8601235081501506
+GRIN2A		1
+GRIN2A	CALM3	0.8319100629186602
+GRIN2A	GRIN2D	0.8354005520686607
+GRIN2A	SOS1	0.8672683872743503
+Weight Gain Adverse Event	CAMK2A	1.0	
+Weight Gain Adverse Event	CAMK2B	1.0	
+Weight Gain Adverse Event	GRIN1	1.0	
+Weight Gain Adverse Event	GRIN2A	1.0	
+Weight Gain Adverse Event	GRIN2B	1.0	
+Weight Gain Adverse Event	GRIN2C	1.0	
+Weight Gain Adverse Event	GRIN2D	1.0	
+Weight Gain Adverse Event	GRIN3A	1.0	
+Weight Gain Adverse Event	SRC	1.0	
+Mesothelioma, malignant	CALM3	1.0	
+Mesothelioma, malignant	CYP2C19	1.0	
+Mesothelioma, malignant	CYP2E1	1.0	
+Mesothelioma, malignant	CYP3A4	1.0	
+Mesothelioma, malignant	EPHB2	1.0	
+Mesothelioma, malignant	EPHB4	1.0	
+Mesothelioma, malignant	FYN	1.0	
+Mesothelioma, malignant	LYN	1.0	
+Mesothelioma, malignant	SOS1	1.0	
+Mesothelioma, malignant	SRC	1.0	
+Cocaine delirium	CALM3	1.0	
+Cocaine delirium	CYP3A4	1.0	
+Cocaine delirium	GRIN2B	1.0	
+Cocaine delirium	GRIN3A	1.0	
+Schizophrenia	CALM3	1.0	
+Schizophrenia	CAMK2A	1.0	
+Schizophrenia	CAMK2B	1.0	
+Schizophrenia	CYP2C19	1.0	
+Schizophrenia	CYP2E1	1.0	
+Schizophrenia	CYP3A4	1.0	
+Schizophrenia	DLG4	1.0	
+Schizophrenia	EFNB1	1.0	
+Schizophrenia	EFNB2	1.0	
+Schizophrenia	EPHB2	1.0	
+Schizophrenia	FYN	1.0	
+Schizophrenia	GRB2	1.0	
+Schizophrenia	GRIN1	1.0	
+Schizophrenia	GRIN2A	1.0	
+Schizophrenia	GRIN2B	1.0	
+Schizophrenia	GRIN2C	1.0	
+Schizophrenia	GRIN2D	1.0	
+Schizophrenia	GRIN3A	1.0	
+Schizophrenia	NEFL	1.0	
+Schizophrenia	SOS1	1.0	
+Placental Insufficiency	GRIN1	1.0	
+Placental Insufficiency	GRIN2A	1.0	
+Placental Insufficiency	GRIN2B	1.0	
+Epilepsy, Temporal Lobe	CALM3	1.0	
+Epilepsy, Temporal Lobe	DLG4	1.0	
+Epilepsy, Temporal Lobe	FYN	1.0	
+Epilepsy, Temporal Lobe	GRIN1	1.0	
+Epilepsy, Temporal Lobe	GRIN2A	1.0	
+Epilepsy, Temporal Lobe	GRIN2B	1.0	
+Increased body weight	CAMK2A	1.0	
+Increased body weight	CAMK2B	1.0	
+Increased body weight	GRIN1	1.0	
+Increased body weight	GRIN2A	1.0	
+Increased body weight	GRIN2B	1.0	
+Increased body weight	GRIN2C	1.0	
+Increased body weight	GRIN2D	1.0	
+Increased body weight	GRIN3A	1.0	
+Increased body weight	SRC	1.0	
+Epilepsy	CAMK2D	1.0	
+Epilepsy	CYP2C19	1.0	
+Epilepsy	CYP3A4	1.0	
+Epilepsy	DLG4	1.0	
+Epilepsy	EPHB2	1.0	
+Epilepsy	GRIN1	1.0	
+Epilepsy	GRIN2A	1.0	
+Epilepsy	GRIN2B	1.0	
+Epilepsy	GRIN2C	1.0	
+Epilepsy	SOS1	1.0	
+Alcohol dependence	ACTN2	1.0	
+Alcohol dependence	CAMK2A	1.0	
+Alcohol dependence	CAMK2D	1.0	
+Alcohol dependence	CYP2E1	1.0	
+Alcohol dependence	DLG4	1.0	
+Alcohol dependence	FYN	1.0	
+Alcohol dependence	GRIN1	1.0	
+Alcohol dependence	GRIN2A	1.0	
+Alcohol dependence	GRIN2B	1.0	
+Alcohol dependence	NEFL	1.0	
+Hypsarrhythmia	GRIN1	1.0	
+Hypsarrhythmia	GRIN2A	1.0	
+Hypsarrhythmia	GRIN2B	1.0	
+Hypsarrhythmia	SOS1	1.0	
+Bipolar affective disorder	CAMK2A	1.0	
+Bipolar affective disorder	DLG4	1.0	
+Bipolar affective disorder	FYN	1.0	
+Bipolar affective disorder	GRIN1	1.0	
+Bipolar affective disorder	GRIN2A	1.0	
+Bipolar affective disorder	GRIN2B	1.0	
+Bipolar affective disorder	GRIN2C	1.0	
+Bipolar affective disorder	GRIN2D	1.0	
+Bipolar affective disorder	GRIN3A	1.0	
+Bipolar affective disorder	HRAS	1.0	
+Bipolar affective disorder	SOS1	1.0	
+Alcohol abuse	CYP2E1	1.0	
+Alcohol abuse	CYP3A4	1.0	
+Alcohol abuse	FYN	1.0	
+Alcohol abuse	GRIN2B	1.0	
+Thickened nuchal skin fold	EFNB1	1.0	
+Thickened nuchal skin fold	HRAS	1.0	
+Thickened nuchal skin fold	SOS1	1.0	
+Rhabdoid Tumor of the Kidney	EPHB1	1.0	
+Rhabdoid Tumor of the Kidney	EPHB2	1.0	
+Rhabdoid Tumor of the Kidney	HRAS	1.0	
+Rhabdoid Tumor of the Kidney	SRC	1.0	
+Drug Resistant Epilepsy	CYP2C19	1.0	
+Drug Resistant Epilepsy	GRIN1	1.0	
+Drug Resistant Epilepsy	GRIN2A	1.0	
+Squamous cell carcinoma	CALM3	1.0	
+Squamous cell carcinoma	CAMK2A	1.0	
+Squamous cell carcinoma	CYP2C19	1.0	
+Squamous cell carcinoma	CYP2E1	1.0	
+Squamous cell carcinoma	CYP3A4	1.0	
+Squamous cell carcinoma	EFNB2	1.0	
+Squamous cell carcinoma	EPHB1	1.0	
+Squamous cell carcinoma	EPHB2	1.0	
+Squamous cell carcinoma	EPHB3	1.0	
+Squamous cell carcinoma	EPHB4	1.0	
+Squamous cell carcinoma	FYN	1.0	
+Squamous cell carcinoma	GRIN2B	1.0	
+Squamous cell carcinoma	GRIN3A	1.0	
+Squamous cell carcinoma	HRAS	1.0	
+Squamous cell carcinoma	MGST1	1.0	
+Squamous cell carcinoma	SOS1	1.0	
+Squamous cell carcinoma	SRC	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	CYP2C19	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	GRIN2A	1.0	
+Epilepsy, focal, with speech disorder and with or without mental retardation	GRIN2B	1.0	
+Fetal ultrasound soft marker	EFNB1	1.0	
+Fetal ultrasound soft marker	HRAS	1.0	
+Fetal ultrasound soft marker	SOS1	1.0	
+Tuberous sclerosis syndrome	CALM3	1.0	
+Tuberous sclerosis syndrome	EPHB2	1.0	
+Tuberous sclerosis syndrome	GRIN2C	1.0	
+Tuberous sclerosis syndrome	HRAS	1.0	
+Tuberous sclerosis syndrome	NEFL	1.0	

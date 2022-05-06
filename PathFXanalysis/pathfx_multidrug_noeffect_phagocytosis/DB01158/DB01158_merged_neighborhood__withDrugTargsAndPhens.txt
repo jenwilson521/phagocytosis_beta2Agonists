@@ -1,0 +1,22 @@
+node1	node2	edge_score	
+DB01158	ATP1A1	1.0	
+ATP1A1		1
+Adenomas, multiple colorectal, 608456 (3)	ATP1A1	1.0	
+Rheumatoid arthritis	ATP1A1	1.0	
+Bipolar affective disorder	ATP1A1	1.0	
+Cystic Fibrosis	ATP1A1	1.0	
+Type 1 diabetic neuropathy	ATP1A1	1.0	
+Intrauterine growth retardation	ATP1A1	1.0	
+Headache	ATP1A1	1.0	
+Sensorineural hearing impairment	ATP1A1	1.0	
+Hyperaldosteronism, familial, type IV	ATP1A1	1.0	
+Hypertension	ATP1A1	1.0	
+Steinert myotonic dystrophy syndrome	ATP1A1	1.0	
+Paresthesia	ATP1A1	1.0	
+Essential hypertension	ATP1A1	1.0	
+Acute myocardial ischemia	ATP1A1	1.0	
+Vesicular Stomatitis	ATP1A1	1.0	
+Congenital Myotonic Dystrophy	ATP1A1	1.0	
+Endothelial dysfunction	ATP1A1	1.0	
+Severe Acute Respiratory Syndrome	ATP1A1	1.0	
+Primary hyperaldosteronism	ATP1A1	1.0	

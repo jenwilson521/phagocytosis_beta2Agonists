@@ -1,0 +1,19 @@
+node_name	node_type	
+DB02153	drug	
+PAPOLA	drug_target	
+FABP4	drug_target	
+GSR	drug_target	
+PRDX2	drug_target	
+Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	phenotype	
+Abnormal nasal morphology	phenotype	
+Vitelliform Macular Dystrophy	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Spermatogenic failure 3	phenotype	
+Retinitis pigmentosa	phenotype	
+Chronic myelomonocytic leukemia	phenotype	
+Miller Dieker syndrome	phenotype	
+Abnormality of the nose	phenotype	
+Abnormality of fibula morphology	phenotype	
+Degenerative disease of the spinal cord	phenotype	
+Conductive hearing impairment	phenotype	
+Functional abnormality of the middle ear	phenotype	

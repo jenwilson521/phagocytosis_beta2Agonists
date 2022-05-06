@@ -1,0 +1,87 @@
+node1	node2	edge_score	
+DB00982	RARA	1.0	
+RARA	HIST1H3J	0.8438225987934436
+RARA	H3F3B	0.8438225987934436
+RARA	RXRA	0.8330455603776535
+RARA	HIST2H3D	0.8438225987934436
+RARA	HIST4H4	0.8438225987934436
+RARA		1
+RARA	CRABP2	0.8294526363440686
+Sciatic Neuropathy	RARA	1.0	
+Sciatic Neuropathy	RXRA	1.0	
+Animal Mammary Neoplasms	CRABP2	1.0	
+Animal Mammary Neoplasms	H3F3B	1.0	
+Animal Mammary Neoplasms	HIST4H4	1.0	
+Animal Mammary Neoplasms	RARA	1.0	
+Animal Mammary Neoplasms	RXRA	1.0	
+Measles	RARA	1.0	
+Measles	RXRA	1.0	
+Neoplasms, Second Primary	RARA	1.0	
+Neoplasms, Second Primary	RXRA	1.0	
+Mammary Neoplasms, Experimental	H3F3B	1.0	
+Mammary Neoplasms, Experimental	RXRA	1.0	
+Dyslipidemias	CRABP2	1.0	
+Dyslipidemias	RXRA	1.0	
+Smith-Magenis syndrome	RARA	1.0	
+AIDS-Associated Nephropathy	RARA	1.0	
+Cutaneous T-cell lymphoma	HIST4H4	1.0	
+Cutaneous T-cell lymphoma	RARA	1.0	
+Methylmalonic aciduria due to transcobalamin receptor defect	CRABP2	1.0	
+Squamous cell carcinoma	CRABP2	1.0	
+Squamous cell carcinoma	HIST4H4	1.0	
+Squamous cell carcinoma	RARA	1.0	
+Squamous cell carcinoma	RXRA	1.0	
+childhood brain tumor	H3F3B	1.0	
+Metastatic Carcinoma	RXRA	1.0	
+Lipoid nephrosis	RARA	1.0	
+Acute disease of cardiovascular system	RARA	1.0	
+Glioma	CRABP2	1.0	
+Glioma	H3F3B	1.0	
+Glioma	HIST1H3J	1.0	
+Glioma	HIST4H4	1.0	
+Carcinogenesis	CRABP2	1.0	
+Carcinogenesis	H3F3B	1.0	
+Carcinogenesis	HIST4H4	1.0	
+Carcinogenesis	RARA	1.0	
+Carcinogenesis	RXRA	1.0	
+Leiomyoma	CRABP2	1.0	
+Leiomyoma	RXRA	1.0	
+Varicocele	RARA	1.0	
+Isochromosomes	RARA	1.0	
+Neck Neoplasms	CRABP2	1.0	
+Uterine leiomyoma	CRABP2	1.0	
+Uterine leiomyoma	RXRA	1.0	
+Neoplasm of the gallbladder	RXRA	1.0	
+Acute Cerebrovascular Accidents	RXRA	1.0	
+Coronary Restenosis	RXRA	1.0	
+Phyllodes tumor, benign	RARA	1.0	
+Wilms Tumor	CRABP2	1.0	
+Wilms Tumor	RARA	1.0	
+Refractory anaemia with excess blasts	RARA	1.0	
+Adenomatous polyp of colon	RXRA	1.0	
+Diaphragmatic hernia	RXRA	1.0	
+Refractory cancer	RARA	1.0	
+Cancer of the lower GI tract	HIST4H4	1.0	
+Cancer of the lower GI tract	RARA	1.0	
+Disorders of lipoid metabolism	CRABP2	1.0	
+Fibroadenoma of the breast	RARA	1.0	
+Hepatosplenic schistosomiasis	RARA	1.0	
+Giant cell tumor of bone	H3F3B	1.0	
+Malignant neoplasm of colon stage IV	HIST4H4	1.0	
+Giant Cell Tumors	H3F3B	1.0	
+Acute promyelocytic leukemia	RARA	1.0	
+Acute promyelocytic leukemia	RXRA	1.0	
+Somatic mutation	RARA	1.0	
+Facioscapulohumeral muscular dystrophy	HIST4H4	1.0	
+Malignant Childhood Neoplasm	H3F3B	1.0	
+Non-Neoplastic Disorder	CRABP2	1.0	
+Non-Neoplastic Disorder	RARA	1.0	
+Coronary artery stenosis	RXRA	1.0	
+Cholecystolithiasis	RXRA	1.0	
+High-Grade Prostatic Intraepithelial Neoplasia	RXRA	1.0	
+Follicular adenoma	RXRA	1.0	
+Hyperlipidemia, familial combined	CRABP2	1.0	
+Congenital chromosomal disease	HIST4H4	1.0	
+Congenital chromosomal disease	RARA	1.0	
+Hepatopulmonary Syndrome	RARA	1.0	
+Spastic syndrome	RARA	1.0	

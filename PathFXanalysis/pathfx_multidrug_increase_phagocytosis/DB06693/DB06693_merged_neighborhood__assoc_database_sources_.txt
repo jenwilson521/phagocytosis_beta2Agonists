@@ -1,0 +1,2 @@
+Gene	CUI	Phenotype	Source Databases	
+CES1	C1609538	Latent Tuberculosis	DisGeNet	

@@ -1,0 +1,585 @@
+node1	node2	edge_score	
+DB00513	PLAT	1.0	
+DB00513	PLG	1.0	
+DB00513	AOX1	1.0	
+PLAT	PLG	0.8626533706911382
+PLAT	PLAT	0.8545025065589051
+PLAT		1
+PLG	HRG	0.8580491755520756
+PLG	PLAUR	0.8564332803525301
+PLG	PLAU	0.8564332803525301
+PLG		1
+PLG	PLG	0.8628338709774962
+PLG	PLAT	0.8626533706911382
+AOX1	rs10931910	0.99
+AOX1		1
+AOX1	rs55754655	0.99
+Arterial thrombosis	PLAT	1.0	
+Arterial thrombosis	PLAU	1.0	
+Arterial thrombosis	PLG	1.0	
+Thromboembolism	PLAT	1.0	
+Thromboembolism	PLAU	1.0	
+Thromboembolism	PLG	1.0	
+Premature Birth	PLAT	1.0	
+Premature Birth	PLAU	1.0	
+Premature Birth	PLAUR	1.0	
+Premature Birth	PLG	1.0	
+Thrombophilia	HRG	1.0	
+Thrombophilia	PLAT	1.0	
+Thrombophilia	PLG	1.0	
+Leg Ulcer	PLAU	1.0	
+Leg Ulcer	PLG	1.0	
+Pulmonary Embolism	PLAT	1.0	
+Pulmonary Embolism	PLAU	1.0	
+Pulmonary Embolism	PLG	1.0	
+Thrombophilia due to activated protein C resistance	HRG	1.0	
+Thrombophilia due to activated protein C resistance	PLG	1.0	
+Venous thrombosis	PLAT	1.0	
+Venous thrombosis	PLAU	1.0	
+Venous thrombosis	PLG	1.0	
+Thrombosis	HRG	1.0	
+Thrombosis	PLAT	1.0	
+Thrombosis	PLAU	1.0	
+Myocardial Infarction	HRG	1.0	
+Myocardial Infarction	PLAT	1.0	
+Myocardial Infarction	PLAU	1.0	
+Myocardial Infarction	PLAUR	1.0	
+Myocardial Infarction	PLG	1.0	
+Polycystic Ovary Syndrome	PLAT	1.0	
+Polycystic Ovary Syndrome	PLAU	1.0	
+Polycystic Ovary Syndrome	PLAUR	1.0	
+Polycystic Ovary Syndrome	PLG	1.0	
+Dermatitis Herpetiformis	PLAU	1.0	
+Dermatitis Herpetiformis	PLG	1.0	
+Resistance to activated protein C	HRG	1.0	
+Resistance to activated protein C	PLG	1.0	
+Bleeding disorder, platelet-type, 21	PLAT	1.0	
+Bleeding disorder, platelet-type, 21	PLAU	1.0	
+Bleeding disorder, platelet-type, 21	PLG	1.0	
+Seborheic dermatitis	PLAU	1.0	
+Seborheic dermatitis	PLAUR	1.0	
+Seborheic dermatitis	PLG	1.0	
+Simple pneumoconiosis	PLAT	1.0	
+Simple pneumoconiosis	PLAU	1.0	
+Status epilepticus	PLAT	1.0	
+Status epilepticus	PLAU	1.0	
+Status epilepticus	PLAUR	1.0	
+Arterial Occlusive Diseases	PLAT	1.0	
+Arterial Occlusive Diseases	PLAU	1.0	
+Fetal Membranes, Premature Rupture	PLAT	1.0	
+Fetal Membranes, Premature Rupture	PLAU	1.0	
+Fetal Membranes, Premature Rupture	PLAUR	1.0	
+Chorioamnionitis	PLAT	1.0	
+Chorioamnionitis	PLAU	1.0	
+Chorioamnionitis	PLAUR	1.0	
+Premature Obstetric Labor	PLAT	1.0	
+Premature Obstetric Labor	PLAU	1.0	
+Premature Obstetric Labor	PLAUR	1.0	
+Reticulosarcoma	PLAT	1.0	
+Reticulosarcoma	PLG	1.0	
+Meningioma, benign, no ICD-O subtype	PLAU	1.0	
+Meningioma, benign, no ICD-O subtype	PLAUR	1.0	
+Meningioma, benign, no ICD-O subtype	PLG	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	PLAT	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	PLAU	1.0	
+Aortic aneurysm, familial thoracic 11, susceptibility to	PLG	1.0	
+Acute myocardial infarction	PLAT	1.0	
+Acute myocardial infarction	PLAU	1.0	
+Acute myocardial infarction	PLG	1.0	
+Factor V Leiden mutation	HRG	1.0	
+Factor V Leiden mutation	PLG	1.0	
+Lymphangiomyomatosis	PLAU	1.0	
+Lymphangiomyomatosis	PLG	1.0	
+Fibrosarcoma	PLAT	1.0	
+Fibrosarcoma	PLAU	1.0	
+Fibrosarcoma	PLG	1.0	
+Hypoxia-Ischemia, Brain	PLAT	1.0	
+Hypoxia-Ischemia, Brain	PLAU	1.0	
+Primary antiphospholipid syndrome	PLAT	1.0	
+Primary antiphospholipid syndrome	PLG	1.0	
+Cardiac fibrosis	PLAU	1.0	
+Cardiac fibrosis	PLG	1.0	
+Noninfiltrating Intraductal Carcinoma	PLAU	1.0	
+Noninfiltrating Intraductal Carcinoma	PLAUR	1.0	
+Noninfiltrating Intraductal Carcinoma	PLG	1.0	
+Pancreatic Neoplasms	PLAT	1.0	
+Pancreatic Neoplasms	PLAU	1.0	
+Pancreatic Neoplasms	PLAUR	1.0	
+Pancreatic Neoplasms	PLG	1.0	
+{Pemphigoid, susceptibility to} (2)	PLAU	1.0	
+{Pemphigoid, susceptibility to} (2)	PLG	1.0	
+Ischaemic cerebral infarction	PLAT	1.0	
+Ischaemic cerebral infarction	PLAU	1.0	
+Ischaemic cerebral infarction	PLG	1.0	
+Bleeding with minor or no trauma	PLAT	1.0	
+Bleeding with minor or no trauma	PLAU	1.0	
+Breast Cancer Model	PLAU	1.0	
+Breast Cancer Model	PLG	1.0	
+Sciatic Neuropathy	PLAT	1.0	
+Sciatic Neuropathy	PLAU	1.0	
+Abnormal thrombosis	HRG	1.0	
+Abnormal thrombosis	PLAT	1.0	
+Cerebral edema	PLAT	1.0	
+Cerebral edema	PLAU	1.0	
+M5b Acute differentiated monocytic leukemia	PLAT	1.0	
+M5b Acute differentiated monocytic leukemia	PLG	1.0	
+Infarction, Middle Cerebral Artery	PLAT	1.0	
+Infarction, Middle Cerebral Artery	PLAU	1.0	
+Mitral Valve Prolapse	PLAU	1.0	
+Mitral Valve Prolapse	PLG	1.0	
+Invasive breast carcinoma	HRG	1.0	
+Invasive breast carcinoma	PLAU	1.0	
+Invasive breast carcinoma	PLG	1.0	
+Preeclampsia/eclampsia 1	PLAT	1.0	
+Preeclampsia/eclampsia 1	PLAU	1.0	
+Preeclampsia/eclampsia 1	PLAUR	1.0	
+Hepatopulmonary Syndrome	PLAU	1.0	
+Hepatopulmonary Syndrome	PLG	1.0	
+Rhabdomyosarcoma alveolar	PLAT	1.0	
+Rhabdomyosarcoma alveolar	PLAU	1.0	
+Rhabdomyosarcoma alveolar	PLG	1.0	
+Septicemia	HRG	1.0	
+Septicemia	PLAT	1.0	
+Septicemia	PLG	1.0	
+Squamous cell carcinoma	HRG	1.0	
+Squamous cell carcinoma	PLAT	1.0	
+Squamous cell carcinoma	PLAU	1.0	
+Squamous cell carcinoma	PLAUR	1.0	
+Squamous cell carcinoma	PLG	1.0	
+Urothelial Carcinoma	PLAU	1.0	
+Urothelial Carcinoma	PLAUR	1.0	
+Urothelial Carcinoma	PLG	1.0	
+Bacteremia, susceptibility to, 2	PLAT	1.0	
+Bacteremia, susceptibility to, 2	PLG	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	PLAU	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	PLAUR	1.0	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	PLG	1.0	
+Ischemic stroke	PLAT	1.0	
+Ischemic stroke	PLAU	1.0	
+Ischemic stroke	PLG	1.0	
+Inflammatory Bowel Diseases	AOX1	1.0	
+Inflammatory Bowel Diseases	PLAT	1.0	
+Inflammatory Bowel Diseases	PLAU	1.0	
+Inflammatory Bowel Diseases	PLG	1.0	
+Vascular Diseases	PLAT	1.0	
+Vascular Diseases	PLAUR	1.0	
+Vascular Diseases	PLG	1.0	
+Synovitis	PLAU	1.0	
+Synovitis	PLG	1.0	
+Malignant Glioma	HRG	1.0	
+Malignant Glioma	PLAU	1.0	
+Malignant Glioma	PLG	1.0	
+Deep venous thrombosis	PLAT	1.0	
+Deep venous thrombosis	PLG	1.0	
+Abnormality of coagulation	HRG	1.0	
+Abnormality of coagulation	PLAT	1.0	
+Gastric ulcer	PLAT	1.0	
+Gastric ulcer	PLAU	1.0	
+Nephrolithiasis	PLAU	1.0	
+Nephrolithiasis	PLG	1.0	
+Glioma	HRG	1.0	
+Glioma	PLAT	1.0	
+Glioma	PLAU	1.0	
+Glioma	PLAUR	1.0	
+Glioma	PLG	1.0	
+Tumor Angiogenesis	HRG	1.0	
+Tumor Angiogenesis	PLAU	1.0	
+Tumor Angiogenesis	PLG	1.0	
+Meningioma	PLAU	1.0	
+Meningioma	PLAUR	1.0	
+Meningioma	PLG	1.0	
+Hypotension	PLAT	1.0	
+Hypotension	PLAU	1.0	
+Intraepithelial Neoplasia	PLAU	1.0	
+Intraepithelial Neoplasia	PLG	1.0	
+Pneumonia	PLAT	1.0	
+Pneumonia	PLAU	1.0	
+Pneumonia	PLG	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PLAT	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PLAU	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PLAUR	1.0	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	PLG	1.0	
+Prostatic Intraepithelial Neoplasias	PLAU	1.0	
+Prostatic Intraepithelial Neoplasias	PLAUR	1.0	
+Hyperplasia	PLAU	1.0	
+Hyperplasia	PLAUR	1.0	
+Malignant neoplasm of endometrium	PLAT	1.0	
+Malignant neoplasm of endometrium	PLAU	1.0	
+Malignant neoplasm of endometrium	PLG	1.0	
+Uterine Corpus Cancer	PLAT	1.0	
+Uterine Corpus Cancer	PLAU	1.0	
+Uterine Corpus Cancer	PLG	1.0	
+{Aneurysm, familial abdominal 3} (2)	PLAU	1.0	
+{Aneurysm, familial abdominal 3} (2)	PLG	1.0	
+Invasive Carcinoma	PLAU	1.0	
+Invasive Carcinoma	PLG	1.0	
+Animal Mammary Neoplasms	HRG	1.0	
+Animal Mammary Neoplasms	PLAT	1.0	
+Animal Mammary Neoplasms	PLAU	1.0	
+Animal Mammary Neoplasms	PLAUR	1.0	
+Animal Mammary Neoplasms	PLG	1.0	
+Atherosclerosis	PLAT	1.0	
+Atherosclerosis	PLAU	1.0	
+Atherosclerosis	PLAUR	1.0	
+Atherosclerosis	PLG	1.0	
+Neoplasm Invasiveness	PLAU	1.0	
+Neoplasm Invasiveness	PLAUR	1.0	
+Nephritis	PLAU	1.0	
+Nephritis	PLG	1.0	
+Abnormality of blood and blood-forming tissues	HRG	1.0	
+Abnormality of blood and blood-forming tissues	PLAT	1.0	
+Abnormality of blood and blood-forming tissues	PLAU	1.0	
+Abnormality of blood and blood-forming tissues	PLG	1.0	
+Sepsis	HRG	1.0	
+Sepsis	PLAT	1.0	
+Sepsis	PLG	1.0	
+Carotid Artery Diseases	PLAU	1.0	
+Carotid Artery Diseases	PLG	1.0	
+Drug-Induced Liver Injury	PLAT	1.0	
+Drug-Induced Liver Injury	PLG	1.0	
+Inflammation	PLAT	1.0	
+Inflammation	PLAU	1.0	
+Inflammation	PLAUR	1.0	
+Ischemia	PLAT	1.0	
+Ischemia	PLAU	1.0	
+Ischemia	PLG	1.0	
+Transient ischemic attack	PLAT	1.0	
+Transient ischemic attack	PLAU	1.0	
+Aneurysm, Ruptured	PLAT	1.0	
+Lupus anticoagulant disorder	PLG	1.0	
+Brain neoplasm	HRG	1.0	
+Brain neoplasm	PLAU	1.0	
+Brain neoplasm	PLG	1.0	
+Lobar Pneumonia	PLG	1.0	
+Urolithiasis	PLAU	1.0	
+Astrocytoma	PLAT	1.0	
+Astrocytoma	PLAU	1.0	
+Astrocytoma	PLG	1.0	
+Lung Injury	PLAU	1.0	
+Restenosis	PLAT	1.0	
+Restenosis	PLG	1.0	
+Testicular seminoma	PLAU	1.0	
+Testicular seminoma	PLG	1.0	
+Intracranial hemorrhage	PLAT	1.0	
+Intracranial hemorrhage	PLAU	1.0	
+Neoplasm of the oral cavity	PLAU	1.0	
+Neoplasm of the oral cavity	PLG	1.0	
+Bacterial endocarditis	PLG	1.0	
+Pharyngitis	PLG	1.0	
+Renal interstitial fibrosis	PLAT	1.0	
+Protein S deficiency	PLG	1.0	
+Recurrent bronchitis	PLG	1.0	
+Spinal cord compression	PLAT	1.0	
+Antithrombin III deficiency	PLG	1.0	
+Endometrial carcinoma	PLAT	1.0	
+Endometrial carcinoma	PLAU	1.0	
+Endometrial carcinoma	PLG	1.0	
+Hemorrhagic disorder due to intrinsic circulating anticoagulants	PLG	1.0	
+Reduced protein C activity	PLG	1.0	
+Premature loss of teeth	PLG	1.0	
+Stage IV Ovarian Carcinoma	PLAU	1.0	
+Prostatic Neoplasms	AOX1	1.0	
+Prostatic Neoplasms	PLAU	1.0	
+Prostatic Neoplasms	PLAUR	1.0	
+Prostatic Neoplasms	PLG	1.0	
+Cerebral Hemorrhage	PLAT	1.0	
+Cerebral Hemorrhage	PLAU	1.0	
+Coronary heart disease 7	PLAT	1.0	
+Coronary heart disease 7	PLAU	1.0	
+Coronary heart disease 7	PLG	1.0	
+Systemic aspergillosis	PLG	1.0	
+Pericardial effusion	PLAT	1.0	
+Streptococcal pneumonia	PLG	1.0	
+Kidney Diseases	PLAT	1.0	
+Kidney Diseases	PLAUR	1.0	
+Kidney Diseases	PLG	1.0	
+Malignant neoplasm of pancreas	HRG	1.0	
+Malignant neoplasm of pancreas	PLAU	1.0	
+Malignant neoplasm of pancreas	PLAUR	1.0	
+Malignant neoplasm of pancreas	PLG	1.0	
+Abnormal platelet function	PLAU	1.0	
+Glioblastoma	HRG	1.0	
+Glioblastoma	PLAU	1.0	
+Glioblastoma	PLAUR	1.0	
+Glioblastoma	PLG	1.0	
+Solid tumour	PLAT	1.0	
+Solid tumour	PLAU	1.0	
+Solid tumour	PLG	1.0	
+Recurrent bacterial infection	HRG	1.0	
+Recurrent bacterial infection	PLG	1.0	
+Adenoma of large intestine	PLAU	1.0	
+Adenoma of large intestine	PLG	1.0	
+Anthrax disease	PLG	1.0	
+Experimental Organism Basal Cell Carcinoma	PLAUR	1.0	
+Experimental Organism Basal Cell Carcinoma	PLG	1.0	
+Pancreatic Carcinoma	HRG	1.0	
+Pancreatic Carcinoma	PLAU	1.0	
+Pancreatic Carcinoma	PLAUR	1.0	
+Pancreatic Carcinoma	PLG	1.0	
+Paroxysmal atrial fibrillation	PLAU	1.0	
+Aggressive periodontitis, generalized	PLAT	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAT	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAU	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAUR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLG	1.0	
+Aphasia	PLAT	1.0	
+Coronary Thrombosis	PLAT	1.0	
+Toxic Epidermal Necrolysis	PLG	1.0	
+Purpura, Thrombotic Thrombocytopenic	PLG	1.0	
+Cerebroretinal microangiopathy with calcifications and cysts 1	PLG	1.0	
+Pancreatitis, Acute Necrotizing	PLG	1.0	
+Intracranial glioma	PLAU	1.0	
+Cerebral ischemia	PLAT	1.0	
+Cerebral ischemia	PLG	1.0	
+Neoplasm of the colon	PLAU	1.0	
+Neoplasm of the colon	PLAUR	1.0	
+Neoplasm of the colon	PLG	1.0	
+Colon cancer	PLAT	1.0	
+Colon cancer	PLAU	1.0	
+Colon cancer	PLAUR	1.0	
+Colon cancer	PLG	1.0	
+Keratoconjunctivitis	PLG	1.0	
+Obstructive nephropathy	PLG	1.0	
+Neurotoxicity Syndromes	PLAT	1.0	
+Abnormality of the duodenum	PLG	1.0	
+Low back pain	PLAT	1.0	
+Corneal neovascularization	PLG	1.0	
+Gastrointestinal inflammation	PLG	1.0	
+Primary malignant neoplasm of brain	PLAU	1.0	
+Thrombotic Microangiopathies	PLG	1.0	
+Tumor-Associated Vasculature	PLG	1.0	
+Monocytic leukemia	PLG	1.0	
+Substance abuse problem	PLG	1.0	
+Chronic obstructive pulmonary disease	PLAU	1.0	
+Chronic obstructive pulmonary disease	PLAUR	1.0	
+Chronic obstructive pulmonary disease	PLG	1.0	
+Hyperoxia	PLAU	1.0	
+Recurrent pneumonia	PLG	1.0	
+Mammary Carcinoma, Human	PLG	1.0	
+Reperfusion Injury	PLAT	1.0	
+Reperfusion Injury	PLAU	1.0	
+Essential hypertension	PLAT	1.0	
+Essential hypertension	PLG	1.0	
+Esophageal Squamous Cell Carcinoma	PLAT	1.0	
+Esophageal Squamous Cell Carcinoma	PLAU	1.0	
+Esophageal Squamous Cell Carcinoma	PLG	1.0	
+Stomatitis	PLG	1.0	
+Streptococcal Infections	PLG	1.0	
+Carcinoma of colon	PLAT	1.0	
+Carcinoma of colon	PLAU	1.0	
+Carcinoma of colon	PLAUR	1.0	
+Carcinoma of colon	PLG	1.0	
+Squamous cell carcinoma of mouth	PLAU	1.0	
+Insulin resistance syndrome	PLG	1.0	
+Lacrimation abnormality	PLG	1.0	
+Airway Obstruction	PLAT	1.0	
+Acute Cerebrovascular Accidents	PLAT	1.0	
+Liver Cirrhosis, Biliary	PLAT	1.0	
+Liver Cirrhosis, Biliary	PLAU	1.0	
+Liver Cirrhosis, Biliary	PLG	1.0	
+Pancreatic adenocarcinoma	PLAU	1.0	
+Pancreatic adenocarcinoma	PLG	1.0	
+Ventricular fibrillation	PLAU	1.0	
+Vascular lesions	PLG	1.0	
+Bloom syndrome	PLAT	1.0	
+Aural atresia, congenital	PLG	1.0	
+Osteosarcoma	PLAU	1.0	
+Osteosarcoma	PLAUR	1.0	
+Osteosarcoma	PLG	1.0	
+Ovarian Neoplasms	PLAT	1.0	
+Ovarian Neoplasms	PLAU	1.0	
+Ovarian Neoplasms	PLAUR	1.0	
+Periodontitis	PLAT	1.0	
+Periodontitis	PLG	1.0	
+Metastatic melanoma	PLAU	1.0	
+Metastatic melanoma	PLG	1.0	
+Recurrent lower respiratory tract infections	PLG	1.0	
+Hypoxia	PLAT	1.0	
+Hypoxia	PLAUR	1.0	
+Acute myelomonocytic leukemia	PLAU	1.0	
+Ischemic Cerebrovascular Accident	PLAT	1.0	
+Ischemic Cerebrovascular Accident	PLG	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAT	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAU	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAUR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLG	1.0	
+Idiopathic Pulmonary Fibrosis	PLAU	1.0	
+Idiopathic Pulmonary Fibrosis	PLG	1.0	
+Carcinoma, Neuroendocrine	PLAU	1.0	
+Pneumonitis	PLG	1.0	
+Carcinoma breast stage IV	PLAT	1.0	
+Carcinoma breast stage IV	PLAU	1.0	
+Secondary hypertriglyceridemia	HRG	1.0	
+Secondary hypertriglyceridemia	PLAT	1.0	
+Secondary hypertriglyceridemia	PLAU	1.0	
+Secondary hypertriglyceridemia	PLAUR	1.0	
+Secondary hypertriglyceridemia	PLG	1.0	
+Bone pain	PLAU	1.0	
+Hutchinson-Gilford syndrome	PLG	1.0	
+Medullary carcinoma	PLAUR	1.0	
+Henoch-Schoenlein Purpura	PLAU	1.0	
+Oral Submucous Fibrosis	PLG	1.0	
+Carcinoma, Lobular	PLAUR	1.0	
+Recurrent infections of the middle ear	PLG	1.0	
+Oropharyngeal Carcinoma	PLAT	1.0	
+Cardiovascular Diseases	PLAT	1.0	
+Cardiovascular Diseases	PLAU	1.0	
+Cardiovascular Diseases	PLG	1.0	
+Epistaxis	PLAU	1.0	
+Meningococcal Infections	PLG	1.0	
+Stress, Psychological	PLAT	1.0	
+gliosarcoma	PLAU	1.0	
+Stomach cancer	PLAT	1.0	
+Stomach cancer	PLAU	1.0	
+Stomach cancer	PLAUR	1.0	
+Stomach cancer	PLG	1.0	
+Abnormality of the gallbladder	PLG	1.0	
+Papule	PLG	1.0	
+Arteriosclerosis	PLAT	1.0	
+Arteriosclerosis	PLAU	1.0	
+Arteriosclerosis	PLG	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	PLAT	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	PLAU	1.0	
+Limb ischemia	PLAU	1.0	
+aggressive cancer	PLG	1.0	
+Neoplasms, Intracranial	PLAUR	1.0	
+Ovarian epithelial cancer	PLAT	1.0	
+Ovarian epithelial cancer	PLAU	1.0	
+Ovarian epithelial cancer	PLAUR	1.0	
+Ovarian epithelial cancer	PLG	1.0	
+Abnormality of female internal genitalia	PLAU	1.0	
+Abnormality of female internal genitalia	PLG	1.0	
+Shock, Septic	PLAT	1.0	
+Bronchitis	PLG	1.0	
+Chest pain	PLAT	1.0	
+Common Migraine	PLAUR	1.0	
+Respiratory tract infection	PLAU	1.0	
+Respiratory tract infection	PLG	1.0	
+Gingivitis	PLG	1.0	
+Acute Lung Injury	PLAU	1.0	
+Adenomatous Polyps	PLG	1.0	
+Angina pectoris	PLAU	1.0	
+ Cerebrovascular disease, occlusive (3)	PLAU	1.0	
+Brain Ischemia	PLAT	1.0	
+Brain Ischemia	PLAU	1.0	
+Pemphigus Vulgaris	PLG	1.0	
+Acute monocytic leukemia	PLAT	1.0	
+Pleural Effusion, Malignant	PLAU	1.0	
+Gingival overgrowth	PLG	1.0	
+Abnormal internal genitalia	PLAU	1.0	
+Abnormal internal genitalia	PLG	1.0	
+Red eye	PLG	1.0	
+Alzheimer Disease, Late Onset	PLAU	1.0	
+Brain Infarction	PLAT	1.0	
+Acute promyelocytic leukemia	PLAT	1.0	
+Acute promyelocytic leukemia	PLG	1.0	
+Lung Neoplasms	PLAU	1.0	
+Lung Neoplasms	PLAUR	1.0	
+Lung Neoplasms	PLG	1.0	
+Premature aging syndrome	PLG	1.0	
+Abnormality of the vagina	PLG	1.0	
+Colorectal Neoplasms	PLAU	1.0	
+Colorectal Neoplasms	PLAUR	1.0	
+Colorectal Neoplasms	PLG	1.0	
+Hematuria	PLAU	1.0	
+Scar conditions and fibrosis of skin	PLAU	1.0	
+Duodenal Ulcer	PLG	1.0	
+Werner syndrome	PLG	1.0	
+Stromal Neoplasm	PLAU	1.0	
+Abnormality of the female genitalia	PLAU	1.0	
+Abnormality of the female genitalia	PLG	1.0	
+Cystic Fibrosis	PLAU	1.0	
+Cystic Fibrosis	PLG	1.0	
+Chordoma	PLAU	1.0	
+Dementia, Vascular	PLG	1.0	
+{Diphtheria, susceptibility to} (1)	PLAUR	1.0	
+Renal ischaemia	PLG	1.0	
+Other disorders of the nervous system	PLAT	1.0	
+Other disorders of the nervous system	PLG	1.0	
+Membranous nephropathy, susceptibility to	PLG	1.0	
+Amphetamine-Related Disorders	PLAT	1.0	
+Widened posterior fossa	PLG	1.0	
+Abnormality of corneal epithelium	PLG	1.0	
+Abnormality of the bronchi	PLG	1.0	
+Urinary Bladder Neoplasms	PLAU	1.0	
+Urinary Bladder Neoplasms	PLAUR	1.0	
+Melanoma	PLAT	1.0	
+Melanoma	PLAU	1.0	
+Melanoma	PLAUR	1.0	
+Melanoma	PLG	1.0	
+Pterygium	PLAU	1.0	
+Embryonal rhabdomyosarcoma	PLAT	1.0	
+Stroke	PLAT	1.0	
+Stroke	PLAU	1.0	
+Stroke	PLG	1.0	
+Diabetic Angiopathies	PLG	1.0	
+Recurrent upper respiratory tract infections	PLG	1.0	
+Dilated fourth ventricle	PLG	1.0	
+Abnormality of the fourth ventricle	PLG	1.0	
+Atrial septal defect	PLAUR	1.0	
+Atrial septal defect	PLG	1.0	
+Conjunctivitis	PLG	1.0	
+Type 1 diabetic neuropathy	PLAT	1.0	
+Periodontitis, Juvenile	PLG	1.0	
+Bone neoplasms	PLAU	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HRG	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PLAT	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PLAU	1.0	
+Angina, Unstable	PLAU	1.0	
+Thyroid Neoplasms	PLAU	1.0	
+Thyroid Neoplasms	PLAUR	1.0	
+Cerebellar cyst	PLG	1.0	
+Bruising susceptibility	PLAU	1.0	
+Cerebral palsy, spastic quadriplegic, 3	PLAT	1.0	
+Abnormality of the posterior cranial fossa	PLG	1.0	
+Neoplasm of the liver	PLAT	1.0	
+Neoplasm of the liver	PLAU	1.0	
+Neoplasm of the liver	PLG	1.0	
+Biliary Atresia	PLAU	1.0	
+Dandy-Walker like malformation with atrioventricular septal defect	PLG	1.0	
+Polyglandular autoimmune syndrome, type 1	PLG	1.0	
+Endotoxemia	PLG	1.0	
+Keratitis	PLG	1.0	
+Interstitial fibrosis	PLG	1.0	
+Advanced cancer	PLAU	1.0	
+Abnormality of the nasopharynx	PLG	1.0	
+Liver Cirrhosis, Alcoholic	PLAU	1.0	
+Breast carcinoma	HRG	1.0	
+Breast carcinoma	PLAT	1.0	
+Breast carcinoma	PLAU	1.0	
+Breast carcinoma	PLAUR	1.0	
+Breast carcinoma	PLG	1.0	
+Abnormality of the skull base	PLG	1.0	
+Methamphetamine abuse	PLG	1.0	
+Rhabdoid Tumor of the Kidney	HRG	1.0	
+Abnormality of the conjunctiva	PLG	1.0	
+Myeloid leukemia	PLAU	1.0	
+Myeloid leukemia	PLG	1.0	
+Thrombocytosis, benign familial microcytic	PLAU	1.0	
+Coronary Artery Disease	PLAT	1.0	
+Coronary Artery Disease	PLAU	1.0	
+Coronary Artery Disease	PLG	1.0	
+Glomerulosclerosis, Focal Segmental	PLG	1.0	
+tumor vasculature	PLAU	1.0	
+Severe combined immunodeficiency due to ADA deficiency	PLAU	1.0	
+Severe combined immunodeficiency due to ADA deficiency	PLG	1.0	
+Skin Carcinogenesis	PLAT	1.0	
+Dermatitis, Allergic Contact	PLAT	1.0	
+Von Hippel-Lindau syndrome	PLAU	1.0	
+Central nervous system cyst	PLG	1.0	
+Intracranial cystic lesion	PLG	1.0	
+Colorectal cancer	PLAT	1.0	
+Colorectal cancer	PLAU	1.0	
+Colorectal cancer	PLAUR	1.0	
+Colorectal cancer	PLG	1.0	
+Renal cell carcinoma, nonpapillary	PLAU	1.0	
+Renal cell carcinoma, nonpapillary	PLAUR	1.0	
+Renal cell carcinoma, nonpapillary	PLG	1.0	
+Abnormality of the small intestine	PLG	1.0	
+Dermatitis, Atopic	PLAU	1.0	
+Dermatitis, Atopic	PLAUR	1.0	
+Pancreatic Ductal Adenocarcinoma	PLAU	1.0	
+Pancreatic Ductal Adenocarcinoma	PLAUR	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	PLAT	1.0	
+Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	PLG	1.0	
+Aortic Aneurysm, Thoracic	PLG	1.0	

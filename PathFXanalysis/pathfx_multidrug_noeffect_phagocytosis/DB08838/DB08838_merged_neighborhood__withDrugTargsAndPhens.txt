@@ -1,0 +1,931 @@
+node1	node2	edge_score	
+DB08838	CACNA1B	1.0	
+DB08838	NISCH	1.0	
+DB08838	GRIN1	1.0	
+DB08838	ASIC3	1.0	
+DB08838	KCNJ1	1.0	
+DB08838	ADRA2C	1.0	
+DB08838	SLC22A3	1.0	
+DB08838	SLC22A1	1.0	
+DB08838	CHRNA1	1.0	
+DB08838	SLC22A2	1.0	
+DB08838	SLC7A7	1.0	
+CACNA1B		1
+NISCH		1
+GRIN1	EFNB2	0.8526462282435747
+GRIN1	CAMK2A	0.8516636985739204
+GRIN1	DLG4	0.851577718501957
+GRIN1	NEFL	0.8398120133516425
+GRIN1	LYN	0.8526462282435747
+GRIN1	CAMK2G	0.8516636985739204
+GRIN1	EPHB1	0.8526462282435747
+GRIN1	YES1	0.8526462282435747
+GRIN1	GRIN2B	0.8611505155370949
+GRIN1	EFNB1	0.8526462282435747
+GRIN1	EPHB4	0.8526462282435747
+GRIN1	TIAM1	0.842023951637581
+GRIN1	CALM3	0.8319100629186602
+GRIN1	EFNB3	0.8526462282435747
+GRIN1	EPHB6	0.8526462282435747
+GRIN1	SHC1	0.8601235081501506
+GRIN1	EPHB2	0.8526462282435747
+GRIN1	rs1126442	0.99
+GRIN1	GRB2	0.8670770245481983
+GRIN1	GRIN2A	0.8480904465605648
+GRIN1		1
+GRIN1	HRAS	0.852724204446584
+GRIN1	FYN	0.8567933402497072
+GRIN1	EPHB3	0.8526462282435747
+GRIN1	GRIN2C	0.8480904465605648
+GRIN1	SRC	0.8526462282435747
+GRIN1	GRIN1	0.8564332803525301
+GRIN1	CAMK2B	0.8516636985739204
+GRIN1	CAMK2D	0.8516636985739204
+GRIN1	SOS1	0.8672683872743503
+GRIN1	GRIN2D	0.8480904465605648
+GRIN1	ACTN2	0.8398120133516425
+ASIC3		1
+KCNJ1		1
+KCNJ1	rs12795437	0.99
+KCNJ1	rs11600347	0.99
+KCNJ1	rs658903	0.99
+ADRA2C	CXCL6	0.8407682499807351
+ADRA2C	GNAI3	0.8497082254156562
+ADRA2C	rs11269124	0.99
+ADRA2C	ADRA2C	0.8459813396079446
+rs1800544	DRD4	0.8291463109497464
+ADRA2C	GNAT3	0.8497082254156562
+ADRA2A	rs1800544	0.8375215262118652
+ADRA2A	rs1800545	0.8375215262118652
+ADRA2C	PPBP	0.833320481754769
+ADRA2C	CCL23	0.833320481754769
+ADRA2C	GNG2	0.8626329038096527
+ADRA2C	SAA1	0.833320481754769
+ADRA2C	POMC	0.833320481754769
+ADRA2C	ADRA2B	0.8459813396079446
+ADRA2C	GNB1	0.8626329038096527
+ADRA2C	GNAI1	0.8497082254156562
+ADRA2C		1
+ADRA2C	RLN3	0.8407682499807351
+ADRA2C	MT-RNR2	0.8407682499807351
+ADRA2C	APP	0.833320481754769
+ADRA2C	GNAI2	0.8497082254156562
+ADRA2C	ANXA1	0.8407682499807351
+ADRA2C	GNAZ	0.8567933402497072
+ADRA2C	PMCH	0.833320481754769
+ADRA2C	rs61767072	0.99
+ADRA2C	ADRA2A	0.8459813396079446
+SLC22A3	rs8187725	0.99
+SLC22A3	rs2076828	0.99
+SLC22A3		1
+SLC22A1		1
+SLC22A1	rs628031	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5	0.99
+SLC22A1	SLC22A1*1, SLC22A1*2, SLC22A1*3, SLC22A1*4, SLC22A1*5, SLC22A1*6	0.99
+SLC22A1	rs12208357	0.99
+SLC22A1	rs594709	0.99
+SLC22A1	rs34130495	0.99
+SLC22A1	rs72552763	0.99
+SLC22A1	rs36056065	0.99
+SLC22A1	rs35167514	0.99
+SLC22A1	rs622342	0.99
+SLC22A1	rs683369	0.99
+SLC22A1	rs2282143	0.99
+CHRNA1		1
+SLC22A2		1
+SLC7A7		1
+Weight Gain Adverse Event	ADRA2A	1.0	
+Weight Gain Adverse Event	CAMK2A	1.0	
+Weight Gain Adverse Event	CAMK2B	1.0	
+Weight Gain Adverse Event	DRD4	1.0	
+Weight Gain Adverse Event	GRIN1	1.0	
+Weight Gain Adverse Event	GRIN2A	1.0	
+Weight Gain Adverse Event	GRIN2B	1.0	
+Weight Gain Adverse Event	GRIN2C	1.0	
+Weight Gain Adverse Event	GRIN2D	1.0	
+Weight Gain Adverse Event	SRC	1.0	
+Schizophrenia	ADRA2A	1.0	
+Schizophrenia	ADRA2B	1.0	
+Schizophrenia	ADRA2C	1.0	
+Schizophrenia	ANXA1	1.0	
+Schizophrenia	APP	1.0	
+Schizophrenia	CACNA1B	1.0	
+Schizophrenia	CALM3	1.0	
+Schizophrenia	CAMK2A	1.0	
+Schizophrenia	CAMK2B	1.0	
+Schizophrenia	DLG4	1.0	
+Schizophrenia	DRD4	1.0	
+Schizophrenia	EFNB1	1.0	
+Schizophrenia	EFNB2	1.0	
+Schizophrenia	EPHB2	1.0	
+Schizophrenia	FYN	1.0	
+Schizophrenia	GNAI2	1.0	
+Schizophrenia	GNB1	1.0	
+Schizophrenia	GRB2	1.0	
+Schizophrenia	GRIN1	1.0	
+Schizophrenia	GRIN2A	1.0	
+Schizophrenia	GRIN2B	1.0	
+Schizophrenia	GRIN2C	1.0	
+Schizophrenia	GRIN2D	1.0	
+Schizophrenia	NEFL	1.0	
+Schizophrenia	POMC	1.0	
+Schizophrenia	SOS1	1.0	
+Alcohol dependence	ACTN2	1.0	
+Alcohol dependence	ADRA2A	1.0	
+Alcohol dependence	ADRA2C	1.0	
+Alcohol dependence	CAMK2A	1.0	
+Alcohol dependence	CAMK2D	1.0	
+Alcohol dependence	CHRNA1	1.0	
+Alcohol dependence	DLG4	1.0	
+Alcohol dependence	DRD4	1.0	
+Alcohol dependence	FYN	1.0	
+Alcohol dependence	GRIN1	1.0	
+Alcohol dependence	GRIN2A	1.0	
+Alcohol dependence	GRIN2B	1.0	
+Alcohol dependence	NEFL	1.0	
+Alcohol dependence	POMC	1.0	
+Alcohol dependence	SLC22A1	1.0	
+Increased body weight	ADRA2A	1.0	
+Increased body weight	APP	1.0	
+Increased body weight	CAMK2A	1.0	
+Increased body weight	CAMK2B	1.0	
+Increased body weight	DRD4	1.0	
+Increased body weight	GRIN1	1.0	
+Increased body weight	GRIN2A	1.0	
+Increased body weight	GRIN2B	1.0	
+Increased body weight	GRIN2C	1.0	
+Increased body weight	GRIN2D	1.0	
+Increased body weight	POMC	1.0	
+Increased body weight	SLC7A7	1.0	
+Increased body weight	SRC	1.0	
+Bipolar affective disorder	ADRA2B	1.0	
+Bipolar affective disorder	APP	1.0	
+Bipolar affective disorder	CACNA1B	1.0	
+Bipolar affective disorder	CAMK2A	1.0	
+Bipolar affective disorder	DLG4	1.0	
+Bipolar affective disorder	DRD4	1.0	
+Bipolar affective disorder	FYN	1.0	
+Bipolar affective disorder	GNAZ	1.0	
+Bipolar affective disorder	GRIN1	1.0	
+Bipolar affective disorder	GRIN2A	1.0	
+Bipolar affective disorder	GRIN2B	1.0	
+Bipolar affective disorder	GRIN2C	1.0	
+Bipolar affective disorder	GRIN2D	1.0	
+Bipolar affective disorder	HRAS	1.0	
+Bipolar affective disorder	POMC	1.0	
+Bipolar affective disorder	SOS1	1.0	
+Hyperalgesia	ADRA2A	1.0	
+Hyperalgesia	ADRA2C	1.0	
+Hyperalgesia	ANXA1	1.0	
+Hyperalgesia	ASIC3	1.0	
+Hyperalgesia	CACNA1B	1.0	
+Hyperalgesia	CAMK2A	1.0	
+Hyperalgesia	DLG4	1.0	
+Hyperalgesia	GRIN2B	1.0	
+Memory Loss	APP	1.0	
+Memory Loss	GNAI1	1.0	
+Memory Loss	GNAI3	1.0	
+Memory Loss	GRIN2B	1.0	
+Memory Loss	POMC	1.0	
+Methamphetamine abuse	ADRA2B	1.0	
+Methamphetamine abuse	CALM3	1.0	
+Methamphetamine abuse	DRD4	1.0	
+Methamphetamine abuse	EPHB1	1.0	
+Methamphetamine abuse	POMC	1.0	
+Methamphetamine abuse	SLC22A3	1.0	
+Major depressive disorder	ADRA2A	1.0	
+Major depressive disorder	ADRA2C	1.0	
+Major depressive disorder	APP	1.0	
+Major depressive disorder	DLG4	1.0	
+Major depressive disorder	DRD4	1.0	
+Major depressive disorder	EPHB1	1.0	
+Major depressive disorder	EPHB2	1.0	
+Major depressive disorder	GNAI3	1.0	
+Major depressive disorder	GRIN2A	1.0	
+Major depressive disorder	GRIN2B	1.0	
+Major depressive disorder	POMC	1.0	
+Unipolar Depression	ADRA2A	1.0	
+Unipolar Depression	ADRA2C	1.0	
+Unipolar Depression	APP	1.0	
+Unipolar Depression	DLG4	1.0	
+Unipolar Depression	DRD4	1.0	
+Unipolar Depression	EPHB1	1.0	
+Unipolar Depression	EPHB2	1.0	
+Unipolar Depression	GRIN2A	1.0	
+Unipolar Depression	GRIN2B	1.0	
+Unipolar Depression	POMC	1.0	
+Depressive Disorder	ADRA2A	1.0	
+Depressive Disorder	ADRA2C	1.0	
+Depressive Disorder	CALM3	1.0	
+Depressive Disorder	DRD4	1.0	
+Depressive Disorder	EPHB1	1.0	
+Depressive Disorder	GNB1	1.0	
+Depressive Disorder	GRIN2A	1.0	
+Depressive Disorder	GRIN2B	1.0	
+Depressive Disorder	NEFL	1.0	
+Depressive Disorder	PMCH	1.0	
+Depressive Disorder	POMC	1.0	
+Hypertension	ADRA2A	1.0	
+Hypertension	ADRA2B	1.0	
+Hypertension	ADRA2C	1.0	
+Hypertension	ANXA1	1.0	
+Hypertension	APP	1.0	
+Hypertension	ASIC3	1.0	
+Hypertension	CALM3	1.0	
+Hypertension	EPHB1	1.0	
+Hypertension	GNAI2	1.0	
+Hypertension	KCNJ1	1.0	
+Hypertension	NISCH	1.0	
+Hypertension	POMC	1.0	
+Hypertension	PPBP	1.0	
+Hypertension	SAA1	1.0	
+Hypertension	SLC22A1	1.0	
+Hypertension	SLC22A2	1.0	
+Hypertension	SLC22A3	1.0	
+Hypertension	SRC	1.0	
+Hypertension	TIAM1	1.0	
+Opiate Addiction	DRD4	1.0	
+Opiate Addiction	GRIN2A	1.0	
+Opiate Addiction	GRIN2B	1.0	
+Opiate Addiction	POMC	1.0	
+Tuberous sclerosis syndrome	ANXA1	1.0	
+Tuberous sclerosis syndrome	APP	1.0	
+Tuberous sclerosis syndrome	CALM3	1.0	
+Tuberous sclerosis syndrome	EPHB2	1.0	
+Tuberous sclerosis syndrome	GRIN2C	1.0	
+Tuberous sclerosis syndrome	HRAS	1.0	
+Tuberous sclerosis syndrome	NEFL	1.0	
+Hypotension	ADRA2A	1.0	
+Hypotension	GRIN2B	1.0	
+Hypotension	KCNJ1	1.0	
+Hypotension	NISCH	1.0	
+Hypotension	POMC	1.0	
+Hypotension	SAA1	1.0	
+Anxiety Disorders	ADRA2A	1.0	
+Anxiety Disorders	ADRA2B	1.0	
+Anxiety Disorders	APP	1.0	
+Anxiety Disorders	CALM3	1.0	
+Anxiety Disorders	DLG4	1.0	
+Anxiety Disorders	DRD4	1.0	
+Anxiety Disorders	FYN	1.0	
+Anxiety Disorders	GNB1	1.0	
+Anxiety Disorders	POMC	1.0	
+Mesothelioma, malignant	ADRA2B	1.0	
+Mesothelioma, malignant	CALM3	1.0	
+Mesothelioma, malignant	EPHB2	1.0	
+Mesothelioma, malignant	EPHB4	1.0	
+Mesothelioma, malignant	FYN	1.0	
+Mesothelioma, malignant	LYN	1.0	
+Mesothelioma, malignant	POMC	1.0	
+Mesothelioma, malignant	SOS1	1.0	
+Mesothelioma, malignant	SRC	1.0	
+Tachycardia	ACTN2	1.0	
+Tachycardia	ADRA2C	1.0	
+Tachycardia	APP	1.0	
+Tachycardia	CALM3	1.0	
+Tachycardia	EPHB1	1.0	
+Tachycardia	GNAI2	1.0	
+Hypsarrhythmia	GRIN1	1.0	
+Hypsarrhythmia	GRIN2A	1.0	
+Hypsarrhythmia	GRIN2B	1.0	
+Hypsarrhythmia	POMC	1.0	
+Hypsarrhythmia	SOS1	1.0	
+body mass	ADRA2A	1.0	
+body mass	ADRA2B	1.0	
+body mass	DRD4	1.0	
+body mass	PMCH	1.0	
+body mass	POMC	1.0	
+Nausea	HRAS	1.0	
+Nausea	POMC	1.0	
+Nausea	SAA1	1.0	
+Nausea	SLC7A7	1.0	
+Obesity	ADRA2A	1.0	
+Obesity	ADRA2B	1.0	
+Obesity	APP	1.0	
+Obesity	CALM3	1.0	
+Obesity	CAMK2A	1.0	
+Obesity	DRD4	1.0	
+Obesity	EFNB1	1.0	
+Obesity	EPHB2	1.0	
+Obesity	GNAI2	1.0	
+Obesity	GNAT3	1.0	
+Obesity	GRIN1	1.0	
+Obesity	HRAS	1.0	
+Obesity	NISCH	1.0	
+Obesity	PMCH	1.0	
+Obesity	POMC	1.0	
+Obesity	SAA1	1.0	
+Obesity	SLC22A1	1.0	
+Obesity	SLC22A2	1.0	
+Obesity	SLC7A7	1.0	
+Obesity	SOS1	1.0	
+Obesity	TIAM1	1.0	
+Placental Insufficiency	GRIN1	1.0	
+Placental Insufficiency	GRIN2A	1.0	
+Placental Insufficiency	GRIN2B	1.0	
+Secondary malignant neoplasm of pancreas	CALM3	1.0	
+Secondary malignant neoplasm of pancreas	EFNB2	1.0	
+Secondary malignant neoplasm of pancreas	EPHB1	1.0	
+Secondary malignant neoplasm of pancreas	EPHB2	1.0	
+Secondary malignant neoplasm of pancreas	EPHB4	1.0	
+Secondary malignant neoplasm of pancreas	EPHB6	1.0	
+Secondary malignant neoplasm of pancreas	HRAS	1.0	
+Secondary malignant neoplasm of pancreas	NEFL	1.0	
+Secondary malignant neoplasm of pancreas	NISCH	1.0	
+Secondary malignant neoplasm of pancreas	POMC	1.0	
+Secondary malignant neoplasm of pancreas	PPBP	1.0	
+Secondary malignant neoplasm of pancreas	SLC22A2	1.0	
+Secondary malignant neoplasm of pancreas	SLC22A3	1.0	
+Secondary malignant neoplasm of pancreas	SOS1	1.0	
+Secondary malignant neoplasm of pancreas	SRC	1.0	
+Secondary malignant neoplasm of pancreas	TIAM1	1.0	
+Secondary malignant neoplasm of pancreas	YES1	1.0	
+Secondary hypertriglyceridemia	ADRA2B	1.0	
+Secondary hypertriglyceridemia	ANXA1	1.0	
+Secondary hypertriglyceridemia	APP	1.0	
+Secondary hypertriglyceridemia	CALM3	1.0	
+Secondary hypertriglyceridemia	CXCL6	1.0	
+Secondary hypertriglyceridemia	EFNB2	1.0	
+Secondary hypertriglyceridemia	EPHB1	1.0	
+Secondary hypertriglyceridemia	EPHB2	1.0	
+Secondary hypertriglyceridemia	EPHB3	1.0	
+Secondary hypertriglyceridemia	EPHB4	1.0	
+Secondary hypertriglyceridemia	EPHB6	1.0	
+Secondary hypertriglyceridemia	FYN	1.0	
+Secondary hypertriglyceridemia	GNAI2	1.0	
+Secondary hypertriglyceridemia	GNAI3	1.0	
+Secondary hypertriglyceridemia	GRB2	1.0	
+Secondary hypertriglyceridemia	HRAS	1.0	
+Secondary hypertriglyceridemia	KCNJ1	1.0	
+Secondary hypertriglyceridemia	NEFL	1.0	
+Secondary hypertriglyceridemia	NISCH	1.0	
+Secondary hypertriglyceridemia	POMC	1.0	
+Secondary hypertriglyceridemia	SAA1	1.0	
+Secondary hypertriglyceridemia	SHC1	1.0	
+Secondary hypertriglyceridemia	SLC22A3	1.0	
+Secondary hypertriglyceridemia	SOS1	1.0	
+Secondary hypertriglyceridemia	SRC	1.0	
+Secondary hypertriglyceridemia	TIAM1	1.0	
+Secondary hypertriglyceridemia	YES1	1.0	
+Epilepsy	ADRA2A	1.0	
+Epilepsy	ADRA2B	1.0	
+Epilepsy	CAMK2D	1.0	
+Epilepsy	DLG4	1.0	
+Epilepsy	EPHB2	1.0	
+Epilepsy	GRIN1	1.0	
+Epilepsy	GRIN2A	1.0	
+Epilepsy	GRIN2B	1.0	
+Epilepsy	GRIN2C	1.0	
+Epilepsy	POMC	1.0	
+Epilepsy	SOS1	1.0	
+Kaposi's sarcoma	ADRA2B	1.0	
+Kaposi's sarcoma	EFNB2	1.0	
+Kaposi's sarcoma	EPHB2	1.0	
+Kaposi's sarcoma	EPHB4	1.0	
+Kaposi's sarcoma	POMC	1.0	
+Kaposi's sarcoma	SOS1	1.0	
+Attention Deficit Disorder	ADRA2A	1.0	
+Attention Deficit Disorder	APP	1.0	
+Attention Deficit Disorder	DRD4	1.0	
+Attention Deficit Disorder	POMC	1.0	
+Osteochondritis dissecans	DLG4	1.0	
+Osteochondritis dissecans	DRD4	1.0	
+Osteochondritis dissecans	GRIN2B	1.0	
+Osteochondritis dissecans	SLC22A3	1.0	
+Epilepsy, Temporal Lobe	CALM3	1.0	
+Epilepsy, Temporal Lobe	DLG4	1.0	
+Epilepsy, Temporal Lobe	FYN	1.0	
+Epilepsy, Temporal Lobe	GRIN1	1.0	
+Epilepsy, Temporal Lobe	GRIN2A	1.0	
+Epilepsy, Temporal Lobe	GRIN2B	1.0	
+Diabetes mellitus type 2	ADRA2A	1.0	
+Diabetes mellitus type 2	ADRA2B	1.0	
+Diabetes mellitus type 2	ADRA2C	1.0	
+Diabetes mellitus type 2	ANXA1	1.0	
+Diabetes mellitus type 2	CALM3	1.0	
+Diabetes mellitus type 2	EFNB2	1.0	
+Diabetes mellitus type 2	EPHB1	1.0	
+Diabetes mellitus type 2	GNAI2	1.0	
+Diabetes mellitus type 2	GRB2	1.0	
+Diabetes mellitus type 2	HRAS	1.0	
+Diabetes mellitus type 2	KCNJ1	1.0	
+Diabetes mellitus type 2	NISCH	1.0	
+Diabetes mellitus type 2	POMC	1.0	
+Diabetes mellitus type 2	SHC1	1.0	
+Diabetes mellitus type 2	SLC22A1	1.0	
+Diabetes mellitus type 2	SLC22A2	1.0	
+Diabetes mellitus type 2	SLC7A7	1.0	
+Diabetes mellitus type 2	SOS1	1.0	
+Diabetes mellitus type 2	SRC	1.0	
+Cardiomegaly	ADRA2A	1.0	
+Cardiomegaly	ADRA2C	1.0	
+Cardiomegaly	CAMK2D	1.0	
+Cardiomegaly	LYN	1.0	
+Cardiomegaly	POMC	1.0	
+Cardiomegaly	SHC1	1.0	
+Cardiomegaly	SRC	1.0	
+Glioblastoma	ADRA2B	1.0	
+Glioblastoma	ANXA1	1.0	
+Glioblastoma	APP	1.0	
+Glioblastoma	CALM3	1.0	
+Glioblastoma	CXCL6	1.0	
+Glioblastoma	EFNB1	1.0	
+Glioblastoma	EFNB2	1.0	
+Glioblastoma	EFNB3	1.0	
+Glioblastoma	EPHB2	1.0	
+Glioblastoma	HRAS	1.0	
+Glioblastoma	LYN	1.0	
+Glioblastoma	NEFL	1.0	
+Glioblastoma	SHC1	1.0	
+Glioblastoma	SLC22A3	1.0	
+Glioblastoma	SOS1	1.0	
+Glioblastoma	SRC	1.0	
+Glioblastoma	YES1	1.0	
+Lymphoma, Large B-Cell, Diffuse	ADRA2A	1.0	
+Lymphoma, Large B-Cell, Diffuse	ANXA1	1.0	
+Lymphoma, Large B-Cell, Diffuse	CALM3	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB1	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB2	1.0	
+Lymphoma, Large B-Cell, Diffuse	EPHB4	1.0	
+Lymphoma, Large B-Cell, Diffuse	HRAS	1.0	
+Lymphoma, Large B-Cell, Diffuse	LYN	1.0	
+Lymphoma, Large B-Cell, Diffuse	POMC	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC22A1	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC22A2	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC7A7	1.0	
+Lymphoma, Large B-Cell, Diffuse	SOS1	1.0	
+Lymphoma, Large B-Cell, Diffuse	SRC	1.0	
+Lymphoma, Large B-Cell, Diffuse	TIAM1	1.0	
+Substance addiction and disorders	DRD4	1.0	
+Substance addiction and disorders	EPHB2	1.0	
+Substance addiction and disorders	POMC	1.0	
+Substance addiction and disorders	SLC22A3	1.0	
+Attention deficit hyperactivity disorder	ADRA2A	1.0	
+Attention deficit hyperactivity disorder	ADRA2B	1.0	
+Attention deficit hyperactivity disorder	ADRA2C	1.0	
+Attention deficit hyperactivity disorder	APP	1.0	
+Attention deficit hyperactivity disorder	DRD4	1.0	
+Attention deficit hyperactivity disorder	EPHB1	1.0	
+Attention deficit hyperactivity disorder	GRIN2A	1.0	
+Attention deficit hyperactivity disorder	GRIN2B	1.0	
+Attention deficit hyperactivity disorder	POMC	1.0	
+Parkinson Disease	ADRA2A	1.0	
+Parkinson Disease	APP	1.0	
+Parkinson Disease	DLG4	1.0	
+Parkinson Disease	DRD4	1.0	
+Parkinson Disease	EPHB1	1.0	
+Parkinson Disease	EPHB2	1.0	
+Parkinson Disease	FYN	1.0	
+Parkinson Disease	GNAI3	1.0	
+Parkinson Disease	GRIN1	1.0	
+Parkinson Disease	GRIN2B	1.0	
+Parkinson Disease	POMC	1.0	
+Obsessive-compulsive disorder	DLG4	1.0	
+Obsessive-compulsive disorder	DRD4	1.0	
+Obsessive-compulsive disorder	GRIN2B	1.0	
+Obsessive-compulsive disorder	SLC22A3	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	ADRA2A	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GNAI2	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	POMC	1.0	
+Astrocytoma	ANXA1	1.0	
+Astrocytoma	CALM3	1.0	
+Astrocytoma	CXCL6	1.0	
+Astrocytoma	EFNB1	1.0	
+Astrocytoma	EFNB2	1.0	
+Astrocytoma	EPHB2	1.0	
+Astrocytoma	HRAS	1.0	
+Astrocytoma	NEFL	1.0	
+Astrocytoma	SLC22A3	1.0	
+Astrocytoma	SRC	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ACTN2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ADRA2B	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CACNA1B	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CHRNA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GNAI2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GNAI3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN2A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN2B	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HRAS	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NEFL	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SOS1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SRC	1.0	
+Psychotic Disorders	APP	1.0	
+Psychotic Disorders	DRD4	1.0	
+Psychotic Disorders	GRIN1	1.0	
+Psychotic Disorders	GRIN2A	1.0	
+Psychotic Disorders	GRIN2B	1.0	
+Psychotic Disorders	SLC22A3	1.0	
+Psychotic Disorders	SLC7A7	1.0	
+Neoplasm of the colon	APP	1.0	
+Neoplasm of the colon	EFNB2	1.0	
+Neoplasm of the colon	EPHB2	1.0	
+Neoplasm of the colon	HRAS	1.0	
+Neoplasm of the colon	POMC	1.0	
+Neoplasm of the colon	SAA1	1.0	
+Neoplasm of the colon	SHC1	1.0	
+Neoplasm of the colon	SLC22A1	1.0	
+Neoplasm of the colon	SLC22A3	1.0	
+Neoplasm of the colon	SRC	1.0	
+Neoplasm of the colon	TIAM1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRA2C	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CALM3	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DRD4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	EPHB1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRIN2A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	GRIN2B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PMCH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	POMC	1.0	
+Animal Mammary Neoplasms	ANXA1	1.0	
+Animal Mammary Neoplasms	CALM3	1.0	
+Animal Mammary Neoplasms	EPHB2	1.0	
+Animal Mammary Neoplasms	EPHB4	1.0	
+Animal Mammary Neoplasms	EPHB6	1.0	
+Animal Mammary Neoplasms	FYN	1.0	
+Animal Mammary Neoplasms	GNAI2	1.0	
+Animal Mammary Neoplasms	GRB2	1.0	
+Animal Mammary Neoplasms	GRIN1	1.0	
+Animal Mammary Neoplasms	HRAS	1.0	
+Animal Mammary Neoplasms	LYN	1.0	
+Animal Mammary Neoplasms	NISCH	1.0	
+Animal Mammary Neoplasms	PPBP	1.0	
+Animal Mammary Neoplasms	SHC1	1.0	
+Animal Mammary Neoplasms	SLC22A1	1.0	
+Animal Mammary Neoplasms	SLC22A3	1.0	
+Animal Mammary Neoplasms	SOS1	1.0	
+Animal Mammary Neoplasms	SRC	1.0	
+Animal Mammary Neoplasms	TIAM1	1.0	
+Animal Mammary Neoplasms	YES1	1.0	
+Mental disorders	ACTN2	1.0	
+Mental disorders	ADRA2C	1.0	
+Mental disorders	DLG4	1.0	
+Mental disorders	DRD4	1.0	
+Mental disorders	EPHB2	1.0	
+Mental disorders	GRIN2A	1.0	
+Mental disorders	GRIN2B	1.0	
+Mental disorders	POMC	1.0	
+Metastatic melanoma	CALM3	1.0	
+Metastatic melanoma	CAMK2B	1.0	
+Metastatic melanoma	EPHB2	1.0	
+Metastatic melanoma	EPHB6	1.0	
+Metastatic melanoma	POMC	1.0	
+Metastatic melanoma	SOS1	1.0	
+Metastatic melanoma	TIAM1	1.0	
+Neuralgia	ADRA2A	1.0	
+Neuralgia	ADRA2C	1.0	
+Neuralgia	GRIN2B	1.0	
+Neuralgia	POMC	1.0	
+Dyslexia 1	ADRA2A	1.0	
+Dyslexia 1	DRD4	1.0	
+Dyslexia 1	GRIN2B	1.0	
+Dyslexia 1	HRAS	1.0	
+Glioma	ADRA2B	1.0	
+Glioma	ANXA1	1.0	
+Glioma	CALM3	1.0	
+Glioma	CAMK2B	1.0	
+Glioma	EFNB2	1.0	
+Glioma	EFNB3	1.0	
+Glioma	EPHB1	1.0	
+Glioma	EPHB2	1.0	
+Glioma	EPHB4	1.0	
+Glioma	FYN	1.0	
+Glioma	GRB2	1.0	
+Glioma	GRIN2B	1.0	
+Glioma	HRAS	1.0	
+Glioma	LYN	1.0	
+Glioma	POMC	1.0	
+Glioma	SLC22A3	1.0	
+Glioma	SOS1	1.0	
+Glioma	SRC	1.0	
+Alcohol abuse	DRD4	1.0	
+Alcohol abuse	FYN	1.0	
+Alcohol abuse	GRIN2B	1.0	
+Alcohol abuse	POMC	1.0	
+Thickened nuchal skin fold	EFNB1	1.0	
+Thickened nuchal skin fold	HRAS	1.0	
+Thickened nuchal skin fold	SOS1	1.0	
+Melanocytic nevus of skin	HRAS	1.0	
+Melanocytic nevus of skin	POMC	1.0	
+Melanocytic nevus of skin	SOS1	1.0	
+Memory impairment	ADRA2B	1.0	
+Memory impairment	ANXA1	1.0	
+Memory impairment	APP	1.0	
+Memory impairment	EPHB2	1.0	
+Memory impairment	GRIN2B	1.0	
+Memory impairment	POMC	1.0	
+Autism 15	ADRA2C	1.0	
+Autism 15	APP	1.0	
+Autism 15	DLG4	1.0	
+Autism 15	DRD4	1.0	
+Autism 15	EPHB2	1.0	
+Autism 15	GRIN2A	1.0	
+Autism 15	GRIN2B	1.0	
+Autism 15	HRAS	1.0	
+Autism 15	POMC	1.0	
+Autism 15	SOS1	1.0	
+Autism 15	SRC	1.0	
+Rhabdoid Tumor of the Kidney	EPHB1	1.0	
+Rhabdoid Tumor of the Kidney	EPHB2	1.0	
+Rhabdoid Tumor of the Kidney	HRAS	1.0	
+Rhabdoid Tumor of the Kidney	SRC	1.0	
+Anorexia nervosa 1	DRD4	1.0	
+Anorexia nervosa 1	EPHB1	1.0	
+Anorexia nervosa 1	GRIN2B	1.0	
+Anorexia nervosa 1	POMC	1.0	
+Bradycardia	GNAI2	1.0	
+Bradycardia	NISCH	1.0	
+Bradycardia	POMC	1.0	
+Drug Resistant Epilepsy	GRIN1	1.0	
+Drug Resistant Epilepsy	GRIN2A	1.0	
+Drug Resistant Epilepsy	POMC	1.0	
+Low Tension Glaucoma	ADRA2A	1.0	
+Low Tension Glaucoma	ADRA2B	1.0	
+Low Tension Glaucoma	ADRA2C	1.0	
+Child Development Disorders, Pervasive	DLG4	1.0	
+Child Development Disorders, Pervasive	DRD4	1.0	
+Child Development Disorders, Pervasive	GRIN2B	1.0	
+Focal seizures	ADRA2B	1.0	
+Focal seizures	GRIN1	1.0	
+Focal seizures	GRIN2A	1.0	
+Acquired long QT syndrome	ADRA2C	1.0	
+Acquired long QT syndrome	CALM3	1.0	
+Acquired long QT syndrome	HRAS	1.0	
+Acquired long QT syndrome	POMC	1.0	
+Fetal ultrasound soft marker	EFNB1	1.0	
+Fetal ultrasound soft marker	HRAS	1.0	
+Fetal ultrasound soft marker	SOS1	1.0	
+Pituitary adenoma	EPHB2	1.0	
+Pituitary adenoma	FYN	1.0	
+Pituitary adenoma	GNAZ	1.0	
+Pituitary adenoma	GRB2	1.0	
+Pituitary adenoma	POMC	1.0	
+Pituitary adenoma	SLC22A3	1.0	
+Cocaine-Related Disorders	CAMK2A	1.0	
+Cocaine-Related Disorders	CAMK2B	1.0	
+Cocaine-Related Disorders	GRIN1	1.0	
+Cocaine-Related Disorders	POMC	1.0	
+Abnormality of the pituitary gland	ADRA2B	1.0	
+Abnormality of the pituitary gland	ANXA1	1.0	
+Abnormality of the pituitary gland	CALM3	1.0	
+Abnormality of the pituitary gland	DRD4	1.0	
+Abnormality of the pituitary gland	FYN	1.0	
+Abnormality of the pituitary gland	PMCH	1.0	
+Abnormality of the pituitary gland	POMC	1.0	
+Abnormality of the pituitary gland	SLC22A1	1.0	
+Abnormality of the pituitary gland	SRC	1.0	
+Tumor Progression	ADRA2B	1.0	
+Tumor Progression	ANXA1	1.0	
+Tumor Progression	APP	1.0	
+Tumor Progression	CALM3	1.0	
+Tumor Progression	CXCL6	1.0	
+Tumor Progression	EFNB1	1.0	
+Tumor Progression	EPHB2	1.0	
+Tumor Progression	GNAI2	1.0	
+Tumor Progression	GRB2	1.0	
+Tumor Progression	HRAS	1.0	
+Tumor Progression	POMC	1.0	
+Tumor Progression	SAA1	1.0	
+Tumor Progression	SLC22A1	1.0	
+Tumor Progression	SLC22A3	1.0	
+Tumor Progression	SOS1	1.0	
+Tumor Progression	SRC	1.0	
+Tumor Progression	TIAM1	1.0	
+Primary Effusion Lymphoma	ADRA2B	1.0	
+Primary Effusion Lymphoma	POMC	1.0	
+Primary Effusion Lymphoma	SLC22A2	1.0	
+Primary Effusion Lymphoma	SOS1	1.0	
+Hormone receptor positive tumor	EPHB2	1.0	
+Hormone receptor positive tumor	LYN	1.0	
+Hormone receptor positive tumor	SRC	1.0	
+Neuroblastoma	ANXA1	1.0	
+Neuroblastoma	APP	1.0	
+Neuroblastoma	CALM3	1.0	
+Neuroblastoma	DLG4	1.0	
+Neuroblastoma	EFNB2	1.0	
+Neuroblastoma	EFNB3	1.0	
+Neuroblastoma	EPHB2	1.0	
+Neuroblastoma	EPHB6	1.0	
+Neuroblastoma	FYN	1.0	
+Neuroblastoma	GRB2	1.0	
+Neuroblastoma	HRAS	1.0	
+Neuroblastoma	NEFL	1.0	
+Neuroblastoma	PMCH	1.0	
+Neuroblastoma	SAA1	1.0	
+Neuroblastoma	SRC	1.0	
+Malnutrition	DRD4	1.0	
+Malnutrition	POMC	1.0	
+Malnutrition	SAA1	1.0	
+Malnutrition	SLC7A7	1.0	
+Melanoma	ADRA2B	1.0	
+Melanoma	ANXA1	1.0	
+Melanoma	APP	1.0	
+Melanoma	CALM3	1.0	
+Melanoma	CAMK2B	1.0	
+Melanoma	CXCL6	1.0	
+Melanoma	EPHB2	1.0	
+Melanoma	EPHB6	1.0	
+Melanoma	GNAZ	1.0	
+Melanoma	GNG2	1.0	
+Melanoma	GRIN2A	1.0	
+Melanoma	HRAS	1.0	
+Melanoma	POMC	1.0	
+Melanoma	SHC1	1.0	
+Melanoma	SLC22A3	1.0	
+Melanoma	SOS1	1.0	
+Melanoma	SRC	1.0	
+Melanoma	TIAM1	1.0	
+Melanoma	YES1	1.0	
+Abnormality of hair texture	EFNB1	1.0	
+Abnormality of hair texture	HRAS	1.0	
+Abnormality of hair texture	SLC7A7	1.0	
+Abnormality of hair texture	SOS1	1.0	
+Heroin Dependence	DRD4	1.0	
+Heroin Dependence	GRIN2A	1.0	
+Heroin Dependence	POMC	1.0	
+Noonan syndrome 1	EPHB2	1.0	
+Noonan syndrome 1	HRAS	1.0	
+Noonan syndrome 1	SOS1	1.0	
+Psychoses, Substance-Induced	ADRA2C	1.0	
+Psychoses, Substance-Induced	CAMK2B	1.0	
+Psychoses, Substance-Induced	DRD4	1.0	
+Hypoxia-Ischemia, Brain	GRIN1	1.0	
+Hypoxia-Ischemia, Brain	GRIN2A	1.0	
+Hypoxia-Ischemia, Brain	GRIN2B	1.0	
+Chronic myeloid leukemia	CALM3	1.0	
+Chronic myeloid leukemia	EPHB2	1.0	
+Chronic myeloid leukemia	GRB2	1.0	
+Chronic myeloid leukemia	HRAS	1.0	
+Chronic myeloid leukemia	LYN	1.0	
+Chronic myeloid leukemia	PPBP	1.0	
+Chronic myeloid leukemia	SLC22A1	1.0	
+Chronic myeloid leukemia	SLC22A2	1.0	
+Chronic myeloid leukemia	SOS1	1.0	
+Chronic myeloid leukemia	SRC	1.0	
+Sarcoma, Ewing	ADRA2B	1.0	
+Sarcoma, Ewing	EPHB2	1.0	
+Sarcoma, Ewing	EPHB4	1.0	
+Sarcoma, Ewing	FYN	1.0	
+Sarcoma, Ewing	HRAS	1.0	
+Sarcoma, Ewing	NEFL	1.0	
+Sarcoma, Ewing	POMC	1.0	
+Sarcoma, Ewing	SLC22A2	1.0	
+Sarcoma, Ewing	SOS1	1.0	
+Sarcoma, Ewing	SRC	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	EPHB2	1.0	
+Isovaleryl-CoA dehydrogenase deficiency	SLC22A3	1.0	
+Malignant neoplasm of lung	ADRA2B	1.0	
+Malignant neoplasm of lung	ANXA1	1.0	
+Malignant neoplasm of lung	CALM3	1.0	
+Malignant neoplasm of lung	CHRNA1	1.0	
+Malignant neoplasm of lung	CXCL6	1.0	
+Malignant neoplasm of lung	DRD4	1.0	
+Malignant neoplasm of lung	EFNB3	1.0	
+Malignant neoplasm of lung	EPHB1	1.0	
+Malignant neoplasm of lung	EPHB2	1.0	
+Malignant neoplasm of lung	EPHB4	1.0	
+Malignant neoplasm of lung	EPHB6	1.0	
+Malignant neoplasm of lung	GNAI2	1.0	
+Malignant neoplasm of lung	HRAS	1.0	
+Malignant neoplasm of lung	POMC	1.0	
+Malignant neoplasm of lung	SHC1	1.0	
+Malignant neoplasm of lung	SLC22A3	1.0	
+Malignant neoplasm of lung	SOS1	1.0	
+Malignant neoplasm of lung	SRC	1.0	
+Malignant neoplasm of lung	TIAM1	1.0	
+Chronic sciatica	ADRA2A	1.0	
+Chronic sciatica	ADRA2C	1.0	
+Mood Disorders	ADRA2A	1.0	
+Mood Disorders	ADRA2C	1.0	
+Mood Disorders	DLG4	1.0	
+Mood Disorders	DRD4	1.0	
+Mood Disorders	EPHB1	1.0	
+Mood Disorders	GRIN2A	1.0	
+Abnormality of cardiovascular system physiology	ACTN2	1.0	
+Abnormality of cardiovascular system physiology	APP	1.0	
+Abnormality of cardiovascular system physiology	CACNA1B	1.0	
+Abnormality of cardiovascular system physiology	CALM3	1.0	
+Abnormality of cardiovascular system physiology	GNAI2	1.0	
+Abnormality of cardiovascular system physiology	HRAS	1.0	
+Abnormality of cardiovascular system physiology	KCNJ1	1.0	
+Abnormality of cardiovascular system physiology	SAA1	1.0	
+Abnormality of cardiovascular system physiology	SOS1	1.0	
+Hepatocellular carcinoma	ANXA1	1.0	
+Hepatocellular carcinoma	APP	1.0	
+Hepatocellular carcinoma	CALM3	1.0	
+Hepatocellular carcinoma	CXCL6	1.0	
+Hepatocellular carcinoma	EFNB1	1.0	
+Hepatocellular carcinoma	EFNB2	1.0	
+Hepatocellular carcinoma	EPHB1	1.0	
+Hepatocellular carcinoma	EPHB2	1.0	
+Hepatocellular carcinoma	EPHB4	1.0	
+Hepatocellular carcinoma	EPHB6	1.0	
+Hepatocellular carcinoma	GNAI2	1.0	
+Hepatocellular carcinoma	GNAI3	1.0	
+Hepatocellular carcinoma	GRB2	1.0	
+Hepatocellular carcinoma	HRAS	1.0	
+Hepatocellular carcinoma	SAA1	1.0	
+Hepatocellular carcinoma	SHC1	1.0	
+Hepatocellular carcinoma	SLC22A1	1.0	
+Hepatocellular carcinoma	SLC22A3	1.0	
+Hepatocellular carcinoma	SOS1	1.0	
+Hepatocellular carcinoma	SRC	1.0	
+Hepatocellular carcinoma	TIAM1	1.0	
+Hepatocellular carcinoma	YES1	1.0	
+Alzheimer Disease	ADRA2A	1.0	
+Alzheimer Disease	ANXA1	1.0	
+Alzheimer Disease	APP	1.0	
+Alzheimer Disease	CAMK2A	1.0	
+Alzheimer Disease	CAMK2G	1.0	
+Alzheimer Disease	DLG4	1.0	
+Alzheimer Disease	DRD4	1.0	
+Alzheimer Disease	EPHB2	1.0	
+Alzheimer Disease	FYN	1.0	
+Alzheimer Disease	GRB2	1.0	
+Alzheimer Disease	GRIN1	1.0	
+Alzheimer Disease	GRIN2A	1.0	
+Alzheimer Disease	GRIN2B	1.0	
+Alzheimer Disease	NEFL	1.0	
+Alzheimer Disease	SAA1	1.0	
+Systemic arterial pressure	ADRA2A	1.0	
+Systemic arterial pressure	ADRA2B	1.0	
+Systemic arterial pressure	ADRA2C	1.0	
+Systemic arterial pressure	ANXA1	1.0	
+Systemic arterial pressure	DRD4	1.0	
+Systemic arterial pressure	GNAI2	1.0	
+Systemic arterial pressure	NEFL	1.0	
+Behavior Disorders	ADRA2A	1.0	
+Behavior Disorders	EPHB1	1.0	
+Lyme Disease	ANXA1	1.0	
+Lyme Disease	CALM3	1.0	
+Lyme Disease	EPHB2	1.0	
+Lyme Disease	SHC1	1.0	
+Symptomatic human immunodeficiency virus infection	ADRA2B	1.0	
+Symptomatic human immunodeficiency virus infection	ANXA1	1.0	
+Symptomatic human immunodeficiency virus infection	APP	1.0	
+Symptomatic human immunodeficiency virus infection	CALM3	1.0	
+Symptomatic human immunodeficiency virus infection	CCL23	1.0	
+Symptomatic human immunodeficiency virus infection	EFNB2	1.0	
+Symptomatic human immunodeficiency virus infection	EPHB2	1.0	
+Symptomatic human immunodeficiency virus infection	EPHB6	1.0	
+Symptomatic human immunodeficiency virus infection	FYN	1.0	
+Symptomatic human immunodeficiency virus infection	GRB2	1.0	
+Symptomatic human immunodeficiency virus infection	LYN	1.0	
+Symptomatic human immunodeficiency virus infection	POMC	1.0	
+Symptomatic human immunodeficiency virus infection	SHC1	1.0	
+Symptomatic human immunodeficiency virus infection	SRC	1.0	
+Symptomatic human immunodeficiency virus infection	TIAM1	1.0	
+Symptomatic human immunodeficiency virus infection	YES1	1.0	
+Poor suck	CHRNA1	1.0	
+Poor suck	HRAS	1.0	
+Stomach cancer	ANXA1	1.0	
+Stomach cancer	APP	1.0	
+Stomach cancer	CALM3	1.0	
+Stomach cancer	EFNB1	1.0	
+Stomach cancer	EFNB2	1.0	
+Stomach cancer	EPHB1	1.0	
+Stomach cancer	EPHB2	1.0	
+Stomach cancer	EPHB4	1.0	
+Stomach cancer	GRB2	1.0	
+Stomach cancer	GRIN2B	1.0	
+Stomach cancer	HRAS	1.0	
+Stomach cancer	SLC22A1	1.0	
+Stomach cancer	SLC22A3	1.0	
+Stomach cancer	SOS1	1.0	
+Stomach cancer	SRC	1.0	
+Stomach cancer	TIAM1	1.0	
+Stomach cancer	YES1	1.0	
+Parkinsonism	APP	1.0	
+Parkinsonism	FYN	1.0	
+Parkinsonism	LYN	1.0	
+Parkinsonism	NEFL	1.0	
+Parkinsonism	SRC	1.0	
+Arrhythmias, Cardiac	ACTN2	1.0	
+Arrhythmias, Cardiac	CACNA1B	1.0	
+Arrhythmias, Cardiac	CALM3	1.0	
+Arrhythmias, Cardiac	GNAI2	1.0	
+Arrhythmias, Cardiac	HRAS	1.0	
+Arrhythmias, Cardiac	SOS1	1.0	
+Cystic hygroma	CHRNA1	1.0	
+Cystic hygroma	SOS1	1.0	
+Pituitary dependent hypercortisolism	GNAI2	1.0	
+Pituitary dependent hypercortisolism	POMC	1.0	
+Chondrocalcinosis	KCNJ1	1.0	
+Chondrocalcinosis	POMC	1.0	
+Hypothyroidism	ANXA1	1.0	
+Hypothyroidism	APP	1.0	
+Hypothyroidism	CALM3	1.0	
+Hypothyroidism	NEFL	1.0	
+Hypothyroidism	POMC	1.0	
+Hypothyroidism	SAA1	1.0	
+Extrahepatic cholestasis	SLC22A1	1.0	
+Extrahepatic cholestasis	SLC22A2	1.0	
+Pleural Mesothelioma	EFNB2	1.0	
+Pleural Mesothelioma	EPHB2	1.0	
+Pleural Mesothelioma	POMC	1.0	
+Pleural Mesothelioma	SLC22A3	1.0	
+Pleural Mesothelioma	SOS1	1.0	
+Substance Withdrawal Syndrome	GNAI1	1.0	
+Substance Withdrawal Syndrome	GRIN2A	1.0	
+Substance Withdrawal Syndrome	POMC	1.0	

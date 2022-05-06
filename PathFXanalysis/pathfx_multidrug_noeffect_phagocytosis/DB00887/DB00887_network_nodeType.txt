@@ -1,0 +1,149 @@
+node_name	node_type	
+DB00887	drug	
+SLC12A4	drug_target	
+SLC12A2	drug_target	
+PTGS2	drug_target	
+CFTR	drug_target	
+SLC22A8	drug_target	
+SLCO1A2	drug_target	
+SLC10A1	drug_target	
+SLC22A6	drug_target	
+SLC22A11	drug_target	
+Animal Mammary Neoplasms	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Rhabdomyosarcoma alveolar	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Adenovirus Infections	phenotype	
+Breast carcinoma	phenotype	
+Acute kidney injury	phenotype	
+Alzheimer Disease	phenotype	
+Squamous Cell Neoplasms	phenotype	
+Diabetes insipidus	phenotype	
+Alcohol dependence	phenotype	
+Virus Diseases	phenotype	
+Pericardial effusion	phenotype	
+Pancreatic Carcinoma	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Pes cavus	phenotype	
+Myotubular myopathy	phenotype	
+Wiskott-Aldrich syndrome, 301000 (3)	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Bronchogenic Carcinoma	phenotype	
+Monocytic leukemia	phenotype	
+Acute intermittent porphyria	phenotype	
+Duodenal Ulcer	phenotype	
+M5b Acute differentiated monocytic leukemia	phenotype	
+CARCINOMA OF VULVA	phenotype	
+Congestive heart failure	phenotype	
+Dementia familial British	phenotype	
+Bile duct cancer resectable	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Rous Sarcoma	phenotype	
+Heart Failure	phenotype	
+Amyotrophic Lateral Sclerosis	phenotype	
+Leukoplakia	phenotype	
+Akinesia	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Oral Cavity Carcinoma	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Huntington's chorea	phenotype	
+Bone neoplasms	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Inappropriate ADH Syndrome	phenotype	
+Dementia	phenotype	
+Adenocarcinoma, Clear Cell	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Squamous cell carcinoma of the hypopharynx	phenotype	
+Early gastric cancer	phenotype	
+Malignant neoplasm of vulva	phenotype	
+Astrocytoma, low grade	phenotype	
+Oropharyngeal squamous cell carcinoma	phenotype	
+Epilepsy	phenotype	
+Aortic atherosclerosis	phenotype	
+Thymic Carcinoma	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Hyponatremia	phenotype	
+High grade serous carcinoma	phenotype	
+Parkinson Disease	phenotype	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	phenotype	
+gliosarcoma	phenotype	
+Gastrinoma	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Complete hydatidiform mole	phenotype	
+Malignant tumor of prostate	phenotype	
+Metastatic Prostate Carcinoma	phenotype	
+Comedone	phenotype	
+Bipolar affective disorder	phenotype	
+Hepatitis C	phenotype	
+Pain	phenotype	
+Juvenile neuronal ceroid lipofuscinosis	phenotype	
+Nasopharyngeal cancer recurrent	phenotype	
+Parkinsonism	phenotype	
+Breast adenocarcinoma	phenotype	
+Gaucher Disease	phenotype	
+Osteomalacia	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Nasal polyposis	phenotype	
+Miller Dieker syndrome	phenotype	
+Chronic viral hepatitis	phenotype	
+Mammary adenocarcinoma	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Peutz-Jeghers syndrome	phenotype	
+Polyposis syndrome, mixed hereditary 1 (4)	phenotype	
+Reduced tendon reflexes	phenotype	
+Endometrioma	phenotype	
+Down Syndrome	phenotype	
+Prostate cancer stage C	phenotype	
+Diffuse Astrocytoma	phenotype	
+Intracranial glioma	phenotype	
+Hypercalciuria	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Cancer Cell Growth	phenotype	
+Intestinal Cancer	phenotype	
+Tobacco Use Disorder	phenotype	
+Neoplasm of the tongue	phenotype	
+Metaplasia	phenotype	
+Gait ataxia	phenotype	
+Benign melanocytic nevus	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Carcinosarcoma	phenotype	
+Gestational trophoblastic disease	phenotype	
+Bladder carcinoma	phenotype	
+Schwannoma	phenotype	
+Abnormality of facial musculature	phenotype	
+Hydatidiform mole, recurrent, 2	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Senile plaques	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Cholesteatoma	phenotype	
+Chronic interstitial cystitis	phenotype	
+Dementia, Vascular	phenotype	
+granulosa cell tumor	phenotype	
+Undifferentiated carcinoma	phenotype	
+Laryngeal Squamous Cell Carcinoma	phenotype	
+Abnormality of the digestive system	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Areflexia	phenotype	
+Bone necrosis	phenotype	
+Autosomal recessive polycystic kidney disease	phenotype	
+Ganglioglioma	phenotype	
+Mammary Carcinoma, Human	phenotype	
+Cholera	phenotype	
+Cholecystolithiasis	phenotype	
+Carcinoid tumor no ICD-O subtype	phenotype	
+Prostate carcinoma	phenotype	
+Mitral regurgitation	phenotype	
+Melanocytic nevus of skin	phenotype	
+Prostatic Intraepithelial Neoplasias	phenotype	
+Neck Neoplasms	phenotype	
+Neoplastic Cell Transformation	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Distal muscle weakness	phenotype	
+Intestinal Neoplasms	phenotype	
+Inflammatory disorder	phenotype	
+Prostatic Neoplasms	phenotype	
+Airway Obstruction	phenotype	
+Hepatocellular adenoma	phenotype	
+Papillomavirus Infections	phenotype	
+Abnormality of head blood vessel	phenotype	

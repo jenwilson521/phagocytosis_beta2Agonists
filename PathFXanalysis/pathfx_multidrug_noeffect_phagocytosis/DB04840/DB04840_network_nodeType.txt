@@ -1,0 +1,6 @@
+node_name	node_type	
+DB04840	drug	
+CYP1A1	drug_target	
+ABCB1	drug_target	
+CYP2D6	drug_target	
+SLC6A2	drug_target	

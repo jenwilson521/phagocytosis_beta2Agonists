@@ -1,0 +1,64 @@
+node_name	node_type	
+DB01118	drug	
+CACNA1H	drug_target	
+CYP3A4	drug_target	
+CYP1A1	drug_target	
+KCNH2	drug_target	
+CYP2A6	drug_target	
+CYP2C19	drug_target	
+CYP2C8	drug_target	
+CYP3A5	drug_target	
+ADRB1	drug_target	
+CYP2D6	drug_target	
+CYP1A2	drug_target	
+CACNA2D2	drug_target	
+ABCB1	drug_target	
+CYP2C9	drug_target	
+Cushing's syndrome	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Pseudohypoparathyroidism, Type Ia	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Pheochromocytoma	phenotype	
+Pain insensitivity	phenotype	
+Nausea	phenotype	
+Drug Allergy	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Migraine Disorders	phenotype	
+Neoplasm of the larynx	phenotype	
+Essential hypertension	phenotype	
+Ovarian Failure, Premature	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Adrenal hyperplasia	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Pseudohypoparathyroidism type 1A	phenotype	
+Disorder of endocrine system	phenotype	
+Tachycardia	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Neuroendocrine neoplasm	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Anxiety Disorders	phenotype	
+Bradycardia	phenotype	
+Kidney Failure, Chronic	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Acute postoperative pain	phenotype	
+Hyperalgesia	phenotype	
+Thyroid hormone receptor defect	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Acute-Phase Reaction	phenotype	
+Pleural Neoplasms	phenotype	
+Bone necrosis	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Adrenocortical carcinoma	phenotype	
+Squamous Cell Neoplasms	phenotype	
+SUDDEN INFANT DEATH SYNDROME	phenotype	
+Female infertility	phenotype	
+Methamphetamine abuse	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Hyperplasia	phenotype	
+Mental disorders	phenotype	
+Genomic Instability	phenotype	

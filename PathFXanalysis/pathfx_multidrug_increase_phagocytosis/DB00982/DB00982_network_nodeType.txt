@@ -1,0 +1,54 @@
+node_name	node_type	
+DB00982	drug	
+RARA	drug_target	
+Sciatic Neuropathy	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Measles	phenotype	
+Neoplasms, Second Primary	phenotype	
+Mammary Neoplasms, Experimental	phenotype	
+Dyslipidemias	phenotype	
+Smith-Magenis syndrome	phenotype	
+AIDS-Associated Nephropathy	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+Methylmalonic aciduria due to transcobalamin receptor defect	phenotype	
+Squamous cell carcinoma	phenotype	
+childhood brain tumor	phenotype	
+Metastatic Carcinoma	phenotype	
+Lipoid nephrosis	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Glioma	phenotype	
+Carcinogenesis	phenotype	
+Leiomyoma	phenotype	
+Varicocele	phenotype	
+Isochromosomes	phenotype	
+Neck Neoplasms	phenotype	
+Uterine leiomyoma	phenotype	
+Neoplasm of the gallbladder	phenotype	
+Acute Cerebrovascular Accidents	phenotype	
+Coronary Restenosis	phenotype	
+Phyllodes tumor, benign	phenotype	
+Wilms Tumor	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Adenomatous polyp of colon	phenotype	
+Diaphragmatic hernia	phenotype	
+Refractory cancer	phenotype	
+Cancer of the lower GI tract	phenotype	
+Disorders of lipoid metabolism	phenotype	
+Fibroadenoma of the breast	phenotype	
+Hepatosplenic schistosomiasis	phenotype	
+Giant cell tumor of bone	phenotype	
+Malignant neoplasm of colon stage IV	phenotype	
+Giant Cell Tumors	phenotype	
+Acute promyelocytic leukemia	phenotype	
+Somatic mutation	phenotype	
+Facioscapulohumeral muscular dystrophy	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Coronary artery stenosis	phenotype	
+Cholecystolithiasis	phenotype	
+High-Grade Prostatic Intraepithelial Neoplasia	phenotype	
+Follicular adenoma	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Congenital chromosomal disease	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Spastic syndrome	phenotype	

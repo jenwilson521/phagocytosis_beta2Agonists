@@ -1,0 +1,78 @@
+node_name	node_type	
+DB01244	drug	
+CYP2D6	drug_target	
+CACNA1H	drug_target	
+PDE1B	drug_target	
+CACNA1A	drug_target	
+PDE1A	drug_target	
+TNNC1	drug_target	
+ATP1A1	drug_target	
+ABCB1	drug_target	
+CALM3	drug_target	
+KCNQ1	drug_target	
+CACNA2D2	drug_target	
+Hypertrophic cardiomyopathy	phenotype	
+Familial hypertrophic cardiomyopathy 11	phenotype	
+Familial dilated cardiomyopathy	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Abnormality of adipose tissue	phenotype	
+Abnormality of the myocardium	phenotype	
+Cardiomyopathy, Dilated	phenotype	
+Cardiomegaly	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Cardiomyopathy	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Hyperkeratosis	phenotype	
+Lipoatrophy	phenotype	
+Abnormality of circulating enzyme level	phenotype	
+Elevated serum creatine phosphokinase	phenotype	
+EMG abnormality	phenotype	
+Contractures involving the joints of the feet	phenotype	
+Epidermal thickening	phenotype	
+Limb-girdle muscular dystrophy, type 2L	phenotype	
+Heart Diseases	phenotype	
+Abnormality of the calf musculature	phenotype	
+Thickened skin	phenotype	
+Abnormality of granulocytes	phenotype	
+Abnormality of muscle morphology	phenotype	
+Dilated cardiomyopathy 1A	phenotype	
+Myofibrillar myopathy, BAG3-related	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Abnormality of myeloid leukocytes	phenotype	
+Sudden death	phenotype	
+Weight Gain Adverse Event	phenotype	
+Foot dorsiflexor weakness	phenotype	
+Myotubular myopathy	phenotype	
+Heart Defects, Congenital	phenotype	
+Abnormality of the inner ear	phenotype	
+Abnormality of the foot musculature	phenotype	
+Abnormality of circulating protein level	phenotype	
+Abnormality of the musculature of the lower limbs	phenotype	
+Abnormality of connective tissue	phenotype	
+Skeletal muscle hypertrophy	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Abnormality of cardiovascular system morphology	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Embryonal rhabdomyosarcoma	phenotype	
+Leiomyosarcoma	phenotype	
+Neuromuscular Diseases	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Papillary adenocarcinoma	phenotype	
+Malignant Fibrous Histiocytoma	phenotype	
+Channelopathies	phenotype	
+Epilepsy	phenotype	
+Sensorineural hearing impairment	phenotype	
+Wilson disease	phenotype	
+Ulnar deviation of finger	phenotype	
+Early-Stage Breast Carcinoma	phenotype	
+Congenital long QT syndrome	phenotype	
+Lipoma	phenotype	
+Limb muscle weakness	phenotype	
+Prostate Cancer, Hereditary, 7	phenotype	
+Asymmetric growth	phenotype	
+Functional abnormality of the inner ear	phenotype	
+Bipolar affective disorder	phenotype	
+Gastroparesis	phenotype	
+Rhabdomyosarcoma alveolar	phenotype	
+Atrial Fibrillation	phenotype	
+Amyotrophy involving the shoulder musculature	phenotype	

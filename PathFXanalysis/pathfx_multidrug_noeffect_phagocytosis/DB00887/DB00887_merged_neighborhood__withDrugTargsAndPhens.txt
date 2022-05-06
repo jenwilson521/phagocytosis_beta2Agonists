@@ -1,0 +1,1257 @@
+node1	node2	edge_score	
+DB00887	SLC12A4	1.0	
+DB00887	SLC12A2	1.0	
+DB00887	PTGS2	1.0	
+DB00887	CFTR	1.0	
+DB00887	SLC22A8	1.0	
+DB00887	SLCO1A2	1.0	
+DB00887	SLC10A1	1.0	
+DB00887	SLC22A6	1.0	
+DB00887	SLC22A11	1.0	
+SLC12A4		1
+SLC12A2		1
+PTGS2	rs12042763	0.99
+PTGS2		1
+PTGS2	rs4648287	0.99
+PTGS2	TP53	0.826582583512
+PTGS2	rs5275	0.99
+PTGS2	rs20417	0.99
+TP53	rs1042522	0.81831675767688
+CFTR	SH3GL2	0.8652664063176569
+CFTR	WASL	0.8628338709774962
+CFTR	AP2A2	0.8666098248257992
+CFTR	ACTR2	0.8628338709774962
+CFTR	GAK	0.851137711762708
+CFTR	CLTCL1	0.8654065929327814
+CFTR	rs121909041	0.99
+CFTR	ARRB1	0.863443159858049
+CFTR	VAMP4	0.8621379174857935
+CFTR	CHRM2	0.863443159858049
+CFTR	PIK3C2A	0.8441288359160942
+CFTR	AVP	0.863443159858049
+CFTR	SYNJ1	0.8613363396709319
+CFTR	DERL1	0.8558909648136892
+CFTR	ERLIN2	0.8558909648136892
+CFTR	ARPC2	0.8628338709774962
+CFTR	rs77010898	0.99
+CFTR	VCP	0.8558909648136892
+CFTR	rs74503330	0.99
+CFTR	TGOLN2	0.8621379174857935
+CFTR	KIAA0319	0.8621379174857935
+OCRL	rs113165732	0.8527229762742226
+CFTR	FNBP1L	0.863443159858049
+CFTR	PICALM	0.8628338709774962
+CFTR	FCHO2	0.8541713484689148
+CFTR	FNBP1	0.863443159858049
+CFTR	AP2M1	0.8666098248257992
+CFTR	VAMP8	0.8628338709774962
+CFTR	AP2A1	0.8666098248257992
+CFTR	OS9	0.8558909648136892
+CFTR	EPN2	0.8628338709774962
+CFTR	SYT2	0.8628338709774962
+CFTR	rs267606723	0.99
+CFTR	FZD4	0.863443159858049
+CFTR	ACTR3	0.8628338709774962
+CFTR	TF	0.8621379174857935
+CFTR	SYT9	0.8628338709774962
+CFTR	CLTB	0.8654065929327814
+CFTR	RPS27A	0.8658608065151423
+CFTR	rs121909005	0.99
+CFTR	SYT1	0.8628338709774962
+CFTR	STAM	0.8628338709774962
+CFTR	REPS1	0.8658049874828022
+CFTR	TRIP10	0.863443159858049
+CFTR	rs80282562	0.99
+CFTR	WNT5A	0.863443159858049
+CFTR	RNF5	0.8558909648136892
+CFTR	CLTC	0.865738626524793
+CFTR	EPS15	0.8661005111645191
+CFTR	HIP1	0.8628338709774962
+CFTR	AVPR2	0.863443159858049
+CFTR	ARPC1A	0.8628338709774962
+CFTR	SNX9	0.863443159858049
+CFTR	ADRB2	0.863443159858049
+CFTR	rs78655421	0.99
+CFTR	FCHO1	0.8541713484689148
+CFTR	PACSIN2	0.863443159858049
+CFTR	rs121908757	0.99
+CFTR	CTTN	0.8628338709774962
+CFTR	NECAP1	0.8658049874828022
+CFTR	EGF	0.8628338709774962
+CFTR	EGFR	0.8628338709774962
+CFTR	AP2S1	0.8666098248257992
+CFTR	CD4	0.8621379174857935
+CFTR	rs75527207	0.99
+CFTR	UBA52	0.8658608065151423
+CFTR	M6PR	0.8621379174857935
+OCRL	rs757639	0.8527229762742226
+CFTR	CD3D	0.8621379174857935
+CFTR	GRB2	0.8628338709774962
+CFTR		1
+CFTR	VAMP2	0.8628338709774962
+CFTR	BIN1	0.863443159858049
+CFTR	APOB	0.8628338709774962
+CFTR	STON2	0.8628338709774962
+CFTR	AMPH	0.863443159858049
+CFTR	AGFG1	0.8628338709774962
+CFTR	CD3G	0.8621379174857935
+CFTR	SLC2A8	0.8621379174857935
+CFTR	SH3KBP1	0.8628338709774962
+CFTR	ERLIN1	0.8558909648136892
+CFTR	ARRB2	0.863443159858049
+CFTR	ARPC3	0.8628338709774962
+CFTR	ARPC5	0.8628338709774962
+CFTR	TFRC	0.8621379174857935
+CFTR	SLC18A3	0.8621379174857935
+CFTR	UBB	0.8658608065151423
+CFTR	ERLEC1	0.8558909648136892
+CFTR	DAB2	0.863443159858049
+CFTR	HIP1R	0.8628338709774962
+CFTR	RNF185	0.8558909648136892
+CFTR	AP2B1	0.8666098248257992
+CFTR	SGIP1	0.8658049874828022
+CFTR	DNM2	0.8621379174857935
+CFTR	VAMP3	0.8628338709774962
+EGF	rs4444903	0.8542055322677212
+CFTR	rs121909013	0.99
+CFTR	VAMP7	0.8628338709774962
+CFTR	STAM2	0.8628338709774962
+CFTR	HGS	0.8628338709774962
+CFTR	CBL	0.8628338709774962
+CFTR	RAB5A	0.8129393082389929
+CFTR	AAK1	0.865611713402943
+CFTR	DNAJC6	0.851137711762708
+CFTR	LDLRAP1	0.8628338709774962
+CFTR	ARPC4	0.8628338709774962
+CFTR	SYNJ2	0.8613363396709319
+CFTR	REPS2	0.8628338709774962
+CFTR	DVL2	0.863443159858049
+CFTR	EPN1	0.8628338709774962
+CFTR	SEL1L	0.8558909648136892
+CFTR	rs113993960	0.99
+CFTR	CLTA	0.865738626524793
+CFTR	IGF2R	0.8621379174857935
+CFTR	rs113993959	0.99
+CFTR	UBC	0.8658608065151423
+CFTR	ITSN1	0.8658049874828022
+CFTR	rs75039782	0.99
+CFTR	rs121908755	0.99
+CFTR	OCRL	0.8613363396709319
+CFTR	SCARB2	0.8621379174857935
+CFTR	EPS15L1	0.8628338709774962
+CFTR	LRP2	0.8628338709774962
+CFTR	rs193922525	0.99
+SLC22A8		1
+SLCO1A2		1
+SLC10A1		1
+SLC22A6		1
+SLC22A11		1
+Animal Mammary Neoplasms	AGFG1	1.0	
+Animal Mammary Neoplasms	AP2A1	1.0	
+Animal Mammary Neoplasms	APOB	1.0	
+Animal Mammary Neoplasms	BIN1	1.0	
+Animal Mammary Neoplasms	CD4	1.0	
+Animal Mammary Neoplasms	CFTR	1.0	
+Animal Mammary Neoplasms	CTTN	1.0	
+Animal Mammary Neoplasms	DAB2	1.0	
+Animal Mammary Neoplasms	DERL1	1.0	
+Animal Mammary Neoplasms	DNM2	1.0	
+Animal Mammary Neoplasms	EGF	1.0	
+Animal Mammary Neoplasms	EGFR	1.0	
+Animal Mammary Neoplasms	FNBP1L	1.0	
+Animal Mammary Neoplasms	GRB2	1.0	
+Animal Mammary Neoplasms	HIP1	1.0	
+Animal Mammary Neoplasms	IGF2R	1.0	
+Animal Mammary Neoplasms	PTGS2	1.0	
+Animal Mammary Neoplasms	REPS1	1.0	
+Animal Mammary Neoplasms	REPS2	1.0	
+Animal Mammary Neoplasms	RNF5	1.0	
+Animal Mammary Neoplasms	SEL1L	1.0	
+Animal Mammary Neoplasms	SH3GL2	1.0	
+Animal Mammary Neoplasms	SH3KBP1	1.0	
+Animal Mammary Neoplasms	SLC12A2	1.0	
+Animal Mammary Neoplasms	SLCO1A2	1.0	
+Animal Mammary Neoplasms	SNX9	1.0	
+Animal Mammary Neoplasms	SYNJ2	1.0	
+Animal Mammary Neoplasms	SYT1	1.0	
+Animal Mammary Neoplasms	TF	1.0	
+Animal Mammary Neoplasms	TFRC	1.0	
+Animal Mammary Neoplasms	TP53	1.0	
+Animal Mammary Neoplasms	TRIP10	1.0	
+Animal Mammary Neoplasms	VAMP8	1.0	
+Animal Mammary Neoplasms	WASL	1.0	
+Animal Mammary Neoplasms	WNT5A	1.0	
+Malignant neoplasm of pancreas	ACTR2	1.0	
+Malignant neoplasm of pancreas	ADRB2	1.0	
+Malignant neoplasm of pancreas	AP2A1	1.0	
+Malignant neoplasm of pancreas	ARPC1A	1.0	
+Malignant neoplasm of pancreas	AVP	1.0	
+Malignant neoplasm of pancreas	CBL	1.0	
+Malignant neoplasm of pancreas	CFTR	1.0	
+Malignant neoplasm of pancreas	CLTC	1.0	
+Malignant neoplasm of pancreas	CTTN	1.0	
+Malignant neoplasm of pancreas	DAB2	1.0	
+Malignant neoplasm of pancreas	DNM2	1.0	
+Malignant neoplasm of pancreas	EGF	1.0	
+Malignant neoplasm of pancreas	EGFR	1.0	
+Malignant neoplasm of pancreas	IGF2R	1.0	
+Malignant neoplasm of pancreas	KIAA0319	1.0	
+Malignant neoplasm of pancreas	LRP2	1.0	
+Malignant neoplasm of pancreas	PTGS2	1.0	
+Malignant neoplasm of pancreas	REPS1	1.0	
+Malignant neoplasm of pancreas	SEL1L	1.0	
+Malignant neoplasm of pancreas	SYT1	1.0	
+Malignant neoplasm of pancreas	SYT9	1.0	
+Malignant neoplasm of pancreas	TF	1.0	
+Malignant neoplasm of pancreas	TFRC	1.0	
+Malignant neoplasm of pancreas	TP53	1.0	
+Malignant neoplasm of pancreas	VCP	1.0	
+Malignant neoplasm of pancreas	WNT5A	1.0	
+Rhabdomyosarcoma alveolar	AP2A1	1.0	
+Rhabdomyosarcoma alveolar	ARPC5	1.0	
+Rhabdomyosarcoma alveolar	ARRB1	1.0	
+Rhabdomyosarcoma alveolar	CLTC	1.0	
+Rhabdomyosarcoma alveolar	CLTCL1	1.0	
+Rhabdomyosarcoma alveolar	EGF	1.0	
+Rhabdomyosarcoma alveolar	EGFR	1.0	
+Rhabdomyosarcoma alveolar	PTGS2	1.0	
+Rhabdomyosarcoma alveolar	SYNJ1	1.0	
+Rhabdomyosarcoma alveolar	SYT1	1.0	
+Rhabdomyosarcoma alveolar	TFRC	1.0	
+Rhabdomyosarcoma alveolar	TP53	1.0	
+Breast-ovarian cancer, familial 1	ADRB2	1.0	
+Breast-ovarian cancer, familial 1	AGFG1	1.0	
+Breast-ovarian cancer, familial 1	AMPH	1.0	
+Breast-ovarian cancer, familial 1	AP2A1	1.0	
+Breast-ovarian cancer, familial 1	APOB	1.0	
+Breast-ovarian cancer, familial 1	ARRB1	1.0	
+Breast-ovarian cancer, familial 1	ARRB2	1.0	
+Breast-ovarian cancer, familial 1	AVP	1.0	
+Breast-ovarian cancer, familial 1	BIN1	1.0	
+Breast-ovarian cancer, familial 1	CD3D	1.0	
+Breast-ovarian cancer, familial 1	CD4	1.0	
+Breast-ovarian cancer, familial 1	CFTR	1.0	
+Breast-ovarian cancer, familial 1	CLTC	1.0	
+Breast-ovarian cancer, familial 1	CTTN	1.0	
+Breast-ovarian cancer, familial 1	DAB2	1.0	
+Breast-ovarian cancer, familial 1	DERL1	1.0	
+Breast-ovarian cancer, familial 1	DNAJC6	1.0	
+Breast-ovarian cancer, familial 1	DNM2	1.0	
+Breast-ovarian cancer, familial 1	DVL2	1.0	
+Breast-ovarian cancer, familial 1	EGF	1.0	
+Breast-ovarian cancer, familial 1	EGFR	1.0	
+Breast-ovarian cancer, familial 1	ERLIN2	1.0	
+Breast-ovarian cancer, familial 1	FNBP1L	1.0	
+Breast-ovarian cancer, familial 1	GRB2	1.0	
+Breast-ovarian cancer, familial 1	IGF2R	1.0	
+Breast-ovarian cancer, familial 1	KIAA0319	1.0	
+Breast-ovarian cancer, familial 1	LRP2	1.0	
+Breast-ovarian cancer, familial 1	PICALM	1.0	
+Breast-ovarian cancer, familial 1	PTGS2	1.0	
+Breast-ovarian cancer, familial 1	RAB5A	1.0	
+Breast-ovarian cancer, familial 1	REPS2	1.0	
+Breast-ovarian cancer, familial 1	RNF5	1.0	
+Breast-ovarian cancer, familial 1	RPS27A	1.0	
+Breast-ovarian cancer, familial 1	SEL1L	1.0	
+Breast-ovarian cancer, familial 1	SH3GL2	1.0	
+Breast-ovarian cancer, familial 1	SH3KBP1	1.0	
+Breast-ovarian cancer, familial 1	SLCO1A2	1.0	
+Breast-ovarian cancer, familial 1	SNX9	1.0	
+Breast-ovarian cancer, familial 1	SYNJ2	1.0	
+Breast-ovarian cancer, familial 1	SYT1	1.0	
+Breast-ovarian cancer, familial 1	TF	1.0	
+Breast-ovarian cancer, familial 1	TFRC	1.0	
+Breast-ovarian cancer, familial 1	TP53	1.0	
+Breast-ovarian cancer, familial 1	TRIP10	1.0	
+Breast-ovarian cancer, familial 1	UBC	1.0	
+Breast-ovarian cancer, familial 1	VAMP7	1.0	
+Breast-ovarian cancer, familial 1	VCP	1.0	
+Breast-ovarian cancer, familial 1	WASL	1.0	
+Breast-ovarian cancer, familial 1	WNT5A	1.0	
+Adenovirus Infections	APOB	1.0	
+Adenovirus Infections	CFTR	1.0	
+Adenovirus Infections	DNM2	1.0	
+Adenovirus Infections	EGF	1.0	
+Adenovirus Infections	EGFR	1.0	
+Adenovirus Infections	TP53	1.0	
+Breast carcinoma	ADRB2	1.0	
+Breast carcinoma	AGFG1	1.0	
+Breast carcinoma	AMPH	1.0	
+Breast carcinoma	AP2A1	1.0	
+Breast carcinoma	APOB	1.0	
+Breast carcinoma	ARRB1	1.0	
+Breast carcinoma	ARRB2	1.0	
+Breast carcinoma	AVP	1.0	
+Breast carcinoma	BIN1	1.0	
+Breast carcinoma	CD3D	1.0	
+Breast carcinoma	CFTR	1.0	
+Breast carcinoma	CLTC	1.0	
+Breast carcinoma	CTTN	1.0	
+Breast carcinoma	DAB2	1.0	
+Breast carcinoma	DERL1	1.0	
+Breast carcinoma	DNAJC6	1.0	
+Breast carcinoma	DNM2	1.0	
+Breast carcinoma	DVL2	1.0	
+Breast carcinoma	EGF	1.0	
+Breast carcinoma	EGFR	1.0	
+Breast carcinoma	ERLIN2	1.0	
+Breast carcinoma	FNBP1L	1.0	
+Breast carcinoma	GRB2	1.0	
+Breast carcinoma	IGF2R	1.0	
+Breast carcinoma	KIAA0319	1.0	
+Breast carcinoma	LRP2	1.0	
+Breast carcinoma	PTGS2	1.0	
+Breast carcinoma	RAB5A	1.0	
+Breast carcinoma	REPS2	1.0	
+Breast carcinoma	RNF5	1.0	
+Breast carcinoma	RPS27A	1.0	
+Breast carcinoma	SEL1L	1.0	
+Breast carcinoma	SH3GL2	1.0	
+Breast carcinoma	SH3KBP1	1.0	
+Breast carcinoma	SLCO1A2	1.0	
+Breast carcinoma	SNX9	1.0	
+Breast carcinoma	SYNJ2	1.0	
+Breast carcinoma	SYT1	1.0	
+Breast carcinoma	TF	1.0	
+Breast carcinoma	TFRC	1.0	
+Breast carcinoma	TP53	1.0	
+Breast carcinoma	TRIP10	1.0	
+Breast carcinoma	UBC	1.0	
+Breast carcinoma	VAMP7	1.0	
+Breast carcinoma	VCP	1.0	
+Breast carcinoma	WASL	1.0	
+Breast carcinoma	WNT5A	1.0	
+Acute kidney injury	ADRB2	1.0	
+Acute kidney injury	AGFG1	1.0	
+Acute kidney injury	AVP	1.0	
+Acute kidney injury	EGF	1.0	
+Acute kidney injury	EGFR	1.0	
+Acute kidney injury	LRP2	1.0	
+Acute kidney injury	PTGS2	1.0	
+Acute kidney injury	SLC22A6	1.0	
+Acute kidney injury	SLC22A8	1.0	
+Acute kidney injury	TP53	1.0	
+Alzheimer Disease	ADRB2	1.0	
+Alzheimer Disease	AP2A2	1.0	
+Alzheimer Disease	APOB	1.0	
+Alzheimer Disease	ARRB2	1.0	
+Alzheimer Disease	BIN1	1.0	
+Alzheimer Disease	CFTR	1.0	
+Alzheimer Disease	CHRM2	1.0	
+Alzheimer Disease	DAB2	1.0	
+Alzheimer Disease	DNM2	1.0	
+Alzheimer Disease	EGFR	1.0	
+Alzheimer Disease	GRB2	1.0	
+Alzheimer Disease	IGF2R	1.0	
+Alzheimer Disease	ITSN1	1.0	
+Alzheimer Disease	LRP2	1.0	
+Alzheimer Disease	M6PR	1.0	
+Alzheimer Disease	PICALM	1.0	
+Alzheimer Disease	PTGS2	1.0	
+Alzheimer Disease	SH3GL2	1.0	
+Alzheimer Disease	SLC18A3	1.0	
+Alzheimer Disease	SYNJ1	1.0	
+Alzheimer Disease	SYT1	1.0	
+Alzheimer Disease	TF	1.0	
+Alzheimer Disease	TP53	1.0	
+Alzheimer Disease	UBB	1.0	
+Alzheimer Disease	VAMP2	1.0	
+Alzheimer Disease	VCP	1.0	
+Squamous Cell Neoplasms	EGF	1.0	
+Squamous Cell Neoplasms	EGFR	1.0	
+Squamous Cell Neoplasms	PTGS2	1.0	
+Squamous Cell Neoplasms	TP53	1.0	
+Diabetes insipidus	AVP	1.0	
+Diabetes insipidus	AVPR2	1.0	
+Diabetes insipidus	OCRL	1.0	
+Diabetes insipidus	TP53	1.0	
+Diabetes insipidus	UBB	1.0	
+Alcohol dependence	ADRB2	1.0	
+Alcohol dependence	AP2B1	1.0	
+Alcohol dependence	AVP	1.0	
+Alcohol dependence	CFTR	1.0	
+Alcohol dependence	CHRM2	1.0	
+Alcohol dependence	DAB2	1.0	
+Alcohol dependence	EGF	1.0	
+Alcohol dependence	HIP1	1.0	
+Alcohol dependence	KIAA0319	1.0	
+Alcohol dependence	LRP2	1.0	
+Alcohol dependence	SGIP1	1.0	
+Alcohol dependence	STON2	1.0	
+Alcohol dependence	TF	1.0	
+Alcohol dependence	TGOLN2	1.0	
+Alcohol dependence	TP53	1.0	
+Virus Diseases	ACTR2	1.0	
+Virus Diseases	APOB	1.0	
+Virus Diseases	CD4	1.0	
+Virus Diseases	CFTR	1.0	
+Virus Diseases	CTTN	1.0	
+Virus Diseases	EGF	1.0	
+Virus Diseases	IGF2R	1.0	
+Virus Diseases	KIAA0319	1.0	
+Virus Diseases	PTGS2	1.0	
+Virus Diseases	RAB5A	1.0	
+Virus Diseases	RNF5	1.0	
+Virus Diseases	SCARB2	1.0	
+Virus Diseases	SEL1L	1.0	
+Virus Diseases	SLC10A1	1.0	
+Virus Diseases	SLC22A8	1.0	
+Virus Diseases	TP53	1.0	
+Pericardial effusion	EGFR	1.0	
+Pericardial effusion	PTGS2	1.0	
+Pericardial effusion	SCARB2	1.0	
+Pericardial effusion	TP53	1.0	
+Pancreatic Carcinoma	ACTR2	1.0	
+Pancreatic Carcinoma	ADRB2	1.0	
+Pancreatic Carcinoma	AP2A1	1.0	
+Pancreatic Carcinoma	ARPC1A	1.0	
+Pancreatic Carcinoma	AVP	1.0	
+Pancreatic Carcinoma	CBL	1.0	
+Pancreatic Carcinoma	CFTR	1.0	
+Pancreatic Carcinoma	CLTC	1.0	
+Pancreatic Carcinoma	CTTN	1.0	
+Pancreatic Carcinoma	DNM2	1.0	
+Pancreatic Carcinoma	EGF	1.0	
+Pancreatic Carcinoma	EGFR	1.0	
+Pancreatic Carcinoma	FZD4	1.0	
+Pancreatic Carcinoma	IGF2R	1.0	
+Pancreatic Carcinoma	LRP2	1.0	
+Pancreatic Carcinoma	PTGS2	1.0	
+Pancreatic Carcinoma	REPS1	1.0	
+Pancreatic Carcinoma	SEL1L	1.0	
+Pancreatic Carcinoma	SYT1	1.0	
+Pancreatic Carcinoma	SYT9	1.0	
+Pancreatic Carcinoma	TF	1.0	
+Pancreatic Carcinoma	TFRC	1.0	
+Pancreatic Carcinoma	TP53	1.0	
+Pancreatic Carcinoma	VCP	1.0	
+Pancreatic Carcinoma	WNT5A	1.0	
+Rhabdoid Tumor of the Kidney	CBL	1.0	
+Rhabdoid Tumor of the Kidney	EGF	1.0	
+Rhabdoid Tumor of the Kidney	EGFR	1.0	
+Rhabdoid Tumor of the Kidney	HGS	1.0	
+Rhabdoid Tumor of the Kidney	PTGS2	1.0	
+Rhabdoid Tumor of the Kidney	TP53	1.0	
+Pes cavus	BIN1	1.0	
+Pes cavus	DNAJC6	1.0	
+Pes cavus	DNM2	1.0	
+Pes cavus	ERLIN2	1.0	
+Pes cavus	SYNJ1	1.0	
+Pes cavus	SYT2	1.0	
+Pes cavus	VCP	1.0	
+Myotubular myopathy	AMPH	1.0	
+Myotubular myopathy	BIN1	1.0	
+Myotubular myopathy	DNM2	1.0	
+Myotubular myopathy	WASL	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	ACTR2	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	ACTR3	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	CTTN	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	DNM2	1.0	
+Wiskott-Aldrich syndrome, 301000 (3)	WASL	1.0	
+Hypercholesterolemia, autosomal dominant, type B	ADRB2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	APOB	1.0	
+Hypercholesterolemia, autosomal dominant, type B	AVP	1.0	
+Hypercholesterolemia, autosomal dominant, type B	DAB2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	LDLRAP1	1.0	
+Hypercholesterolemia, autosomal dominant, type B	LRP2	1.0	
+Hypercholesterolemia, autosomal dominant, type B	OCRL	1.0	
+Hypercholesterolemia, autosomal dominant, type B	PICALM	1.0	
+Bronchogenic Carcinoma	EGFR	1.0	
+Bronchogenic Carcinoma	PTGS2	1.0	
+Bronchogenic Carcinoma	TP53	1.0	
+Bronchogenic Carcinoma	VCP	1.0	
+Monocytic leukemia	EPS15	1.0	
+Monocytic leukemia	PICALM	1.0	
+Monocytic leukemia	PTGS2	1.0	
+Monocytic leukemia	TP53	1.0	
+Acute intermittent porphyria	AVP	1.0	
+Acute intermittent porphyria	CFTR	1.0	
+Acute intermittent porphyria	EGFR	1.0	
+Acute intermittent porphyria	TP53	1.0	
+Duodenal Ulcer	AVP	1.0	
+Duodenal Ulcer	CFTR	1.0	
+Duodenal Ulcer	EGF	1.0	
+Duodenal Ulcer	PTGS2	1.0	
+Duodenal Ulcer	TP53	1.0	
+M5b Acute differentiated monocytic leukemia	EPS15	1.0	
+M5b Acute differentiated monocytic leukemia	PICALM	1.0	
+M5b Acute differentiated monocytic leukemia	PTGS2	1.0	
+M5b Acute differentiated monocytic leukemia	TFRC	1.0	
+M5b Acute differentiated monocytic leukemia	TP53	1.0	
+CARCINOMA OF VULVA	EGF	1.0	
+CARCINOMA OF VULVA	EGFR	1.0	
+CARCINOMA OF VULVA	PTGS2	1.0	
+CARCINOMA OF VULVA	TP53	1.0	
+Congestive heart failure	ADRB2	1.0	
+Congestive heart failure	ARRB1	1.0	
+Congestive heart failure	ARRB2	1.0	
+Congestive heart failure	AVP	1.0	
+Congestive heart failure	AVPR2	1.0	
+Congestive heart failure	BIN1	1.0	
+Congestive heart failure	CTTN	1.0	
+Congestive heart failure	DNM2	1.0	
+Congestive heart failure	EGFR	1.0	
+Congestive heart failure	FZD4	1.0	
+Congestive heart failure	PTGS2	1.0	
+Congestive heart failure	SCARB2	1.0	
+Congestive heart failure	TF	1.0	
+Congestive heart failure	TFRC	1.0	
+Congestive heart failure	TP53	1.0	
+Dementia familial British	APOB	1.0	
+Dementia familial British	BIN1	1.0	
+Dementia familial British	CD4	1.0	
+Dementia familial British	DNM2	1.0	
+Dementia familial British	EGF	1.0	
+Dementia familial British	PICALM	1.0	
+Dementia familial British	PTGS2	1.0	
+Dementia familial British	TP53	1.0	
+Dementia familial British	VCP	1.0	
+Bile duct cancer resectable	APOB	1.0	
+Bile duct cancer resectable	EGFR	1.0	
+Bile duct cancer resectable	PTGS2	1.0	
+Bile duct cancer resectable	TP53	1.0	
+Neoplasm of the gallbladder	APOB	1.0	
+Neoplasm of the gallbladder	EGF	1.0	
+Neoplasm of the gallbladder	EGFR	1.0	
+Neoplasm of the gallbladder	TP53	1.0	
+Rous Sarcoma	CFTR	1.0	
+Rous Sarcoma	EGF	1.0	
+Rous Sarcoma	RPS27A	1.0	
+Rous Sarcoma	UBC	1.0	
+Heart Failure	ADRB2	1.0	
+Heart Failure	ARRB1	1.0	
+Heart Failure	ARRB2	1.0	
+Heart Failure	AVP	1.0	
+Heart Failure	AVPR2	1.0	
+Heart Failure	BIN1	1.0	
+Heart Failure	CTTN	1.0	
+Heart Failure	DNM2	1.0	
+Heart Failure	EGFR	1.0	
+Heart Failure	FZD4	1.0	
+Heart Failure	PTGS2	1.0	
+Heart Failure	SCARB2	1.0	
+Heart Failure	SH3GL2	1.0	
+Heart Failure	TFRC	1.0	
+Heart Failure	TP53	1.0	
+Amyotrophic Lateral Sclerosis	AAK1	1.0	
+Amyotrophic Lateral Sclerosis	ADRB2	1.0	
+Amyotrophic Lateral Sclerosis	AMPH	1.0	
+Amyotrophic Lateral Sclerosis	APOB	1.0	
+Amyotrophic Lateral Sclerosis	DERL1	1.0	
+Amyotrophic Lateral Sclerosis	DNM2	1.0	
+Amyotrophic Lateral Sclerosis	EGF	1.0	
+Amyotrophic Lateral Sclerosis	EGFR	1.0	
+Amyotrophic Lateral Sclerosis	IGF2R	1.0	
+Amyotrophic Lateral Sclerosis	PTGS2	1.0	
+Amyotrophic Lateral Sclerosis	RAB5A	1.0	
+Amyotrophic Lateral Sclerosis	SYT1	1.0	
+Amyotrophic Lateral Sclerosis	TP53	1.0	
+Amyotrophic Lateral Sclerosis	VCP	1.0	
+Amyotrophic Lateral Sclerosis	WNT5A	1.0	
+Leukoplakia	CTTN	1.0	
+Leukoplakia	EGFR	1.0	
+Leukoplakia	PTGS2	1.0	
+Leukoplakia	TP53	1.0	
+Akinesia	DNAJC6	1.0	
+Akinesia	DNM2	1.0	
+Akinesia	SYNJ1	1.0	
+Chromosome 11p deletion syndrome	OCRL	1.0	
+Chromosome 11p deletion syndrome	SLC22A6	1.0	
+Chromosome 11p deletion syndrome	SLC22A8	1.0	
+Oral Cavity Carcinoma	CTTN	1.0	
+Oral Cavity Carcinoma	EGF	1.0	
+Oral Cavity Carcinoma	EGFR	1.0	
+Oral Cavity Carcinoma	PTGS2	1.0	
+Oral Cavity Carcinoma	TP53	1.0	
+Liver Cirrhosis, Biliary	ADRB2	1.0	
+Liver Cirrhosis, Biliary	APOB	1.0	
+Liver Cirrhosis, Biliary	ARRB2	1.0	
+Liver Cirrhosis, Biliary	AVP	1.0	
+Liver Cirrhosis, Biliary	EGF	1.0	
+Liver Cirrhosis, Biliary	EGFR	1.0	
+Liver Cirrhosis, Biliary	IGF2R	1.0	
+Liver Cirrhosis, Biliary	PTGS2	1.0	
+Liver Cirrhosis, Biliary	RPS27A	1.0	
+Liver Cirrhosis, Biliary	SCARB2	1.0	
+Liver Cirrhosis, Biliary	SLC10A1	1.0	
+Liver Cirrhosis, Biliary	STAM	1.0	
+Liver Cirrhosis, Biliary	SYT1	1.0	
+Liver Cirrhosis, Biliary	TF	1.0	
+Liver Cirrhosis, Biliary	TFRC	1.0	
+Liver Cirrhosis, Biliary	TP53	1.0	
+Huntington's chorea	FZD4	1.0	
+Huntington's chorea	HIP1	1.0	
+Huntington's chorea	PTGS2	1.0	
+Huntington's chorea	RPS27A	1.0	
+Huntington's chorea	TFRC	1.0	
+Huntington's chorea	TP53	1.0	
+Huntington's chorea	TRIP10	1.0	
+Huntington's chorea	UBC	1.0	
+Huntington's chorea	VCP	1.0	
+Bone neoplasms	EGFR	1.0	
+Bone neoplasms	IGF2R	1.0	
+Bone neoplasms	PTGS2	1.0	
+Bone neoplasms	SYT1	1.0	
+Bone neoplasms	TP53	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRB2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AP2B1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	APOB	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AVP	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CHRM2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	DVL2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	EGFR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HGS	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PTGS2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	SLC12A2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TF	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	TP53	1.0	
+Inappropriate ADH Syndrome	AVP	1.0	
+Inappropriate ADH Syndrome	TP53	1.0	
+Inappropriate ADH Syndrome	WNT5A	1.0	
+Dementia	APOB	1.0	
+Dementia	BIN1	1.0	
+Dementia	CD4	1.0	
+Dementia	DNM2	1.0	
+Dementia	EGF	1.0	
+Dementia	PICALM	1.0	
+Dementia	PTGS2	1.0	
+Dementia	SCARB2	1.0	
+Dementia	SEL1L	1.0	
+Dementia	TP53	1.0	
+Dementia	VCP	1.0	
+Adenocarcinoma, Clear Cell	EGF	1.0	
+Adenocarcinoma, Clear Cell	EGFR	1.0	
+Adenocarcinoma, Clear Cell	PTGS2	1.0	
+Adenocarcinoma, Clear Cell	SYT1	1.0	
+Adenocarcinoma, Clear Cell	TP53	1.0	
+Lymphoma, Large B-Cell, Diffuse	ARRB1	1.0	
+Lymphoma, Large B-Cell, Diffuse	ARRB2	1.0	
+Lymphoma, Large B-Cell, Diffuse	CBL	1.0	
+Lymphoma, Large B-Cell, Diffuse	CD3D	1.0	
+Lymphoma, Large B-Cell, Diffuse	CD3G	1.0	
+Lymphoma, Large B-Cell, Diffuse	CLTA	1.0	
+Lymphoma, Large B-Cell, Diffuse	CLTC	1.0	
+Lymphoma, Large B-Cell, Diffuse	EGF	1.0	
+Lymphoma, Large B-Cell, Diffuse	EGFR	1.0	
+Lymphoma, Large B-Cell, Diffuse	HIP1	1.0	
+Lymphoma, Large B-Cell, Diffuse	LDLRAP1	1.0	
+Lymphoma, Large B-Cell, Diffuse	PTGS2	1.0	
+Lymphoma, Large B-Cell, Diffuse	RPS27A	1.0	
+Lymphoma, Large B-Cell, Diffuse	SEL1L	1.0	
+Lymphoma, Large B-Cell, Diffuse	SLC22A8	1.0	
+Lymphoma, Large B-Cell, Diffuse	SYT1	1.0	
+Lymphoma, Large B-Cell, Diffuse	TFRC	1.0	
+Lymphoma, Large B-Cell, Diffuse	TP53	1.0	
+Lymphoma, Large B-Cell, Diffuse	UBC	1.0	
+Lymphoma, Large B-Cell, Diffuse	VCP	1.0	
+Malignant Fibrous Histiocytoma	EGF	1.0	
+Malignant Fibrous Histiocytoma	EGFR	1.0	
+Malignant Fibrous Histiocytoma	PTGS2	1.0	
+Malignant Fibrous Histiocytoma	TP53	1.0	
+Squamous cell carcinoma of the hypopharynx	EGF	1.0	
+Squamous cell carcinoma of the hypopharynx	PTGS2	1.0	
+Squamous cell carcinoma of the hypopharynx	TP53	1.0	
+Early gastric cancer	EGFR	1.0	
+Early gastric cancer	PTGS2	1.0	
+Early gastric cancer	TP53	1.0	
+Malignant neoplasm of vulva	EGFR	1.0	
+Malignant neoplasm of vulva	PTGS2	1.0	
+Malignant neoplasm of vulva	TP53	1.0	
+Astrocytoma, low grade	EGFR	1.0	
+Astrocytoma, low grade	TP53	1.0	
+Astrocytoma, low grade	WNT5A	1.0	
+Oropharyngeal squamous cell carcinoma	EGFR	1.0	
+Oropharyngeal squamous cell carcinoma	PTGS2	1.0	
+Oropharyngeal squamous cell carcinoma	TP53	1.0	
+Oropharyngeal squamous cell carcinoma	VCP	1.0	
+Epilepsy	ARPC2	1.0	
+Epilepsy	CHRM2	1.0	
+Epilepsy	DNAJC6	1.0	
+Epilepsy	HIP1	1.0	
+Epilepsy	KIAA0319	1.0	
+Epilepsy	REPS1	1.0	
+Epilepsy	SCARB2	1.0	
+Epilepsy	SLC12A2	1.0	
+Epilepsy	SLCO1A2	1.0	
+Epilepsy	SYT1	1.0	
+Epilepsy	VAMP2	1.0	
+Epilepsy	VCP	1.0	
+Epilepsy	WASL	1.0	
+Aortic atherosclerosis	APOB	1.0	
+Aortic atherosclerosis	LDLRAP1	1.0	
+Aortic atherosclerosis	PTGS2	1.0	
+Thymic Carcinoma	EGFR	1.0	
+Thymic Carcinoma	PTGS2	1.0	
+Thymic Carcinoma	TP53	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	APOB	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	DAB2	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	EGF	1.0	
+Hydatidiform mole, recurrent, 1, 231090 (3)	TP53	1.0	
+Hyponatremia	AVP	1.0	
+Hyponatremia	AVPR2	1.0	
+Hyponatremia	OCRL	1.0	
+High grade serous carcinoma	DAB2	1.0	
+High grade serous carcinoma	EGF	1.0	
+High grade serous carcinoma	EGFR	1.0	
+High grade serous carcinoma	PTGS2	1.0	
+High grade serous carcinoma	TP53	1.0	
+Parkinson Disease	AAK1	1.0	
+Parkinson Disease	AVP	1.0	
+Parkinson Disease	DNAJC6	1.0	
+Parkinson Disease	EGF	1.0	
+Parkinson Disease	GAK	1.0	
+Parkinson Disease	HIP1R	1.0	
+Parkinson Disease	IGF2R	1.0	
+Parkinson Disease	PICALM	1.0	
+Parkinson Disease	PTGS2	1.0	
+Parkinson Disease	SCARB2	1.0	
+Parkinson Disease	SH3GL2	1.0	
+Parkinson Disease	SYNJ1	1.0	
+Parkinson Disease	TF	1.0	
+Parkinson Disease	VCP	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	CBL	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	EGF	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	EGFR	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	KIAA0319	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	LRP2	1.0	
+Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	VCP	1.0	
+gliosarcoma	EGF	1.0	
+gliosarcoma	EGFR	1.0	
+gliosarcoma	PTGS2	1.0	
+gliosarcoma	TP53	1.0	
+Gastrinoma	EGF	1.0	
+Gastrinoma	EGFR	1.0	
+Gastrinoma	TP53	1.0	
+Secondary malignant neoplasm of lung	CTTN	1.0	
+Secondary malignant neoplasm of lung	EGF	1.0	
+Secondary malignant neoplasm of lung	EGFR	1.0	
+Secondary malignant neoplasm of lung	FNBP1L	1.0	
+Secondary malignant neoplasm of lung	GRB2	1.0	
+Secondary malignant neoplasm of lung	PTGS2	1.0	
+Secondary malignant neoplasm of lung	SYNJ2	1.0	
+Secondary malignant neoplasm of lung	SYT1	1.0	
+Secondary malignant neoplasm of lung	TFRC	1.0	
+Secondary malignant neoplasm of lung	TP53	1.0	
+Secondary malignant neoplasm of lung	TRIP10	1.0	
+Secondary malignant neoplasm of lung	VCP	1.0	
+Complete hydatidiform mole	APOB	1.0	
+Complete hydatidiform mole	EGFR	1.0	
+Complete hydatidiform mole	TP53	1.0	
+Malignant tumor of prostate	ACTR2	1.0	
+Malignant tumor of prostate	ARRB2	1.0	
+Malignant tumor of prostate	BIN1	1.0	
+Malignant tumor of prostate	CFTR	1.0	
+Malignant tumor of prostate	CLTC	1.0	
+Malignant tumor of prostate	DAB2	1.0	
+Malignant tumor of prostate	DNM2	1.0	
+Malignant tumor of prostate	EGF	1.0	
+Malignant tumor of prostate	EGFR	1.0	
+Malignant tumor of prostate	FZD4	1.0	
+Malignant tumor of prostate	GAK	1.0	
+Malignant tumor of prostate	HIP1	1.0	
+Malignant tumor of prostate	IGF2R	1.0	
+Malignant tumor of prostate	KIAA0319	1.0	
+Malignant tumor of prostate	LRP2	1.0	
+Malignant tumor of prostate	M6PR	1.0	
+Malignant tumor of prostate	PACSIN2	1.0	
+Malignant tumor of prostate	PIK3C2A	1.0	
+Malignant tumor of prostate	PTGS2	1.0	
+Malignant tumor of prostate	REPS1	1.0	
+Malignant tumor of prostate	REPS2	1.0	
+Malignant tumor of prostate	SCARB2	1.0	
+Malignant tumor of prostate	SEL1L	1.0	
+Malignant tumor of prostate	SLCO1A2	1.0	
+Malignant tumor of prostate	STAM2	1.0	
+Malignant tumor of prostate	SYT1	1.0	
+Malignant tumor of prostate	TF	1.0	
+Malignant tumor of prostate	TFRC	1.0	
+Malignant tumor of prostate	TP53	1.0	
+Malignant tumor of prostate	VAMP3	1.0	
+Malignant tumor of prostate	VCP	1.0	
+Malignant tumor of prostate	WNT5A	1.0	
+Metastatic Prostate Carcinoma	ADRB2	1.0	
+Metastatic Prostate Carcinoma	BIN1	1.0	
+Metastatic Prostate Carcinoma	EGF	1.0	
+Metastatic Prostate Carcinoma	EGFR	1.0	
+Metastatic Prostate Carcinoma	PTGS2	1.0	
+Metastatic Prostate Carcinoma	SYT1	1.0	
+Metastatic Prostate Carcinoma	TP53	1.0	
+Comedone	EGF	1.0	
+Comedone	EGFR	1.0	
+Comedone	TP53	1.0	
+Bipolar affective disorder	ADRB2	1.0	
+Bipolar affective disorder	APOB	1.0	
+Bipolar affective disorder	AVP	1.0	
+Bipolar affective disorder	CHRM2	1.0	
+Bipolar affective disorder	HIP1R	1.0	
+Bipolar affective disorder	KIAA0319	1.0	
+Bipolar affective disorder	RPS27A	1.0	
+Bipolar affective disorder	SLC22A6	1.0	
+Bipolar affective disorder	SYNJ1	1.0	
+Bipolar affective disorder	TP53	1.0	
+Bipolar affective disorder	UBC	1.0	
+Bipolar affective disorder	VAMP2	1.0	
+Bipolar affective disorder	VAMP3	1.0	
+Bipolar affective disorder	VAMP7	1.0	
+Hepatitis C	AAK1	1.0	
+Hepatitis C	AP2M1	1.0	
+Hepatitis C	APOB	1.0	
+Hepatitis C	CD4	1.0	
+Hepatitis C	EGF	1.0	
+Hepatitis C	EGFR	1.0	
+Hepatitis C	GAK	1.0	
+Hepatitis C	GRB2	1.0	
+Hepatitis C	PTGS2	1.0	
+Hepatitis C	RAB5A	1.0	
+Hepatitis C	TFRC	1.0	
+Hepatitis C	TP53	1.0	
+Hepatitis C	WNT5A	1.0	
+Pain	ADRB2	1.0	
+Pain	APOB	1.0	
+Pain	AVP	1.0	
+Pain	CFTR	1.0	
+Pain	CLTC	1.0	
+Pain	CLTCL1	1.0	
+Pain	LDLRAP1	1.0	
+Pain	PTGS2	1.0	
+Pain	SCARB2	1.0	
+Pain	SLC18A3	1.0	
+Pain	TP53	1.0	
+Pain	VCP	1.0	
+Juvenile neuronal ceroid lipofuscinosis	AGFG1	1.0	
+Juvenile neuronal ceroid lipofuscinosis	PICALM	1.0	
+Juvenile neuronal ceroid lipofuscinosis	TRIP10	1.0	
+Nasopharyngeal cancer recurrent	EGF	1.0	
+Nasopharyngeal cancer recurrent	EGFR	1.0	
+Nasopharyngeal cancer recurrent	SYT1	1.0	
+Nasopharyngeal cancer recurrent	TP53	1.0	
+Parkinsonism	DNAJC6	1.0	
+Parkinsonism	EGFR	1.0	
+Parkinsonism	LRP2	1.0	
+Parkinsonism	PTGS2	1.0	
+Parkinsonism	SYNJ1	1.0	
+Parkinsonism	TP53	1.0	
+Parkinsonism	VCP	1.0	
+Breast adenocarcinoma	EGF	1.0	
+Breast adenocarcinoma	EGFR	1.0	
+Breast adenocarcinoma	FNBP1L	1.0	
+Breast adenocarcinoma	PTGS2	1.0	
+Breast adenocarcinoma	TP53	1.0	
+Gaucher Disease	AGFG1	1.0	
+Gaucher Disease	AVPR2	1.0	
+Gaucher Disease	CFTR	1.0	
+Gaucher Disease	SCARB2	1.0	
+Osteomalacia	AVPR2	1.0	
+Osteomalacia	LRP2	1.0	
+Osteomalacia	OCRL	1.0	
+Invasive Lobular Breast Carcinoma	DERL1	1.0	
+Invasive Lobular Breast Carcinoma	PTGS2	1.0	
+Invasive Lobular Breast Carcinoma	TP53	1.0	
+Nasal polyposis	ADRB2	1.0	
+Nasal polyposis	AP2A1	1.0	
+Nasal polyposis	CFTR	1.0	
+Nasal polyposis	EGFR	1.0	
+Nasal polyposis	PTGS2	1.0	
+Nasal polyposis	SYT1	1.0	
+Nasal polyposis	TP53	1.0	
+Miller Dieker syndrome	CBL	1.0	
+Miller Dieker syndrome	DERL1	1.0	
+Miller Dieker syndrome	KIAA0319	1.0	
+Miller Dieker syndrome	TP53	1.0	
+Chronic viral hepatitis	EGF	1.0	
+Chronic viral hepatitis	TFRC	1.0	
+Chronic viral hepatitis	TP53	1.0	
+Mammary adenocarcinoma	EGF	1.0	
+Mammary adenocarcinoma	TFRC	1.0	
+Mammary adenocarcinoma	TP53	1.0	
+Malignant tumor of urinary bladder	AGFG1	1.0	
+Malignant tumor of urinary bladder	APOB	1.0	
+Malignant tumor of urinary bladder	CD4	1.0	
+Malignant tumor of urinary bladder	CFTR	1.0	
+Malignant tumor of urinary bladder	CTTN	1.0	
+Malignant tumor of urinary bladder	DAB2	1.0	
+Malignant tumor of urinary bladder	EGF	1.0	
+Malignant tumor of urinary bladder	EGFR	1.0	
+Malignant tumor of urinary bladder	FZD4	1.0	
+Malignant tumor of urinary bladder	GRB2	1.0	
+Malignant tumor of urinary bladder	IGF2R	1.0	
+Malignant tumor of urinary bladder	PTGS2	1.0	
+Malignant tumor of urinary bladder	REPS1	1.0	
+Malignant tumor of urinary bladder	RPS27A	1.0	
+Malignant tumor of urinary bladder	SYT1	1.0	
+Malignant tumor of urinary bladder	TFRC	1.0	
+Malignant tumor of urinary bladder	TP53	1.0	
+Malignant tumor of urinary bladder	UBC	1.0	
+Malignant tumor of urinary bladder	WNT5A	1.0	
+Peutz-Jeghers syndrome	EGFR	1.0	
+Peutz-Jeghers syndrome	PTGS2	1.0	
+Peutz-Jeghers syndrome	TP53	1.0	
+Peutz-Jeghers syndrome	WNT5A	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	EGF	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	PTGS2	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	TP53	1.0	
+Polyposis syndrome, mixed hereditary 1 (4)	WNT5A	1.0	
+Reduced tendon reflexes	APOB	1.0	
+Reduced tendon reflexes	BIN1	1.0	
+Reduced tendon reflexes	DNAJC6	1.0	
+Reduced tendon reflexes	DNM2	1.0	
+Reduced tendon reflexes	OCRL	1.0	
+Reduced tendon reflexes	SYNJ1	1.0	
+Reduced tendon reflexes	SYT2	1.0	
+Reduced tendon reflexes	VCP	1.0	
+Endometrioma	EGFR	1.0	
+Endometrioma	PTGS2	1.0	
+Endometrioma	SYT1	1.0	
+Endometrioma	TP53	1.0	
+Down Syndrome	ADRB2	1.0	
+Down Syndrome	AMPH	1.0	
+Down Syndrome	ITSN1	1.0	
+Down Syndrome	PICALM	1.0	
+Down Syndrome	PTGS2	1.0	
+Down Syndrome	RAB5A	1.0	
+Down Syndrome	SYNJ1	1.0	
+Down Syndrome	SYT1	1.0	
+Down Syndrome	TP53	1.0	
+Down Syndrome	UBB	1.0	
+Prostate cancer stage C	EGF	1.0	
+Prostate cancer stage C	PTGS2	1.0	
+Prostate cancer stage C	TP53	1.0	
+Diffuse Astrocytoma	EGFR	1.0	
+Diffuse Astrocytoma	PTGS2	1.0	
+Diffuse Astrocytoma	TP53	1.0	
+Intracranial glioma	EGF	1.0	
+Intracranial glioma	EGFR	1.0	
+Intracranial glioma	TP53	1.0	
+Hypercalciuria	AP2S1	1.0	
+Hypercalciuria	CFTR	1.0	
+Hypercalciuria	LRP2	1.0	
+Hypercalciuria	OCRL	1.0	
+Alzheimer Disease, Late Onset	ARRB2	1.0	
+Alzheimer Disease, Late Onset	BIN1	1.0	
+Alzheimer Disease, Late Onset	DNM2	1.0	
+Alzheimer Disease, Late Onset	PICALM	1.0	
+Cancer Cell Growth	AVP	1.0	
+Cancer Cell Growth	EGF	1.0	
+Cancer Cell Growth	EGFR	1.0	
+Cancer Cell Growth	ERLIN2	1.0	
+Cancer Cell Growth	FZD4	1.0	
+Cancer Cell Growth	PTGS2	1.0	
+Cancer Cell Growth	TP53	1.0	
+Cancer Cell Growth	TRIP10	1.0	
+Intestinal Cancer	PTGS2	1.0	
+Intestinal Cancer	TP53	1.0	
+Intestinal Cancer	WNT5A	1.0	
+Tobacco Use Disorder	AAK1	1.0	
+Tobacco Use Disorder	AMPH	1.0	
+Tobacco Use Disorder	APOB	1.0	
+Tobacco Use Disorder	ARRB1	1.0	
+Tobacco Use Disorder	ARRB2	1.0	
+Tobacco Use Disorder	CBL	1.0	
+Tobacco Use Disorder	CHRM2	1.0	
+Tobacco Use Disorder	CLTCL1	1.0	
+Tobacco Use Disorder	DAB2	1.0	
+Tobacco Use Disorder	EGF	1.0	
+Tobacco Use Disorder	EGFR	1.0	
+Tobacco Use Disorder	EPN2	1.0	
+Tobacco Use Disorder	ERLIN1	1.0	
+Tobacco Use Disorder	FNBP1	1.0	
+Tobacco Use Disorder	FNBP1L	1.0	
+Tobacco Use Disorder	GRB2	1.0	
+Tobacco Use Disorder	HIP1R	1.0	
+Tobacco Use Disorder	IGF2R	1.0	
+Tobacco Use Disorder	LRP2	1.0	
+Tobacco Use Disorder	PACSIN2	1.0	
+Tobacco Use Disorder	PIK3C2A	1.0	
+Tobacco Use Disorder	SGIP1	1.0	
+Tobacco Use Disorder	SH3GL2	1.0	
+Tobacco Use Disorder	SLC12A2	1.0	
+Tobacco Use Disorder	SLC18A3	1.0	
+Tobacco Use Disorder	SLCO1A2	1.0	
+Tobacco Use Disorder	SNX9	1.0	
+Tobacco Use Disorder	SYT1	1.0	
+Tobacco Use Disorder	SYT9	1.0	
+Tobacco Use Disorder	TF	1.0	
+Tobacco Use Disorder	TP53	1.0	
+Tobacco Use Disorder	WNT5A	1.0	
+Neoplasm of the tongue	PIK3C2A	1.0	
+Neoplasm of the tongue	PTGS2	1.0	
+Neoplasm of the tongue	TP53	1.0	
+Metaplasia	EGF	1.0	
+Metaplasia	EGFR	1.0	
+Metaplasia	PTGS2	1.0	
+Metaplasia	TP53	1.0	
+Gait ataxia	DNAJC6	1.0	
+Gait ataxia	HIP1	1.0	
+Gait ataxia	SCARB2	1.0	
+Gait ataxia	SYNJ1	1.0	
+Benign melanocytic nevus	EGF	1.0	
+Benign melanocytic nevus	EGFR	1.0	
+Benign melanocytic nevus	LRP2	1.0	
+Benign melanocytic nevus	TP53	1.0	
+Symptomatic human immunodeficiency virus infection	ACTR2	1.0	
+Symptomatic human immunodeficiency virus infection	ACTR3	1.0	
+Symptomatic human immunodeficiency virus infection	ADRB2	1.0	
+Symptomatic human immunodeficiency virus infection	APOB	1.0	
+Symptomatic human immunodeficiency virus infection	CBL	1.0	
+Symptomatic human immunodeficiency virus infection	CD3G	1.0	
+Symptomatic human immunodeficiency virus infection	CD4	1.0	
+Symptomatic human immunodeficiency virus infection	CFTR	1.0	
+Symptomatic human immunodeficiency virus infection	CLTC	1.0	
+Symptomatic human immunodeficiency virus infection	DNM2	1.0	
+Symptomatic human immunodeficiency virus infection	EGFR	1.0	
+Symptomatic human immunodeficiency virus infection	FZD4	1.0	
+Symptomatic human immunodeficiency virus infection	GRB2	1.0	
+Symptomatic human immunodeficiency virus infection	HGS	1.0	
+Symptomatic human immunodeficiency virus infection	IGF2R	1.0	
+Symptomatic human immunodeficiency virus infection	LRP2	1.0	
+Symptomatic human immunodeficiency virus infection	PTGS2	1.0	
+Symptomatic human immunodeficiency virus infection	RAB5A	1.0	
+Symptomatic human immunodeficiency virus infection	SLC22A11	1.0	
+Symptomatic human immunodeficiency virus infection	SLC22A6	1.0	
+Symptomatic human immunodeficiency virus infection	SYT1	1.0	
+Symptomatic human immunodeficiency virus infection	TFRC	1.0	
+Symptomatic human immunodeficiency virus infection	TP53	1.0	
+Carcinosarcoma	EGF	1.0	
+Carcinosarcoma	EGFR	1.0	
+Carcinosarcoma	TP53	1.0	
+Gestational trophoblastic disease	DAB2	1.0	
+Gestational trophoblastic disease	EGFR	1.0	
+Gestational trophoblastic disease	TP53	1.0	
+Bladder carcinoma	AGFG1	1.0	
+Bladder carcinoma	CFTR	1.0	
+Bladder carcinoma	CTTN	1.0	
+Bladder carcinoma	DAB2	1.0	
+Bladder carcinoma	EGF	1.0	
+Bladder carcinoma	EGFR	1.0	
+Bladder carcinoma	FZD4	1.0	
+Bladder carcinoma	GRB2	1.0	
+Bladder carcinoma	PTGS2	1.0	
+Bladder carcinoma	REPS1	1.0	
+Bladder carcinoma	RPS27A	1.0	
+Bladder carcinoma	SYT1	1.0	
+Bladder carcinoma	TFRC	1.0	
+Bladder carcinoma	TP53	1.0	
+Bladder carcinoma	UBC	1.0	
+Bladder carcinoma	WNT5A	1.0	
+Schwannoma	CTTN	1.0	
+Schwannoma	EGF	1.0	
+Schwannoma	EGFR	1.0	
+Schwannoma	HGS	1.0	
+Schwannoma	TP53	1.0	
+Abnormality of facial musculature	BIN1	1.0	
+Abnormality of facial musculature	DNAJC6	1.0	
+Abnormality of facial musculature	DNM2	1.0	
+Abnormality of facial musculature	SYNJ1	1.0	
+Abnormality of facial musculature	VCP	1.0	
+Hydatidiform mole, recurrent, 2	APOB	1.0	
+Hydatidiform mole, recurrent, 2	EGF	1.0	
+Hydatidiform mole, recurrent, 2	EGFR	1.0	
+Hydatidiform mole, recurrent, 2	TP53	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ARRB1	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	ARRB2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	CTTN	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	EGF	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	EGFR	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	IGF2R	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	PTGS2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	RPS27A	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	TP53	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	TRIP10	1.0	
+Senile plaques	APOB	1.0	
+Senile plaques	LRP2	1.0	
+Senile plaques	PTGS2	1.0	
+Senile plaques	TF	1.0	
+Senile plaques	UBB	1.0	
+Senile plaques	VCP	1.0	
+Senile plaques	WNT5A	1.0	
+Tuberous sclerosis syndrome	EGF	1.0	
+Tuberous sclerosis syndrome	EGFR	1.0	
+Tuberous sclerosis syndrome	KIAA0319	1.0	
+Tuberous sclerosis syndrome	PTGS2	1.0	
+Tuberous sclerosis syndrome	TFRC	1.0	
+Tuberous sclerosis syndrome	TP53	1.0	
+Cholesteatoma	EGF	1.0	
+Cholesteatoma	EGFR	1.0	
+Cholesteatoma	TP53	1.0	
+Chronic interstitial cystitis	ADRB2	1.0	
+Chronic interstitial cystitis	EGF	1.0	
+Chronic interstitial cystitis	TP53	1.0	
+Dementia, Vascular	APOB	1.0	
+Dementia, Vascular	AVP	1.0	
+Dementia, Vascular	EGF	1.0	
+Dementia, Vascular	TP53	1.0	
+granulosa cell tumor	EGF	1.0	
+granulosa cell tumor	EGFR	1.0	
+granulosa cell tumor	FZD4	1.0	
+granulosa cell tumor	TP53	1.0	
+Undifferentiated carcinoma	EGFR	1.0	
+Undifferentiated carcinoma	PTGS2	1.0	
+Undifferentiated carcinoma	SYT1	1.0	
+Undifferentiated carcinoma	TP53	1.0	
+Laryngeal Squamous Cell Carcinoma	EGFR	1.0	
+Laryngeal Squamous Cell Carcinoma	IGF2R	1.0	
+Laryngeal Squamous Cell Carcinoma	PTGS2	1.0	
+Laryngeal Squamous Cell Carcinoma	SH3GL2	1.0	
+Laryngeal Squamous Cell Carcinoma	TP53	1.0	
+Abnormality of the digestive system	AP2S1	1.0	
+Abnormality of the digestive system	APOB	1.0	
+Abnormality of the digestive system	AVP	1.0	
+Abnormality of the digestive system	AVPR2	1.0	
+Abnormality of the digestive system	BIN1	1.0	
+Abnormality of the digestive system	CD3D	1.0	
+Abnormality of the digestive system	CD3G	1.0	
+Abnormality of the digestive system	CFTR	1.0	
+Abnormality of the digestive system	EGFR	1.0	
+Abnormality of the digestive system	ERLIN2	1.0	
+Abnormality of the digestive system	IGF2R	1.0	
+Abnormality of the digestive system	LDLRAP1	1.0	
+Abnormality of the digestive system	LRP2	1.0	
+Abnormality of the digestive system	NECAP1	1.0	
+Abnormality of the digestive system	OCRL	1.0	
+Abnormality of the digestive system	SCARB2	1.0	
+Abnormality of the digestive system	TF	1.0	
+Abnormality of the digestive system	TFRC	1.0	
+Abnormality of the digestive system	TP53	1.0	
+Abnormality of the digestive system	VCP	1.0	
+Abnormality of the digestive system	WNT5A	1.0	
+Lip and Oral Cavity Carcinoma	AVP	1.0	
+Lip and Oral Cavity Carcinoma	CTTN	1.0	
+Lip and Oral Cavity Carcinoma	EGF	1.0	
+Lip and Oral Cavity Carcinoma	EGFR	1.0	
+Lip and Oral Cavity Carcinoma	IGF2R	1.0	
+Lip and Oral Cavity Carcinoma	PTGS2	1.0	
+Lip and Oral Cavity Carcinoma	SYT1	1.0	
+Lip and Oral Cavity Carcinoma	TFRC	1.0	
+Lip and Oral Cavity Carcinoma	TP53	1.0	
+Areflexia	BIN1	1.0	
+Areflexia	DNM2	1.0	
+Areflexia	OCRL	1.0	
+Areflexia	SYT2	1.0	
+Areflexia	VCP	1.0	
+Bone necrosis	APOB	1.0	
+Bone necrosis	TF	1.0	
+Bone necrosis	TP53	1.0	
+Autosomal recessive polycystic kidney disease	CFTR	1.0	
+Autosomal recessive polycystic kidney disease	EGF	1.0	
+Autosomal recessive polycystic kidney disease	EGFR	1.0	
+Ganglioglioma	EGFR	1.0	
+Ganglioglioma	KIAA0319	1.0	
+Ganglioglioma	TP53	1.0	
+Mammary Carcinoma, Human	EGF	1.0	
+Mammary Carcinoma, Human	EGFR	1.0	
+Mammary Carcinoma, Human	TP53	1.0	
+Cholera	APOB	1.0	
+Cholera	CFTR	1.0	
+Cholera	EGF	1.0	
+Cholera	EGFR	1.0	
+Cholecystolithiasis	APOB	1.0	
+Cholecystolithiasis	PTGS2	1.0	
+Cholecystolithiasis	SLCO1A2	1.0	
+Cholecystolithiasis	TP53	1.0	
+Carcinoid tumor no ICD-O subtype	CFTR	1.0	
+Carcinoid tumor no ICD-O subtype	EGF	1.0	
+Carcinoid tumor no ICD-O subtype	EGFR	1.0	
+Carcinoid tumor no ICD-O subtype	TP53	1.0	
+Prostate carcinoma	ACTR2	1.0	
+Prostate carcinoma	ARRB2	1.0	
+Prostate carcinoma	BIN1	1.0	
+Prostate carcinoma	CFTR	1.0	
+Prostate carcinoma	CLTC	1.0	
+Prostate carcinoma	DAB2	1.0	
+Prostate carcinoma	DNM2	1.0	
+Prostate carcinoma	EGF	1.0	
+Prostate carcinoma	EGFR	1.0	
+Prostate carcinoma	FZD4	1.0	
+Prostate carcinoma	GAK	1.0	
+Prostate carcinoma	HIP1	1.0	
+Prostate carcinoma	IGF2R	1.0	
+Prostate carcinoma	KIAA0319	1.0	
+Prostate carcinoma	LRP2	1.0	
+Prostate carcinoma	M6PR	1.0	
+Prostate carcinoma	PTGS2	1.0	
+Prostate carcinoma	REPS1	1.0	
+Prostate carcinoma	REPS2	1.0	
+Prostate carcinoma	SCARB2	1.0	
+Prostate carcinoma	SEL1L	1.0	
+Prostate carcinoma	SLCO1A2	1.0	
+Prostate carcinoma	SYT1	1.0	
+Prostate carcinoma	TF	1.0	
+Prostate carcinoma	TFRC	1.0	
+Prostate carcinoma	TP53	1.0	
+Prostate carcinoma	VAMP3	1.0	
+Prostate carcinoma	VCP	1.0	
+Prostate carcinoma	WNT5A	1.0	
+Mitral regurgitation	ADRB2	1.0	
+Mitral regurgitation	APOB	1.0	
+Mitral regurgitation	CBL	1.0	
+Mitral regurgitation	LDLRAP1	1.0	
+Melanocytic nevus of skin	EGF	1.0	
+Melanocytic nevus of skin	LRP2	1.0	
+Melanocytic nevus of skin	TP53	1.0	
+Prostatic Intraepithelial Neoplasias	ARRB2	1.0	
+Prostatic Intraepithelial Neoplasias	EGFR	1.0	
+Prostatic Intraepithelial Neoplasias	PTGS2	1.0	
+Prostatic Intraepithelial Neoplasias	SYT1	1.0	
+Prostatic Intraepithelial Neoplasias	TP53	1.0	
+Neck Neoplasms	CTTN	1.0	
+Neck Neoplasms	EGFR	1.0	
+Neck Neoplasms	TP53	1.0	
+Neoplastic Cell Transformation	BIN1	1.0	
+Neoplastic Cell Transformation	EGF	1.0	
+Neoplastic Cell Transformation	TFRC	1.0	
+Neoplastic Cell Transformation	TP53	1.0	
+Neoplastic Cell Transformation	WNT5A	1.0	
+Mammary Neoplasms, Experimental	EGFR	1.0	
+Mammary Neoplasms, Experimental	PTGS2	1.0	
+Mammary Neoplasms, Experimental	SLC12A2	1.0	
+Mammary Neoplasms, Experimental	TF	1.0	
+Mammary Neoplasms, Experimental	TP53	1.0	
+Mammary Neoplasms, Experimental	VAMP8	1.0	
+Distal muscle weakness	BIN1	1.0	
+Distal muscle weakness	DNM2	1.0	
+Distal muscle weakness	SYT2	1.0	
+Distal muscle weakness	VCP	1.0	
+Intestinal Neoplasms	DVL2	1.0	
+Intestinal Neoplasms	EGFR	1.0	
+Intestinal Neoplasms	PTGS2	1.0	
+Intestinal Neoplasms	TP53	1.0	
+Intestinal Neoplasms	WNT5A	1.0	
+Inflammatory disorder	ADRB2	1.0	
+Inflammatory disorder	CFTR	1.0	
+Inflammatory disorder	CTTN	1.0	
+Inflammatory disorder	FNBP1	1.0	
+Inflammatory disorder	PTGS2	1.0	
+Inflammatory disorder	SYT1	1.0	
+Inflammatory disorder	TP53	1.0	
+Prostatic Neoplasms	ADRB2	1.0	
+Prostatic Neoplasms	ARRB2	1.0	
+Prostatic Neoplasms	BIN1	1.0	
+Prostatic Neoplasms	CBL	1.0	
+Prostatic Neoplasms	CFTR	1.0	
+Prostatic Neoplasms	DAB2	1.0	
+Prostatic Neoplasms	EGF	1.0	
+Prostatic Neoplasms	EGFR	1.0	
+Prostatic Neoplasms	HIP1	1.0	
+Prostatic Neoplasms	IGF2R	1.0	
+Prostatic Neoplasms	LRP2	1.0	
+Prostatic Neoplasms	M6PR	1.0	
+Prostatic Neoplasms	PTGS2	1.0	
+Prostatic Neoplasms	REPS2	1.0	
+Prostatic Neoplasms	RPS27A	1.0	
+Prostatic Neoplasms	SLC12A2	1.0	
+Prostatic Neoplasms	SYNJ2	1.0	
+Prostatic Neoplasms	TP53	1.0	
+Prostatic Neoplasms	VAMP8	1.0	
+Prostatic Neoplasms	WNT5A	1.0	
+Airway Obstruction	ADRB2	1.0	
+Airway Obstruction	CFTR	1.0	
+Airway Obstruction	TFRC	1.0	
+Hepatocellular adenoma	EGF	1.0	
+Hepatocellular adenoma	IGF2R	1.0	
+Hepatocellular adenoma	TP53	1.0	
+Papillomavirus Infections	EGFR	1.0	
+Papillomavirus Infections	TP53	1.0	
+Papillomavirus Infections	VAMP7	1.0	
+Abnormality of head blood vessel	APOB	1.0	
+Abnormality of head blood vessel	FZD4	1.0	
+Abnormality of head blood vessel	LDLRAP1	1.0	

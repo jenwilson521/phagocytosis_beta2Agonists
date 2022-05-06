@@ -1,0 +1,191 @@
+node1	node2	edge_score	
+DB00833	SLC15A2	1.0	
+DB00833	MPO	1.0	
+SLC15A2		1
+MPO		1
+Cystic Fibrosis	MPO	1.0	
+Cystic Fibrosis	SLC15A2	1.0	
+Multiple Sclerosis	MPO	1.0	
+Multiple Sclerosis	SLC15A2	1.0	
+Asbestosis	MPO	1.0	
+Drug Eruptions	MPO	1.0	
+Granulocytic Sarcoma	MPO	1.0	
+Enteritis	MPO	1.0	
+Churg-Strauss Syndrome	MPO	1.0	
+Polymyalgia Rheumatica	MPO	1.0	
+Microscopic Polyarteritis	MPO	1.0	
+Nephrosclerosis	MPO	1.0	
+Cerebral aneurysm	MPO	1.0	
+Granulomatosis	MPO	1.0	
+Idiopathic crescentic glomerulonephritis	MPO	1.0	
+Diffuse Scleroderma	MPO	1.0	
+Ovarian epithelial cancer stage III	MPO	1.0	
+Stomach Diseases	MPO	1.0	
+Fabry disease	MPO	1.0	
+Agranulocytosis	MPO	1.0	
+Renovascular hypertension	MPO	1.0	
+Pelvic inflammatory disease	MPO	1.0	
+Vascular lesions	MPO	1.0	
+Respiratory Tract Diseases	MPO	1.0	
+Biliary tract neoplasm	MPO	1.0	
+Chronic neutrophilia	MPO	1.0	
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	MPO	1.0	
+Shigella Infections	MPO	1.0	
+Infiltrating Cervical Carcinoma	MPO	1.0	
+Pharyngeal Neoplasms	MPO	1.0	
+Early-Stage Breast Carcinoma	MPO	1.0	
+Alpha-1-antitrypsin deficiency	MPO	1.0	
+Neurodegeneration with brain iron accumulation 4	MPO	1.0	
+Occupational Diseases	MPO	1.0	
+Shock, Septic	MPO	1.0	
+Cardiac fibrosis	MPO	1.0	
+Bronchitis	MPO	1.0	
+Ischemic cardiomyopathy	MPO	1.0	
+Bronchitis, Chronic	MPO	1.0	
+Complications of Diabetes Mellitus	MPO	1.0	
+Pulmonary edema	MPO	1.0	
+Uterine neoplasm	MPO	1.0	
+Brain Infarction	MPO	1.0	
+Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	MPO	1.0	
+pediatric acute myeloblastic leukemia	MPO	1.0	
+Duodenal Ulcer	MPO	1.0	
+Acute Undifferentiated Leukemia	MPO	1.0	
+Stable angina	MPO	1.0	
+Lichen Planus, Oral	MPO	1.0	
+Hereditary hemochromatosis	MPO	1.0	
+Diabetic Angiopathies	MPO	1.0	
+Periodontitis, Juvenile	MPO	1.0	
+Adult Acute Myeloblastic Leukemia	MPO	1.0	
+DNA Damage	MPO	1.0	
+Polyglandular autoimmune syndrome, type 1	MPO	1.0	
+Peripheral Arterial Diseases	MPO	1.0	
+Shy-Drager syndrome	MPO	1.0	
+Hemochromatosis	MPO	1.0	
+Cystitis	MPO	1.0	
+Acute pancreatitis	MPO	1.0	
+Liver Cirrhosis, Alcoholic	MPO	1.0	
+Adult Acute Lymphocytic Leukemia	MPO	1.0	
+Neoplasm of the larynx	MPO	1.0	
+Acute megakaryocytic leukemia	MPO	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	MPO	1.0	
+Helicobacter Infections	MPO	1.0	
+Carotid Atherosclerosis	MPO	1.0	
+Hay fever	MPO	1.0	
+Chronic atrophic gastritis	MPO	1.0	
+Immediate hypersensitivity	MPO	1.0	
+Peptic ulcer	MPO	1.0	
+Urticaria	MPO	1.0	
+Giant cell arteritis	MPO	1.0	
+Gingival Diseases	MPO	1.0	
+Malignant neoplasm of larynx	MPO	1.0	
+Hematological Disease	MPO	1.0	
+orbit (eye disorders)	MPO	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+{Aneurysm, familial abdominal 3} (2)	MPO	1.0	
+Peripheral Arterial Disease	MPO	1.0	
+Monosomy	MPO	1.0	
+Nonalcoholic Steatohepatitis	MPO	1.0	
+Substance-Related Disorders	MPO	1.0	
+Dissecting aneurysm of the thoracic aorta	MPO	1.0	
+Nephritis	MPO	1.0	
+Trisomy	MPO	1.0	
+Familial hypercholesterolemia	MPO	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Chronic Periodontitis	MPO	1.0	
+Vasculitis	MPO	1.0	
+Laryngeal carcinoma	MPO	1.0	
+Hypersensitivity	MPO	1.0	
+Carotid Artery Diseases	MPO	1.0	
+Charcot-Marie-Tooth disease, type 2N	MPO	1.0	
+Squamous cell carcinoma of lung	MPO	1.0	
+Mental deterioration	MPO	1.0	
+Brain Diseases	MPO	1.0	
+Spots on skin	MPO	1.0	
+Endothelial dysfunction	MPO	1.0	
+Overweight	MPO	1.0	
+Hepatoblastoma	MPO	1.0	
+Skin cancer	MPO	1.0	
+Cardiac arrest	MPO	1.0	
+Lupus Nephritis	MPO	1.0	
+Neoplasm of the oral cavity	MPO	1.0	
+Stage 5 chronic kidney disease	MPO	1.0	
+Bronchopulmonary Dysplasia	MPO	1.0	
+Gastritis	MPO	1.0	
+Dermal atrophy	MPO	1.0	
+Hypergranular promyelocytic leukemia	MPO	1.0	
+Vitiligo	MPO	1.0	
+Lymphoid leukemia	MPO	1.0	
+Recurrent bacterial infection	MPO	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Hyperkeratosis	MPO	1.0	
+Senile plaques	MPO	1.0	
+Narcolepsy	MPO	1.0	
+Glomerulonephritis, Membranous	MPO	1.0	
+Subarachnoid hemorrhage	MPO	1.0	
+Acute kidney injury	MPO	1.0	
+Anemia, Sickle Cell	MPO	1.0	
+Neoplasm Recurrence, Local	MPO	1.0	
+Pancreatitis	MPO	1.0	
+Rectal Carcinoma	MPO	1.0	
+Ischaemic cerebral infarction	MPO	1.0	
+Helicobacter pylori infection	MPO	1.0	
+Reperfusion Injury	MPO	1.0	
+Lupus Vulgaris	MPO	1.0	
+Leiomyoma	MPO	1.0	
+Graft-versus-host disease, susceptibility to	MPO	1.0	
+Discoid lupus erythematosus	MPO	1.0	
+Pancreatic adenocarcinoma	MPO	1.0	
+Acute Coronary Syndrome	MPO	1.0	
+Head and Neck Neoplasms	MPO	1.0	
+Hypoxia	MPO	1.0	
+Carcinoma breast stage IV	MPO	1.0	
+Renal Insufficiency, Chronic	MPO	1.0	
+Exanthema	MPO	1.0	
+T-cell acute lymphoblastic leukemias	MPO	1.0	
+Pulmonary Disease, Chronic Obstructive	MPO	1.0	
+Diarrhea 8, secretory sodium, congenital	MPO	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	MPO	1.0	
+Septicemia	MPO	1.0	
+Leukemia, Lymphocytic, Acute, L1	MPO	1.0	
+{Systemic lupus erythematosus, susceptibility to, 8} (2)	MPO	1.0	
+Brain atrophy	MPO	1.0	
+Myelodysplastic syndrome	MPO	1.0	
+Cancer of the lower GI tract	MPO	1.0	
+Unipolar Depression	MPO	1.0	
+Behcet Syndrome	MPO	1.0	
+Vascular Diseases	MPO	1.0	
+Brain Ischemia	MPO	1.0	
+Hepatic fibrosis	MPO	1.0	
+Acute promyelocytic leukemia	MPO	1.0	
+Precancerous Conditions	MPO	1.0	
+Hepatitis C, Chronic	MPO	1.0	
+Urinary Bladder Neoplasms	MPO	1.0	
+Pneumonia	MPO	1.0	
+Acute myocardial ischemia	MPO	1.0	
+Major depressive disorder	MPO	1.0	
+Influenza	MPO	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	MPO	1.0	
+Acute leukemia	MPO	1.0	
+Myeloid leukemia	MPO	1.0	
+Congenital chromosomal disease	MPO	1.0	
+Depressive Disorder	MPO	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MPO	1.0	
+Non-Hodgkin lymphoma	MPO	1.0	
+Immunodeficiency due to defect in CD3-gamma	MPO	1.0	
+Esophageal carcinoma	MPO	1.0	
+Liver Diseases	MPO	1.0	
+Sepsis	MPO	1.0	
+Hepatic cancer metastatic	MPO	1.0	
+Hematological neoplasm	MPO	1.0	
+Diabetic Nephropathies	MPO	1.0	
+Kidney Failure, Chronic	MPO	1.0	
+Small cell lung cancer	MPO	1.0	
+Metabolic Syndrome X	MPO	1.0	
+Inflammation	MPO	1.0	
+Ischemia	MPO	1.0	
+Malignant tumor of esophagus	MPO	1.0	
+Tuberculosis	MPO	1.0	
+B-cell lymphoma	MPO	1.0	
+Leukemogenesis	MPO	1.0	
+Brain neoplasm	MPO	1.0	
+Colitis, Ulcerative	MPO	1.0	

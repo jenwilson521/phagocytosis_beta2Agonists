@@ -1,0 +1,28 @@
+Gene	CUI	Phenotype	Source Databases	
+LTA4H	C0041326	Pleural Tuberculosis	DisGeNet	
+LTA4H	C0041318	Tuberculosis, Meningeal	DisGeNet	
+LTA4H	C0151942	Arterial thrombosis	DisGeNet	
+LTA4H	C0026918	Mycobacterium Infections	DisGeNet	
+LTA4H	C0264408	Childhood asthma	DisGeNet	
+LTA4H	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+LTA4H	C0031154	Peritonitis	DisGeNet	
+LTA4H	C0042345	Varicose Veins	PheGenI	
+LTA4H	C1292753	Primary Effusion Lymphoma	DisGeNet	
+SLC15A2	C0018772	Hearing Loss, Partial	DisGeNet	
+SLC15A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+LTA4H	C0020517	Hypersensitivity	DisGeNet	
+LTA4H	C0007273	Carotid Artery Diseases	DisGeNet	
+LTA4H	C3539909	Allergic disposition	DisGeNet	
+LTA4H	C0023343	Leprosy	DisGeNet	
+LTA4H	C0041327	Tuberculosis, Pulmonary	DisGeNet	
+SLC15A2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+LTA4H	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+LTA4H	C0013604	Hydrops, lactic acidosis, and sideroblastic anemia	DisGeNet	
+LTA4H	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+LTA4H	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+LTA4H	C0948008	Ischemic stroke	DisGeNet	
+LTA4H	C0007786	Brain Ischemia	DisGeNet	
+SLC15A2	C0010674	Cystic Fibrosis	DisGeNet	
+LTA4H	C0011581	Depressive Disorder	DisGeNet	
+LTA4H	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+LTA4H	C0524620	Metabolic Syndrome X	DisGeNet	

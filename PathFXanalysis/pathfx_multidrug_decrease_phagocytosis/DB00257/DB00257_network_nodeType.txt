@@ -1,0 +1,25 @@
+node_name	node_type	
+DB00257	drug	
+CYP2D6	drug_target	
+CYP2C9	drug_target	
+KCNN4	drug_target	
+ABCC2	drug_target	
+CYP3A4	drug_target	
+CYP11A1	drug_target	
+ABCB1	drug_target	
+CYP19A1	drug_target	
+CYP2E1	drug_target	
+CYP2C8	drug_target	
+CYP2B6	drug_target	
+CYP2C19	drug_target	
+CYP2A6	drug_target	
+CYP1A2	drug_target	
+ABCC3	drug_target	
+Neoplasm of the larynx	phenotype	
+Drug Allergy	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Pleural Neoplasms	phenotype	
+Nausea	phenotype	
+Enzyme inhibition disorder	phenotype	
+Genomic Instability	phenotype	

@@ -1,0 +1,20 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2D6	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP1A2	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP2D6	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A4	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP3A5	C0686347	Tardive Dyskinesia	DisGeNet	
+CYP1A2	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP2D6	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A4	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP3A5	C0152115	Orofacial dyskinesia	DisGeNet	
+CYP1A2	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2D6	C0221765	Chronic schizophrenia	DisGeNet	
+CYP3A4	C0221765	Chronic schizophrenia	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2D6	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	

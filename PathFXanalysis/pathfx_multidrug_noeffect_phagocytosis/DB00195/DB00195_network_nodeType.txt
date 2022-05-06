@@ -1,0 +1,175 @@
+node_name	node_type	
+DB00195	drug	
+CYP2D6	drug_target	
+CYP1A2	drug_target	
+ADRB1	drug_target	
+ADRB2	drug_target	
+Abnormality of the pituitary gland	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Pheochromocytoma	phenotype	
+Migraine Disorders	phenotype	
+Pituitary adenoma	phenotype	
+Neuroendocrine neoplasm	phenotype	
+Cushing's syndrome	phenotype	
+Alzheimer Disease	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Bipolar affective disorder	phenotype	
+Mood Disorders	phenotype	
+Acute-Phase Reaction	phenotype	
+Adrenocortical carcinoma	phenotype	
+Pseudohypoparathyroidism, Type Ia	phenotype	
+Essential hypertension	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+Kidney Failure, Chronic	phenotype	
+Hyperparathyroidism 4	phenotype	
+Malignant tumor of prostate	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Heart Failure	phenotype	
+Cholera	phenotype	
+Hyperplasia	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Tachycardia	phenotype	
+Anxiety Disorders	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Disorder of endocrine system	phenotype	
+Pain	phenotype	
+Delayed puberty	phenotype	
+Hypertension	phenotype	
+Asthma	phenotype	
+Pseudohypoparathyroidism type 1A	phenotype	
+Major depressive disorder	phenotype	
+Female infertility	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Bradycardia	phenotype	
+Alcohol dependence	phenotype	
+Anorexia nervosa 1	phenotype	
+Benign melanocytic nevus	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Prostate carcinoma	phenotype	
+Hypercholesterolemia, autosomal dominant, type B	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Hyperalgesia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Mental disorders	phenotype	
+Inflammation	phenotype	
+Carcinoid tumor no ICD-O subtype	phenotype	
+Adrenocortical adenoma	phenotype	
+Stress, Psychological	phenotype	
+Congestive heart failure	phenotype	
+Schizophrenia	phenotype	
+Insulinoma	phenotype	
+Thyroid hormone receptor defect	phenotype	
+body mass	phenotype	
+Alcohol abuse	phenotype	
+Sleep Wake Disorders	phenotype	
+Recurrent major depressive episodes	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Diabetes mellitus type 2	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Premature Birth	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Melanocytic nevus of skin	phenotype	
+Rhabdomyosarcoma alveolar	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Anorexia	phenotype	
+Abdominal obesity	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Depressive Disorder	phenotype	
+Hypercalciuria	phenotype	
+Neuroblastoma	phenotype	
+Hyperthyroidism	phenotype	
+Hyponatremia	phenotype	
+Pancreatic Carcinoma	phenotype	
+Lung Neoplasms	phenotype	
+Primary hyperparathyroidism	phenotype	
+Gastrinoma	phenotype	
+Parkinson Disease	phenotype	
+Substance addiction and disorders	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Familial hypercholesterolemia	phenotype	
+Carcinoid tumor	phenotype	
+Hyperglycemia	phenotype	
+Abnormality of skeletal maturation	phenotype	
+Diabetes insipidus	phenotype	
+Hypercalcemia, infantile, 2	phenotype	
+Breast carcinoma	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Chronic heart failure	phenotype	
+Abnormality of the parathyroid physiology	phenotype	
+Antisocial Personality Disorder	phenotype	
+Metabolic Syndrome X	phenotype	
+Neoplasm of the colon	phenotype	
+Osteoporosis	phenotype	
+Oligospermia	phenotype	
+Ovarian Diseases	phenotype	
+Ovarian Neoplasms	phenotype	
+Prostatic Neoplasms	phenotype	
+Osteomalacia	phenotype	
+Sparse pubic hair	phenotype	
+Abnormality of the pubic hair	phenotype	
+Acute postoperative pain	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Abnormality of skeletal physiology	phenotype	
+Vascular Calcification	phenotype	
+Bone neoplasms	phenotype	
+alcohol use disorder	phenotype	
+Skin nodule	phenotype	
+Adrenal hyperplasia	phenotype	
+Myotubular myopathy	phenotype	
+Hypothyroidism	phenotype	
+Abnormality of the parathyroid gland	phenotype	
+Primary hyperaldosteronism	phenotype	
+Hypotension	phenotype	
+Drug Dependence	phenotype	
+Rickets	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Musculoskeletal Diseases	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Obesity	phenotype	
+Obesity, Visceral	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Unipolar Depression	phenotype	
+Autism 15	phenotype	
+Cystitis	phenotype	
+Giant cell tumor of bone	phenotype	
+Nevus	phenotype	
+Vitamin D Deficiency	phenotype	
+Pancreatic Neoplasms	phenotype	
+Acromegaly	phenotype	
+Wiskott-Aldrich syndrome, 301000 (3)	phenotype	
+Pathologic fracture	phenotype	
+Osteoarthritis	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	phenotype	
+Testicular Neoplasms	phenotype	
+Bone necrosis	phenotype	
+Somatotroph adenoma	phenotype	
+Neurodegenerative Diseases	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Flushing	phenotype	
+Akinesia	phenotype	
+Nephrocalcinosis	phenotype	
+Neck Neoplasms	phenotype	
+Bile duct cancer resectable	phenotype	
+Abnormality of secondary sexual hair	phenotype	
+Acute myocardial ischemia	phenotype	
+Thyroid Neoplasms	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Achalasia	phenotype	
+Polydipsia	phenotype	
+Rous Sarcoma	phenotype	
+Abnormality of head blood vessel	phenotype	

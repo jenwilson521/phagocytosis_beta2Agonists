@@ -1,0 +1,40 @@
+node_name	node_type	
+DB04348	drug	
+SLC22A8	drug_target	
+SLC22A1	drug_target	
+SLC10A2	drug_target	
+SLC10A1	drug_target	
+ABCC3	drug_target	
+SLC7A11	drug_target	
+ABCC11	drug_target	
+ABCC4	drug_target	
+SLCO1B3	drug_target	
+ABCG2	drug_target	
+ABCC1	drug_target	
+SLCO2B1	drug_target	
+ABCC10	drug_target	
+SLC16A1	drug_target	
+ABCB11	drug_target	
+FABP6	drug_target	
+ABCB1	drug_target	
+SLCO4A1	drug_target	
+SLCO1B1	drug_target	
+SLCO1A2	drug_target	
+SLC22A6	drug_target	
+SLC51A	drug_target	
+SLCO3A1	drug_target	
+ABCC2	drug_target	
+SLCO1C1	drug_target	
+Intrahepatic cholestasis	phenotype	
+Primary biliary cirrhosis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Cholestasis, benign recurrent intrahepatic 1	phenotype	
+Hyperbilirubinemia	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Cholecystolithiasis	phenotype	
+Cholestasis of pregnancy	phenotype	
+Hippocampal sclerosis	phenotype	
+Leukemia, Myeloid, Chronic-Phase	phenotype	
+Cholelithiasis	phenotype	
+hiv-infection/aids	phenotype	
+Extrahepatic cholestasis	phenotype	

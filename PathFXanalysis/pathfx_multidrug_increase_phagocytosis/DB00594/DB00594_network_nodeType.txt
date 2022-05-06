@@ -1,0 +1,84 @@
+node_name	node_type	
+DB00594	drug	
+SCNN1D	drug_target	
+SCNN1G	drug_target	
+ASIC2	drug_target	
+SLC22A4	drug_target	
+SLC22A1	drug_target	
+ASIC1	drug_target	
+SLC22A2	drug_target	
+SCNN1A	drug_target	
+SLC9A1	drug_target	
+PLAU	drug_target	
+AOC1	drug_target	
+SCNN1B	drug_target	
+Bronchitis	phenotype	
+Hyperkalemia	phenotype	
+Abnormality of sodium homeostasis	phenotype	
+Abnormality of the bronchi	phenotype	
+Hyponatremia	phenotype	
+Adrenal overactivity	phenotype	
+Recurrent upper respiratory tract infections	phenotype	
+Abnormality of the nasopharynx	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Hypotension	phenotype	
+Abnormality of the pharynx	phenotype	
+Hypertension	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Metabolic acidosis	phenotype	
+Bronchitis, Chronic	phenotype	
+Abnormality of the tracheobronchial system	phenotype	
+Leg Ulcer	phenotype	
+Endotoxemia	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Respiratory tract infection	phenotype	
+Atherosclerosis	phenotype	
+Dehydration	phenotype	
+Extrahepatic cholestasis	phenotype	
+Abnormality of adrenal physiology	phenotype	
+Cystic Fibrosis	phenotype	
+Dermatitis Herpetiformis	phenotype	
+Bronchiectasis	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Alkalosis	phenotype	
+Kidney Diseases	phenotype	
+Essential hypertension	phenotype	
+Abnormality of the upper respiratory tract	phenotype	
+Infantile-onset ascending hereditary spastic paralysis	phenotype	
+Renovascular hypertension	phenotype	
+Hypokalemia	phenotype	
+Recurrent respiratory infections	phenotype	
+Abnormality of the adrenal glands	phenotype	
+Henoch-Schoenlein Purpura	phenotype	
+Lymphangiomyomatosis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Seborheic dermatitis	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Premature Birth	phenotype	
+Diarrhea 8, secretory sodium, congenital	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Abnormality of cation homeostasis	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Vomiting	phenotype	
+Cardiac fibrosis	phenotype	
+{Pemphigoid, susceptibility to} (2)	phenotype	
+Breast Cancer Model	phenotype	
+Abnormality of ion homeostasis	phenotype	
+Meningioma, benign, no ICD-O subtype	phenotype	
+Duodenal Ulcer	phenotype	
+Panic disorder 1	phenotype	
+Mitral Valve Prolapse	phenotype	
+Arterial thrombosis	phenotype	
+Acute myocardial ischemia	phenotype	
+Hepatopulmonary Syndrome	phenotype	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	phenotype	
+Abnormality of cerebral artery	phenotype	
+Primary adrenal insufficiency	phenotype	
+Decreased beta-glucocerebrosidase protein and activity	phenotype	
+Cerebral ischemia	phenotype	
+Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	phenotype	
+Ulcerative colitis	phenotype	
+Cardiomegaly	phenotype	

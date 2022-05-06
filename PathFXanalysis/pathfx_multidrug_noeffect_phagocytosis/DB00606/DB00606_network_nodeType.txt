@@ -1,0 +1,82 @@
+node_name	node_type	
+DB00606	drug	
+CA4	drug_target	
+FXYD2	drug_target	
+CA1	drug_target	
+CA2	drug_target	
+SLC22A6	drug_target	
+Ulcerative colitis	phenotype	
+Aqueous Humor Disorders	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Kidney Diseases	phenotype	
+Peroxisome biogenesis disorder 6A	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Basal ganglia calcification, idiopathic, 6	phenotype	
+Oropharynx (excludes nasopharynx)	phenotype	
+Mental handicap	phenotype	
+Urolithiasis	phenotype	
+Chondrocalcinosis	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Metabolic Bone Disorder	phenotype	
+Cholangitis	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Cranial hyperostosis	phenotype	
+Acidosis	phenotype	
+Simple pneumoconiosis	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Mental impairment	phenotype	
+Glanzmann thrombasthenia	phenotype	
+Acute intermittent porphyria	phenotype	
+Aseptic necrosis	phenotype	
+Kidney Calculi	phenotype	
+Abnormality of the nervous system	phenotype	
+Blindness	phenotype	
+Friedreich's ataxia	phenotype	
+Osteopetrosis autosomal recessive 4	phenotype	
+Atypical teratoid/rhabdoid tumor	phenotype	
+Pneumococcal Infections	phenotype	
+Other rheumatic heart disease	phenotype	
+Hyperostosis	phenotype	
+Abnormality of central motor function	phenotype	
+Hepatosplenomegaly	phenotype	
+Bone pain	phenotype	
+Photoreceptor degeneration	phenotype	
+Hepatomegaly	phenotype	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	phenotype	
+Abnormality of the basal ganglia	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Multisystem disorder	phenotype	
+Abnormality of the optic disc	phenotype	
+Renal tubular dysfunction	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	
+Metabolic acidosis	phenotype	
+Inborn Errors of Metabolism	phenotype	
+Visceromegaly	phenotype	
+Progressive night blindness	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Abnormality of the renal tubule	phenotype	
+Brain Infarction	phenotype	
+Abnormality of carbohydrate metabolism/homeostasis	phenotype	
+Mental retardation 63, X-linked	phenotype	
+Abnormality of the optic nerve	phenotype	
+Abnormality of abdomen morphology	phenotype	
+Visual impairment	phenotype	
+Dental malocclusion	phenotype	
+Genu valgum	phenotype	
+Increased bone mineral density	phenotype	
+Abnormality of the genitourinary system	phenotype	
+Paralysis	phenotype	
+Chronic ulcerative colitis	phenotype	
+Increased corneal curvature	phenotype	
+Decreased corneal thickness	phenotype	
+Abnormality of corneal thickness	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Cerebral calcification	phenotype	
+Neurodevelopmental abnormality	phenotype	
+Calcinosis	phenotype	
+Lethargy	phenotype	
+High grade serous carcinoma	phenotype	
+Leigh syndrome	phenotype	
+Mandibular prognathia	phenotype	

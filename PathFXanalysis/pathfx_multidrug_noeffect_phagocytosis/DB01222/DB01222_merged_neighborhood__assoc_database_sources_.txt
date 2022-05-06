@@ -1,0 +1,13 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP3A4	C0011206	Cocaine delirium	DisGeNet	
+NR3C1	C0011206	Cocaine delirium	DisGeNet	
+CYP3A4	C1291314	21-hydroxylase deficiency	DisGeNet	
+NR3C1	C1291314	21-hydroxylase deficiency	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+NR3C1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0342492	Adrenal hyperplasia	DisGeNet	
+NR3C1	C0342492	Adrenal hyperplasia	DisGeNet,HumPhenOnt	
+CYP3A4	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	DisGeNet	
+NR3C1	C0271561	Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	DisGeNet	
+CYP3A4	C0085762	Alcohol abuse	DisGeNet	
+NR3C1	C0085762	Alcohol abuse	DisGeNet	

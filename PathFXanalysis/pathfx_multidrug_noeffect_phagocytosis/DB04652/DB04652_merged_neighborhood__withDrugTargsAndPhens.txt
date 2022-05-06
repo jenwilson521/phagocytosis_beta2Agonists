@@ -1,0 +1,106 @@
+node1	node2	edge_score	
+DB04652	NR3C2	1.0	
+DB04652	NCOA1	1.0	
+DB04652	HSD11B1	1.0	
+NR3C2		1
+NCOA1	rs1804645	0.99
+NCOA1	NCOR2	0.8219632471359692
+NCOA1	RXRA	0.8447236169788426
+NCOA1	NCOR1	0.8219632471359692
+NCOA1	HDAC3	0.8219632471359692
+NCOA1		1
+HSD11B1		1
+HSD11B1	rs4844880	0.99
+HSD11B1	rs846908	0.99
+HSD11B1	rs846910	0.99
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	HDAC3	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	HSD11B1	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	NCOR1	1.0	
+Ovarian Diseases	HDAC3	1.0	
+Ovarian Diseases	HSD11B1	1.0	
+Ovarian Diseases	NCOR1	1.0	
+Colorectal Neoplasms	HDAC3	1.0	
+Colorectal Neoplasms	HSD11B1	1.0	
+Colorectal Neoplasms	NCOR1	1.0	
+Colorectal Neoplasms	NCOR2	1.0	
+Colorectal Neoplasms	NR3C2	1.0	
+Leiomyoma	NCOR1	1.0	
+Leiomyoma	NCOR2	1.0	
+Leiomyoma	RXRA	1.0	
+Uterine leiomyoma	NCOR1	1.0	
+Uterine leiomyoma	NCOR2	1.0	
+Uterine leiomyoma	RXRA	1.0	
+Hypothyroidism	NCOA1	1.0	
+Hypothyroidism	NCOR1	1.0	
+Hypothyroidism	NCOR2	1.0	
+Primary adrenal insufficiency	HSD11B1	1.0	
+Primary adrenal insufficiency	NR3C2	1.0	
+Mixed Salivary Gland Tumor	NCOA1	1.0	
+Mixed Salivary Gland Tumor	NCOR1	1.0	
+Animal Mammary Neoplasms	HDAC3	1.0	
+Animal Mammary Neoplasms	NCOA1	1.0	
+Animal Mammary Neoplasms	NCOR1	1.0	
+Animal Mammary Neoplasms	NCOR2	1.0	
+Animal Mammary Neoplasms	NR3C2	1.0	
+Animal Mammary Neoplasms	RXRA	1.0	
+Obesity, severe, 601665 (3)	HSD11B1	1.0	
+Obesity, severe, 601665 (3)	NCOR2	1.0	
+Acute promyelocytic leukemia	NCOR1	1.0	
+Acute promyelocytic leukemia	NCOR2	1.0	
+Acute promyelocytic leukemia	RXRA	1.0	
+Polycystic Ovary Syndrome	HDAC3	1.0	
+Polycystic Ovary Syndrome	HSD11B1	1.0	
+Polycystic Ovary Syndrome	NCOR1	1.0	
+Acute-Phase Reaction	NCOR1	1.0	
+Adrenal Gland Hyperfunction	HSD11B1	1.0	
+Hyperkalemia	NR3C2	1.0	
+Fibrosis	HDAC3	1.0	
+Fibrosis	NR3C2	1.0	
+Abnormality of sodium homeostasis	NR3C2	1.0	
+Hyponatremia	NR3C2	1.0	
+Adrenal overactivity	NR3C2	1.0	
+Mammary Neoplasms, Experimental	NCOA1	1.0	
+Mammary Neoplasms, Experimental	RXRA	1.0	
+3 beta-Hydroxysteroid dehydrogenase deficiency	NR3C2	1.0	
+Cushing's syndrome	HSD11B1	1.0	
+Metastatic Carcinoma	RXRA	1.0	
+Metabolic Syndrome X	HDAC3	1.0	
+Metabolic Syndrome X	HSD11B1	1.0	
+Metabolic Syndrome X	NR3C2	1.0	
+Spinocerebellar ataxia 7	HDAC3	1.0	
+Abnormality of the pituitary gland	HSD11B1	1.0	
+Abnormality of the pituitary gland	NCOA1	1.0	
+Abnormality of the pituitary gland	NR3C2	1.0	
+Inflammation	HSD11B1	1.0	
+Inflammation	NR3C2	1.0	
+Inflammation	RXRA	1.0	
+Pregnancy associated hypertension	NR3C2	1.0	
+Obesity	HSD11B1	1.0	
+Obesity	NCOA1	1.0	
+Obesity	NCOR2	1.0	
+Obesity	NR3C2	1.0	
+Obesity	RXRA	1.0	
+Hypergranular promyelocytic leukemia	NCOR1	1.0	
+Hypergranular promyelocytic leukemia	NCOR2	1.0	
+Acanthosis nigricans	HSD11B1	1.0	
+Anaphylactic shock NOS	HDAC3	1.0	
+Coronary artery aneurysm	NCOA1	1.0	
+Hyperaldosteronism, familial, type IV	NR3C2	1.0	
+Pituitary corticotropic cell adenoma	HSD11B1	1.0	
+Abnormality of potassium homeostasis	NR3C2	1.0	
+cardiac event	NR3C2	1.0	
+Pediatric Obesity	HSD11B1	1.0	
+Prenatal maternal abnormality	NR3C2	1.0	
+Endometriosis	NCOA1	1.0	
+Endometriosis	NCOR1	1.0	
+Endometriosis	NR3C2	1.0	
+Left ventricular hypertrophy	HSD11B1	1.0	
+Left ventricular hypertrophy	NR3C2	1.0	
+Exostoses	NCOR2	1.0	
+Neoplasm of the gallbladder	RXRA	1.0	
+Acute Cerebrovascular Accidents	RXRA	1.0	
+Coronary Restenosis	RXRA	1.0	
+Accelerated skeletal maturation	HSD11B1	1.0	
+Aural atresia, congenital	NCOA1	1.0	
+Noninfiltrating Intraductal Carcinoma	NCOR1	1.0	
+Noninfiltrating Intraductal Carcinoma	NCOR2	1.0	

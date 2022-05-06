@@ -1,0 +1,8 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP1A2	C0273115	Lung Injury	DisGeNet	
+GSR	C0273115	Lung Injury	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+MGST1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0085859	Polyglandular Type I Autoimmune Syndrome	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+GSR	C1833683	Calcium oxalate urolithiasis	DisGeNet	

@@ -1,0 +1,7 @@
+node_name	node_type	
+DB00382	drug	
+BCHE	drug_target	
+ABCB1	drug_target	
+ACHE	drug_target	
+CYP1A2	drug_target	
+Adverse drug events and drug allergies	phenotype	

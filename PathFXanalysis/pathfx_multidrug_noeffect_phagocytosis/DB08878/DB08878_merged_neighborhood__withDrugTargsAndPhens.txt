@@ -1,0 +1,48 @@
+node1	node2	edge_score	
+DB08878	DHFR	1.0	
+DB08878	SLC46A1	1.0	
+DHFR		1
+DHFR	rs442767	0.99
+DHFR	rs408626	0.99
+DHFR	rs1643650	0.99
+DHFR	rs1650697	0.99
+DHFR	rs1053129	0.99
+DHFR	rs70991108	0.99
+DHFR	rs1650723	0.99
+DHFR	rs1105525	0.99
+SLC46A1		1
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	DHFR	1.0	
+Megaloblastic anemia, thiamine-responsive, with diabetes mellitus and sensorineural deafness	SLC46A1	1.0	
+Folic Acid Deficiency	DHFR	1.0	
+Folic Acid Deficiency	SLC46A1	1.0	
+Macrocytic anemia	DHFR	1.0	
+Macrocytic anemia	SLC46A1	1.0	
+Inborn Errors of Metabolism	DHFR	1.0	
+Inborn Errors of Metabolism	SLC46A1	1.0	
+Pallor	DHFR	1.0	
+Pallor	SLC46A1	1.0	
+Abnormality of multiple cell lineages in the bone marrow	DHFR	1.0	
+Abnormality of multiple cell lineages in the bone marrow	SLC46A1	1.0	
+Anemia of inadequate production	DHFR	1.0	
+Anemia of inadequate production	SLC46A1	1.0	
+Pancytopenia	DHFR	1.0	
+Pancytopenia	SLC46A1	1.0	
+Basal ganglia calcification, idiopathic, 6	SLC46A1	1.0	
+Abnormality of bone marrow cell morphology	DHFR	1.0	
+Abnormality of bone marrow cell morphology	SLC46A1	1.0	
+Oral ulcer	SLC46A1	1.0	
+Melioidosis, susceptibility to	SLC46A1	1.0	
+Abnormality of eosinophils	SLC46A1	1.0	
+Abnormal platelet count	DHFR	1.0	
+Abnormal platelet count	SLC46A1	1.0	
+Malaria, Vivax	DHFR	1.0	
+Familial Alzheimer Disease (FAD)	DHFR	1.0	
+Asymptomatic Infections	DHFR	1.0	
+Myelosuppression	DHFR	1.0	
+Xeroderma pigmentosum, group A	DHFR	1.0	
+Abnormality of thrombocytes	DHFR	1.0	
+Abnormality of thrombocytes	SLC46A1	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	DHFR	1.0	
+Thrombocytopenia, platelet dysfunction, hemolysis, and imbalanced globin synthesis	SLC46A1	1.0	
+Dialeptic seizures	DHFR	1.0	
+Microcephaly, postnatal progressive, with seizures and brain atrophy	DHFR	1.0	

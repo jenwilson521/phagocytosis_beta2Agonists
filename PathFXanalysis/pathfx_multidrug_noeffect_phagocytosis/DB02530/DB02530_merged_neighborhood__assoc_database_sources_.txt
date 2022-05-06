@@ -1,0 +1,47 @@
+Gene	CUI	Phenotype	Source Databases	
+GATM	C0004352	Autism 15	HumPhenOnt	
+GATM	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+GATM	C0008312	Primary biliary cirrhosis	DisGeNet	
+GATM	C0015544	Failure to thrive	HumPhenOnt	
+GATM	C0018801	Heart Failure	DisGeNet	
+GATM	C0018802	Congestive heart failure	DisGeNet	
+GATM	C0022658	Kidney Diseases	DisGeNet	
+GATM	C0022660	Acute kidney injury	DisGeNet	
+GATM	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GATM	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+GATM	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+GATM	C0027540	Necrosis	DisGeNet	
+GATM	C0030552	Muscle weakness	HumPhenOnt	
+GATM	C0035078	Renal Insufficiency, Chronic	PheGenI	
+GATM	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+GATM	C0151744	Acute myocardial ischemia	DisGeNet	
+GATM	C0206132	Onset	HumPhenOnt	
+GATM	C0221629	Proximal muscle weakness	HumPhenOnt	
+GATM	C0233514	Behavioral abnormality	HumPhenOnt	
+GATM	C0234182	Gowers sign	HumPhenOnt	
+GATM	C0241210	Delayed speech and language development	HumPhenOnt	
+GATM	C0241775	Organic aciduria	HumPhenOnt	
+GATM	C0262361	Growth abnormality	HumPhenOnt	
+GATM	C0278026	3-Methylglutaconic aciduria	HumPhenOnt	
+GATM	C0376358	Malignant tumor of prostate	DisGeNet	
+GATM	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+GATM	C0497552	Abnormality of the nervous system	HumPhenOnt	
+GATM	C0557874	Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	HumPhenOnt	
+GATM	C0600139	Prostate carcinoma	DisGeNet	
+GATM	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+GATM	C0856975	Autistic behavior	HumPhenOnt	
+GATM	C1262477	Decreased body weight	HumPhenOnt	
+GATM	C1328440	Abnormality of amino acid metabolism	HumPhenOnt	
+GATM	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+GATM	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+GATM	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+GATM	C4021745	Abnormality of the musculature	HumPhenOnt	
+GATM	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GATM	C4021821	Abnormality of the urinary system	HumPhenOnt	
+GATM	C4022738	Neurodevelopmental delay	HumPhenOnt	
+GATM	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+GATM	C4023182	Abnormality of muscle physiology	HumPhenOnt	
+GATM	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+GATM	C4025344	Abnormality of carboxylic acid metabolism	HumPhenOnt	
+GATM	C4025357	Abnormality of body weight	HumPhenOnt	
+GATM	C4025655	Abnormality of urine homeostasis	HumPhenOnt	

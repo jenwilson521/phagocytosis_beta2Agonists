@@ -1,0 +1,14 @@
+node_name	node_type	
+DB00648	drug	
+FDX1	drug_target	
+SHBG	drug_target	
+CYP3A4	drug_target	
+SERPINA6	drug_target	
+Enzyme inhibition disorder	phenotype	
+Adrenal hyperplasia	phenotype	
+Disorder of endocrine system	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Female infertility	phenotype	
+Hepatoblastoma	phenotype	
+Recurrent abortion	phenotype	
+Cholera	phenotype	

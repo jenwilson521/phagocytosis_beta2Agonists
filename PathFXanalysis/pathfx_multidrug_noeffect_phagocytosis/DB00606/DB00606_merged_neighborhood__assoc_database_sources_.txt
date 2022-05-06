@@ -1,0 +1,111 @@
+Gene	CUI	Phenotype	Source Databases	
+CA1	C0009324	Ulcerative colitis	DisGeNet	
+CA2	C0009324	Ulcerative colitis	DisGeNet	
+DLD	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A6	C0009324	Ulcerative colitis	DisGeNet	
+CA2	C0595936	Aqueous Humor Disorders	DisGeNet	
+CA4	C0595936	Aqueous Humor Disorders	DisGeNet	
+CA2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CA4	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+DLD	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+FXYD2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CA1	C0022658	Kidney Diseases	DisGeNet	
+CA2	C0022658	Kidney Diseases	DisGeNet	
+SLC22A6	C0022658	Kidney Diseases	DisGeNet	
+CA1	C0282528	Peroxisome biogenesis disorder 6A	DisGeNet	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+CA2	C1389280	Basal ganglia calcification, idiopathic, 6	HumPhenOnt	
+CA2	C0521367	Oropharynx (excludes nasopharynx)	DisGeNet	
+CA2	C1306341	Mental handicap	DisGeNet	
+DLD	C0451641	Urolithiasis	DisGeNet	
+FXYD2	C0553730	Chondrocalcinosis	DisGeNet	
+CA2	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	DisGeNet	
+DLD	C0085584	Encephalopathy, acute, infection-induced, 4, susceptibility to	HumPhenOnt	
+CA2	C0001126	Renal tubular acidosis, distal, autosomal dominant	DisGeNet,HumPhenOnt	
+CA2	C0005944	Metabolic Bone Disorder	DisGeNet	
+CA2	C0008311	Cholangitis	DisGeNet	
+CA2	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+DLD	C0001118	Abnormality of acid-base homeostasis	HumPhenOnt	
+CA2	C0020496	Cranial hyperostosis	HumPhenOnt	
+CA2	C0001122	Acidosis	HumPhenOnt	
+DLD	C0001122	Acidosis	HumPhenOnt	
+CA1	C0032273	Simple pneumoconiosis	DisGeNet	
+CA2	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+CA4	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+DLD	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+FXYD2	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+CA2	C0278061	Mental impairment	DisGeNet	
+DLD	C0040015	Glanzmann thrombasthenia	DisGeNet	
+CA2	C0162565	Acute intermittent porphyria	DisGeNet	
+CA2	C0085660	Aseptic necrosis	HumPhenOnt	
+CA2	C0022650	Kidney Calculi	DisGeNet	
+CA2	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CA4	C0497552	Abnormality of the nervous system	HumPhenOnt	
+DLD	C0497552	Abnormality of the nervous system	HumPhenOnt	
+FXYD2	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CA2	C0456909	Blindness	HumPhenOnt	
+CA4	C0456909	Blindness	HumPhenOnt	
+DLD	C0016719	Friedreich's ataxia	DisGeNet	
+CA2	C0029454	Osteopetrosis autosomal recessive 4	DisGeNet,HumPhenOnt	
+CA2	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+DLD	C0032269	Pneumococcal Infections	DisGeNet	
+CA2	C0035439	Other rheumatic heart disease	DisGeNet	
+CA2	C0020492	Hyperostosis	HumPhenOnt	
+CA2	C4023354	Abnormality of central motor function	HumPhenOnt	
+CA4	C4023354	Abnormality of central motor function	HumPhenOnt	
+DLD	C4023354	Abnormality of central motor function	HumPhenOnt	
+CA2	C0019214	Hepatosplenomegaly	HumPhenOnt	
+CA2	C0151825	Bone pain	HumPhenOnt	
+CA4	C1998028	Photoreceptor degeneration	DisGeNet	
+CA2	C0019209	Hepatomegaly	HumPhenOnt	
+DLD	C0019209	Hepatomegaly	HumPhenOnt	
+CA2	C0029124	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	HumPhenOnt	
+CA4	C0029124	Optic atrophy 10 with or without ataxia, mental retardation, and seizures	HumPhenOnt	
+CA2	C0004782	Abnormality of the basal ganglia	HumPhenOnt	
+DLD	C0014522	EPIDERMODYSPLASIA VERRUCIFORMIS	DisGeNet	
+DLD	C0559758	Multisystem disorder	DisGeNet	
+CA2	C3808249	Abnormality of the optic disc	HumPhenOnt	
+CA4	C3808249	Abnormality of the optic disc	HumPhenOnt	
+CA2	C0151747	Renal tubular dysfunction	HumPhenOnt	
+CA4	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+DLD	C4023598	Abnormal glucose homeostasis	HumPhenOnt	
+CA2	C0279980	Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	DisGeNet	
+DLD	C0220981	Metabolic acidosis	HumPhenOnt	
+CA2	C0025521	Inborn Errors of Metabolism	DisGeNet	
+CA2	C0042782	Visceromegaly	HumPhenOnt	
+DLD	C0042782	Visceromegaly	HumPhenOnt	
+CA4	C4024818	Progressive night blindness	HumPhenOnt	
+DLD	C0282577	Congenital disorder of glycosylation	DisGeNet	
+CA2	C4021826	Abnormality of the renal tubule	HumPhenOnt	
+DLD	C0751955	Brain Infarction	DisGeNet	
+CA4	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+DLD	C4023599	Abnormality of carbohydrate metabolism/homeostasis	HumPhenOnt	
+CA2	C0025362	Mental retardation 63, X-linked	DisGeNet	
+DLD	C0025362	Mental retardation 63, X-linked	DisGeNet	
+CA2	C0029131	Abnormality of the optic nerve	HumPhenOnt	
+CA4	C0029131	Abnormality of the optic nerve	HumPhenOnt	
+CA2	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+DLD	C4020869	Abnormality of abdomen morphology	HumPhenOnt	
+CA2	C3665347	Visual impairment	HumPhenOnt	
+CA4	C3665347	Visual impairment	HumPhenOnt	
+CA2	C0024636	Dental malocclusion	HumPhenOnt	
+CA2	C0576093	Genu valgum	HumPhenOnt	
+CA2	C0029464	Increased bone mineral density	HumPhenOnt	
+CA2	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+CA4	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+FXYD2	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+CA2	C0522224	Paralysis	HumPhenOnt	
+CA2	C2919828	Chronic ulcerative colitis	DisGeNet	
+CA4	C4020956	Increased corneal curvature	HumPhenOnt	
+CA4	C1096274	Decreased corneal thickness	HumPhenOnt	
+CA4	C4023333	Abnormality of corneal thickness	HumPhenOnt	
+FXYD2	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+CA2	C0270685	Cerebral calcification	HumPhenOnt	
+CA2	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+CA4	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+DLD	C0679378	Neurodevelopmental abnormality	HumPhenOnt	
+SLC22A6	C0006663	Calcinosis	DisGeNet	
+DLD	C0023380	Lethargy	HumPhenOnt	
+CA2	C0206701	High grade serous carcinoma	DisGeNet	
+DLD	C0023264	Leigh syndrome	ClinVar,DisGeNet	
+CA2	C0399526	Mandibular prognathia	HumPhenOnt	

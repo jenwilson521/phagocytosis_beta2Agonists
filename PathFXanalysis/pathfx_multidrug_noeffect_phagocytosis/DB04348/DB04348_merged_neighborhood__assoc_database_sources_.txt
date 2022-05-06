@@ -1,0 +1,82 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB11	C0008372	Intrahepatic cholestasis	DisGeNet,HumPhenOnt	
+ABCC2	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC3	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCC4	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCG2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC10A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC10A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+ABCB1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB11	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC1	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC2	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCC4	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCG2	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLC10A1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLC22A1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B1	C0008312	Primary biliary cirrhosis	DisGeNet	
+SLCO1B3	C0008312	Primary biliary cirrhosis	DisGeNet	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC4	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCG2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+SLCO1B1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+ABCB11	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet,HumPhenOnt	
+ABCC2	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet,HumPhenOnt	
+ABCC3	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+ABCC4	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+ABCG2	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+SLC10A1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+SLC10A2	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+SLC22A1	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+SLC51A	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet	
+SLCO1B1	C0008370	Cholestasis, benign recurrent intrahepatic 1	HumPhenOnt	
+SLCO1B3	C0008370	Cholestasis, benign recurrent intrahepatic 1	DisGeNet,HumPhenOnt	
+ABCB1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCB11	C0020433	Hyperbilirubinemia	HumPhenOnt	
+ABCC2	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+ABCC3	C0020433	Hyperbilirubinemia	DisGeNet	
+SLCO1B1	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO1B3	C0020433	Hyperbilirubinemia	DisGeNet,HumPhenOnt	
+SLCO2B1	C0020433	Hyperbilirubinemia	DisGeNet	
+ABCC2	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCC4	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+ABCB11	C0947622	Cholecystolithiasis	DisGeNet	
+ABCC3	C0947622	Cholecystolithiasis	DisGeNet	
+FABP6	C0947622	Cholecystolithiasis	DisGeNet	
+SLC10A2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1B1	C0947622	Cholecystolithiasis	DisGeNet	
+ABCB11	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCC2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCC3	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCG2	C0268318	Cholestasis of pregnancy	DisGeNet	
+ABCB1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCC1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCG2	C1504404	Hippocampal sclerosis	DisGeNet	
+SLC16A1	C1504404	Hippocampal sclerosis	DisGeNet	
+ABCB1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCC2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCG2	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+SLC22A1	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+SLCO1B3	C0023474	Leukemia, Myeloid, Chronic-Phase	DisGeNet	
+ABCB11	C0008350	Cholelithiasis	DisGeNet,HumPhenOnt	
+ABCC3	C0008350	Cholelithiasis	DisGeNet	
+ABCG2	C0008350	Cholelithiasis	DisGeNet	
+FABP6	C0008350	Cholelithiasis	DisGeNet	
+SLC10A2	C0008350	Cholelithiasis	DisGeNet	
+SLCO1A2	C0008350	Cholelithiasis	DisGeNet	
+SLCO1B1	C0008350	Cholelithiasis	DisGeNet	
+ABCB1	C0497169	hiv-infection/aids	DisGeNet	
+ABCC10	C0497169	hiv-infection/aids	DisGeNet	
+ABCC4	C0497169	hiv-infection/aids	DisGeNet	
+ABCG2	C0497169	hiv-infection/aids	DisGeNet	
+ABCC2	C0005398	Extrahepatic cholestasis	DisGeNet	
+ABCC3	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	

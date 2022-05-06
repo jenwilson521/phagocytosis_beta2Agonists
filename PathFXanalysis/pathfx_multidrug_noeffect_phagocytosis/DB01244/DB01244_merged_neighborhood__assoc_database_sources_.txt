@@ -1,0 +1,575 @@
+Gene	CUI	Phenotype	Source Databases	
+ACTN2	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+CAV1	C0007194	Hypertrophic cardiomyopathy	HumPhenOnt	
+DES	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+HRAS	C0007194	Hypertrophic cardiomyopathy	HumPhenOnt	
+KCNQ1	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+MYBPC1	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+MYBPC2	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+MYBPC3	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+MYH6	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+MYL2	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+MYL3	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+MYL4	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+MYLK	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+SOS1	C0007194	Hypertrophic cardiomyopathy	HumPhenOnt	
+TCAP	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+TNNC1	C0007194	Hypertrophic cardiomyopathy	DisGeNet,HumPhenOnt	
+TTN	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+ACTN2	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar,DisGeNet	
+CALM3	C0949658	Familial hypertrophic cardiomyopathy 11	DisGeNet	
+DES	C0949658	Familial hypertrophic cardiomyopathy 11	DisGeNet	
+MYBPC2	C0949658	Familial hypertrophic cardiomyopathy 11	DisGeNet	
+MYBPC3	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar,DisGeNet	
+MYH6	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar,DisGeNet	
+MYL2	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar,DisGeNet	
+MYL3	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar,DisGeNet	
+TCAP	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar	
+TNNC1	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar	
+TTN	C0949658	Familial hypertrophic cardiomyopathy 11	ClinVar	
+ACTN2	C0340427	Familial dilated cardiomyopathy	ClinVar	
+DES	C0340427	Familial dilated cardiomyopathy	ClinVar,DisGeNet	
+DMD	C0340427	Familial dilated cardiomyopathy	DisGeNet	
+MYH6	C0340427	Familial dilated cardiomyopathy	ClinVar	
+MYL2	C0340427	Familial dilated cardiomyopathy	DisGeNet	
+TCAP	C0340427	Familial dilated cardiomyopathy	ClinVar	
+TNNC1	C0340427	Familial dilated cardiomyopathy	ClinVar,DisGeNet	
+TTN	C0340427	Familial dilated cardiomyopathy	ClinVar,DisGeNet	
+ACTN2	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+AKT1	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+CYP2D6	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+DES	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+DMD	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+HRAS	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+MYBPC1	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+MYBPC3	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+MYH3	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+MYH6	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+MYL2	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+NFATC1	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+PYGM	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+TCAP	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+TNNC1	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+TTN	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+ACTN2	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+AKT1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+CAV1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+DES	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+DMD	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+MYBPC3	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+MYH6	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+TCAP	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+TNNC1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+TTN	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+ACTN2	C4025758	Abnormality of the myocardium	HumPhenOnt	
+CAV1	C4025758	Abnormality of the myocardium	HumPhenOnt	
+DES	C4025758	Abnormality of the myocardium	HumPhenOnt	
+DMD	C4025758	Abnormality of the myocardium	HumPhenOnt	
+HRAS	C4025758	Abnormality of the myocardium	HumPhenOnt	
+KCNQ1	C4025758	Abnormality of the myocardium	HumPhenOnt	
+MYBPC3	C4025758	Abnormality of the myocardium	HumPhenOnt	
+MYH6	C4025758	Abnormality of the myocardium	HumPhenOnt	
+MYL2	C4025758	Abnormality of the myocardium	HumPhenOnt	
+MYL3	C4025758	Abnormality of the myocardium	HumPhenOnt	
+SOS1	C4025758	Abnormality of the myocardium	HumPhenOnt	
+TCAP	C4025758	Abnormality of the myocardium	HumPhenOnt	
+TNNC1	C4025758	Abnormality of the myocardium	HumPhenOnt	
+TTN	C4025758	Abnormality of the myocardium	HumPhenOnt	
+ACTN2	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+AKT1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+DES	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+DMD	C0007193	Cardiomyopathy, Dilated	DisGeNet,HumPhenOnt	
+HSP90AA1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+KCNQ1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+MYBPC1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+MYBPC2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+MYBPC3	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+MYH6	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+MYL2	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+MYL3	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+TCAP	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+TNNC1	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+TTN	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+AKT1	C0018800	Cardiomegaly	DisGeNet	
+CAMK2D	C0018800	Cardiomegaly	DisGeNet	
+CAV1	C0018800	Cardiomegaly	DisGeNet	
+DMD	C0018800	Cardiomegaly	DisGeNet	
+KCNQ1	C0018800	Cardiomegaly	HumPhenOnt	
+MYBPC3	C0018800	Cardiomegaly	DisGeNet	
+MYL2	C0018800	Cardiomegaly	DisGeNet	
+MYL3	C0018800	Cardiomegaly	DisGeNet	
+MYLK	C0018800	Cardiomegaly	HumPhenOnt	
+PPP3CB	C0018800	Cardiomegaly	DisGeNet	
+PYGM	C0018800	Cardiomegaly	DisGeNet	
+SHC1	C0018800	Cardiomegaly	DisGeNet	
+ACTN2	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+AKT1	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+CALM3	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+CYP2D6	C0003811	Arrhythmias, Cardiac	DisGeNet	
+DES	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+DMD	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+HRAS	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+KCNQ1	C0003811	Arrhythmias, Cardiac	DisGeNet,HumPhenOnt	
+MYH6	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+MYL2	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+SOS1	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+TCAP	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+TTN	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+ACTN2	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+AKT1	C0878544	Cardiomyopathy	DisGeNet	
+CAV1	C0878544	Cardiomyopathy	HumPhenOnt	
+CYP2D6	C0878544	Cardiomyopathy	DisGeNet	
+DES	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+DMD	C0878544	Cardiomyopathy	DisGeNet,HumPhenOnt	
+HRAS	C0878544	Cardiomyopathy	HumPhenOnt	
+KCNQ1	C0878544	Cardiomyopathy	DisGeNet,HumPhenOnt	
+MYBPC2	C0878544	Cardiomyopathy	DisGeNet	
+MYBPC3	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+MYH6	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+MYL2	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+MYL3	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+PPP3CA	C0878544	Cardiomyopathy	DisGeNet	
+SOS1	C0878544	Cardiomyopathy	DisGeNet,HumPhenOnt	
+TCAP	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+TNNC1	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+TTN	C0878544	Cardiomyopathy	ClinVar,DisGeNet,HumPhenOnt	
+ACTN2	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+AKT1	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+DES	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+DMD	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+MYBPC3	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+MYH6	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+TCAP	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+TNNC1	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+TTN	C0022596	Palmoplantar keratoderma, nonepidermolytic, focal	HumPhenOnt	
+ACTN2	C0870082	Hyperkeratosis	HumPhenOnt	
+AKT1	C0870082	Hyperkeratosis	HumPhenOnt	
+CAV1	C0870082	Hyperkeratosis	DisGeNet	
+DES	C0870082	Hyperkeratosis	HumPhenOnt	
+DMD	C0870082	Hyperkeratosis	HumPhenOnt	
+HRAS	C0870082	Hyperkeratosis	DisGeNet,HumPhenOnt	
+MYBPC3	C0870082	Hyperkeratosis	HumPhenOnt	
+MYH6	C0870082	Hyperkeratosis	HumPhenOnt	
+TCAP	C0870082	Hyperkeratosis	HumPhenOnt	
+TNNC1	C0870082	Hyperkeratosis	HumPhenOnt	
+TTN	C0870082	Hyperkeratosis	HumPhenOnt	
+ACTN2	C0023787	Lipoatrophy	HumPhenOnt	
+CAV1	C0023787	Lipoatrophy	DisGeNet,HumPhenOnt	
+DES	C0023787	Lipoatrophy	HumPhenOnt	
+DMD	C0023787	Lipoatrophy	HumPhenOnt	
+MYBPC3	C0023787	Lipoatrophy	HumPhenOnt	
+MYH6	C0023787	Lipoatrophy	HumPhenOnt	
+TCAP	C0023787	Lipoatrophy	HumPhenOnt	
+TNNC1	C0023787	Lipoatrophy	HumPhenOnt	
+TTN	C0023787	Lipoatrophy	HumPhenOnt	
+ACTN2	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+DES	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+DMD	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+MYBPC3	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+MYH6	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+PYGM	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+TCAP	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+TNNC1	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+TTN	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+ACTN2	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+DES	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+DMD	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+MYBPC3	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+MYH6	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+PYGM	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+TCAP	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+TNNC1	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+TTN	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+ACTN2	C0476403	EMG abnormality	HumPhenOnt	
+DES	C0476403	EMG abnormality	HumPhenOnt	
+DMD	C0476403	EMG abnormality	HumPhenOnt	
+MYBPC3	C0476403	EMG abnormality	HumPhenOnt	
+MYH6	C0476403	EMG abnormality	HumPhenOnt	
+TCAP	C0476403	EMG abnormality	HumPhenOnt	
+TNNC1	C0476403	EMG abnormality	HumPhenOnt	
+TTN	C0476403	EMG abnormality	HumPhenOnt	
+CAV1	C0009917	Contractures involving the joints of the feet	HumPhenOnt	
+DMD	C0009917	Contractures involving the joints of the feet	DisGeNet	
+HRAS	C0009917	Contractures involving the joints of the feet	HumPhenOnt	
+MYBPC1	C0009917	Contractures involving the joints of the feet	HumPhenOnt	
+MYH3	C0009917	Contractures involving the joints of the feet	DisGeNet,HumPhenOnt	
+PYGM	C0009917	Contractures involving the joints of the feet	DisGeNet	
+ACTN2	C0494876	Epidermal thickening	HumPhenOnt	
+AKT1	C0494876	Epidermal thickening	HumPhenOnt	
+CAV1	C0494876	Epidermal thickening	HumPhenOnt	
+DES	C0494876	Epidermal thickening	HumPhenOnt	
+DMD	C0494876	Epidermal thickening	HumPhenOnt	
+HRAS	C0494876	Epidermal thickening	HumPhenOnt	
+MYBPC3	C0494876	Epidermal thickening	HumPhenOnt	
+MYH6	C0494876	Epidermal thickening	HumPhenOnt	
+TCAP	C0494876	Epidermal thickening	HumPhenOnt	
+TNNC1	C0494876	Epidermal thickening	HumPhenOnt	
+TTN	C0494876	Epidermal thickening	HumPhenOnt	
+CAV1	C0686353	Limb-girdle muscular dystrophy, type 2L	DisGeNet	
+DES	C0686353	Limb-girdle muscular dystrophy, type 2L	ClinVar,DisGeNet	
+DMD	C0686353	Limb-girdle muscular dystrophy, type 2L	DisGeNet	
+MYH6	C0686353	Limb-girdle muscular dystrophy, type 2L	ClinVar	
+TCAP	C0686353	Limb-girdle muscular dystrophy, type 2L	ClinVar,DisGeNet	
+TTN	C0686353	Limb-girdle muscular dystrophy, type 2L	ClinVar,DisGeNet	
+ABCB1	C0018799	Heart Diseases	DisGeNet	
+CALM3	C0018799	Heart Diseases	DisGeNet	
+CYP2D6	C0018799	Heart Diseases	DisGeNet	
+DES	C0018799	Heart Diseases	DisGeNet	
+DMD	C0018799	Heart Diseases	DisGeNet	
+KCNQ1	C0018799	Heart Diseases	DisGeNet	
+MYBPC3	C0018799	Heart Diseases	DisGeNet	
+MYL2	C0018799	Heart Diseases	DisGeNet	
+MYLK	C0018799	Heart Diseases	DisGeNet	
+NFATC1	C0018799	Heart Diseases	DisGeNet	
+PPP3CA	C0018799	Heart Diseases	DisGeNet	
+TTN	C0018799	Heart Diseases	DisGeNet	
+DES	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+DMD	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+TCAP	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+TTN	C4021779	Abnormality of the calf musculature	HumPhenOnt	
+ACTN2	C0241165	Thickened skin	HumPhenOnt	
+AKT1	C0241165	Thickened skin	HumPhenOnt	
+CAV1	C0241165	Thickened skin	HumPhenOnt	
+DES	C0241165	Thickened skin	HumPhenOnt	
+DMD	C0241165	Thickened skin	HumPhenOnt	
+HRAS	C0241165	Thickened skin	HumPhenOnt	
+MYBPC3	C0241165	Thickened skin	HumPhenOnt	
+MYH6	C0241165	Thickened skin	HumPhenOnt	
+TCAP	C0241165	Thickened skin	HumPhenOnt	
+TNNC1	C0241165	Thickened skin	HumPhenOnt	
+TTN	C0241165	Thickened skin	HumPhenOnt	
+ACTN2	C0427515	Abnormality of granulocytes	HumPhenOnt	
+DES	C0427515	Abnormality of granulocytes	HumPhenOnt	
+DMD	C0427515	Abnormality of granulocytes	HumPhenOnt	
+MYBPC3	C0427515	Abnormality of granulocytes	HumPhenOnt	
+MYH6	C0427515	Abnormality of granulocytes	HumPhenOnt	
+TCAP	C0427515	Abnormality of granulocytes	HumPhenOnt	
+TNNC1	C0427515	Abnormality of granulocytes	HumPhenOnt	
+TTN	C0427515	Abnormality of granulocytes	HumPhenOnt	
+ACTN2	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+AKT1	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+CAV1	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+DES	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+DMD	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+HRAS	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+KCNQ1	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYBPC1	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYBPC3	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYH3	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYH6	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYH8	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+MYL2	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+NEFL	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+PYGM	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+TCAP	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+TNNC1	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+TTN	C4023181	Abnormality of muscle morphology	HumPhenOnt	
+CALM3	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+DES	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+DMD	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+MYBPC3	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+MYL2	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+TCAP	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+TNNC1	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+VIM	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+AKT1	C2678065	Myofibrillar myopathy, BAG3-related	HumPhenOnt	
+DES	C2678065	Myofibrillar myopathy, BAG3-related	ClinVar,DisGeNet	
+DMD	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+TTN	C2678065	Myofibrillar myopathy, BAG3-related	DisGeNet	
+ACTN2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+AKT1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CACNA1A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CAV1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+DES	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GRIN2A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+HRAS	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNQ1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYBPC3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYH3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYH6	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYH8	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYL2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYL3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MYLK	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NEFL	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SOS1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+TCAP	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+TNNC1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+TTN	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+VIM	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ACTN2	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+DES	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+DMD	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+MYBPC3	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+MYH6	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+TCAP	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+TNNC1	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+TTN	C4023618	Abnormality of myeloid leukocytes	HumPhenOnt	
+HRAS	C0011071	Sudden death	HumPhenOnt	
+KCNQ1	C0011071	Sudden death	DisGeNet	
+MYH6	C0011071	Sudden death	HumPhenOnt	
+TTN	C0011071	Sudden death	HumPhenOnt	
+ABCB1	C2911647	Weight Gain Adverse Event	DisGeNet	
+CAMK2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+CAMK2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2C	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2D	C2911647	Weight Gain Adverse Event	DisGeNet	
+PPP3R1	C2911647	Weight Gain Adverse Event	DisGeNet	
+DES	C1866141	Foot dorsiflexor weakness	HumPhenOnt	
+NEFL	C1866141	Foot dorsiflexor weakness	HumPhenOnt	
+TCAP	C1866141	Foot dorsiflexor weakness	HumPhenOnt	
+TTN	C1866141	Foot dorsiflexor weakness	HumPhenOnt	
+DES	C0175709	Myotubular myopathy	DisGeNet	
+DMD	C0175709	Myotubular myopathy	DisGeNet	
+TTN	C0175709	Myotubular myopathy	DisGeNet	
+VIM	C0175709	Myotubular myopathy	DisGeNet	
+ABCB1	C0018798	Heart Defects, Congenital	DisGeNet	
+ACTN2	C0018798	Heart Defects, Congenital	HumPhenOnt	
+CAV1	C0018798	Heart Defects, Congenital	HumPhenOnt	
+DES	C0018798	Heart Defects, Congenital	DisGeNet,HumPhenOnt	
+DMD	C0018798	Heart Defects, Congenital	HumPhenOnt	
+HRAS	C0018798	Heart Defects, Congenital	HumPhenOnt	
+KCNQ1	C0018798	Heart Defects, Congenital	DisGeNet,HumPhenOnt	
+MYBPC3	C0018798	Heart Defects, Congenital	HumPhenOnt	
+MYH6	C0018798	Heart Defects, Congenital	DisGeNet,HumPhenOnt	
+MYH8	C0018798	Heart Defects, Congenital	HumPhenOnt	
+MYL2	C0018798	Heart Defects, Congenital	HumPhenOnt	
+MYL3	C0018798	Heart Defects, Congenital	HumPhenOnt	
+MYLK	C0018798	Heart Defects, Congenital	DisGeNet,HumPhenOnt	
+NFATC1	C0018798	Heart Defects, Congenital	DisGeNet	
+SOS1	C0018798	Heart Defects, Congenital	DisGeNet,HumPhenOnt	
+TCAP	C0018798	Heart Defects, Congenital	HumPhenOnt	
+TNNC1	C0018798	Heart Defects, Congenital	HumPhenOnt	
+TTN	C0018798	Heart Defects, Congenital	HumPhenOnt	
+ACTN2	C4021809	Abnormality of the inner ear	HumPhenOnt	
+AKT1	C4021809	Abnormality of the inner ear	HumPhenOnt	
+CACNA1A	C4021809	Abnormality of the inner ear	HumPhenOnt	
+CALM3	C4021809	Abnormality of the inner ear	HumPhenOnt	
+DES	C4021809	Abnormality of the inner ear	HumPhenOnt	
+DMD	C4021809	Abnormality of the inner ear	HumPhenOnt	
+HRAS	C4021809	Abnormality of the inner ear	HumPhenOnt	
+KCNQ1	C4021809	Abnormality of the inner ear	HumPhenOnt	
+MYBPC3	C4021809	Abnormality of the inner ear	HumPhenOnt	
+MYH6	C4021809	Abnormality of the inner ear	HumPhenOnt	
+SOS1	C4021809	Abnormality of the inner ear	HumPhenOnt	
+TCAP	C4021809	Abnormality of the inner ear	HumPhenOnt	
+TNNC1	C4021809	Abnormality of the inner ear	HumPhenOnt	
+TTN	C4021809	Abnormality of the inner ear	HumPhenOnt	
+DES	C4025785	Abnormality of the foot musculature	HumPhenOnt	
+NEFL	C4025785	Abnormality of the foot musculature	HumPhenOnt	
+TCAP	C4025785	Abnormality of the foot musculature	HumPhenOnt	
+TTN	C4025785	Abnormality of the foot musculature	HumPhenOnt	
+ACTN2	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+DES	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+DMD	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+MYBPC3	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+MYH6	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+PYGM	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TCAP	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TNNC1	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TTN	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+DES	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+DMD	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+NEFL	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+TCAP	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+TTN	C4025784	Abnormality of the musculature of the lower limbs	HumPhenOnt	
+ACTN2	C4025596	Abnormality of connective tissue	HumPhenOnt	
+AKT1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+CAV1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+DES	C4025596	Abnormality of connective tissue	HumPhenOnt	
+DMD	C4025596	Abnormality of connective tissue	HumPhenOnt	
+HRAS	C4025596	Abnormality of connective tissue	HumPhenOnt	
+KCNQ1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYBPC1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYBPC3	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYH3	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYH6	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYH8	C4025596	Abnormality of connective tissue	HumPhenOnt	
+MYLK	C4025596	Abnormality of connective tissue	HumPhenOnt	
+NEFL	C4025596	Abnormality of connective tissue	HumPhenOnt	
+TCAP	C4025596	Abnormality of connective tissue	HumPhenOnt	
+TNNC1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+TTN	C4025596	Abnormality of connective tissue	HumPhenOnt	
+AKT1	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+CAV1	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+HRAS	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+KCNQ1	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+TCAP	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+TTN	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+ACTN2	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+AKT1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+CALM3	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+CAV1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+DES	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+DMD	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+HRAS	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+KCNQ1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+MYH6	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+MYL2	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+MYLK	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+SOS1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+TCAP	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+TTN	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+ACTN2	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+AKT1	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+CAV1	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+DES	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+DMD	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+HRAS	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+KCNQ1	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYBPC3	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYH6	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYH8	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYL2	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYL3	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+MYLK	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+SOS1	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+TCAP	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+TNNC1	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+TTN	C4049796	Abnormality of cardiovascular system morphology	HumPhenOnt	
+ACTN2	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+CALM3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+CAV1	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+KCNQ1	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+MYBPC3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+NFATC3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+AKT1	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+DES	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+DMD	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+HRAS	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+SOS1	C0206656	Embryonal rhabdomyosarcoma	DisGeNet	
+ABCB1	C0023269	Leiomyosarcoma	DisGeNet	
+AKT1	C0023269	Leiomyosarcoma	DisGeNet,HumPhenOnt	
+DES	C0023269	Leiomyosarcoma	DisGeNet	
+DMD	C0023269	Leiomyosarcoma	DisGeNet	
+HSP90AA1	C0023269	Leiomyosarcoma	DisGeNet	
+VIM	C0023269	Leiomyosarcoma	DisGeNet	
+DES	C0027868	Neuromuscular Diseases	DisGeNet	
+DMD	C0027868	Neuromuscular Diseases	DisGeNet	
+HRAS	C0027868	Neuromuscular Diseases	DisGeNet	
+NEFL	C0027868	Neuromuscular Diseases	DisGeNet	
+TTN	C0027868	Neuromuscular Diseases	DisGeNet	
+ABCB1	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+AKT1	C0041341	Tuberous sclerosis syndrome	DisGeNet,HumPhenOnt	
+CALM3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+GRIN2C	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+HRAS	C0041341	Tuberous sclerosis syndrome	HumPhenOnt	
+NEFL	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+VIM	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+AKT1	C0001420	Papillary adenocarcinoma	DisGeNet	
+CYP2D6	C0001420	Papillary adenocarcinoma	DisGeNet	
+HRAS	C0001420	Papillary adenocarcinoma	DisGeNet	
+ABCB1	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+DES	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+HRAS	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+VIM	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+CACNA1A	C1720983	Channelopathies	DisGeNet	
+CALM3	C1720983	Channelopathies	DisGeNet	
+CAV1	C1720983	Channelopathies	DisGeNet	
+KCNQ1	C1720983	Channelopathies	DisGeNet	
+ABCB1	C0014544	Epilepsy	DisGeNet	
+AKT1	C0014544	Epilepsy	DisGeNet	
+CACNA1A	C0014544	Epilepsy	DisGeNet	
+CACNA1H	C0014544	Epilepsy	ClinVar,DisGeNet	
+CAMK2D	C0014544	Epilepsy	DisGeNet	
+CYP2D6	C0014544	Epilepsy	DisGeNet	
+DLG4	C0014544	Epilepsy	DisGeNet	
+DMD	C0014544	Epilepsy	DisGeNet	
+GRIN2A	C0014544	Epilepsy	DisGeNet	
+GRIN2C	C0014544	Epilepsy	DisGeNet	
+KCNQ1	C0014544	Epilepsy	DisGeNet	
+SOS1	C0014544	Epilepsy	DisGeNet	
+VIM	C0014544	Epilepsy	DisGeNet	
+ACTN2	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+ATP1A1	C0018784	Sensorineural hearing impairment	DisGeNet	
+CACNA1A	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+CAV1	C0018784	Sensorineural hearing impairment	DisGeNet	
+DES	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+DMD	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+KCNQ1	C0018784	Sensorineural hearing impairment	DisGeNet,HumPhenOnt	
+MYBPC3	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+MYH6	C0018784	Sensorineural hearing impairment	DisGeNet,HumPhenOnt	
+SOS1	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+TCAP	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+TNNC1	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+TTN	C0018784	Sensorineural hearing impairment	HumPhenOnt	
+CAMK2A	C0019202	Wilson disease	DisGeNet	
+DMD	C0019202	Wilson disease	DisGeNet	
+PPP3CA	C0019202	Wilson disease	DisGeNet	
+PPP3CB	C0019202	Wilson disease	DisGeNet	
+HRAS	C0231679	Ulnar deviation of finger	HumPhenOnt	
+MYBPC1	C0231679	Ulnar deviation of finger	HumPhenOnt	
+MYH3	C0231679	Ulnar deviation of finger	HumPhenOnt	
+ABCB1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+AKT1	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+CYP2D6	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+NEFL	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+CALM3	C1141890	Congenital long QT syndrome	DisGeNet	
+CYP2D6	C1141890	Congenital long QT syndrome	DisGeNet	
+KCNQ1	C1141890	Congenital long QT syndrome	DisGeNet	
+ABCB1	C0023798	Lipoma	DisGeNet	
+AKT1	C0023798	Lipoma	HumPhenOnt	
+CAV1	C0023798	Lipoma	DisGeNet	
+PYGM	C0023798	Lipoma	DisGeNet	
+CAV1	C0587246	Limb muscle weakness	HumPhenOnt	
+DES	C0587246	Limb muscle weakness	HumPhenOnt	
+NEFL	C0587246	Limb muscle weakness	HumPhenOnt	
+TCAP	C0587246	Limb muscle weakness	HumPhenOnt	
+TTN	C0587246	Limb muscle weakness	HumPhenOnt	
+AKT1	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+CAV1	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+SOS1	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+AKT1	C4022025	Asymmetric growth	HumPhenOnt	
+HRAS	C4022025	Asymmetric growth	HumPhenOnt	
+KCNQ1	C4022025	Asymmetric growth	HumPhenOnt	
+ACTN2	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+CACNA1A	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+CALM3	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+DES	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+DMD	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+KCNQ1	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+MYBPC3	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+MYH6	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+SOS1	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+TCAP	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+TNNC1	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+TTN	C4023382	Functional abnormality of the inner ear	HumPhenOnt	
+ABCB1	C0005586	Bipolar affective disorder	DisGeNet	
+AKT1	C0005586	Bipolar affective disorder	DisGeNet	
+ATP1A1	C0005586	Bipolar affective disorder	DisGeNet	
+CACNA1A	C0005586	Bipolar affective disorder	DisGeNet	
+CAMK2A	C0005586	Bipolar affective disorder	DisGeNet	
+CAV1	C0005586	Bipolar affective disorder	DisGeNet	
+CYP2D6	C0005586	Bipolar affective disorder	DisGeNet	
+DLG4	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2A	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2C	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2D	C0005586	Bipolar affective disorder	DisGeNet	
+HRAS	C0005586	Bipolar affective disorder	DisGeNet	
+MYL4	C0005586	Bipolar affective disorder	DisGeNet	
+SOS1	C0005586	Bipolar affective disorder	DisGeNet	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+KCNQ1	C0152020	Gastroparesis	DisGeNet	
+ABCB1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+AKT1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+CAV1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+DES	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+HRAS	C0035412	Rhabdomyosarcoma alveolar	DisGeNet,HumPhenOnt	
+HSP90AA1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+MYL1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+SOS1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+VIM	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+ACTN2	C0004238	Atrial Fibrillation	HumPhenOnt	
+CAV1	C0004238	Atrial Fibrillation	DisGeNet,PheGenI	
+CYP2D6	C0004238	Atrial Fibrillation	DisGeNet	
+DES	C0004238	Atrial Fibrillation	DisGeNet	
+KCNQ1	C0004238	Atrial Fibrillation	ClinVar,DisGeNet,HumPhenOnt	
+MYL4	C0004238	Atrial Fibrillation	ClinVar	
+ACTN2	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+AKT1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+DES	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+DMD	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+NEFL	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+SOS1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	

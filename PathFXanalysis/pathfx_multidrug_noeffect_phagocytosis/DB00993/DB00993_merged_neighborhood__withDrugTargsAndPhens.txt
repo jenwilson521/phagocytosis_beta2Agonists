@@ -1,0 +1,86 @@
+node1	node2	edge_score	
+DB00993	GSTA1	1.0	
+DB00993	GSTA2	1.0	
+DB00993	XDH	1.0	
+DB00993	GSTM1	1.0	
+DB00993	TPMT	1.0	
+DB00993	HPRT1	1.0	
+GSTA1	rs3957356	0.99
+GSTA1		1
+GSTA1	rs3957357	0.99
+GSTA2		1
+XDH		1
+XDH	rs1594160	0.99
+XDH	rs1429376	0.99
+GSTM1	GSTM1 non-null, GSTM1 null	0.99
+GSTM1	rs3754446	0.99
+GSTM1		1
+TPMT	TPMT*1, TPMT*3A, TPMT*3C	0.99
+TPMT	TPMT*1, TPMT*10, TPMT*13, TPMT*15, TPMT*19, TPMT*1A, TPMT*24, TPMT*25, TPMT*26, TPMT*27, TPMT*28, TPMT*30, TPMT*31, TPMT*32, TPMT*33, TPMT*34, TPMT*37, TPMT*3D, TPMT*5	0.99
+TPMT		1
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3C	0.99
+TPMT	rs17839843	0.99
+TPMT	rs3931660	0.99
+TPMT	rs1142345	0.99
+TPMT	TPMT*1, TPMT*11, TPMT*12, TPMT*14, TPMT*16, TPMT*17, TPMT*18, TPMT*1S, TPMT*20, TPMT*21, TPMT*22, TPMT*23, TPMT*6, TPMT*7, TPMT*8, TPMT*9	0.99
+TPMT	TPMT*1, TPMT*2, TPMT*3A, TPMT*3B, TPMT*3C, TPMT*4	0.99
+TPMT	rs12201199	0.99
+TPMT	rs1800460	0.99
+HPRT1		1
+DNA Damage	GSTA1	1.0	
+DNA Damage	GSTM1	1.0	
+DNA Damage	TPMT	1.0	
+Pleural Neoplasms	GSTA2	1.0	
+Pleural Neoplasms	GSTM1	1.0	
+Abnormality of purine metabolism	HPRT1	1.0	
+Abnormality of purine metabolism	XDH	1.0	
+Chromosomal translocation	GSTA1	1.0	
+Chromosomal translocation	GSTM1	1.0	
+Genomic Instability	GSTA2	1.0	
+Genomic Instability	GSTM1	1.0	
+Leukopenia	GSTA1	1.0	
+Leukopenia	GSTM1	1.0	
+Leukopenia	HPRT1	1.0	
+Leukopenia	TPMT	1.0	
+Abnormality of nucleobase metabolism	HPRT1	1.0	
+Abnormality of nucleobase metabolism	XDH	1.0	
+Myelopathy	GSTM1	1.0	
+Myelopathy	TPMT	1.0	
+Hemoglobinopathy	GSTA1	1.0	
+Hemoglobinopathy	GSTM1	1.0	
+Chromosome Xq28 deletion syndrome	GSTA1	1.0	
+Chromosome Xq28 deletion syndrome	GSTM1	1.0	
+Pharyngeal Neoplasms	GSTA2	1.0	
+Pharyngeal Neoplasms	GSTM1	1.0	
+Drug-Induced Liver Injury	GSTA1	1.0	
+Drug-Induced Liver Injury	GSTM1	1.0	
+Drug-Induced Liver Injury	TPMT	1.0	
+Occupational Diseases	GSTM1	1.0	
+Occupational Diseases	XDH	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	HPRT1	1.0	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	XDH	1.0	
+Malignant Childhood Neoplasm	HPRT1	1.0	
+Malignant Childhood Neoplasm	TPMT	1.0	
+Drug Allergy	GSTM1	1.0	
+Drug Allergy	TPMT	1.0	
+Chromosome Aberrations	GSTA1	1.0	
+Chromosome Aberrations	GSTM1	1.0	
+Amphetamine-Related Disorders	GSTA1	1.0	
+Amphetamine-Related Disorders	GSTM1	1.0	
+Lymphoid leukemia	GSTM1	1.0	
+Lymphoid leukemia	HPRT1	1.0	
+Lymphoid leukemia	TPMT	1.0	
+Chronic ulcerative colitis	GSTM1	1.0	
+Chronic ulcerative colitis	TPMT	1.0	
+Alcoholic Liver Diseases	GSTA1	1.0	
+Alcoholic Liver Diseases	GSTM1	1.0	
+Neoplasm of the larynx	GSTA2	1.0	
+Neoplasm of the larynx	GSTM1	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	GSTM1	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	TPMT	1.0	
+Nephrolithiasis	HPRT1	1.0	
+Nephrolithiasis	XDH	1.0	
+Erythema	GSTA1	1.0	
+Erythema	GSTM1	1.0	
+Hepatitis, Autoimmune	GSTM1	1.0	
+Hepatitis, Autoimmune	TPMT	1.0	

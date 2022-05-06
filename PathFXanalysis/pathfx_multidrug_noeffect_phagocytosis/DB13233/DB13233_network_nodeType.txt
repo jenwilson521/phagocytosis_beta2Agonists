@@ -1,0 +1,2 @@
+node_name	node_type	
+DB13233	drug	

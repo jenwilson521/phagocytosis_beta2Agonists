@@ -1,0 +1,757 @@
+node1	node2	edge_score	
+DB01118	CACNA1H	1.0	
+DB01118	CYP3A4	1.0	
+DB01118	CYP1A1	1.0	
+DB01118	KCNH2	1.0	
+DB01118	CYP2A6	1.0	
+DB01118	CYP2C19	1.0	
+DB01118	CYP2C8	1.0	
+DB01118	CYP3A5	1.0	
+DB01118	ADRB1	1.0	
+DB01118	CYP2D6	1.0	
+DB01118	CYP1A2	1.0	
+DB01118	CACNA2D2	1.0	
+DB01118	ABCB1	1.0	
+DB01118	CYP2C9	1.0	
+CACNA1H		1
+CYP3A4	rs2242480	0.99
+CYP3A4	rs35599367	0.99
+CYP3A4	CYP3A4*1, CYP3A4*22	0.99
+CYP3A4	CYP3A4*1, CYP3A4*4	0.99
+CYP3A4	CYP3A4*1, CYP3A4*20, CYP3A4*8	0.99
+CYP3A4	rs56324128	0.99
+CYP3A	rs2740574	0.9702989999999999
+CYP3A4	CYP3A4*1, CYP3A4*1G	0.99
+CYP3A	rs12721627	0.9702989999999999
+rs2740574	CYP3A	0.9414801494009999
+CYP3A4	rs4986910	0.99
+CYP3A4	rs4646437	0.99
+CYP3A4	rs4646440	0.99
+CYP3A4	rs2740574	0.99
+CYP3A4	MGST1	0.792109822701367
+CYP3A4	rs3735451	0.99
+CYP3A4		1
+CYP3A4	rs12721627	0.99
+rs4987161	CYP3A	0.9801
+CYP3A4	rs28371759	0.99
+CYP3A4	rs2246709	0.99
+rs4987161	CYP3A4	0.8863848717161291
+rs2740574	CYP3A4	0.92274469442792
+CYP3A4	rs4987161	0.99
+rs12721627	CYP3A4	0.96059601
+CYP3A	rs4987161	0.8953382542587163
+CYP3A4	MGST3	0.792109822701367
+CYP3A4	MGST2	0.792109822701367
+CYP1A1		1
+CYP1A1	rs2472297	0.99
+CYP1A1	rs2606345	0.99
+CYP1A1	rs1048943	0.99
+KCNH2	rs12720441	0.99
+KCNH2	rs1137617	0.99
+KCNH2		1
+CYP2A6	rs5031016	0.99
+CYP2A6	rs56113850	0.99
+CYP2A6	rs28399433	0.99
+CYP2A6	CYP2A6*15, CYP2A6*1A, CYP2A6*21, CYP2A6*22	0.99
+CYP2A6	rs28399468	0.99
+CYP2A6	CYP2A6*10, CYP2A6*11, CYP2A6*18A, CYP2A6*19, CYP2A6*1A, CYP2A6*4A, CYP2A6*4C, CYP2A6*7, CYP2A6*9A	0.99
+CYP2A6	rs376817657	0.99
+CYP2A6	rs1801272	0.99
+CYP2A6	rs143690364	0.99
+CYP2A6	CYP2A6*10, CYP2A6*19, CYP2A6*1A, CYP2A6*1B1, CYP2A6*1X2B, CYP2A6*2, CYP2A6*20, CYP2A6*24A, CYP2A6*26, CYP2A6*27, CYP2A6*4A, CYP2A6*7, CYP2A6*9A	0.99
+CYP2A6	rs111033610	0.99
+CYP2A6		1
+CYP2A6	rs8192720	0.99
+CYP2A6	rs4803381	0.99
+CYP2A6	rs140471703	0.99
+CYP2A6	rs8192726	0.99
+CYP2A6	rs28399454	0.99
+CYP2A6	rs8192725	0.99
+CYP2C19	rs12768009	0.99
+CYP2C19	rs12248560	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*26, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*5, CYP2C19*6, CYP2C19*7, CYP2C19*8	0.99
+CYP2C19	rs4986893	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*28, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2	0.99
+CYP2C19	rs28399504	0.99
+CYP2C19		1
+CYP2C19	CYP2C19*1, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3	0.99
+CYP2C19	CYP2C19*1, CYP2C19*10, CYP2C19*11, CYP2C19*13, CYP2C19*14, CYP2C19*15, CYP2C19*16, CYP2C19*18, CYP2C19*19, CYP2C19*22, CYP2C19*23, CYP2C19*24, CYP2C19*25, CYP2C19*26, CYP2C19*5, CYP2C19*6, CYP2C19*8, CYP2C19*9	0.99
+CYP2C19	rs3814637	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2, CYP2C19*3, CYP2C19*4	0.99
+CYP2C19	rs11188072	0.99
+CYP2C19	rs4244285	0.99
+CYP2C19	CYP2C19*1, CYP2C19*2, CYP2C19*3, CYP2C19*4, CYP2C19*5, CYP2C19*6, CYP2C19*8	0.99
+CYP2C19	CYP2C19*1, CYP2C19*16, CYP2C19*2	0.99
+CYP2C19	CYP2C19*1, CYP2C19*17, CYP2C19*2	0.99
+CYP2C8	rs11572076	0.99
+CYP2C8	rs10509681	0.99
+CYP2C8	rs1934951	0.99
+CYP2C8	rs11572103	0.99
+CYP2C8	CYP2C8*1A, CYP2C8*2, CYP2C8*3	0.99
+CYP2C8		1
+CYP2C8	rs11572080	0.99
+CYP2C8	rs1113129	0.99
+CYP3A5	rs17161788	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A, CYP3A5*6, CYP3A5*7	0.99
+CYP3A5		1
+CYP3A5	rs10264272	0.99
+CYP3A5	rs776746	0.99
+CYP3A5	CYP3A5*1A, CYP3A5*3A	0.99
+CYP3A5	rs41303343	0.99
+ADRB1	GPBAR1	0.8354005520686607
+ADRB1	GNB1	0.8526462282435747
+ADRB1	HTR7	0.8354005520686607
+ADRB1	DRD5	0.8354005520686607
+ADRB1	GPR20	0.8252219011119977
+ADRB1	PTHLH	0.8407682499807351
+ADRB1	GHRHR	0.8354005520686607
+ADRB1	PTGIR	0.8354005520686607
+ADRB1	RAMP1	0.8421959353175904
+ADRB1	PTGDR	0.8252219011119977
+ADRB1	RAMP2	0.8421959353175904
+ADRB1	RXFP1	0.8354005520686607
+ADRB1	HRH2	0.8354005520686607
+ADRB1	RAMP3	0.8421959353175904
+ADRB1	SCT	0.8407682499807351
+ADRB1		1
+ADRB1	GCG	0.849809014912932
+ADRB1	CALCR	0.8421959353175904
+ADRB1	GNAS	0.8549476386052599
+ADRB1	PTH2	0.8407682499807351
+ADRB1	ADORA2B	0.8354005520686607
+ADRB1	CRH	0.8407682499807351
+ADRB1	GNG2	0.8526462282435747
+ADRB1	GPR15	0.8252219011119977
+ADRB1	NPS	0.8407682499807351
+ADRB1	PTH1R	0.8354005520686607
+ADRB1	MC5R	0.8252219011119977
+ADRB1	FSHR	0.8354005520686607
+ADRB1	ADM2	0.8407682499807351
+ADRB1	TSHR	0.8354005520686607
+ADRB1	LHCGR	0.8354005520686607
+ADRB1	MC2R	0.8252219011119977
+ADRB1	CRHR1	0.8354005520686607
+ADRB1	ADCYAP1R1	0.8354005520686607
+ADRB1	MC1R	0.8252219011119977
+ADRB1	NPSR1	0.8354005520686607
+ADRB1	LHB	0.8407682499807351
+ADRB1	ADM	0.8407682499807351
+ADRB1	MC3R	0.8252219011119977
+ADRB1	RLN2	0.8459813396079446
+ADRB1	GPR32	0.8252219011119977
+ADRB1	GPR25	0.8252219011119977
+ADRB1	POMC	0.833320481754769
+ADRB1	SCTR	0.8354005520686607
+ADRB1	CALCB	0.8407682499807351
+ADRB1	GHRH	0.8407682499807351
+ADRB1	GPR150	0.8252219011119977
+ADRB1	GLP2R	0.8354005520686607
+ADRB1	CALCRL	0.8421959353175904
+ADRB1	GPR176	0.8252219011119977
+ADRB1	GPR83	0.8252219011119977
+ADRB1	GPHB5	0.8407682499807351
+ADRB1	INSL3	0.8407682499807351
+ADRB1	PTH	0.8407682499807351
+ADRB1	HTR6	0.8354005520686607
+ADRB1	HTR4	0.8354005520686607
+ADRB1	P2RY11	0.8252219011119977
+ADRB1	VIPR2	0.8252219011119977
+ADRB1	rs1801253	0.99
+ADRB1	ADCYAP1	0.8407682499807351
+ADRB1	GPHA2	0.8407682499807351
+ADRB1	TSHB	0.8407682499807351
+ADRB1	IAPP	0.8407682499807351
+ADRB1	RLN3	0.8407682499807351
+ADRB1	RXFP2	0.8354005520686607
+ADRB1	GCGR	0.8354005520686607
+ADRB1	TAAR1	0.8354005520686607
+ADRB1	PTGER2	0.8252219011119977
+ADRB1	GIPR	0.8354005520686607
+ADRB1	GIP	0.8407682499807351
+ADRB1	PTGER4	0.8252219011119977
+ADRB1	CGA	0.849809014912932
+ADRB1	GPR27	0.8252219011119977
+ADRB1	GPR84	0.8252219011119977
+ADRB1	VIP	0.833320481754769
+ADRB1	rs1801252	0.99
+ADRB1	FSHB	0.8407682499807351
+ADRB1	GPR45	0.8252219011119977
+ADRB1	VIPR1	0.8252219011119977
+ADRB1	PTH2R	0.8354005520686607
+ADRB1	CALCA	0.8407682499807351
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*40, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*38, CYP2D6*4, CYP2D6*5, CYP2D6*9	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*18, CYP2D6*2, CYP2D6*21, CYP2D6*44, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*3, CYP2D6*31, CYP2D6*35, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6, CYP2D6*9	0.99
+CYP2D6	rs76088846	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*36, CYP2D6*4, CYP2D6*40, CYP2D6*42, CYP2D6*4xN, CYP2D6*56	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*4xN, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs3892097	0.99
+CYP2D6	rs28371706	0.99
+CYP2D6	rs1080985	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*11, CYP2D6*12, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*59, CYP2D6*62, CYP2D6*7, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs745746329	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs28360521	0.99
+CYP2D6	rs367543000	0.99
+CYP2D6	CYP2D6*10, CYP2D6*14, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*21, CYP2D6*36, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10	0.99
+CYP2D6	CYP2D6*1, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*72, CYP2D6*89, CYP2D6*92, CYP2D6*93, CYP2D6*96	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs5030655	0.99
+CYP2D6	rs138417770	0.99
+CYP2D6	CYP2D6*1, CYP2D6*100, CYP2D6*101, CYP2D6*13, CYP2D6*2, CYP2D6*31, CYP2D6*4, CYP2D6*5, CYP2D6*69	0.99
+CYP2D6	CYP2D6*1, CYP2D6*5, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*15, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*29	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs567606867	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN	0.99
+CYP2D6	rs777560972	0.99
+CYP2D6	rs750996195	0.99
+CYP2D6	CYP2D6*20, CYP2D6*4	0.99
+CYP2D6	rs371793722	0.99
+CYP2D6		1
+CYP2D6	rs1065852	0.99
+CYP2D6	CYP2D6*10, CYP2D6*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP1A2	MGST3	0.792109822701367
+CYP1A2	rs2470890	0.99
+CYP1A2		1
+CYP1A2	rs762551	0.99
+CYP1A2	MGST1	0.792109822701367
+CYP1A2	CYP1A2*1A, CYP1A2*1F	0.99
+CYP1A2	rs4646427	0.99
+CYP1A2	rs2069526	0.99
+CYP1A2	rs2472304	0.99
+CYP1A2	rs2069514	0.99
+CYP1A2	rs72547517	0.99
+CYP1A2	rs4646425	0.99
+CYP1A2	rs72547516	0.99
+CYP1A2	MGST2	0.792109822701367
+CACNA2D2		1
+ABCB1	rs72552784	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1045642	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs4148738	0.99
+ABCB1	rs10248420	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs4728709	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs28401781	0.99
+ABCB1		1
+ABCB1	rs1128503	0.99
+ABCB1	rs2235067	0.99
+ABCB1	rs3842	0.99
+ABCB1	rs2235047	0.99
+ABCB1	rs12720067	0.99
+ABCB1	rs1922242	0.99
+ABCB1	rs10280101	0.99
+ABCB1	rs11983225	0.99
+ABCB1	rs4148740	0.99
+ABCB1	rs2235040	0.99
+ABCB1	rs2235015	0.99
+ABCB1	rs2229109	0.99
+ABCB1	rs2032583	0.99
+ABCB1	rs10267099	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs4148737	0.99
+ABCB1	rs17160359	0.99
+ABCB1	rs9282564	0.99
+ABCB1	rs7787082	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3	0.99
+CYP2C9	rs10509680	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9		1
+CYP2C9	rs1799853	0.99
+CYP2C9	CYP2C9*1, CYP2C9*2, CYP2C9*3, CYP2C9*6	0.99
+CYP2C9	rs28371686	0.99
+CYP2C9	rs1057910	0.99
+CYP2C9	CYP2C9*1, CYP2C9*59	0.99
+CYP2C9	rs9332239	0.99
+CYP2C9	rs28371685	0.99
+CYP2C9	rs4918758	0.99
+CYP2C9	rs9332131	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*3, CYP2C9*5, CYP2C9*6, CYP2C9*8	0.99
+CYP2C9	rs56165452	0.99
+CYP2C9	rs12782374	0.99
+CYP2C9	rs9332096	0.99
+CYP2C9	rs1934969	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3, CYP2C9*8	0.99
+CYP2C9	CYP2C9*1, CYP2C9*11, CYP2C9*2, CYP2C9*3, CYP2C9*5, CYP2C9*6	0.99
+CYP2C9	rs72558187	0.99
+CYP2C9	CYP2C9*1, CYP2C9*3	0.99
+CYP2C9	rs4917639	0.99
+CYP2C9	rs7089580	0.99
+CYP2C9	rs7900194	0.99
+CYP2C9	CYP2C9*1, CYP2C9*13, CYP2C9*2, CYP2C9*3	0.99
+CYP2C9	rs71486745	0.99
+CYP2C9	rs4086116	0.99
+Cushing's syndrome	CRH	1.0	
+Cushing's syndrome	GIP	1.0	
+Cushing's syndrome	GIPR	1.0	
+Cushing's syndrome	GNAS	1.0	
+Cushing's syndrome	LHCGR	1.0	
+Cushing's syndrome	MC2R	1.0	
+Cushing's syndrome	POMC	1.0	
+Neoplasm of the adrenal gland	ADM2	1.0	
+Neoplasm of the adrenal gland	CGA	1.0	
+Neoplasm of the adrenal gland	CRH	1.0	
+Neoplasm of the adrenal gland	FSHR	1.0	
+Neoplasm of the adrenal gland	GIP	1.0	
+Neoplasm of the adrenal gland	GIPR	1.0	
+Neoplasm of the adrenal gland	GNAS	1.0	
+Neoplasm of the adrenal gland	LHCGR	1.0	
+Neoplasm of the adrenal gland	MC2R	1.0	
+Neoplasm of the adrenal gland	POMC	1.0	
+Neoplasm of the adrenal gland	TSHR	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GIP	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GIPR	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GNAS	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GPBAR1	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	HTR4	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	MC2R	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	POMC	1.0	
+Pseudohypoparathyroidism, Type Ia	CALCA	1.0	
+Pseudohypoparathyroidism, Type Ia	GHRH	1.0	
+Pseudohypoparathyroidism, Type Ia	GNAS	1.0	
+Pseudohypoparathyroidism, Type Ia	PTH	1.0	
+Pseudohypoparathyroidism, Type Ia	PTHLH	1.0	
+Pseudohypoparathyroidism, Type Ia	VIP	1.0	
+Abnormality of the pituitary gland	ADCYAP1	1.0	
+Abnormality of the pituitary gland	ADCYAP1R1	1.0	
+Abnormality of the pituitary gland	ADM	1.0	
+Abnormality of the pituitary gland	CALCA	1.0	
+Abnormality of the pituitary gland	CRH	1.0	
+Abnormality of the pituitary gland	CRHR1	1.0	
+Abnormality of the pituitary gland	FSHB	1.0	
+Abnormality of the pituitary gland	FSHR	1.0	
+Abnormality of the pituitary gland	GCG	1.0	
+Abnormality of the pituitary gland	GHRH	1.0	
+Abnormality of the pituitary gland	GHRHR	1.0	
+Abnormality of the pituitary gland	GNAS	1.0	
+Abnormality of the pituitary gland	INSL3	1.0	
+Abnormality of the pituitary gland	LHB	1.0	
+Abnormality of the pituitary gland	LHCGR	1.0	
+Abnormality of the pituitary gland	MC2R	1.0	
+Abnormality of the pituitary gland	POMC	1.0	
+Abnormality of the pituitary gland	PTH	1.0	
+Abnormality of the pituitary gland	PTHLH	1.0	
+Abnormality of the pituitary gland	SCT	1.0	
+Abnormality of the pituitary gland	TSHB	1.0	
+Abnormality of the pituitary gland	TSHR	1.0	
+Abnormality of the pituitary gland	VIP	1.0	
+Abnormality of the pituitary gland	VIPR1	1.0	
+Abnormality of the pituitary gland	VIPR2	1.0	
+Pheochromocytoma	ADCYAP1	1.0	
+Pheochromocytoma	ADM	1.0	
+Pheochromocytoma	CALCA	1.0	
+Pheochromocytoma	CALCRL	1.0	
+Pheochromocytoma	CRH	1.0	
+Pheochromocytoma	GCG	1.0	
+Pheochromocytoma	GCGR	1.0	
+Pheochromocytoma	GNAS	1.0	
+Pheochromocytoma	HTR4	1.0	
+Pheochromocytoma	MC1R	1.0	
+Pheochromocytoma	POMC	1.0	
+Pheochromocytoma	PTH	1.0	
+Pheochromocytoma	RAMP2	1.0	
+Pheochromocytoma	SCTR	1.0	
+Pheochromocytoma	VIPR1	1.0	
+Pain insensitivity	ABCB1	1.0	
+Pain insensitivity	CACNA1H	1.0	
+Pain insensitivity	CYP2D6	1.0	
+Pain insensitivity	CYP3A4	1.0	
+Pain insensitivity	CYP3A5	1.0	
+Pain insensitivity	MC1R	1.0	
+Pain insensitivity	POMC	1.0	
+Nausea	ABCB1	1.0	
+Nausea	CYP1A2	1.0	
+Nausea	CYP2C19	1.0	
+Nausea	CYP2C9	1.0	
+Nausea	CYP2D6	1.0	
+Nausea	FSHR	1.0	
+Nausea	POMC	1.0	
+Drug Allergy	ABCB1	1.0	
+Drug Allergy	ADORA2B	1.0	
+Drug Allergy	CYP2C19	1.0	
+Drug Allergy	CYP2C8	1.0	
+Drug Allergy	CYP2C9	1.0	
+Drug Allergy	CYP2D6	1.0	
+Drug Allergy	CYP3A4	1.0	
+Drug Allergy	CYP3A5	1.0	
+Primary malignant neoplasm of liver	ABCB1	1.0	
+Primary malignant neoplasm of liver	CYP2C19	1.0	
+Primary malignant neoplasm of liver	CYP2D6	1.0	
+Primary malignant neoplasm of liver	CYP3A4	1.0	
+Primary malignant neoplasm of liver	CYP3A5	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	GHRH	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	GNAS	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTH	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTH1R	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTHLH	1.0	
+Migraine Disorders	ADCYAP1	1.0	
+Migraine Disorders	ADCYAP1R1	1.0	
+Migraine Disorders	CALCA	1.0	
+Migraine Disorders	CYP1A2	1.0	
+Migraine Disorders	CYP2D6	1.0	
+Migraine Disorders	CYP3A4	1.0	
+Migraine Disorders	DRD5	1.0	
+Migraine Disorders	FSHR	1.0	
+Migraine Disorders	GNAS	1.0	
+Migraine Disorders	HTR4	1.0	
+Migraine Disorders	HTR6	1.0	
+Migraine Disorders	HTR7	1.0	
+Migraine Disorders	RAMP1	1.0	
+Migraine Disorders	VIP	1.0	
+Migraine Disorders	VIPR1	1.0	
+Migraine Disorders	VIPR2	1.0	
+Neoplasm of the larynx	CYP1A1	1.0	
+Neoplasm of the larynx	CYP1A2	1.0	
+Neoplasm of the larynx	CYP2A6	1.0	
+Neoplasm of the larynx	CYP2C8	1.0	
+Neoplasm of the larynx	CYP2C9	1.0	
+Neoplasm of the larynx	CYP2D6	1.0	
+Neoplasm of the larynx	CYP3A4	1.0	
+Neoplasm of the larynx	GNAS	1.0	
+Neoplasm of the larynx	MGST1	1.0	
+Essential hypertension	ABCB1	1.0	
+Essential hypertension	ADM	1.0	
+Essential hypertension	ADRB1	1.0	
+Essential hypertension	CALCA	1.0	
+Essential hypertension	CALCRL	1.0	
+Essential hypertension	CYP2C9	1.0	
+Essential hypertension	CYP2D6	1.0	
+Essential hypertension	CYP3A5	1.0	
+Essential hypertension	FSHR	1.0	
+Essential hypertension	GCGR	1.0	
+Essential hypertension	GNAS	1.0	
+Essential hypertension	KCNH2	1.0	
+Essential hypertension	POMC	1.0	
+Essential hypertension	PTH	1.0	
+Essential hypertension	VIP	1.0	
+Ovarian Failure, Premature	ABCB1	1.0	
+Ovarian Failure, Premature	CYP2C19	1.0	
+Ovarian Failure, Premature	CYP2C9	1.0	
+Ovarian Failure, Premature	CYP3A4	1.0	
+Ovarian Failure, Premature	CYP3A5	1.0	
+Ovarian Failure, Premature	FSHB	1.0	
+Ovarian Failure, Premature	FSHR	1.0	
+Ovarian Failure, Premature	GHRH	1.0	
+Ovarian Failure, Premature	LHB	1.0	
+Ovarian Failure, Premature	LHCGR	1.0	
+Ovarian Failure, Premature	POMC	1.0	
+Ovarian Failure, Premature	TSHB	1.0	
+Medullary thyroid carcinoma	CALCA	1.0	
+Medullary thyroid carcinoma	CALCB	1.0	
+Medullary thyroid carcinoma	CALCR	1.0	
+Medullary thyroid carcinoma	CYP1A2	1.0	
+Medullary thyroid carcinoma	IAPP	1.0	
+Medullary thyroid carcinoma	INSL3	1.0	
+Medullary thyroid carcinoma	POMC	1.0	
+Medullary thyroid carcinoma	PTH	1.0	
+Medullary thyroid carcinoma	RAMP1	1.0	
+Medullary thyroid carcinoma	RXFP1	1.0	
+Medullary thyroid carcinoma	RXFP2	1.0	
+Medullary thyroid carcinoma	TSHR	1.0	
+Adrenal hyperplasia	CRH	1.0	
+Adrenal hyperplasia	CYP2C19	1.0	
+Adrenal hyperplasia	CYP3A4	1.0	
+Adrenal hyperplasia	GIP	1.0	
+Adrenal hyperplasia	GNAS	1.0	
+Adrenal hyperplasia	MC2R	1.0	
+Adrenal hyperplasia	POMC	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ABCB1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ADORA2B	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CACNA1H	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CALCA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CGA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CRH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CRHR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1A1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP1A2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP2A6	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP2C8	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP2C9	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CYP2D6	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHRH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHRHR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GIP	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GNAS	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HTR4	1.0	
+Adenomas, multiple colorectal, 608456 (3)	INSL3	1.0	
+Adenomas, multiple colorectal, 608456 (3)	KCNH2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	LHCGR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MC2R	1.0	
+Adenomas, multiple colorectal, 608456 (3)	POMC	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER4	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTHLH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	SCTR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TSHR	1.0	
+Pseudohypoparathyroidism type 1A	CALCA	1.0	
+Pseudohypoparathyroidism type 1A	GHRH	1.0	
+Pseudohypoparathyroidism type 1A	GNAS	1.0	
+Pseudohypoparathyroidism type 1A	PTH	1.0	
+Pseudohypoparathyroidism type 1A	PTHLH	1.0	
+Disorder of endocrine system	CALCA	1.0	
+Disorder of endocrine system	CALCR	1.0	
+Disorder of endocrine system	CRH	1.0	
+Disorder of endocrine system	GNAS	1.0	
+Disorder of endocrine system	POMC	1.0	
+Disorder of endocrine system	PTH	1.0	
+Disorder of endocrine system	TSHR	1.0	
+Tachycardia	ADRB1	1.0	
+Tachycardia	CYP2D6	1.0	
+Tachycardia	GCG	1.0	
+Tachycardia	GNAS	1.0	
+Tachycardia	HTR4	1.0	
+Tachycardia	KCNH2	1.0	
+Tachycardia	LHB	1.0	
+Tachycardia	SCT	1.0	
+Tachycardia	TSHR	1.0	
+Tachycardia	VIP	1.0	
+Secondary hyperparathyroidism	CALCR	1.0	
+Secondary hyperparathyroidism	CALCRL	1.0	
+Secondary hyperparathyroidism	GHRHR	1.0	
+Secondary hyperparathyroidism	GIP	1.0	
+Secondary hyperparathyroidism	GIPR	1.0	
+Secondary hyperparathyroidism	GNAS	1.0	
+Secondary hyperparathyroidism	LHCGR	1.0	
+Secondary hyperparathyroidism	POMC	1.0	
+Secondary hyperparathyroidism	PTH	1.0	
+Secondary hyperparathyroidism	PTH1R	1.0	
+Secondary hyperparathyroidism	VIPR1	1.0	
+Neuroendocrine neoplasm	ADCYAP1R1	1.0	
+Neuroendocrine neoplasm	CRH	1.0	
+Neuroendocrine neoplasm	GCG	1.0	
+Neuroendocrine neoplasm	GCGR	1.0	
+Neuroendocrine neoplasm	GHRH	1.0	
+Neuroendocrine neoplasm	GIP	1.0	
+Neuroendocrine neoplasm	GIPR	1.0	
+Neuroendocrine neoplasm	GNAS	1.0	
+Neuroendocrine neoplasm	GPBAR1	1.0	
+Neuroendocrine neoplasm	IAPP	1.0	
+Neuroendocrine neoplasm	POMC	1.0	
+Neuroendocrine neoplasm	PTH	1.0	
+Neuroendocrine neoplasm	PTHLH	1.0	
+Congenital adrenal hyperplasia	CRH	1.0	
+Congenital adrenal hyperplasia	CYP1A2	1.0	
+Congenital adrenal hyperplasia	CYP2C19	1.0	
+Congenital adrenal hyperplasia	GIP	1.0	
+Congenital adrenal hyperplasia	HTR4	1.0	
+Congenital adrenal hyperplasia	MC2R	1.0	
+Congenital adrenal hyperplasia	POMC	1.0	
+Anxiety Disorders	ABCB1	1.0	
+Anxiety Disorders	ADCYAP1	1.0	
+Anxiety Disorders	ADCYAP1R1	1.0	
+Anxiety Disorders	CRH	1.0	
+Anxiety Disorders	CRHR1	1.0	
+Anxiety Disorders	CYP2C19	1.0	
+Anxiety Disorders	CYP2D6	1.0	
+Anxiety Disorders	CYP3A4	1.0	
+Anxiety Disorders	GHRH	1.0	
+Anxiety Disorders	GNB1	1.0	
+Anxiety Disorders	HTR6	1.0	
+Anxiety Disorders	HTR7	1.0	
+Anxiety Disorders	MC1R	1.0	
+Anxiety Disorders	NPS	1.0	
+Anxiety Disorders	NPSR1	1.0	
+Anxiety Disorders	POMC	1.0	
+Bradycardia	CRH	1.0	
+Bradycardia	CYP2D6	1.0	
+Bradycardia	GCG	1.0	
+Bradycardia	KCNH2	1.0	
+Bradycardia	LHB	1.0	
+Bradycardia	POMC	1.0	
+Kidney Failure, Chronic	ABCB1	1.0	
+Kidney Failure, Chronic	ADM	1.0	
+Kidney Failure, Chronic	ADRB1	1.0	
+Kidney Failure, Chronic	CRH	1.0	
+Kidney Failure, Chronic	CRHR1	1.0	
+Kidney Failure, Chronic	CYP1A1	1.0	
+Kidney Failure, Chronic	CYP2C19	1.0	
+Kidney Failure, Chronic	CYP2C8	1.0	
+Kidney Failure, Chronic	CYP2C9	1.0	
+Kidney Failure, Chronic	CYP2D6	1.0	
+Kidney Failure, Chronic	CYP3A4	1.0	
+Kidney Failure, Chronic	CYP3A5	1.0	
+Kidney Failure, Chronic	GCGR	1.0	
+Kidney Failure, Chronic	IAPP	1.0	
+Kidney Failure, Chronic	LHCGR	1.0	
+Kidney Failure, Chronic	POMC	1.0	
+Kidney Failure, Chronic	PTGER4	1.0	
+Kidney Failure, Chronic	PTH	1.0	
+Kidney Failure, Chronic	PTH1R	1.0	
+Kidney Failure, Chronic	PTHLH	1.0	
+Kidney Failure, Chronic	VIPR1	1.0	
+Irritable bowel syndrome with diarrhea	ABCB1	1.0	
+Irritable bowel syndrome with diarrhea	CRH	1.0	
+Irritable bowel syndrome with diarrhea	CRHR1	1.0	
+Irritable bowel syndrome with diarrhea	GCG	1.0	
+Irritable bowel syndrome with diarrhea	GPBAR1	1.0	
+Irritable bowel syndrome with diarrhea	HTR4	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+Irritable bowel syndrome with diarrhea	NPSR1	1.0	
+Irritable bowel syndrome with diarrhea	POMC	1.0	
+Irritable bowel syndrome with diarrhea	VIP	1.0	
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	CALCA	1.0	
+Acute postoperative pain	CYP2D6	1.0	
+Acute postoperative pain	CYP3A4	1.0	
+Acute postoperative pain	POMC	1.0	
+Hyperalgesia	ADM	1.0	
+Hyperalgesia	ADRB1	1.0	
+Hyperalgesia	CACNA1H	1.0	
+Hyperalgesia	CALCA	1.0	
+Hyperalgesia	CRH	1.0	
+Hyperalgesia	HTR7	1.0	
+Hyperalgesia	MC1R	1.0	
+Hyperalgesia	PTGER4	1.0	
+Hyperalgesia	PTHLH	1.0	
+Hyperalgesia	VIP	1.0	
+Thyroid hormone receptor defect	GHRH	1.0	
+Thyroid hormone receptor defect	GNAS	1.0	
+Thyroid hormone receptor defect	PTH	1.0	
+Thyroid hormone receptor defect	TSHR	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP1A1	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP2C19	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP2C9	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A4	1.0	
+Neoplasms, Germ Cell and Embryonal	CYP3A5	1.0	
+Neoplasms, Germ Cell and Embryonal	FSHR	1.0	
+Pharyngeal Neoplasms	CYP1A1	1.0	
+Pharyngeal Neoplasms	CYP1A2	1.0	
+Pharyngeal Neoplasms	CYP2A6	1.0	
+Pharyngeal Neoplasms	CYP2C8	1.0	
+Pharyngeal Neoplasms	CYP2C9	1.0	
+Pharyngeal Neoplasms	CYP3A4	1.0	
+Acute-Phase Reaction	MC1R	1.0	
+Acute-Phase Reaction	MC2R	1.0	
+Acute-Phase Reaction	MC3R	1.0	
+Acute-Phase Reaction	MC5R	1.0	
+Pleural Neoplasms	CYP1A1	1.0	
+Pleural Neoplasms	CYP1A2	1.0	
+Pleural Neoplasms	CYP2A6	1.0	
+Pleural Neoplasms	CYP2C19	1.0	
+Bone necrosis	ABCB1	1.0	
+Bone necrosis	CYP2C8	1.0	
+Bone necrosis	CYP3A4	1.0	
+Bone necrosis	PTH	1.0	
+Bone necrosis	PTH1R	1.0	
+Pituitary corticotropic cell adenoma	CRHR1	1.0	
+Pituitary corticotropic cell adenoma	GHRH	1.0	
+Pituitary corticotropic cell adenoma	GNAS	1.0	
+Pituitary corticotropic cell adenoma	MC2R	1.0	
+Pituitary corticotropic cell adenoma	POMC	1.0	
+Chronic Fatigue Syndrome	CRHR1	1.0	
+Chronic Fatigue Syndrome	HTR4	1.0	
+Chronic Fatigue Syndrome	HTR6	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+Chronic Fatigue Syndrome	POMC	1.0	
+Adrenocortical carcinoma	ABCB1	1.0	
+Adrenocortical carcinoma	ADM	1.0	
+Adrenocortical carcinoma	GHRHR	1.0	
+Adrenocortical carcinoma	GIPR	1.0	
+Adrenocortical carcinoma	HTR7	1.0	
+Adrenocortical carcinoma	LHCGR	1.0	
+Adrenocortical carcinoma	MC2R	1.0	
+Adrenocortical carcinoma	POMC	1.0	
+Adrenocortical carcinoma	VIP	1.0	
+Squamous Cell Neoplasms	CYP1A1	1.0	
+Squamous Cell Neoplasms	CYP3A4	1.0	
+Squamous Cell Neoplasms	CYP3A5	1.0	
+Squamous Cell Neoplasms	PTH	1.0	
+SUDDEN INFANT DEATH SYNDROME	ADCYAP1	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP1A1	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C19	1.0	
+SUDDEN INFANT DEATH SYNDROME	CYP2C9	1.0	
+SUDDEN INFANT DEATH SYNDROME	KCNH2	1.0	
+SUDDEN INFANT DEATH SYNDROME	POMC	1.0	
+SUDDEN INFANT DEATH SYNDROME	VIPR1	1.0	
+Female infertility	CACNA2D2	1.0	
+Female infertility	FSHB	1.0	
+Female infertility	FSHR	1.0	
+Female infertility	LHB	1.0	
+Female infertility	LHCGR	1.0	
+Female infertility	TSHR	1.0	
+Methamphetamine abuse	CALCA	1.0	
+Methamphetamine abuse	CRH	1.0	
+Methamphetamine abuse	CRHR1	1.0	
+Methamphetamine abuse	CYP2C19	1.0	
+Methamphetamine abuse	CYP2C9	1.0	
+Methamphetamine abuse	CYP2D6	1.0	
+Methamphetamine abuse	POMC	1.0	
+Hyperlipidemia, combined, 1	ABCB1	1.0	
+Hyperlipidemia, combined, 1	ADM	1.0	
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	CYP2C19	1.0	
+Hyperlipidemia, combined, 1	CYP2C8	1.0	
+Hyperlipidemia, combined, 1	CYP2C9	1.0	
+Hyperlipidemia, combined, 1	CYP2D6	1.0	
+Hyperlipidemia, combined, 1	CYP3A4	1.0	
+Hyperlipidemia, combined, 1	CYP3A5	1.0	
+Hyperlipidemia, combined, 1	FSHR	1.0	
+Hyperlipidemia, combined, 1	GCG	1.0	
+Hyperlipidemia, combined, 1	PTH	1.0	
+Substance Withdrawal Syndrome	ABCB1	1.0	
+Substance Withdrawal Syndrome	CRH	1.0	
+Substance Withdrawal Syndrome	CYP2D6	1.0	
+Substance Withdrawal Syndrome	GNAS	1.0	
+Substance Withdrawal Syndrome	HRH2	1.0	
+Substance Withdrawal Syndrome	POMC	1.0	
+Hyperplasia	GNAS	1.0	
+Hyperplasia	HTR4	1.0	
+Hyperplasia	INSL3	1.0	
+Hyperplasia	LHCGR	1.0	
+Hyperplasia	POMC	1.0	
+Hyperplasia	PTGIR	1.0	
+Hyperplasia	RLN2	1.0	
+Hyperplasia	RLN3	1.0	
+Mental disorders	ABCB1	1.0	
+Mental disorders	ADCYAP1	1.0	
+Mental disorders	ADCYAP1R1	1.0	
+Mental disorders	CALCA	1.0	
+Mental disorders	CRH	1.0	
+Mental disorders	CRHR1	1.0	
+Mental disorders	CYP2C19	1.0	
+Mental disorders	CYP2D6	1.0	
+Mental disorders	DRD5	1.0	
+Mental disorders	GPBAR1	1.0	
+Mental disorders	HTR7	1.0	
+Mental disorders	POMC	1.0	
+Mental disorders	PTH	1.0	
+Mental disorders	SCT	1.0	
+Mental disorders	VIP	1.0	
+Genomic Instability	CYP1A1	1.0	
+Genomic Instability	CYP1A2	1.0	
+Genomic Instability	CYP2A6	1.0	
+Genomic Instability	CYP2C19	1.0	

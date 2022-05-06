@@ -1,0 +1,233 @@
+Gene	CUI	Phenotype	Source Databases	
+PLG	C0006277	Bronchitis	HumPhenOnt	
+SCNN1A	C0006277	Bronchitis	HumPhenOnt	
+SCNN1B	C0006277	Bronchitis	HumPhenOnt	
+SCNN1G	C0006277	Bronchitis	HumPhenOnt	
+SCNN1A	C0020461	Hyperkalemia	HumPhenOnt	
+SCNN1B	C0020461	Hyperkalemia	HumPhenOnt	
+SCNN1G	C0020461	Hyperkalemia	HumPhenOnt	
+SCNN1A	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+SCNN1B	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+SCNN1G	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+PLG	C4025725	Abnormality of the bronchi	HumPhenOnt	
+SCNN1A	C4025725	Abnormality of the bronchi	HumPhenOnt	
+SCNN1B	C4025725	Abnormality of the bronchi	HumPhenOnt	
+SCNN1G	C4025725	Abnormality of the bronchi	HumPhenOnt	
+SCNN1A	C0020625	Hyponatremia	HumPhenOnt	
+SCNN1B	C0020625	Hyponatremia	HumPhenOnt	
+SCNN1G	C0020625	Hyponatremia	HumPhenOnt	
+SCNN1A	C4025685	Adrenal overactivity	HumPhenOnt	
+SCNN1B	C4025685	Adrenal overactivity	HumPhenOnt	
+SCNN1G	C4025685	Adrenal overactivity	HumPhenOnt	
+PLG	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+SCNN1A	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+SCNN1B	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+SCNN1G	C0581381	Recurrent upper respiratory tract infections	HumPhenOnt	
+PLG	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+SCNN1A	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+SCNN1B	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+SCNN1G	C4025750	Abnormality of the nasopharynx	HumPhenOnt	
+SCNN1A	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+SCNN1B	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+SCNN1G	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+SCNN1A	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SCNN1B	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+SCNN1G	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+PLAU	C0020649	Hypotension	DisGeNet	
+SCNN1A	C0020649	Hypotension	HumPhenOnt	
+SCNN1B	C0020649	Hypotension	HumPhenOnt	
+SCNN1G	C0020649	Hypotension	DisGeNet,HumPhenOnt	
+PLG	C4025838	Abnormality of the pharynx	HumPhenOnt	
+SCNN1A	C4025838	Abnormality of the pharynx	HumPhenOnt	
+SCNN1B	C4025838	Abnormality of the pharynx	HumPhenOnt	
+SCNN1G	C4025838	Abnormality of the pharynx	HumPhenOnt	
+AOC1	C0020538	Hypertension	DisGeNet	
+ASIC1	C0020538	Hypertension	DisGeNet	
+PLG	C0020538	Hypertension	DisGeNet	
+SCNN1A	C0020538	Hypertension	DisGeNet	
+SCNN1B	C0020538	Hypertension	DisGeNet,HumPhenOnt	
+SCNN1G	C0020538	Hypertension	DisGeNet,HumPhenOnt	
+SLC22A1	C0020538	Hypertension	DisGeNet	
+SLC22A2	C0020538	Hypertension	DisGeNet	
+SLC22A4	C0020538	Hypertension	DisGeNet	
+SLC9A1	C0020538	Hypertension	DisGeNet	
+SCNN1A	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SCNN1B	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SCNN1G	C4023645	Abnormality of monovalent inorganic cation homeostasis	HumPhenOnt	
+SCNN1A	C0220981	Metabolic acidosis	HumPhenOnt	
+SCNN1B	C0220981	Metabolic acidosis	HumPhenOnt	
+SCNN1G	C0220981	Metabolic acidosis	HumPhenOnt	
+SCNN1A	C0008677	Bronchitis, Chronic	HumPhenOnt	
+SCNN1B	C0008677	Bronchitis, Chronic	HumPhenOnt	
+SCNN1G	C0008677	Bronchitis, Chronic	HumPhenOnt	
+PLG	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+SCNN1A	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+SCNN1B	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+SCNN1G	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+PLAU	C0023223	Leg Ulcer	DisGeNet	
+PLG	C0023223	Leg Ulcer	DisGeNet	
+PLG	C0376618	Endotoxemia	DisGeNet	
+SLC22A1	C0376618	Endotoxemia	DisGeNet	
+SLC22A2	C0376618	Endotoxemia	DisGeNet	
+SCNN1A	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+SCNN1B	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+SCNN1G	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+PLAU	C0035243	Respiratory tract infection	DisGeNet	
+PLG	C0035243	Respiratory tract infection	HumPhenOnt	
+SCNN1A	C0035243	Respiratory tract infection	HumPhenOnt	
+SCNN1B	C0035243	Respiratory tract infection	HumPhenOnt	
+SCNN1G	C0035243	Respiratory tract infection	HumPhenOnt	
+PLAU	C0004153	Atherosclerosis	DisGeNet	
+PLAUR	C0004153	Atherosclerosis	DisGeNet	
+PLG	C0004153	Atherosclerosis	DisGeNet	
+SCNN1A	C0004153	Atherosclerosis	DisGeNet	
+SCNN1B	C0004153	Atherosclerosis	DisGeNet	
+SCNN1G	C0004153	Atherosclerosis	DisGeNet	
+SLC22A1	C0004153	Atherosclerosis	DisGeNet	
+SLC9A1	C0004153	Atherosclerosis	DisGeNet	
+SCNN1A	C0011175	Dehydration	HumPhenOnt	
+SCNN1B	C0011175	Dehydration	HumPhenOnt	
+SCNN1G	C0011175	Dehydration	HumPhenOnt	
+SLC22A1	C0005398	Extrahepatic cholestasis	DisGeNet	
+SLC22A2	C0005398	Extrahepatic cholestasis	DisGeNet	
+SCNN1A	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+SCNN1B	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+SCNN1G	C4023212	Abnormality of adrenal physiology	HumPhenOnt	
+PLAU	C0010674	Cystic Fibrosis	DisGeNet	
+PLG	C0010674	Cystic Fibrosis	DisGeNet	
+SCNN1A	C0010674	Cystic Fibrosis	DisGeNet	
+SCNN1B	C0010674	Cystic Fibrosis	DisGeNet	
+SCNN1G	C0010674	Cystic Fibrosis	DisGeNet	
+PLAU	C0011608	Dermatitis Herpetiformis	DisGeNet	
+PLG	C0011608	Dermatitis Herpetiformis	DisGeNet	
+SCNN1A	C0006267	Bronchiectasis	DisGeNet,HumPhenOnt	
+SCNN1B	C0006267	Bronchiectasis	DisGeNet,HumPhenOnt	
+SCNN1G	C0006267	Bronchiectasis	DisGeNet,HumPhenOnt	
+PLAU	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLAUR	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+PLG	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+SCNN1A	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+SLC22A1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+SCNN1B	C0002063	Alkalosis	HumPhenOnt	
+SCNN1G	C0002063	Alkalosis	HumPhenOnt	
+PLAUR	C0022658	Kidney Diseases	DisGeNet	
+PLG	C0022658	Kidney Diseases	DisGeNet	
+SCNN1A	C0022658	Kidney Diseases	DisGeNet	
+SCNN1B	C0022658	Kidney Diseases	HumPhenOnt	
+SCNN1G	C0022658	Kidney Diseases	HumPhenOnt	
+SLC22A2	C0022658	Kidney Diseases	DisGeNet	
+PLG	C0085580	Essential hypertension	DisGeNet	
+SCNN1A	C0085580	Essential hypertension	DisGeNet	
+SCNN1B	C0085580	Essential hypertension	DisGeNet	
+SLC9A1	C0085580	Essential hypertension	DisGeNet	
+PLG	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+SCNN1A	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+SCNN1B	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+SCNN1G	C4025727	Abnormality of the upper respiratory tract	HumPhenOnt	
+PLG	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SCNN1A	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SCNN1B	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SCNN1G	C1848924	Infantile-onset ascending hereditary spastic paralysis	HumPhenOnt	
+SCNN1B	C0020545	Renovascular hypertension	DisGeNet	
+SLC9A1	C0020545	Renovascular hypertension	DisGeNet	
+SCNN1B	C0020621	Hypokalemia	HumPhenOnt	
+SCNN1G	C0020621	Hypokalemia	HumPhenOnt	
+PLG	C3806482	Recurrent respiratory infections	HumPhenOnt	
+SCNN1A	C3806482	Recurrent respiratory infections	HumPhenOnt	
+SCNN1B	C3806482	Recurrent respiratory infections	HumPhenOnt	
+SCNN1G	C3806482	Recurrent respiratory infections	HumPhenOnt	
+SCNN1A	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+SCNN1B	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+SCNN1G	C4021794	Abnormality of the adrenal glands	HumPhenOnt	
+ASIC2	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+PLAU	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+PLAU	C0751674	Lymphangiomyomatosis	DisGeNet	
+PLG	C0751674	Lymphangiomyomatosis	DisGeNet	
+SLC22A1	C0008372	Intrahepatic cholestasis	DisGeNet	
+SLC22A2	C0008372	Intrahepatic cholestasis	DisGeNet	
+PLAU	C0011603	Seborheic dermatitis	DisGeNet	
+PLAUR	C0011603	Seborheic dermatitis	DisGeNet	
+PLG	C0011603	Seborheic dermatitis	DisGeNet	
+SCNN1A	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SCNN1B	C0020503	Secondary hyperparathyroidism	DisGeNet	
+SLC22A1	C0020503	Secondary hyperparathyroidism	DisGeNet	
+PLAU	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PLAUR	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+SCNN1A	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+SCNN1B	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+PLAU	C0151526	Premature Birth	DisGeNet	
+PLAUR	C0151526	Premature Birth	DisGeNet	
+PLG	C0151526	Premature Birth	DisGeNet	
+SCNN1A	C0151526	Premature Birth	DisGeNet	
+SCNN1A	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet,HumPhenOnt	
+SCNN1B	C0011991	Diarrhea 8, secretory sodium, congenital	HumPhenOnt	
+SCNN1G	C0011991	Diarrhea 8, secretory sodium, congenital	HumPhenOnt	
+SLC9A1	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+PLAU	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+SLC9A1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+SCNN1A	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SCNN1B	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+SCNN1G	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+ASIC1	C0021368	Inflammation	DisGeNet	
+ASIC2	C0021368	Inflammation	DisGeNet	
+PLAU	C0021368	Inflammation	DisGeNet	
+PLAUR	C0021368	Inflammation	DisGeNet	
+SCNN1A	C0021368	Inflammation	DisGeNet	
+ASIC1	C0022116	Ischemia	DisGeNet	
+PLAU	C0022116	Ischemia	DisGeNet	
+PLG	C0022116	Ischemia	DisGeNet	
+SLC22A4	C0022116	Ischemia	DisGeNet	
+SLC9A1	C0022116	Ischemia	DisGeNet	
+SCNN1A	C0042963	Vomiting	HumPhenOnt	
+SCNN1B	C0042963	Vomiting	HumPhenOnt	
+SCNN1G	C0042963	Vomiting	HumPhenOnt	
+PLAU	C1397307	Cardiac fibrosis	DisGeNet	
+PLG	C1397307	Cardiac fibrosis	DisGeNet	
+PLAU	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+PLG	C0030805	{Pemphigoid, susceptibility to} (2)	DisGeNet	
+PLAU	C1511291	Breast Cancer Model	DisGeNet	
+PLG	C1511291	Breast Cancer Model	DisGeNet	
+SCNN1A	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+SCNN1B	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+SCNN1G	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+PLAU	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLAUR	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLG	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+PLG	C0013295	Duodenal Ulcer	HumPhenOnt	
+SLC22A1	C0013295	Duodenal Ulcer	DisGeNet	
+ASIC1	C1868649	Panic disorder 1	DisGeNet	
+ASIC2	C1868649	Panic disorder 1	DisGeNet	
+PLAU	C0026267	Mitral Valve Prolapse	DisGeNet	
+PLG	C0026267	Mitral Valve Prolapse	DisGeNet	
+PLAU	C0151942	Arterial thrombosis	DisGeNet	
+PLG	C0151942	Arterial thrombosis	DisGeNet	
+ASIC1	C0151744	Acute myocardial ischemia	DisGeNet	
+ASIC2	C0151744	Acute myocardial ischemia	DisGeNet	
+PLG	C0151744	Acute myocardial ischemia	DisGeNet	
+SLC9A1	C0151744	Acute myocardial ischemia	DisGeNet	
+PLAU	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PLG	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PLG	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+SCNN1A	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+SCNN1B	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+SCNN1B	C4021520	Abnormality of cerebral artery	HumPhenOnt	
+SCNN1G	C4021520	Abnormality of cerebral artery	HumPhenOnt	
+SCNN1B	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+SCNN1G	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+SCNN1B	C0205216	Decreased beta-glucocerebrosidase protein and activity	HumPhenOnt	
+SCNN1G	C0205216	Decreased beta-glucocerebrosidase protein and activity	HumPhenOnt	
+PLG	C0917798	Cerebral ischemia	DisGeNet	
+SCNN1B	C0917798	Cerebral ischemia	HumPhenOnt	
+SCNN1G	C0917798	Cerebral ischemia	HumPhenOnt	
+PLG	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+SCNN1A	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+SCNN1B	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+SCNN1G	C0239998	Infections, recurrent, with encephalopathy, hepatic dysfunction, and cardiovascular malformations	HumPhenOnt	
+AOC1	C0009324	Ulcerative colitis	DisGeNet	
+SCNN1B	C0009324	Ulcerative colitis	DisGeNet	
+SCNN1G	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A4	C0009324	Ulcerative colitis	DisGeNet	
+SLC9A1	C0009324	Ulcerative colitis	DisGeNet	
+AOC1	C0018800	Cardiomegaly	DisGeNet	
+PLAU	C0018800	Cardiomegaly	DisGeNet	
+SLC9A1	C0018800	Cardiomegaly	DisGeNet	

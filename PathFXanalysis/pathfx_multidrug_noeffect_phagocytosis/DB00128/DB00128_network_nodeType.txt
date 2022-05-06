@@ -1,0 +1,107 @@
+node_name	node_type	
+DB00128	drug	
+ASPA	drug_target	
+ACY1	drug_target	
+ADSS	drug_target	
+SLC25A12	drug_target	
+ASPH	drug_target	
+ASS1	drug_target	
+SLC25A13	drug_target	
+DARS2	drug_target	
+GOT1	drug_target	
+ASRGL1	drug_target	
+ADSSL1	drug_target	
+GOT2	drug_target	
+ASNS	drug_target	
+CAD	drug_target	
+SLC16A10	drug_target	
+LYZ	drug_target	
+DARS	drug_target	
+SLC1A1	drug_target	
+PAICS	drug_target	
+RNASE1	drug_target	
+ACY3	drug_target	
+Abnormality of nervous system morphology	phenotype	
+Babinski sign	phenotype	
+Cognition Disorders	phenotype	
+Abnormal myelination	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Abnormality of the nervous system	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Abnormal CNS myelination	phenotype	
+Morphological abnormality of the central nervous system	phenotype	
+Abnormality of muscle physiology	phenotype	
+Abnormality of the musculature	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Onset	phenotype	
+Guillain-Barre syndrome, familial	phenotype	
+Abnormality of brain morphology	phenotype	
+Spasticity, childhood-onset, with hyperglycinemia	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Abnormal pyramidal signs	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Hyperreflexia	phenotype	
+CNS hypomyelination	phenotype	
+Seizures, Febrile	phenotype	
+Neoplasm of the liver	phenotype	
+Diabetes mellitus type 2	phenotype	
+Peripheral axonal neuropathy	phenotype	
+Neurodegenerative Diseases	phenotype	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Impaired vibratory sensation	phenotype	
+Hypoxia	phenotype	
+Abnormality of central motor function	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Abnormality of nitrogen compound homeostasis	phenotype	
+Azotemia	phenotype	
+Corneal Diseases	phenotype	
+Spastic	phenotype	
+Abnormality of fluid regulation	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Abnormal muscle tone	phenotype	
+Amyloidosis	phenotype	
+Tremor, hereditary essential, 5	phenotype	
+Brain Diseases	phenotype	
+Dysmetria	phenotype	
+Hypertonia	phenotype	
+Hyperammonemia	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Cerebral edema	phenotype	
+Azorean disease	phenotype	
+Alcoholic Steatohepatitis	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Motor Neuron Disease	phenotype	
+CADASIL	phenotype	
+Other disorders of the nervous system	phenotype	
+Erythroblastosis	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Hereditary pancreatitis	phenotype	
+Diabetic Angiopathies	phenotype	
+Peripheral axonal degeneration	phenotype	
+Pointed chin	phenotype	
+Abnormality of the cerebellum	phenotype	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	phenotype	
+Abnormality of hindbrain morphology	phenotype	
+Abnormality of the metencephalon	phenotype	
+Autosomal recessive inheritance	phenotype	
+Abnormal peripheral nervous system morphology	phenotype	
+{Aneurysm, familial abdominal 3} (2)	phenotype	
+Increased antibody level in blood	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Shy-Drager syndrome	phenotype	
+Aural atresia, congenital	phenotype	
+Albuminuria	phenotype	
+Dermal atrophy	phenotype	
+Inclusion Body Myopathy, Sporadic	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Age-related macular degeneration 2	phenotype	
+Upper motor neuron dysfunction	phenotype	
+Hepatic steatosis	phenotype	
+Hydrops, lactic acidosis, and sideroblastic anemia	phenotype	
+Chorea, childhood-onset, with psychomotor retardation	phenotype	
+Chronic kidney disease	phenotype	
+Alzheimer Disease	phenotype	
+Oropharyngeal Carcinoma	phenotype	

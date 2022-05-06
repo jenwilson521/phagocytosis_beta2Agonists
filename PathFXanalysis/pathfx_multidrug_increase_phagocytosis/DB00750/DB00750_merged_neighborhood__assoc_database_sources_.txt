@@ -1,0 +1,363 @@
+Gene	CUI	Phenotype	Source Databases	
+AP4E1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+APOE	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CAMTA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CST3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GFAP	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GJC2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GSN	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KCNMA1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+KRT9	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+LDB3	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NLRC4	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+PLAG1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SCN5A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SERPING1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SETX	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SPAST	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ALB	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+APOE	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+GFAP	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+SERPING1	C0018378	Guillain-Barre syndrome, familial	DisGeNet	
+APOC1	C0009241	Cognition Disorders	DisGeNet	
+APOE	C0009241	Cognition Disorders	DisGeNet	
+CST3	C0009241	Cognition Disorders	DisGeNet	
+SPAST	C0009241	Cognition Disorders	DisGeNet	
+GFAP	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT1	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+KRT9	C0079298	Epidermolysis bullosa simplex, Cockayne-Touraine type	DisGeNet	
+AP4E1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+APOE	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+CAMTA1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+CHKB	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+CRB1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+CST3	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+GFAP	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+GJC2	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+GSN	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+LDB3	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+NLRC4	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+OBSL1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SACS	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SCN5A	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SERPING1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SETX	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SLC25A13	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+SPAST	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+TRAPPC11	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+APOE	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSN	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+LDB3	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	HumPhenOnt	
+SACS	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SERPING1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SETX	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+APOE	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CAMTA1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CHKB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CRB1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CST3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GJC2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GSN	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+KRT1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+KRT9	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+LDB3	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NLRC4	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SCN5A	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SERPING1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SETX	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLC25A13	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+TRAPPC11	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SACS	C1295585	Impaired vibratory sensation	HumPhenOnt	
+SETX	C1295585	Impaired vibratory sensation	HumPhenOnt	
+SPAST	C1295585	Impaired vibratory sensation	HumPhenOnt	
+APOC1	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APOE	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+CST3	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+GFAP	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+CAMTA1	C0234162	Dysmetria	HumPhenOnt	
+GJC2	C0234162	Dysmetria	HumPhenOnt	
+SACS	C0234162	Dysmetria	HumPhenOnt	
+SETX	C0234162	Dysmetria	DisGeNet	
+APOE	C0085084	Motor Neuron Disease	DisGeNet	
+GFAP	C0085084	Motor Neuron Disease	DisGeNet	
+HP	C0085084	Motor Neuron Disease	DisGeNet	
+SETX	C0085084	Motor Neuron Disease	DisGeNet	
+SPAST	C0085084	Motor Neuron Disease	DisGeNet	
+APOE	C0010034	Corneal Diseases	DisGeNet	
+GFAP	C0010034	Corneal Diseases	DisGeNet	
+GSN	C0010034	Corneal Diseases	DisGeNet	
+APOE	C0443306	Spastic	DisGeNet	
+GJC2	C0443306	Spastic	DisGeNet	
+SPAST	C0443306	Spastic	DisGeNet	
+APOE	C0024408	Azorean disease	DisGeNet	
+BBC3	C0024408	Azorean disease	DisGeNet	
+CST3	C0024408	Azorean disease	DisGeNet	
+GFAP	C0024408	Azorean disease	DisGeNet	
+APOE	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+GFAP	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+GJC2	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+GSN	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+LDB3	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+NLRC4	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+SACS	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet,HumPhenOnt	
+SERPING1	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	HumPhenOnt	
+SETX	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet,HumPhenOnt	
+SPAST	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet,HumPhenOnt	
+TLN2	C0031117	Peripheral neuropathy, myopathy, hoarseness, and hearing loss	DisGeNet	
+APOE	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+BBC3	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+NLRC4	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+AP4E1	C0034935	Babinski sign	HumPhenOnt	
+GJC2	C0034935	Babinski sign	HumPhenOnt	
+SACS	C0034935	Babinski sign	HumPhenOnt	
+SETX	C0034935	Babinski sign	HumPhenOnt	
+SPAST	C0034935	Babinski sign	HumPhenOnt	
+ALB	C0011389	Plaque, Atherosclerotic	DisGeNet	
+APOE	C0011389	Plaque, Atherosclerotic	DisGeNet	
+CST3	C0011389	Plaque, Atherosclerotic	DisGeNet	
+GFAP	C0011389	Plaque, Atherosclerotic	DisGeNet	
+GSN	C0011389	Plaque, Atherosclerotic	DisGeNet	
+SERPING1	C0011389	Plaque, Atherosclerotic	DisGeNet	
+GSN	C0272138	Erythroblastosis	DisGeNet	
+KLK3	C0272138	Erythroblastosis	DisGeNet	
+PLAG1	C0272138	Erythroblastosis	DisGeNet	
+ALB	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet	
+GSN	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	DisGeNet,HumPhenOnt	
+LDB3	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	HumPhenOnt	
+SETX	C0152025	Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	HumPhenOnt	
+ALB	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+APOE	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+HPX	C1704321	Nephrotic Syndrome, Minimal Change	DisGeNet	
+AP4E1	C1844505	Pointed chin	HumPhenOnt	
+CAMTA1	C1844505	Pointed chin	HumPhenOnt	
+OBSL1	C1844505	Pointed chin	HumPhenOnt	
+ALB	C0001925	Albuminuria	DisGeNet	
+APOE	C0001925	Albuminuria	DisGeNet	
+CST3	C0001925	Albuminuria	DisGeNet	
+CTSL	C0001925	Albuminuria	DisGeNet	
+HP	C0001925	Albuminuria	DisGeNet	
+ALB	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+APOE	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+CHKB	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+GFAP	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+LDB3	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet,HumPhenOnt	
+OBSL1	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+SCN5A	C0026848	Myopathy, scapulohumeroperoneal	HumPhenOnt	
+TRAPPC11	C0026848	Myopathy, scapulohumeroperoneal	DisGeNet	
+KRT1	C0151669	Increased antibody level in blood	HumPhenOnt	
+KRT9	C0151669	Increased antibody level in blood	HumPhenOnt	
+SETX	C0151669	Increased antibody level in blood	HumPhenOnt	
+APOE	C0085220	Cerebral Amyloid Angiopathy	DisGeNet,HumPhenOnt	
+CST3	C0085220	Cerebral Amyloid Angiopathy	DisGeNet,HumPhenOnt	
+GSN	C0085220	Cerebral Amyloid Angiopathy	DisGeNet	
+APOE	C1842937	Aural atresia, congenital	DisGeNet	
+CST3	C1842937	Aural atresia, congenital	DisGeNet	
+GSN	C1842937	Aural atresia, congenital	DisGeNet	
+CHKB	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+GJC2	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+GSN	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+LDB3	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+NLRC4	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SACS	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SERPING1	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SETX	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+SPAST	C4025831	Abnormal peripheral nervous system morphology	HumPhenOnt	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+APOE	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GFAP	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GJC2	C0008489	Chorea, childhood-onset, with psychomotor retardation	HumPhenOnt	
+KCNMA1	C0008489	Chorea, childhood-onset, with psychomotor retardation	DisGeNet	
+SETX	C0008489	Chorea, childhood-onset, with psychomotor retardation	HumPhenOnt	
+TRAPPC11	C0008489	Chorea, childhood-onset, with psychomotor retardation	HumPhenOnt	
+ALB	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+CHKB	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+LDB3	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+SCN5A	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+SETX	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+TRAPPC11	C4023679	Abnormality of circulating protein level	HumPhenOnt	
+AHSG	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+APOE	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CST3	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+HP	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0238339	Hereditary pancreatitis	DisGeNet	
+APOE	C0238339	Hereditary pancreatitis	DisGeNet	
+HP	C0238339	Hereditary pancreatitis	DisGeNet	
+KLK3	C0238339	Hereditary pancreatitis	DisGeNet	
+PLAG1	C0238339	Hereditary pancreatitis	DisGeNet	
+PRSS3	C0238339	Hereditary pancreatitis	DisGeNet	
+TSC22D1	C0238339	Hereditary pancreatitis	DisGeNet	
+AP4E1	C0037772	Spastic paraplegia 9	HumPhenOnt	
+GFAP	C0037772	Spastic paraplegia 9	DisGeNet	
+GJC2	C0037772	Spastic paraplegia 9	DisGeNet,HumPhenOnt	
+SPAST	C0037772	Spastic paraplegia 9	DisGeNet,HumPhenOnt	
+APOC1	C0024437	Macular Degeneration	PheGenI	
+APOE	C0024437	Macular Degeneration	DisGeNet,PheGenI	
+CRB1	C0024437	Macular Degeneration	PheGenI	
+CST3	C0024437	Macular Degeneration	DisGeNet	
+SERPING1	C0024437	Macular Degeneration	DisGeNet	
+CHKB	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+LDB3	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+SCN5A	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+SETX	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+TRAPPC11	C4023591	Abnormality of circulating enzyme level	HumPhenOnt	
+CHKB	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+LDB3	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+SCN5A	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+SETX	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+TRAPPC11	C0241005	Elevated serum creatine phosphokinase	HumPhenOnt	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+APOC1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOE	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+CDCP1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+HP	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+SLC25A13	C0020473	Hyperlipidemia, combined, 1	HumPhenOnt	
+KRT1	C0041834	Erythema	HumPhenOnt	
+KRT9	C0041834	Erythema	HumPhenOnt	
+NLRC4	C0041834	Erythema	HumPhenOnt	
+SERPING1	C0041834	Erythema	HumPhenOnt	
+AP4E1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+APOE	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CAMTA1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CHKB	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CRB1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+CST3	C0497552	Abnormality of the nervous system	HumPhenOnt	
+GFAP	C0497552	Abnormality of the nervous system	HumPhenOnt	
+GJC2	C0497552	Abnormality of the nervous system	HumPhenOnt	
+GSN	C0497552	Abnormality of the nervous system	HumPhenOnt	
+KCNMA1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+LDB3	C0497552	Abnormality of the nervous system	HumPhenOnt	
+NLRC4	C0497552	Abnormality of the nervous system	HumPhenOnt	
+OBSL1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SACS	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SCN5A	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SERPING1	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SETX	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SLC25A13	C0497552	Abnormality of the nervous system	HumPhenOnt	
+SPAST	C0497552	Abnormality of the nervous system	HumPhenOnt	
+TRAPPC11	C0497552	Abnormality of the nervous system	HumPhenOnt	
+ALB	C0011265	Dementia familial British	DisGeNet	
+APOC1	C0011265	Dementia familial British	DisGeNet	
+APOE	C0011265	Dementia familial British	DisGeNet	
+CST3	C0011265	Dementia familial British	DisGeNet	
+GFAP	C0011265	Dementia familial British	DisGeNet	
+SPAST	C0011265	Dementia familial British	DisGeNet	
+APOE	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+CST3	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+GSN	C0002726	Amyloidosis	DisGeNet,HumPhenOnt	
+HP	C0002726	Amyloidosis	DisGeNet	
+AHSG	C0011860	Diabetes mellitus type 2	DisGeNet	
+ALB	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOC1	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOE	C0011860	Diabetes mellitus type 2	DisGeNet	
+CAMTA1	C0011860	Diabetes mellitus type 2	DisGeNet	
+CRB1	C0011860	Diabetes mellitus type 2	HumPhenOnt	
+CST3	C0011860	Diabetes mellitus type 2	DisGeNet	
+CTSL	C0011860	Diabetes mellitus type 2	DisGeNet	
+DCD	C0011860	Diabetes mellitus type 2	DisGeNet	
+DGKG	C0011860	Diabetes mellitus type 2	DisGeNet	
+GSN	C0011860	Diabetes mellitus type 2	DisGeNet	
+HP	C0011860	Diabetes mellitus type 2	DisGeNet	
+HPX	C0011860	Diabetes mellitus type 2	DisGeNet	
+PEG3	C0011860	Diabetes mellitus type 2	DisGeNet	
+SCN5A	C0011860	Diabetes mellitus type 2	DisGeNet	
+THRAP3	C0011860	Diabetes mellitus type 2	DisGeNet	
+TSC22D1	C0011860	Diabetes mellitus type 2	DisGeNet	
+APOE	C0036974	Shock, Septic	DisGeNet	
+HP	C0036974	Shock, Septic	DisGeNet	
+SCN5A	C0036974	Shock, Septic	DisGeNet	
+APOE	C0037315	Sleep apnea	DisGeNet	
+GSN	C0037315	Sleep apnea	DisGeNet	
+HP	C0037315	Sleep apnea	DisGeNet	
+APOE	C0238190	Inclusion Body Myositis (disorder)	DisGeNet	
+CST3	C0238190	Inclusion Body Myositis (disorder)	DisGeNet	
+GSN	C0238190	Inclusion Body Myositis (disorder)	DisGeNet	
+GJC2	C1263857	Peripheral axonal neuropathy	HumPhenOnt	
+SERPING1	C1263857	Peripheral axonal neuropathy	HumPhenOnt	
+SETX	C1263857	Peripheral axonal neuropathy	HumPhenOnt	
+AHSG	C0015695	Hepatic steatosis	DisGeNet	
+ALB	C0015695	Hepatic steatosis	DisGeNet	
+APOC1	C0015695	Hepatic steatosis	DisGeNet	
+APOE	C0015695	Hepatic steatosis	DisGeNet,HumPhenOnt	
+HP	C0015695	Hepatic steatosis	DisGeNet	
+NCOA3	C0015695	Hepatic steatosis	DisGeNet	
+SLC25A13	C0015695	Hepatic steatosis	DisGeNet,HumPhenOnt	
+AP4E1	C0234132	Abnormal pyramidal signs	HumPhenOnt	
+GJC2	C0234132	Abnormal pyramidal signs	HumPhenOnt	
+SACS	C0234132	Abnormal pyramidal signs	DisGeNet,HumPhenOnt	
+SETX	C0234132	Abnormal pyramidal signs	DisGeNet,HumPhenOnt	
+SPAST	C0234132	Abnormal pyramidal signs	HumPhenOnt	
+GFAP	C0027070	Myoepithelioma	DisGeNet	
+PLAG1	C0027070	Myoepithelioma	DisGeNet	
+APOC1	C0237849	Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	DisGeNet	
+KRT1	C0237849	Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	HumPhenOnt	
+LDB3	C1960469	Left ventricular noncompaction	DisGeNet	
+SCN5A	C1960469	Left ventricular noncompaction	DisGeNet	
+AP4E1	C0240543	Bulbous nose	HumPhenOnt	
+CAMTA1	C0240543	Bulbous nose	HumPhenOnt	
+OBSL1	C0240543	Bulbous nose	HumPhenOnt	
+AHSG	C2711227	Steatohepatitis	DisGeNet	
+APOC1	C2711227	Steatohepatitis	DisGeNet	
+APOE	C2711227	Steatohepatitis	DisGeNet	
+NCOA3	C2711227	Steatohepatitis	DisGeNet	
+SLC25A13	C2711227	Steatohepatitis	DisGeNet	
+KRT1	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+KRT9	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+AP4E1	C0037773	Complicated hereditary spastic paraplegia	DisGeNet	
+GJC2	C0037773	Complicated hereditary spastic paraplegia	DisGeNet	
+SPAST	C0037773	Complicated hereditary spastic paraplegia	DisGeNet	
+ALB	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+APOE	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+HP	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+LDB3	C0686353	Limb-girdle muscular dystrophy, type 2L	DisGeNet	
+OBSL1	C0686353	Limb-girdle muscular dystrophy, type 2L	DisGeNet	
+TRAPPC11	C0686353	Limb-girdle muscular dystrophy, type 2L	ClinVar,DisGeNet,HumPhenOnt	
+KLK3	C0346255	Oncocytoma, renal	DisGeNet	
+PLAG1	C0346255	Oncocytoma, renal	DisGeNet	
+AHSG	C0524851	Neurodegenerative Diseases	DisGeNet	
+APOE	C0524851	Neurodegenerative Diseases	DisGeNet	
+CST3	C0524851	Neurodegenerative Diseases	DisGeNet	
+GFAP	C0524851	Neurodegenerative Diseases	DisGeNet	
+GSN	C0524851	Neurodegenerative Diseases	DisGeNet	
+KCNMA1	C0524851	Neurodegenerative Diseases	DisGeNet	
+SACS	C0524851	Neurodegenerative Diseases	DisGeNet	
+SETX	C0524851	Neurodegenerative Diseases	DisGeNet	
+SPAST	C0524851	Neurodegenerative Diseases	DisGeNet	
+KRT1	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+PRSS3	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+SCN5A	C0432306	Ichthyosis bullosa of Siemens	DisGeNet	
+AP4E1	C0206132	Onset	HumPhenOnt	
+APOE	C0206132	Onset	HumPhenOnt	
+CHKB	C0206132	Onset	HumPhenOnt	
+GFAP	C0206132	Onset	HumPhenOnt	
+GJC2	C0206132	Onset	HumPhenOnt	
+GSN	C0206132	Onset	HumPhenOnt	
+LDB3	C0206132	Onset	HumPhenOnt	
+SACS	C0206132	Onset	HumPhenOnt	
+SCN5A	C0206132	Onset	HumPhenOnt	
+KRT1	C0043037	Verrucae	HumPhenOnt	
+KRT9	C0043037	Verrucae	HumPhenOnt	
+KLK3	C1266042	Chromophobe Renal Cell Carcinoma	DisGeNet	
+PLAG1	C1266042	Chromophobe Renal Cell Carcinoma	DisGeNet	
+AHSG	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+ALB	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+APOE	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+GSN	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+KLK3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+APOE	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+CHKB	C0007193	Cardiomyopathy, Dilated	HumPhenOnt	
+CTSL	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+GFAP	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+KRT9	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+LDB3	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+SCN5A	C0007193	Cardiomyopathy, Dilated	ClinVar,DisGeNet,HumPhenOnt	
+APOE	C0027765	Other disorders of the nervous system	DisGeNet	
+CST3	C0027765	Other disorders of the nervous system	DisGeNet	
+GFAP	C0027765	Other disorders of the nervous system	DisGeNet	
+SACS	C0027765	Other disorders of the nervous system	DisGeNet	
+SCAF1	C0027765	Other disorders of the nervous system	DisGeNet	
+SETX	C0027765	Other disorders of the nervous system	DisGeNet	
+SPAST	C0027765	Other disorders of the nervous system	DisGeNet	

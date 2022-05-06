@@ -1,0 +1,727 @@
+node1	node2	edge_score	
+DB01244	CYP2D6	1.0	
+DB01244	CACNA1H	1.0	
+DB01244	PDE1B	1.0	
+DB01244	CACNA1A	1.0	
+DB01244	PDE1A	1.0	
+DB01244	TNNC1	1.0	
+DB01244	ATP1A1	1.0	
+DB01244	ABCB1	1.0	
+DB01244	CALM3	1.0	
+DB01244	KCNQ1	1.0	
+DB01244	CACNA2D2	1.0	
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*40, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*38, CYP2D6*4, CYP2D6*5, CYP2D6*9	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*18, CYP2D6*2, CYP2D6*21, CYP2D6*44, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*29, CYP2D6*3, CYP2D6*31, CYP2D6*35, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6, CYP2D6*9	0.99
+CYP2D6	rs76088846	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*36, CYP2D6*4, CYP2D6*40, CYP2D6*42, CYP2D6*4xN, CYP2D6*56	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*4xN, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs3892097	0.99
+CYP2D6	rs28371706	0.99
+CYP2D6	rs1080985	0.99
+CYP2D6	CYP2D6*1, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*11, CYP2D6*12, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*59, CYP2D6*62, CYP2D6*7, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs745746329	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs28360521	0.99
+CYP2D6	rs367543000	0.99
+CYP2D6	CYP2D6*10, CYP2D6*14, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6, CYP2D6*7	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*21, CYP2D6*36, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*17, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10	0.99
+CYP2D6	CYP2D6*1, CYP2D6*47, CYP2D6*49, CYP2D6*50, CYP2D6*51, CYP2D6*54, CYP2D6*55, CYP2D6*57, CYP2D6*72, CYP2D6*89, CYP2D6*92, CYP2D6*93, CYP2D6*96	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*41, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs5030655	0.99
+CYP2D6	rs138417770	0.99
+CYP2D6	CYP2D6*1, CYP2D6*100, CYP2D6*101, CYP2D6*13, CYP2D6*2, CYP2D6*31, CYP2D6*4, CYP2D6*5, CYP2D6*69	0.99
+CYP2D6	CYP2D6*1, CYP2D6*5, CYP2D6*8	0.99
+CYP2D6	CYP2D6*1, CYP2D6*15, CYP2D6*4	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*2, CYP2D6*2xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	CYP2D6*1, CYP2D6*29	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*3, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*2, CYP2D6*4, CYP2D6*5	0.99
+CYP2D6	CYP2D6*1, CYP2D6*10, CYP2D6*14, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CYP2D6	rs567606867	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN	0.99
+CYP2D6	rs777560972	0.99
+CYP2D6	rs750996195	0.99
+CYP2D6	CYP2D6*20, CYP2D6*4	0.99
+CYP2D6	rs371793722	0.99
+CYP2D6		1
+CYP2D6	rs1065852	0.99
+CYP2D6	CYP2D6*10, CYP2D6*2	0.99
+CYP2D6	CYP2D6*1, CYP2D6*1xN, CYP2D6*3, CYP2D6*4, CYP2D6*5, CYP2D6*6	0.99
+CACNA1H		1
+PDE1B		1
+CACNA1A		1
+PDE1A		1
+TNNC1	VIM	0.8455739328338956
+TNNC1	MYH3	0.8486527687986541
+TNNC1	MYL1	0.8486527687986541
+TNNC1	MYH6	0.8486527687986541
+TNNC1	MYBPC3	0.8455739328338956
+TNNC1	MYH8	0.8486527687986541
+TNNC1	TTN	0.8455739328338956
+TNNC1		1
+TNNC1	DMD	0.8388018351984339
+TNNC1	MYBPC1	0.8455739328338956
+TNNC1	ACTN3	0.8455739328338956
+TNNC1	TCAP	0.8455739328338956
+TNNC1	MYL2	0.8486527687986541
+TNNC1	MYL3	0.8486527687986541
+TNNC1	DES	0.8455739328338956
+TNNC1	MYL4	0.8486527687986541
+TNNC1	MYBPC2	0.8455739328338956
+TNNC1	ACTN2	0.8455739328338956
+ATP1A1		1
+ABCB1	rs72552784	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1045642	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs4148738	0.99
+ABCB1	rs10248420	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs4728709	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs28401781	0.99
+ABCB1		1
+ABCB1	rs1128503	0.99
+ABCB1	rs2235067	0.99
+ABCB1	rs3842	0.99
+ABCB1	rs2235047	0.99
+ABCB1	rs12720067	0.99
+ABCB1	rs1922242	0.99
+ABCB1	rs10280101	0.99
+ABCB1	rs11983225	0.99
+ABCB1	rs4148740	0.99
+ABCB1	rs2235040	0.99
+ABCB1	rs2235015	0.99
+ABCB1	rs2229109	0.99
+ABCB1	rs2032583	0.99
+ABCB1	rs10267099	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs4148737	0.99
+ABCB1	rs17160359	0.99
+ABCB1	rs9282564	0.99
+ABCB1	rs7787082	0.99
+CALM3	GRB2	0.8670770245481983
+CALM3	CALM3	0.867183230092957
+CALM3	SHC1	0.8601235081501506
+CALM3	MYLK	0.8319100629186602
+CALM3	CAMK2B	0.842023951637581
+CALM3	PPP3CB	0.8535455451872151
+CALM3	HSP90AA1	0.8572819008118013
+CALM3	PPP3CA	0.8535455451872151
+CALM3	CAMK2G	0.842023951637581
+CALM3	PPP3R1	0.8483182916706136
+CALM3	DLG4	0.8475031000327038
+CALM3		1
+CALM3	AKT1	0.8543051757879493
+CALM3	PYGM	0.8354005520686607
+CALM3	SOS1	0.8672683872743503
+CALM3	CAV1	0.8526462282435747
+CALM3	NFATC3	0.8228150578411493
+CALM3	NFATC1	0.8461146281558698
+CALM3	ACTN2	0.8319100629186602
+CALM3	NEFL	0.8319100629186602
+CALM3	HRAS	0.852724204446584
+CALM3	GRIN2C	0.8319100629186602
+CALM3	GRIN2A	0.8319100629186602
+CALM3	GRIN2D	0.8319100629186602
+CALM3	CAMK2A	0.8592366340563942
+CALM3	CAMK2D	0.842023951637581
+KCNQ1		1
+KCNQ1	rs2237892	0.99
+KCNQ1	rs2237895	0.99
+CACNA2D2		1
+Hypertrophic cardiomyopathy	ACTN2	1.0	
+Hypertrophic cardiomyopathy	CAV1	1.0	
+Hypertrophic cardiomyopathy	DES	1.0	
+Hypertrophic cardiomyopathy	HRAS	1.0	
+Hypertrophic cardiomyopathy	KCNQ1	1.0	
+Hypertrophic cardiomyopathy	MYBPC1	1.0	
+Hypertrophic cardiomyopathy	MYBPC2	1.0	
+Hypertrophic cardiomyopathy	MYBPC3	1.0	
+Hypertrophic cardiomyopathy	MYH6	1.0	
+Hypertrophic cardiomyopathy	MYL2	1.0	
+Hypertrophic cardiomyopathy	MYL3	1.0	
+Hypertrophic cardiomyopathy	MYL4	1.0	
+Hypertrophic cardiomyopathy	MYLK	1.0	
+Hypertrophic cardiomyopathy	SOS1	1.0	
+Hypertrophic cardiomyopathy	TCAP	1.0	
+Hypertrophic cardiomyopathy	TNNC1	1.0	
+Hypertrophic cardiomyopathy	TTN	1.0	
+Familial hypertrophic cardiomyopathy 11	ACTN2	1.0	
+Familial hypertrophic cardiomyopathy 11	CALM3	1.0	
+Familial hypertrophic cardiomyopathy 11	DES	1.0	
+Familial hypertrophic cardiomyopathy 11	MYBPC2	1.0	
+Familial hypertrophic cardiomyopathy 11	MYBPC3	1.0	
+Familial hypertrophic cardiomyopathy 11	MYH6	1.0	
+Familial hypertrophic cardiomyopathy 11	MYL2	1.0	
+Familial hypertrophic cardiomyopathy 11	MYL3	1.0	
+Familial hypertrophic cardiomyopathy 11	TCAP	1.0	
+Familial hypertrophic cardiomyopathy 11	TNNC1	1.0	
+Familial hypertrophic cardiomyopathy 11	TTN	1.0	
+Familial dilated cardiomyopathy	ACTN2	1.0	
+Familial dilated cardiomyopathy	DES	1.0	
+Familial dilated cardiomyopathy	DMD	1.0	
+Familial dilated cardiomyopathy	MYH6	1.0	
+Familial dilated cardiomyopathy	MYL2	1.0	
+Familial dilated cardiomyopathy	TCAP	1.0	
+Familial dilated cardiomyopathy	TNNC1	1.0	
+Familial dilated cardiomyopathy	TTN	1.0	
+Myopathy, scapulohumeroperoneal	ACTN2	1.0	
+Myopathy, scapulohumeroperoneal	AKT1	1.0	
+Myopathy, scapulohumeroperoneal	CYP2D6	1.0	
+Myopathy, scapulohumeroperoneal	DES	1.0	
+Myopathy, scapulohumeroperoneal	DMD	1.0	
+Myopathy, scapulohumeroperoneal	HRAS	1.0	
+Myopathy, scapulohumeroperoneal	MYBPC1	1.0	
+Myopathy, scapulohumeroperoneal	MYBPC3	1.0	
+Myopathy, scapulohumeroperoneal	MYH3	1.0	
+Myopathy, scapulohumeroperoneal	MYH6	1.0	
+Myopathy, scapulohumeroperoneal	MYL2	1.0	
+Myopathy, scapulohumeroperoneal	NFATC1	1.0	
+Myopathy, scapulohumeroperoneal	PYGM	1.0	
+Myopathy, scapulohumeroperoneal	TCAP	1.0	
+Myopathy, scapulohumeroperoneal	TNNC1	1.0	
+Myopathy, scapulohumeroperoneal	TTN	1.0	
+Abnormality of adipose tissue	ACTN2	1.0	
+Abnormality of adipose tissue	AKT1	1.0	
+Abnormality of adipose tissue	CAV1	1.0	
+Abnormality of adipose tissue	DES	1.0	
+Abnormality of adipose tissue	DMD	1.0	
+Abnormality of adipose tissue	MYBPC3	1.0	
+Abnormality of adipose tissue	MYH6	1.0	
+Abnormality of adipose tissue	TCAP	1.0	
+Abnormality of adipose tissue	TNNC1	1.0	
+Abnormality of adipose tissue	TTN	1.0	
+Abnormality of the myocardium	ACTN2	1.0	
+Abnormality of the myocardium	CAV1	1.0	
+Abnormality of the myocardium	DES	1.0	
+Abnormality of the myocardium	DMD	1.0	
+Abnormality of the myocardium	HRAS	1.0	
+Abnormality of the myocardium	KCNQ1	1.0	
+Abnormality of the myocardium	MYBPC3	1.0	
+Abnormality of the myocardium	MYH6	1.0	
+Abnormality of the myocardium	MYL2	1.0	
+Abnormality of the myocardium	MYL3	1.0	
+Abnormality of the myocardium	SOS1	1.0	
+Abnormality of the myocardium	TCAP	1.0	
+Abnormality of the myocardium	TNNC1	1.0	
+Abnormality of the myocardium	TTN	1.0	
+Cardiomyopathy, Dilated	ACTN2	1.0	
+Cardiomyopathy, Dilated	AKT1	1.0	
+Cardiomyopathy, Dilated	DES	1.0	
+Cardiomyopathy, Dilated	DMD	1.0	
+Cardiomyopathy, Dilated	HSP90AA1	1.0	
+Cardiomyopathy, Dilated	KCNQ1	1.0	
+Cardiomyopathy, Dilated	MYBPC1	1.0	
+Cardiomyopathy, Dilated	MYBPC2	1.0	
+Cardiomyopathy, Dilated	MYBPC3	1.0	
+Cardiomyopathy, Dilated	MYH6	1.0	
+Cardiomyopathy, Dilated	MYL2	1.0	
+Cardiomyopathy, Dilated	MYL3	1.0	
+Cardiomyopathy, Dilated	TCAP	1.0	
+Cardiomyopathy, Dilated	TNNC1	1.0	
+Cardiomyopathy, Dilated	TTN	1.0	
+Cardiomegaly	AKT1	1.0	
+Cardiomegaly	CAMK2D	1.0	
+Cardiomegaly	CAV1	1.0	
+Cardiomegaly	DMD	1.0	
+Cardiomegaly	KCNQ1	1.0	
+Cardiomegaly	MYBPC3	1.0	
+Cardiomegaly	MYL2	1.0	
+Cardiomegaly	MYL3	1.0	
+Cardiomegaly	MYLK	1.0	
+Cardiomegaly	PPP3CB	1.0	
+Cardiomegaly	PYGM	1.0	
+Cardiomegaly	SHC1	1.0	
+Arrhythmias, Cardiac	ACTN2	1.0	
+Arrhythmias, Cardiac	AKT1	1.0	
+Arrhythmias, Cardiac	CALM3	1.0	
+Arrhythmias, Cardiac	CYP2D6	1.0	
+Arrhythmias, Cardiac	DES	1.0	
+Arrhythmias, Cardiac	DMD	1.0	
+Arrhythmias, Cardiac	HRAS	1.0	
+Arrhythmias, Cardiac	KCNQ1	1.0	
+Arrhythmias, Cardiac	MYH6	1.0	
+Arrhythmias, Cardiac	MYL2	1.0	
+Arrhythmias, Cardiac	SOS1	1.0	
+Arrhythmias, Cardiac	TCAP	1.0	
+Arrhythmias, Cardiac	TTN	1.0	
+Cardiomyopathy	ACTN2	1.0	
+Cardiomyopathy	AKT1	1.0	
+Cardiomyopathy	CAV1	1.0	
+Cardiomyopathy	CYP2D6	1.0	
+Cardiomyopathy	DES	1.0	
+Cardiomyopathy	DMD	1.0	
+Cardiomyopathy	HRAS	1.0	
+Cardiomyopathy	KCNQ1	1.0	
+Cardiomyopathy	MYBPC2	1.0	
+Cardiomyopathy	MYBPC3	1.0	
+Cardiomyopathy	MYH6	1.0	
+Cardiomyopathy	MYL2	1.0	
+Cardiomyopathy	MYL3	1.0	
+Cardiomyopathy	PPP3CA	1.0	
+Cardiomyopathy	SOS1	1.0	
+Cardiomyopathy	TCAP	1.0	
+Cardiomyopathy	TNNC1	1.0	
+Cardiomyopathy	TTN	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	ACTN2	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	AKT1	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	DES	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	DMD	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	MYBPC3	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	MYH6	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	TCAP	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	TNNC1	1.0	
+Palmoplantar keratoderma, nonepidermolytic, focal	TTN	1.0	
+Hyperkeratosis	ACTN2	1.0	
+Hyperkeratosis	AKT1	1.0	
+Hyperkeratosis	CAV1	1.0	
+Hyperkeratosis	DES	1.0	
+Hyperkeratosis	DMD	1.0	
+Hyperkeratosis	HRAS	1.0	
+Hyperkeratosis	MYBPC3	1.0	
+Hyperkeratosis	MYH6	1.0	
+Hyperkeratosis	TCAP	1.0	
+Hyperkeratosis	TNNC1	1.0	
+Hyperkeratosis	TTN	1.0	
+Lipoatrophy	ACTN2	1.0	
+Lipoatrophy	CAV1	1.0	
+Lipoatrophy	DES	1.0	
+Lipoatrophy	DMD	1.0	
+Lipoatrophy	MYBPC3	1.0	
+Lipoatrophy	MYH6	1.0	
+Lipoatrophy	TCAP	1.0	
+Lipoatrophy	TNNC1	1.0	
+Lipoatrophy	TTN	1.0	
+Abnormality of circulating enzyme level	ACTN2	1.0	
+Abnormality of circulating enzyme level	DES	1.0	
+Abnormality of circulating enzyme level	DMD	1.0	
+Abnormality of circulating enzyme level	MYBPC3	1.0	
+Abnormality of circulating enzyme level	MYH6	1.0	
+Abnormality of circulating enzyme level	PYGM	1.0	
+Abnormality of circulating enzyme level	TCAP	1.0	
+Abnormality of circulating enzyme level	TNNC1	1.0	
+Abnormality of circulating enzyme level	TTN	1.0	
+Elevated serum creatine phosphokinase	ACTN2	1.0	
+Elevated serum creatine phosphokinase	DES	1.0	
+Elevated serum creatine phosphokinase	DMD	1.0	
+Elevated serum creatine phosphokinase	MYBPC3	1.0	
+Elevated serum creatine phosphokinase	MYH6	1.0	
+Elevated serum creatine phosphokinase	PYGM	1.0	
+Elevated serum creatine phosphokinase	TCAP	1.0	
+Elevated serum creatine phosphokinase	TNNC1	1.0	
+Elevated serum creatine phosphokinase	TTN	1.0	
+EMG abnormality	ACTN2	1.0	
+EMG abnormality	DES	1.0	
+EMG abnormality	DMD	1.0	
+EMG abnormality	MYBPC3	1.0	
+EMG abnormality	MYH6	1.0	
+EMG abnormality	TCAP	1.0	
+EMG abnormality	TNNC1	1.0	
+EMG abnormality	TTN	1.0	
+Contractures involving the joints of the feet	CAV1	1.0	
+Contractures involving the joints of the feet	DMD	1.0	
+Contractures involving the joints of the feet	HRAS	1.0	
+Contractures involving the joints of the feet	MYBPC1	1.0	
+Contractures involving the joints of the feet	MYH3	1.0	
+Contractures involving the joints of the feet	PYGM	1.0	
+Epidermal thickening	ACTN2	1.0	
+Epidermal thickening	AKT1	1.0	
+Epidermal thickening	CAV1	1.0	
+Epidermal thickening	DES	1.0	
+Epidermal thickening	DMD	1.0	
+Epidermal thickening	HRAS	1.0	
+Epidermal thickening	MYBPC3	1.0	
+Epidermal thickening	MYH6	1.0	
+Epidermal thickening	TCAP	1.0	
+Epidermal thickening	TNNC1	1.0	
+Epidermal thickening	TTN	1.0	
+Limb-girdle muscular dystrophy, type 2L	CAV1	1.0	
+Limb-girdle muscular dystrophy, type 2L	DES	1.0	
+Limb-girdle muscular dystrophy, type 2L	DMD	1.0	
+Limb-girdle muscular dystrophy, type 2L	MYH6	1.0	
+Limb-girdle muscular dystrophy, type 2L	TCAP	1.0	
+Limb-girdle muscular dystrophy, type 2L	TTN	1.0	
+Heart Diseases	ABCB1	1.0	
+Heart Diseases	CALM3	1.0	
+Heart Diseases	CYP2D6	1.0	
+Heart Diseases	DES	1.0	
+Heart Diseases	DMD	1.0	
+Heart Diseases	KCNQ1	1.0	
+Heart Diseases	MYBPC3	1.0	
+Heart Diseases	MYL2	1.0	
+Heart Diseases	MYLK	1.0	
+Heart Diseases	NFATC1	1.0	
+Heart Diseases	PPP3CA	1.0	
+Heart Diseases	TTN	1.0	
+Abnormality of the calf musculature	DES	1.0	
+Abnormality of the calf musculature	DMD	1.0	
+Abnormality of the calf musculature	TCAP	1.0	
+Abnormality of the calf musculature	TTN	1.0	
+Thickened skin	ACTN2	1.0	
+Thickened skin	AKT1	1.0	
+Thickened skin	CAV1	1.0	
+Thickened skin	DES	1.0	
+Thickened skin	DMD	1.0	
+Thickened skin	HRAS	1.0	
+Thickened skin	MYBPC3	1.0	
+Thickened skin	MYH6	1.0	
+Thickened skin	TCAP	1.0	
+Thickened skin	TNNC1	1.0	
+Thickened skin	TTN	1.0	
+Abnormality of granulocytes	ACTN2	1.0	
+Abnormality of granulocytes	DES	1.0	
+Abnormality of granulocytes	DMD	1.0	
+Abnormality of granulocytes	MYBPC3	1.0	
+Abnormality of granulocytes	MYH6	1.0	
+Abnormality of granulocytes	TCAP	1.0	
+Abnormality of granulocytes	TNNC1	1.0	
+Abnormality of granulocytes	TTN	1.0	
+Abnormality of muscle morphology	ACTN2	1.0	
+Abnormality of muscle morphology	AKT1	1.0	
+Abnormality of muscle morphology	CAV1	1.0	
+Abnormality of muscle morphology	DES	1.0	
+Abnormality of muscle morphology	DMD	1.0	
+Abnormality of muscle morphology	HRAS	1.0	
+Abnormality of muscle morphology	KCNQ1	1.0	
+Abnormality of muscle morphology	MYBPC1	1.0	
+Abnormality of muscle morphology	MYBPC3	1.0	
+Abnormality of muscle morphology	MYH3	1.0	
+Abnormality of muscle morphology	MYH6	1.0	
+Abnormality of muscle morphology	MYH8	1.0	
+Abnormality of muscle morphology	MYL2	1.0	
+Abnormality of muscle morphology	NEFL	1.0	
+Abnormality of muscle morphology	PYGM	1.0	
+Abnormality of muscle morphology	TCAP	1.0	
+Abnormality of muscle morphology	TNNC1	1.0	
+Abnormality of muscle morphology	TTN	1.0	
+Dilated cardiomyopathy 1A	CALM3	1.0	
+Dilated cardiomyopathy 1A	DES	1.0	
+Dilated cardiomyopathy 1A	DMD	1.0	
+Dilated cardiomyopathy 1A	MYBPC3	1.0	
+Dilated cardiomyopathy 1A	MYL2	1.0	
+Dilated cardiomyopathy 1A	TCAP	1.0	
+Dilated cardiomyopathy 1A	TNNC1	1.0	
+Dilated cardiomyopathy 1A	VIM	1.0	
+Myofibrillar myopathy, BAG3-related	AKT1	1.0	
+Myofibrillar myopathy, BAG3-related	DES	1.0	
+Myofibrillar myopathy, BAG3-related	DMD	1.0	
+Myofibrillar myopathy, BAG3-related	TTN	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	ACTN2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	AKT1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CACNA1A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CAV1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	DES	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GRIN2A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	HRAS	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNQ1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYBPC3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYH3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYH6	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYH8	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYL2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYL3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	MYLK	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NEFL	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SOS1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	TCAP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	TNNC1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	TTN	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	VIM	1.0	
+Abnormality of myeloid leukocytes	ACTN2	1.0	
+Abnormality of myeloid leukocytes	DES	1.0	
+Abnormality of myeloid leukocytes	DMD	1.0	
+Abnormality of myeloid leukocytes	MYBPC3	1.0	
+Abnormality of myeloid leukocytes	MYH6	1.0	
+Abnormality of myeloid leukocytes	TCAP	1.0	
+Abnormality of myeloid leukocytes	TNNC1	1.0	
+Abnormality of myeloid leukocytes	TTN	1.0	
+Sudden death	HRAS	1.0	
+Sudden death	KCNQ1	1.0	
+Sudden death	MYH6	1.0	
+Sudden death	TTN	1.0	
+Weight Gain Adverse Event	ABCB1	1.0	
+Weight Gain Adverse Event	CAMK2A	1.0	
+Weight Gain Adverse Event	CAMK2B	1.0	
+Weight Gain Adverse Event	GRIN2A	1.0	
+Weight Gain Adverse Event	GRIN2C	1.0	
+Weight Gain Adverse Event	GRIN2D	1.0	
+Weight Gain Adverse Event	PPP3R1	1.0	
+Foot dorsiflexor weakness	DES	1.0	
+Foot dorsiflexor weakness	NEFL	1.0	
+Foot dorsiflexor weakness	TCAP	1.0	
+Foot dorsiflexor weakness	TTN	1.0	
+Myotubular myopathy	DES	1.0	
+Myotubular myopathy	DMD	1.0	
+Myotubular myopathy	TTN	1.0	
+Myotubular myopathy	VIM	1.0	
+Heart Defects, Congenital	ABCB1	1.0	
+Heart Defects, Congenital	ACTN2	1.0	
+Heart Defects, Congenital	CAV1	1.0	
+Heart Defects, Congenital	DES	1.0	
+Heart Defects, Congenital	DMD	1.0	
+Heart Defects, Congenital	HRAS	1.0	
+Heart Defects, Congenital	KCNQ1	1.0	
+Heart Defects, Congenital	MYBPC3	1.0	
+Heart Defects, Congenital	MYH6	1.0	
+Heart Defects, Congenital	MYH8	1.0	
+Heart Defects, Congenital	MYL2	1.0	
+Heart Defects, Congenital	MYL3	1.0	
+Heart Defects, Congenital	MYLK	1.0	
+Heart Defects, Congenital	NFATC1	1.0	
+Heart Defects, Congenital	SOS1	1.0	
+Heart Defects, Congenital	TCAP	1.0	
+Heart Defects, Congenital	TNNC1	1.0	
+Heart Defects, Congenital	TTN	1.0	
+Abnormality of the inner ear	ACTN2	1.0	
+Abnormality of the inner ear	AKT1	1.0	
+Abnormality of the inner ear	CACNA1A	1.0	
+Abnormality of the inner ear	CALM3	1.0	
+Abnormality of the inner ear	DES	1.0	
+Abnormality of the inner ear	DMD	1.0	
+Abnormality of the inner ear	HRAS	1.0	
+Abnormality of the inner ear	KCNQ1	1.0	
+Abnormality of the inner ear	MYBPC3	1.0	
+Abnormality of the inner ear	MYH6	1.0	
+Abnormality of the inner ear	SOS1	1.0	
+Abnormality of the inner ear	TCAP	1.0	
+Abnormality of the inner ear	TNNC1	1.0	
+Abnormality of the inner ear	TTN	1.0	
+Abnormality of the foot musculature	DES	1.0	
+Abnormality of the foot musculature	NEFL	1.0	
+Abnormality of the foot musculature	TCAP	1.0	
+Abnormality of the foot musculature	TTN	1.0	
+Abnormality of circulating protein level	ACTN2	1.0	
+Abnormality of circulating protein level	DES	1.0	
+Abnormality of circulating protein level	DMD	1.0	
+Abnormality of circulating protein level	MYBPC3	1.0	
+Abnormality of circulating protein level	MYH6	1.0	
+Abnormality of circulating protein level	PYGM	1.0	
+Abnormality of circulating protein level	TCAP	1.0	
+Abnormality of circulating protein level	TNNC1	1.0	
+Abnormality of circulating protein level	TTN	1.0	
+Abnormality of the musculature of the lower limbs	DES	1.0	
+Abnormality of the musculature of the lower limbs	DMD	1.0	
+Abnormality of the musculature of the lower limbs	NEFL	1.0	
+Abnormality of the musculature of the lower limbs	TCAP	1.0	
+Abnormality of the musculature of the lower limbs	TTN	1.0	
+Abnormality of connective tissue	ACTN2	1.0	
+Abnormality of connective tissue	AKT1	1.0	
+Abnormality of connective tissue	CAV1	1.0	
+Abnormality of connective tissue	DES	1.0	
+Abnormality of connective tissue	DMD	1.0	
+Abnormality of connective tissue	HRAS	1.0	
+Abnormality of connective tissue	KCNQ1	1.0	
+Abnormality of connective tissue	MYBPC1	1.0	
+Abnormality of connective tissue	MYBPC3	1.0	
+Abnormality of connective tissue	MYH3	1.0	
+Abnormality of connective tissue	MYH6	1.0	
+Abnormality of connective tissue	MYH8	1.0	
+Abnormality of connective tissue	MYLK	1.0	
+Abnormality of connective tissue	NEFL	1.0	
+Abnormality of connective tissue	TCAP	1.0	
+Abnormality of connective tissue	TNNC1	1.0	
+Abnormality of connective tissue	TTN	1.0	
+Skeletal muscle hypertrophy	AKT1	1.0	
+Skeletal muscle hypertrophy	CAV1	1.0	
+Skeletal muscle hypertrophy	HRAS	1.0	
+Skeletal muscle hypertrophy	KCNQ1	1.0	
+Skeletal muscle hypertrophy	TCAP	1.0	
+Skeletal muscle hypertrophy	TTN	1.0	
+Abnormality of cardiovascular system physiology	ACTN2	1.0	
+Abnormality of cardiovascular system physiology	AKT1	1.0	
+Abnormality of cardiovascular system physiology	CALM3	1.0	
+Abnormality of cardiovascular system physiology	CAV1	1.0	
+Abnormality of cardiovascular system physiology	DES	1.0	
+Abnormality of cardiovascular system physiology	DMD	1.0	
+Abnormality of cardiovascular system physiology	HRAS	1.0	
+Abnormality of cardiovascular system physiology	KCNQ1	1.0	
+Abnormality of cardiovascular system physiology	MYH6	1.0	
+Abnormality of cardiovascular system physiology	MYL2	1.0	
+Abnormality of cardiovascular system physiology	MYLK	1.0	
+Abnormality of cardiovascular system physiology	SOS1	1.0	
+Abnormality of cardiovascular system physiology	TCAP	1.0	
+Abnormality of cardiovascular system physiology	TTN	1.0	
+Abnormality of cardiovascular system morphology	ACTN2	1.0	
+Abnormality of cardiovascular system morphology	AKT1	1.0	
+Abnormality of cardiovascular system morphology	CAV1	1.0	
+Abnormality of cardiovascular system morphology	DES	1.0	
+Abnormality of cardiovascular system morphology	DMD	1.0	
+Abnormality of cardiovascular system morphology	HRAS	1.0	
+Abnormality of cardiovascular system morphology	KCNQ1	1.0	
+Abnormality of cardiovascular system morphology	MYBPC3	1.0	
+Abnormality of cardiovascular system morphology	MYH6	1.0	
+Abnormality of cardiovascular system morphology	MYH8	1.0	
+Abnormality of cardiovascular system morphology	MYL2	1.0	
+Abnormality of cardiovascular system morphology	MYL3	1.0	
+Abnormality of cardiovascular system morphology	MYLK	1.0	
+Abnormality of cardiovascular system morphology	SOS1	1.0	
+Abnormality of cardiovascular system morphology	TCAP	1.0	
+Abnormality of cardiovascular system morphology	TNNC1	1.0	
+Abnormality of cardiovascular system morphology	TTN	1.0	
+Ventricular Fibrillation Adverse Event	ACTN2	1.0	
+Ventricular Fibrillation Adverse Event	CALM3	1.0	
+Ventricular Fibrillation Adverse Event	CAV1	1.0	
+Ventricular Fibrillation Adverse Event	KCNQ1	1.0	
+Ventricular Fibrillation Adverse Event	MYBPC3	1.0	
+Ventricular Fibrillation Adverse Event	NFATC3	1.0	
+Embryonal rhabdomyosarcoma	AKT1	1.0	
+Embryonal rhabdomyosarcoma	DES	1.0	
+Embryonal rhabdomyosarcoma	DMD	1.0	
+Embryonal rhabdomyosarcoma	HRAS	1.0	
+Embryonal rhabdomyosarcoma	SOS1	1.0	
+Leiomyosarcoma	ABCB1	1.0	
+Leiomyosarcoma	AKT1	1.0	
+Leiomyosarcoma	DES	1.0	
+Leiomyosarcoma	DMD	1.0	
+Leiomyosarcoma	HSP90AA1	1.0	
+Leiomyosarcoma	VIM	1.0	
+Neuromuscular Diseases	DES	1.0	
+Neuromuscular Diseases	DMD	1.0	
+Neuromuscular Diseases	HRAS	1.0	
+Neuromuscular Diseases	NEFL	1.0	
+Neuromuscular Diseases	TTN	1.0	
+Tuberous sclerosis syndrome	ABCB1	1.0	
+Tuberous sclerosis syndrome	AKT1	1.0	
+Tuberous sclerosis syndrome	CALM3	1.0	
+Tuberous sclerosis syndrome	GRIN2C	1.0	
+Tuberous sclerosis syndrome	HRAS	1.0	
+Tuberous sclerosis syndrome	NEFL	1.0	
+Tuberous sclerosis syndrome	VIM	1.0	
+Papillary adenocarcinoma	AKT1	1.0	
+Papillary adenocarcinoma	CYP2D6	1.0	
+Papillary adenocarcinoma	HRAS	1.0	
+Malignant Fibrous Histiocytoma	ABCB1	1.0	
+Malignant Fibrous Histiocytoma	DES	1.0	
+Malignant Fibrous Histiocytoma	HRAS	1.0	
+Malignant Fibrous Histiocytoma	VIM	1.0	
+Channelopathies	CACNA1A	1.0	
+Channelopathies	CALM3	1.0	
+Channelopathies	CAV1	1.0	
+Channelopathies	KCNQ1	1.0	
+Epilepsy	ABCB1	1.0	
+Epilepsy	AKT1	1.0	
+Epilepsy	CACNA1A	1.0	
+Epilepsy	CACNA1H	1.0	
+Epilepsy	CAMK2D	1.0	
+Epilepsy	CYP2D6	1.0	
+Epilepsy	DLG4	1.0	
+Epilepsy	DMD	1.0	
+Epilepsy	GRIN2A	1.0	
+Epilepsy	GRIN2C	1.0	
+Epilepsy	KCNQ1	1.0	
+Epilepsy	SOS1	1.0	
+Epilepsy	VIM	1.0	
+Sensorineural hearing impairment	ACTN2	1.0	
+Sensorineural hearing impairment	ATP1A1	1.0	
+Sensorineural hearing impairment	CACNA1A	1.0	
+Sensorineural hearing impairment	CAV1	1.0	
+Sensorineural hearing impairment	DES	1.0	
+Sensorineural hearing impairment	DMD	1.0	
+Sensorineural hearing impairment	KCNQ1	1.0	
+Sensorineural hearing impairment	MYBPC3	1.0	
+Sensorineural hearing impairment	MYH6	1.0	
+Sensorineural hearing impairment	SOS1	1.0	
+Sensorineural hearing impairment	TCAP	1.0	
+Sensorineural hearing impairment	TNNC1	1.0	
+Sensorineural hearing impairment	TTN	1.0	
+Wilson disease	CAMK2A	1.0	
+Wilson disease	DMD	1.0	
+Wilson disease	PPP3CA	1.0	
+Wilson disease	PPP3CB	1.0	
+Ulnar deviation of finger	HRAS	1.0	
+Ulnar deviation of finger	MYBPC1	1.0	
+Ulnar deviation of finger	MYH3	1.0	
+Early-Stage Breast Carcinoma	ABCB1	1.0	
+Early-Stage Breast Carcinoma	AKT1	1.0	
+Early-Stage Breast Carcinoma	CYP2D6	1.0	
+Early-Stage Breast Carcinoma	NEFL	1.0	
+Congenital long QT syndrome	CALM3	1.0	
+Congenital long QT syndrome	CYP2D6	1.0	
+Congenital long QT syndrome	KCNQ1	1.0	
+Lipoma	ABCB1	1.0	
+Lipoma	AKT1	1.0	
+Lipoma	CAV1	1.0	
+Lipoma	PYGM	1.0	
+Limb muscle weakness	CAV1	1.0	
+Limb muscle weakness	DES	1.0	
+Limb muscle weakness	NEFL	1.0	
+Limb muscle weakness	TCAP	1.0	
+Limb muscle weakness	TTN	1.0	
+Prostate Cancer, Hereditary, 7	AKT1	1.0	
+Prostate Cancer, Hereditary, 7	CAV1	1.0	
+Prostate Cancer, Hereditary, 7	SOS1	1.0	
+Asymmetric growth	AKT1	1.0	
+Asymmetric growth	HRAS	1.0	
+Asymmetric growth	KCNQ1	1.0	
+Functional abnormality of the inner ear	ACTN2	1.0	
+Functional abnormality of the inner ear	CACNA1A	1.0	
+Functional abnormality of the inner ear	CALM3	1.0	
+Functional abnormality of the inner ear	DES	1.0	
+Functional abnormality of the inner ear	DMD	1.0	
+Functional abnormality of the inner ear	KCNQ1	1.0	
+Functional abnormality of the inner ear	MYBPC3	1.0	
+Functional abnormality of the inner ear	MYH6	1.0	
+Functional abnormality of the inner ear	SOS1	1.0	
+Functional abnormality of the inner ear	TCAP	1.0	
+Functional abnormality of the inner ear	TNNC1	1.0	
+Functional abnormality of the inner ear	TTN	1.0	
+Bipolar affective disorder	ABCB1	1.0	
+Bipolar affective disorder	AKT1	1.0	
+Bipolar affective disorder	ATP1A1	1.0	
+Bipolar affective disorder	CACNA1A	1.0	
+Bipolar affective disorder	CAMK2A	1.0	
+Bipolar affective disorder	CAV1	1.0	
+Bipolar affective disorder	CYP2D6	1.0	
+Bipolar affective disorder	DLG4	1.0	
+Bipolar affective disorder	GRIN2A	1.0	
+Bipolar affective disorder	GRIN2C	1.0	
+Bipolar affective disorder	GRIN2D	1.0	
+Bipolar affective disorder	HRAS	1.0	
+Bipolar affective disorder	MYL4	1.0	
+Bipolar affective disorder	SOS1	1.0	
+Gastroparesis	ABCB1	1.0	
+Gastroparesis	CYP2D6	1.0	
+Gastroparesis	KCNQ1	1.0	
+Rhabdomyosarcoma alveolar	ABCB1	1.0	
+Rhabdomyosarcoma alveolar	AKT1	1.0	
+Rhabdomyosarcoma alveolar	CAV1	1.0	
+Rhabdomyosarcoma alveolar	DES	1.0	
+Rhabdomyosarcoma alveolar	HRAS	1.0	
+Rhabdomyosarcoma alveolar	HSP90AA1	1.0	
+Rhabdomyosarcoma alveolar	MYL1	1.0	
+Rhabdomyosarcoma alveolar	SOS1	1.0	
+Rhabdomyosarcoma alveolar	VIM	1.0	
+Atrial Fibrillation	ACTN2	1.0	
+Atrial Fibrillation	CAV1	1.0	
+Atrial Fibrillation	CYP2D6	1.0	
+Atrial Fibrillation	DES	1.0	
+Atrial Fibrillation	KCNQ1	1.0	
+Atrial Fibrillation	MYL4	1.0	
+Amyotrophy involving the shoulder musculature	ACTN2	1.0	
+Amyotrophy involving the shoulder musculature	AKT1	1.0	
+Amyotrophy involving the shoulder musculature	DES	1.0	
+Amyotrophy involving the shoulder musculature	DMD	1.0	
+Amyotrophy involving the shoulder musculature	NEFL	1.0	
+Amyotrophy involving the shoulder musculature	SOS1	1.0	

@@ -1,0 +1,4 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0152020	Gastroparesis	DisGeNet	
+CYP2D6	C0152020	Gastroparesis	DisGeNet	
+KCNH2	C0152020	Gastroparesis	DisGeNet	

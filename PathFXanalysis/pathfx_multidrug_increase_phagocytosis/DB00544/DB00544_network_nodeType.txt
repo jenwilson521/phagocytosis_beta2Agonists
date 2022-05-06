@@ -1,0 +1,112 @@
+node_name	node_type	
+DB00544	drug	
+TYMP	drug_target	
+MTHFR	drug_target	
+CYP2A6	drug_target	
+SLC29A1	drug_target	
+PPAT	drug_target	
+ABCC4	drug_target	
+ALB	drug_target	
+UPP1	drug_target	
+UPP2	drug_target	
+UMPS	drug_target	
+ABCG2	drug_target	
+CYP2C8	drug_target	
+ABCC5	drug_target	
+TYMS	drug_target	
+DPYD	drug_target	
+CYP1A2	drug_target	
+CYP2C9	drug_target	
+ABCC3	drug_target	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	phenotype	
+Palmar hyperkeratosis	phenotype	
+Plantar hyperkeratosis	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Old myocardial infarction	phenotype	
+Palmoplantar keratoderma, nonepidermolytic, focal	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+Myofibrillar myopathy, BAG3-related	phenotype	
+Abnormality of the plantar skin of foot	phenotype	
+Drug Eruptions	phenotype	
+Hyperkeratosis	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Hyperlipoproteinemia	phenotype	
+Age-related macular degeneration 2	phenotype	
+Hypertriglyceridemia result	phenotype	
+Cholecystolithiasis	phenotype	
+Kidney Diseases	phenotype	
+Diabetes mellitus type 2	phenotype	
+Choroidal Neovascularization	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Vascular Diseases	phenotype	
+ Cerebrovascular disease, occlusive (3)	phenotype	
+Brain Ischemia	phenotype	
+Abnormal blistering of the skin	phenotype	
+Familial type 3 hyperlipoproteinemia	phenotype	
+Hyperhidrosis	phenotype	
+Epidermal thickening	phenotype	
+Dermal atrophy	phenotype	
+Acute myocardial ischemia	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Carotid Atherosclerosis	phenotype	
+Mild cognitive impairment	phenotype	
+Diabetic Angiopathies	phenotype	
+Pharyngeal Neoplasms	phenotype	
+Familial hypercholesterolemia	phenotype	
+Pleural Neoplasms	phenotype	
+Tetraplegia	phenotype	
+Aneurysm, Ruptured	phenotype	
+Nephrotic Syndrome, Minimal Change	phenotype	
+Thickened skin	phenotype	
+Ichthyosis, congenital, autosomal recessive 12	phenotype	
+Chronic kidney disease	phenotype	
+Leukopenia	phenotype	
+Kidney Failure, Chronic	phenotype	
+body mass	phenotype	
+Skin Diseases, Genetic	phenotype	
+Plaque, Atherosclerotic	phenotype	
+Hyperlipidemia, familial combined	phenotype	
+Hyperuricemia, pulmonary hypertension, renal failure, and alkalosis	phenotype	
+Neuropathy ataxia retinitis pigmentosa syndrome	phenotype	
+Insulin resistance syndrome	phenotype	
+Amyloidosis	phenotype	
+Von Willebrand disease, recessive form	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Drug-Induced Liver Injury	phenotype	
+Lipoatrophy	phenotype	
+Neoplasm of the liver	phenotype	
+Iron deficiency anemia	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Myopathy, scapulohumeroperoneal	phenotype	
+Oral leukoplakia	phenotype	
+Complications of Diabetes Mellitus	phenotype	
+Acute Coronary Syndrome	phenotype	
+Pancreatic Neoplasms	phenotype	
+Coronary heart disease 7	phenotype	
+Alzheimer Disease, Late Onset	phenotype	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	phenotype	
+Neoplasm of the larynx	phenotype	
+Cholelithiasis	phenotype	
+Abnormality of the level of lipoprotein cholesterol	phenotype	
+Proteinuria, low molecular weight, with hypercalciuria and nephrocalcinosis	phenotype	
+Hematuria	phenotype	
+Azorean disease	phenotype	
+Geographic Atrophy	phenotype	
+Myelosuppression	phenotype	
+Complete trisomy 18 syndrome	phenotype	
+Restenosis	phenotype	
+Genomic Instability	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Intrahepatic cholestasis	phenotype	
+Hypohidrosis	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Myocardial Infarction	phenotype	
+Mesangiocapillary glomerulonephritis, type II	phenotype	
+Malignant neoplasm of stomach stage IV	phenotype	
+Thromboembolism	phenotype	
+Leukoencephalopathy with Brainstem and Spinal Cord Involvement and Lactate Elevation	phenotype	
+Hypertriglyceridemia	phenotype	
+Nail dystrophy	phenotype	
+Cerebroretinal microangiopathy with calcifications and cysts 1	phenotype	

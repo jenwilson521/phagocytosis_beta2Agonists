@@ -1,0 +1,43 @@
+node1	node2	edge_score	
+DB00414	KCNJ1	1.0	
+DB00414	CBR1	1.0	
+KCNJ1		1
+KCNJ1	rs12795437	0.99
+KCNJ1	rs11600347	0.99
+KCNJ1	rs658903	0.99
+CBR1		1
+CBR1	rs20572	0.99
+CBR1	rs9024	0.99
+Familial hypokalemia-hypomagnesemia	KCNJ1	1.0	
+Chondrocalcinosis	KCNJ1	1.0	
+Adrenal overactivity	KCNJ1	1.0	
+Abnormal urine output	KCNJ1	1.0	
+Abnormal drinking behavior	KCNJ1	1.0	
+Abnormal platelet function	KCNJ1	1.0	
+Abnormality of renal excretion	KCNJ1	1.0	
+Abnormality of fatty-acid metabolism	KCNJ1	1.0	
+Alkalosis	KCNJ1	1.0	
+Polyuria	KCNJ1	1.0	
+Partial Trisomy	CBR1	1.0	
+Hyperaldosteronism, familial, type IV	KCNJ1	1.0	
+Abnormality of potassium homeostasis	KCNJ1	1.0	
+Hypokalemia	KCNJ1	1.0	
+Polydipsia	KCNJ1	1.0	
+Abnormality of urine calcium concentration	KCNJ1	1.0	
+Drug Resistant Epilepsy	CBR1	1.0	
+Abnormality of monovalent inorganic cation homeostasis	KCNJ1	1.0	
+Cortical dysplasia, complex, with other brain malformations 3	CBR1	1.0	
+Malformation of cortical development	CBR1	1.0	
+Generalized muscle weakness	KCNJ1	1.0	
+Abnormal consumption behavior	KCNJ1	1.0	
+Hypercalciuria	KCNJ1	1.0	
+Nephrocalcinosis	KCNJ1	1.0	
+Malignant Childhood Neoplasm	CBR1	1.0	
+Triangular face	KCNJ1	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	KCNJ1	1.0	
+Muscle cramps	KCNJ1	1.0	
+Small for gestational age	KCNJ1	1.0	
+Paresthesia	KCNJ1	1.0	
+Abnormal urinary electrolyte concentration	KCNJ1	1.0	
+Prominent forehead	KCNJ1	1.0	
+Dehydration	KCNJ1	1.0	

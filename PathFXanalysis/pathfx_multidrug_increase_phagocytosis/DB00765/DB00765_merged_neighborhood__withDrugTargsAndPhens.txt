@@ -1,0 +1,169 @@
+node1	node2	edge_score	
+DB00765	TH	1.0	
+TH		1
+Albinism, ocular, with sensorineural deafness	TH	1.0	
+Alcohol dependence	TH	1.0	
+Alzheimer Disease	TH	1.0	
+As If Personality	TH	1.0	
+Asthma	TH	1.0	
+Ataxia, combined cerebellar and peripheral, with hearing loss and diabetes mellitus	TH	1.0	
+Autism 15	TH	1.0	
+Autoimmune disease 1	TH	1.0	
+Mental disorders	TH	1.0	
+Bipolar affective disorder	TH	1.0	
+Ptosis, hereditary congenital 1	TH	1.0	
+Borderline Personality Disorder	TH	1.0	
+Brain Diseases	TH	1.0	
+Cardiovascular Diseases	TH	1.0	
+Brain Ischemia	TH	1.0	
+Hypoplasia of dental enamel	TH	1.0	
+Depressive Disorder	TH	1.0	
+Diabetes Mellitus, Type 1	TH	1.0	
+Diabetes mellitus type 1	TH	1.0	
+Diabetes mellitus type 2	TH	1.0	
+DiGeorge sequence	TH	1.0	
+Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	TH	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	TH	1.0	
+Dyskinesia, Drug-Induced	TH	1.0	
+Dystonia 2, torsion, autosomal recessive	TH	1.0	
+Epilepsy	TH	1.0	
+Abnormality of the eye	TH	1.0	
+Fanconi anemia	TH	1.0	
+Chronic Fatigue Syndrome	TH	1.0	
+Ganglioneuroma	TH	1.0	
+Heart Diseases	TH	1.0	
+Heart Failure	TH	1.0	
+Herpes Simplex Infections	TH	1.0	
+Von Hippel-Lindau syndrome	TH	1.0	
+Symptomatic human immunodeficiency virus infection	TH	1.0	
+Hypertension	TH	1.0	
+Portal hypertension, noncirrhotic	TH	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	TH	1.0	
+Insulin Resistance	TH	1.0	
+Learning Disorders	TH	1.0	
+Acute myelomonocytic leukemia	TH	1.0	
+Liver Cirrhosis, Biliary	TH	1.0	
+Lymphoma, Large B-Cell, Diffuse	TH	1.0	
+Azorean disease	TH	1.0	
+Malabsorption	TH	1.0	
+{Gastric cancer risk after H. pylori infection}, 137215 (3)	TH	1.0	
+Multiple Endocrine Neoplasia Type 2a	TH	1.0	
+Abnormality of movement	TH	1.0	
+Multiple Sclerosis	TH	1.0	
+Hypotonia, infantile, with psychomotor retardation	TH	1.0	
+Rigidity	TH	1.0	
+Myocardial Infarction	TH	1.0	
+Myoclonus, intractable, neonatal	TH	1.0	
+Secondary hypertriglyceridemia	TH	1.0	
+Neurodegeneration with brain iron accumulation	TH	1.0	
+Other disorders of the nervous system	TH	1.0	
+Neuromuscular Diseases	TH	1.0	
+Nicotine Dependence	TH	1.0	
+Nodule	TH	1.0	
+Obesity	TH	1.0	
+Parkinson Disease	TH	1.0	
+Phenylketonuria	TH	1.0	
+Pheochromocytoma	TH	1.0	
+Abnormality of the pituitary gland	TH	1.0	
+Polycystic Ovary Syndrome	TH	1.0	
+Preeclampsia/eclampsia 1	TH	1.0	
+Prolactinoma, familial	TH	1.0	
+Prostatic Neoplasms	TH	1.0	
+Psychotic Disorders	TH	1.0	
+Rett syndrome, congenital variant	TH	1.0	
+Schizophrenia	TH	1.0	
+Paranoid Schizophrenia	TH	1.0	
+Spastic paraplegia 9	TH	1.0	
+Stomach Neoplasms	TH	1.0	
+Stroke	TH	1.0	
+Substance Withdrawal Syndrome	TH	1.0	
+SUDDEN INFANT DEATH SYNDROME	TH	1.0	
+Progressive supranuclear ophthalmoplegia	TH	1.0	
+C-like syndrome	TH	1.0	
+Tobacco Use Disorder	TH	1.0	
+Tourette Syndrome	TH	1.0	
+Tremor, hereditary essential, 5	TH	1.0	
+Uremia	TH	1.0	
+Virus Diseases	TH	1.0	
+Vitiligo	TH	1.0	
+Increased body weight	TH	1.0	
+WFS1-Related Disorders	TH	1.0	
+Essential hypertension	TH	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	TH	1.0	
+Polyglandular Type I Autoimmune Syndrome	TH	1.0	
+Decreased activity of 3-hydroxyacyl-CoA dehydrogenase	TH	1.0	
+Migraine Disorders	TH	1.0	
+Abnormal CSF metabolite level	TH	1.0	
+Malnutrition	TH	1.0	
+Onset	TH	1.0	
+Embryonal rhabdomyosarcoma	TH	1.0	
+Ganglioneuroblastoma	TH	1.0	
+Shprintzen syndrome	TH	1.0	
+Chronic schizophrenia	TH	1.0	
+Abnormality of extrapyramidal motor function	TH	1.0	
+Delayed speech and language development	TH	1.0	
+Parkinsonism	TH	1.0	
+Neoplasm, Residual	TH	1.0	
+Malignant Childhood Neoplasm	TH	1.0	
+High altitude pulmonary edema	TH	1.0	
+Malignant tumor of prostate	TH	1.0	
+Dystonia Disorders	TH	1.0	
+Hyperactivity	TH	1.0	
+Mask-like facies	TH	1.0	
+Involuntary movements	TH	1.0	
+Autosomal recessive inheritance	TH	1.0	
+Abnormality of the nervous system	TH	1.0	
+body mass	TH	1.0	
+Motor delay	TH	1.0	
+Metabolic Syndrome X	TH	1.0	
+Mood Disorders	TH	1.0	
+Ewing's sarcoma	TH	1.0	
+Gait disturbance	TH	1.0	
+Prostate carcinoma	TH	1.0	
+Neurodevelopmental abnormality	TH	1.0	
+Stomach cancer	TH	1.0	
+Neuroblastoma	TH	1.0	
+Dissecting aneurysm of the thoracic aorta	TH	1.0	
+Infarction, Middle Cerebral Artery	TH	1.0	
+Gait ataxia	TH	1.0	
+Lewy Body Disease	TH	1.0	
+Abnormal muscle tone	TH	1.0	
+Abnormality of head or neck	TH	1.0	
+Disseminated neuroblastoma	TH	1.0	
+Attention deficit hyperactivity disorder	TH	1.0	
+Mild cognitive impairment	TH	1.0	
+Blood pressure finding	TH	1.0	
+Systemic arterial pressure	TH	1.0	
+Phenotypic variability	TH	1.0	
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)	TH	1.0	
+Infantile-onset ascending hereditary spastic paralysis	TH	1.0	
+Muscular hypotonia of the trunk	TH	1.0	
+Variable expressivity	TH	1.0	
+Decreased facial expression	TH	1.0	
+Abnormality of the cerebellum	TH	1.0	
+MAJOR AFFECTIVE DISORDER 4	TH	1.0	
+MAJOR AFFECTIVE DISORDER 5	TH	1.0	
+MAJOR AFFECTIVE DISORDER 6	TH	1.0	
+Hepatocellular carcinoma	TH	1.0	
+Major affective disorder 7	TH	1.0	
+MAJOR AFFECTIVE DISORDER 8	TH	1.0	
+MAJOR AFFECTIVE DISORDER 9	TH	1.0	
+Weight Gain Adverse Event	TH	1.0	
+FANCONI ANEMIA, COMPLEMENTATION GROUP A (disorder)	TH	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	TH	1.0	
+Abnormality of brain morphology	TH	1.0	
+Abnormality of hindbrain morphology	TH	1.0	
+Abnormality of the musculature	TH	1.0	
+Morphological abnormality of the central nervous system	TH	1.0	
+Abnormality of the head	TH	1.0	
+Neurodevelopmental delay	TH	1.0	
+Abnormality of nervous system morphology	TH	1.0	
+Abnormality of nervous system physiology	TH	1.0	
+Abnormal eye physiology	TH	1.0	
+Abnormality of muscle physiology	TH	1.0	
+Abnormality of coordination	TH	1.0	
+Abnormality of central motor function	TH	1.0	
+Abnormality of the metencephalon	TH	1.0	
+Abnormal facial expression	TH	1.0	
+Diminished movement	TH	1.0	
+Abnormality of the face	TH	1.0	

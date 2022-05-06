@@ -1,0 +1,59 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP1A1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A2	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2A6	C0032229	Pleural Neoplasms	DisGeNet	
+CYP2E1	C0032229	Pleural Neoplasms	DisGeNet	
+CYP1A1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP1A2	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2A6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2D6	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP2E1	C0023055	Neoplasm of the larynx	DisGeNet	
+CYP3A4	C0023055	Neoplasm of the larynx	DisGeNet	
+MGST1	C0023055	Neoplasm of the larynx	DisGeNet	
+APOC1	C0009241	Cognition Disorders	DisGeNet	
+APOE	C0009241	Cognition Disorders	DisGeNet	
+CST3	C0009241	Cognition Disorders	DisGeNet	
+CYP2D6	C0009241	Cognition Disorders	DisGeNet	
+SPAST	C0009241	Cognition Disorders	DisGeNet	
+CYP1A1	C0919532	Genomic Instability	DisGeNet	
+CYP1A2	C0919532	Genomic Instability	DisGeNet	
+CYP2A6	C0919532	Genomic Instability	DisGeNet	
+CYP2E1	C0919532	Genomic Instability	DisGeNet	
+APOE	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+BBC3	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+CYP2E1	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+NLRC4	C2718067	Alcoholic Steatohepatitis	DisGeNet	
+CYP1A1	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP1A2	C0596321	Chemical Carcinogenesis	DisGeNet	
+CYP2D6	C0596321	Chemical Carcinogenesis	DisGeNet	
+GSN	C0596321	Chemical Carcinogenesis	DisGeNet	
+ALB	C0341439	Chronic liver disease	DisGeNet	
+APOE	C0341439	Chronic liver disease	DisGeNet	
+CYP1A1	C0341439	Chronic liver disease	DisGeNet	
+CYP1A2	C0341439	Chronic liver disease	DisGeNet	
+CYP2A6	C0341439	Chronic liver disease	DisGeNet	
+CYP2E1	C0341439	Chronic liver disease	DisGeNet	
+CYP3A4	C0341439	Chronic liver disease	DisGeNet	
+CTSL	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP1A1	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2A6	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2D6	C0262584	Carcinoma, Small Cell	DisGeNet	
+CYP2E1	C0262584	Carcinoma, Small Cell	DisGeNet	
+KLK3	C0262584	Carcinoma, Small Cell	DisGeNet	
+APOC1	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+APOE	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+CST3	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+GFAP	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+TOMM40	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+ALB	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOC1	C0242383	Age-related macular degeneration 2	DisGeNet	
+APOE	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CST3	C0242383	Age-related macular degeneration 2	ClinVar,DisGeNet	
+CYP1A1	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP1A2	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP2D6	C0242383	Age-related macular degeneration 2	DisGeNet	
+CYP2E1	C0242383	Age-related macular degeneration 2	DisGeNet	
+HP	C0242383	Age-related macular degeneration 2	DisGeNet	
+MGST1	C0242383	Age-related macular degeneration 2	DisGeNet	
+SERPING1	C0242383	Age-related macular degeneration 2	DisGeNet	
+TOMM40	C0242383	Age-related macular degeneration 2	DisGeNet	

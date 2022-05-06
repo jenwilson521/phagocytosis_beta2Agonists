@@ -1,0 +1,43 @@
+node_name	node_type	
+DB06756	drug	
+BCHE	drug_target	
+Enzyme inhibition disorder	phenotype	
+childhood brain tumor	phenotype	
+Churg-Strauss Syndrome	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Gestational trophoblastic disease	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Cerebral Amyloid Angiopathy	phenotype	
+Leptospirosis	phenotype	
+Aural atresia, congenital	phenotype	
+Refractory anemia	phenotype	
+Refractory anaemia with excess blasts	phenotype	
+Cocaine Dependence	phenotype	
+Adverse drug events and drug allergies	phenotype	
+Memory Loss	phenotype	
+Congenital myasthenic syndrome	phenotype	
+Cognition Disorders	phenotype	
+Hydatidiform mole, recurrent, 1, 231090 (3)	phenotype	
+Fasciculations	phenotype	
+Sleep apnea	phenotype	
+Postoperative Complications	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Paralysis	phenotype	
+body mass	phenotype	
+Spastic syndrome	phenotype	
+Methamphetamine abuse	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+early pregnancy	phenotype	
+Chronic myelomonocytic leukemia	phenotype	
+Hereditary hyperhomocysteinemia	phenotype	
+Cocaine-Related Disorders	phenotype	
+Hypertriglyceridemia	phenotype	
+Adult onset ataxia with oculomotor apraxia	phenotype	
+Lewy Body Disease	phenotype	
+Thyroiditis	phenotype	
+Neoplasm of the nervous system	phenotype	
+Mild cognitive impairment	phenotype	
+Sporadic Breast Carcinoma	phenotype	
+Tachycardia	phenotype	
+Weight Gain Adverse Event	phenotype	
+Apnea	phenotype	

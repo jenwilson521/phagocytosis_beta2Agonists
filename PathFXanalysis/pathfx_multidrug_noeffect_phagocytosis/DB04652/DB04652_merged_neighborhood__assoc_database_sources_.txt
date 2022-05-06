@@ -1,0 +1,92 @@
+Gene	CUI	Phenotype	Source Databases	
+HDAC3	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+HSD11B1	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+NCOR1	C0206081	 Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	DisGeNet	
+HDAC3	C0029928	Ovarian Diseases	DisGeNet	
+HSD11B1	C0029928	Ovarian Diseases	DisGeNet	
+NCOR1	C0029928	Ovarian Diseases	DisGeNet	
+HDAC3	C0009404	Colorectal Neoplasms	DisGeNet	
+HSD11B1	C0009404	Colorectal Neoplasms	DisGeNet	
+NCOR1	C0009404	Colorectal Neoplasms	DisGeNet	
+NCOR2	C0009404	Colorectal Neoplasms	DisGeNet	
+NR3C2	C0009404	Colorectal Neoplasms	DisGeNet	
+NCOR1	C0023267	Leiomyoma	DisGeNet	
+NCOR2	C0023267	Leiomyoma	DisGeNet	
+RXRA	C0023267	Leiomyoma	DisGeNet	
+NCOR1	C0042133	Uterine leiomyoma	DisGeNet	
+NCOR2	C0042133	Uterine leiomyoma	DisGeNet	
+RXRA	C0042133	Uterine leiomyoma	DisGeNet	
+NCOA1	C0020676	Hypothyroidism	DisGeNet	
+NCOR1	C0020676	Hypothyroidism	DisGeNet	
+NCOR2	C0020676	Hypothyroidism	DisGeNet	
+HSD11B1	C0001403	Primary adrenal insufficiency	DisGeNet	
+NR3C2	C0001403	Primary adrenal insufficiency	HumPhenOnt	
+NCOA1	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+NCOR1	C0026277	Mixed Salivary Gland Tumor	DisGeNet	
+HDAC3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NCOA1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NCOR1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NCOR2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NR3C2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RXRA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+HSD11B1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+NCOR2	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+NCOR1	C0023487	Acute promyelocytic leukemia	DisGeNet	
+NCOR2	C0023487	Acute promyelocytic leukemia	DisGeNet	
+RXRA	C0023487	Acute promyelocytic leukemia	DisGeNet	
+HDAC3	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+HSD11B1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+NCOR1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+NCOR1	C0001349	Acute-Phase Reaction	DisGeNet	
+HSD11B1	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+NR3C2	C0020461	Hyperkalemia	HumPhenOnt	
+HDAC3	C0016059	Fibrosis	DisGeNet	
+NR3C2	C0016059	Fibrosis	DisGeNet	
+NR3C2	C4023644	Abnormality of sodium homeostasis	HumPhenOnt	
+NR3C2	C0020625	Hyponatremia	HumPhenOnt	
+NR3C2	C4025685	Adrenal overactivity	HumPhenOnt	
+NCOA1	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+RXRA	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+NR3C2	C1291311	3 beta-Hydroxysteroid dehydrogenase deficiency	DisGeNet	
+HSD11B1	C0010481	Cushing's syndrome	DisGeNet	
+RXRA	C1384494	Metastatic Carcinoma	DisGeNet	
+HDAC3	C0524620	Metabolic Syndrome X	DisGeNet	
+HSD11B1	C0524620	Metabolic Syndrome X	DisGeNet	
+NR3C2	C0524620	Metabolic Syndrome X	DisGeNet	
+HDAC3	C0752125	Spinocerebellar ataxia 7	DisGeNet	
+HSD11B1	C0032002	Abnormality of the pituitary gland	DisGeNet	
+NCOA1	C0032002	Abnormality of the pituitary gland	DisGeNet	
+NR3C2	C0032002	Abnormality of the pituitary gland	DisGeNet	
+HSD11B1	C0021368	Inflammation	DisGeNet	
+NR3C2	C0021368	Inflammation	DisGeNet	
+RXRA	C0021368	Inflammation	DisGeNet	
+NR3C2	C0852036	Pregnancy associated hypertension	DisGeNet	
+HSD11B1	C0028754	Obesity	DisGeNet,HumPhenOnt	
+NCOA1	C0028754	Obesity	DisGeNet	
+NCOR2	C0028754	Obesity	DisGeNet	
+NR3C2	C0028754	Obesity	DisGeNet	
+RXRA	C0028754	Obesity	DisGeNet	
+NCOR1	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+NCOR2	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+HSD11B1	C0000889	Acanthosis nigricans	HumPhenOnt	
+HDAC3	C0002792	Anaphylactic shock NOS	DisGeNet	
+NCOA1	C0010051	Coronary artery aneurysm	DisGeNet	
+NR3C2	C0020428	Hyperaldosteronism, familial, type IV	HumPhenOnt	
+HSD11B1	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+NR3C2	C4023575	Abnormality of potassium homeostasis	HumPhenOnt	
+NR3C2	C0741923	cardiac event	DisGeNet	
+HSD11B1	C2362324	Pediatric Obesity	DisGeNet	
+NR3C2	C4025690	Prenatal maternal abnormality	HumPhenOnt	
+NCOA1	C0014175	Endometriosis	DisGeNet	
+NCOR1	C0014175	Endometriosis	DisGeNet	
+NR3C2	C0014175	Endometriosis	DisGeNet	
+HSD11B1	C0149721	Left ventricular hypertrophy	DisGeNet	
+NR3C2	C0149721	Left ventricular hypertrophy	DisGeNet	
+NCOR2	C0015302	Exostoses	DisGeNet	
+RXRA	C0016978	Neoplasm of the gallbladder	DisGeNet	
+RXRA	C0751956	Acute Cerebrovascular Accidents	DisGeNet	
+RXRA	C0948480	Coronary Restenosis	DisGeNet	
+HSD11B1	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+NCOA1	C1842937	Aural atresia, congenital	DisGeNet	
+NCOR1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+NCOR2	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	

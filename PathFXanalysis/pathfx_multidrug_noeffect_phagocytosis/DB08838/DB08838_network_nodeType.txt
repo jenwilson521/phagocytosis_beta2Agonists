@@ -1,0 +1,115 @@
+node_name	node_type	
+DB08838	drug	
+CACNA1B	drug_target	
+NISCH	drug_target	
+GRIN1	drug_target	
+ASIC3	drug_target	
+KCNJ1	drug_target	
+ADRA2C	drug_target	
+SLC22A3	drug_target	
+SLC22A1	drug_target	
+CHRNA1	drug_target	
+SLC22A2	drug_target	
+SLC7A7	drug_target	
+Weight Gain Adverse Event	phenotype	
+Schizophrenia	phenotype	
+Alcohol dependence	phenotype	
+Increased body weight	phenotype	
+Bipolar affective disorder	phenotype	
+Hyperalgesia	phenotype	
+Memory Loss	phenotype	
+Methamphetamine abuse	phenotype	
+Major depressive disorder	phenotype	
+Unipolar Depression	phenotype	
+Depressive Disorder	phenotype	
+Hypertension	phenotype	
+Opiate Addiction	phenotype	
+Tuberous sclerosis syndrome	phenotype	
+Hypotension	phenotype	
+Anxiety Disorders	phenotype	
+Mesothelioma, malignant	phenotype	
+Tachycardia	phenotype	
+Hypsarrhythmia	phenotype	
+body mass	phenotype	
+Nausea	phenotype	
+Obesity	phenotype	
+Placental Insufficiency	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Epilepsy	phenotype	
+Kaposi's sarcoma	phenotype	
+Attention Deficit Disorder	phenotype	
+Osteochondritis dissecans	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Diabetes mellitus type 2	phenotype	
+Cardiomegaly	phenotype	
+Glioblastoma	phenotype	
+Lymphoma, Large B-Cell, Diffuse	phenotype	
+Substance addiction and disorders	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Parkinson Disease	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Astrocytoma	phenotype	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	phenotype	
+Psychotic Disorders	phenotype	
+Neoplasm of the colon	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Mental disorders	phenotype	
+Metastatic melanoma	phenotype	
+Neuralgia	phenotype	
+Dyslexia 1	phenotype	
+Glioma	phenotype	
+Alcohol abuse	phenotype	
+Thickened nuchal skin fold	phenotype	
+Melanocytic nevus of skin	phenotype	
+Memory impairment	phenotype	
+Autism 15	phenotype	
+Rhabdoid Tumor of the Kidney	phenotype	
+Anorexia nervosa 1	phenotype	
+Bradycardia	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Low Tension Glaucoma	phenotype	
+Child Development Disorders, Pervasive	phenotype	
+Focal seizures	phenotype	
+Acquired long QT syndrome	phenotype	
+Fetal ultrasound soft marker	phenotype	
+Pituitary adenoma	phenotype	
+Cocaine-Related Disorders	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Tumor Progression	phenotype	
+Primary Effusion Lymphoma	phenotype	
+Hormone receptor positive tumor	phenotype	
+Neuroblastoma	phenotype	
+Malnutrition	phenotype	
+Melanoma	phenotype	
+Abnormality of hair texture	phenotype	
+Heroin Dependence	phenotype	
+Noonan syndrome 1	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Hypoxia-Ischemia, Brain	phenotype	
+Chronic myeloid leukemia	phenotype	
+Sarcoma, Ewing	phenotype	
+Isovaleryl-CoA dehydrogenase deficiency	phenotype	
+Malignant neoplasm of lung	phenotype	
+Chronic sciatica	phenotype	
+Mood Disorders	phenotype	
+Abnormality of cardiovascular system physiology	phenotype	
+Hepatocellular carcinoma	phenotype	
+Alzheimer Disease	phenotype	
+Systemic arterial pressure	phenotype	
+Behavior Disorders	phenotype	
+Lyme Disease	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Poor suck	phenotype	
+Stomach cancer	phenotype	
+Parkinsonism	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Cystic hygroma	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Chondrocalcinosis	phenotype	
+Hypothyroidism	phenotype	
+Extrahepatic cholestasis	phenotype	
+Pleural Mesothelioma	phenotype	
+Substance Withdrawal Syndrome	phenotype	

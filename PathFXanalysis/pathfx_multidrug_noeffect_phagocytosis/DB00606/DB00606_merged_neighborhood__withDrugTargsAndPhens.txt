@@ -1,0 +1,122 @@
+node1	node2	edge_score	
+DB00606	CA4	1.0	
+DB00606	FXYD2	1.0	
+DB00606	CA1	1.0	
+DB00606	CA2	1.0	
+DB00606	SLC22A6	1.0	
+CA4		1
+CA4	DLD	0.8281207788973212
+FXYD2		1
+CA1		1
+CA2		1
+SLC22A6		1
+Ulcerative colitis	CA1	1.0	
+Ulcerative colitis	CA2	1.0	
+Ulcerative colitis	DLD	1.0	
+Ulcerative colitis	SLC22A6	1.0	
+Aqueous Humor Disorders	CA2	1.0	
+Aqueous Humor Disorders	CA4	1.0	
+Abnormality of metabolism/homeostasis	CA2	1.0	
+Abnormality of metabolism/homeostasis	CA4	1.0	
+Abnormality of metabolism/homeostasis	DLD	1.0	
+Abnormality of metabolism/homeostasis	FXYD2	1.0	
+Kidney Diseases	CA1	1.0	
+Kidney Diseases	CA2	1.0	
+Kidney Diseases	SLC22A6	1.0	
+Peroxisome biogenesis disorder 6A	CA1	1.0	
+Chromosome 11p deletion syndrome	SLC22A6	1.0	
+Basal ganglia calcification, idiopathic, 6	CA2	1.0	
+Oropharynx (excludes nasopharynx)	CA2	1.0	
+Mental handicap	CA2	1.0	
+Urolithiasis	DLD	1.0	
+Chondrocalcinosis	FXYD2	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	CA2	1.0	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	DLD	1.0	
+Renal tubular acidosis, distal, autosomal dominant	CA2	1.0	
+Metabolic Bone Disorder	CA2	1.0	
+Cholangitis	CA2	1.0	
+Abnormality of acid-base homeostasis	CA2	1.0	
+Abnormality of acid-base homeostasis	DLD	1.0	
+Cranial hyperostosis	CA2	1.0	
+Acidosis	CA2	1.0	
+Acidosis	DLD	1.0	
+Simple pneumoconiosis	CA1	1.0	
+Abnormality of nervous system physiology	CA2	1.0	
+Abnormality of nervous system physiology	CA4	1.0	
+Abnormality of nervous system physiology	DLD	1.0	
+Abnormality of nervous system physiology	FXYD2	1.0	
+Mental impairment	CA2	1.0	
+Glanzmann thrombasthenia	DLD	1.0	
+Acute intermittent porphyria	CA2	1.0	
+Aseptic necrosis	CA2	1.0	
+Kidney Calculi	CA2	1.0	
+Abnormality of the nervous system	CA2	1.0	
+Abnormality of the nervous system	CA4	1.0	
+Abnormality of the nervous system	DLD	1.0	
+Abnormality of the nervous system	FXYD2	1.0	
+Blindness	CA2	1.0	
+Blindness	CA4	1.0	
+Friedreich's ataxia	DLD	1.0	
+Osteopetrosis autosomal recessive 4	CA2	1.0	
+Atypical teratoid/rhabdoid tumor	CA2	1.0	
+Pneumococcal Infections	DLD	1.0	
+Other rheumatic heart disease	CA2	1.0	
+Hyperostosis	CA2	1.0	
+Abnormality of central motor function	CA2	1.0	
+Abnormality of central motor function	CA4	1.0	
+Abnormality of central motor function	DLD	1.0	
+Hepatosplenomegaly	CA2	1.0	
+Bone pain	CA2	1.0	
+Photoreceptor degeneration	CA4	1.0	
+Hepatomegaly	CA2	1.0	
+Hepatomegaly	DLD	1.0	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	CA2	1.0	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	CA4	1.0	
+Abnormality of the basal ganglia	CA2	1.0	
+EPIDERMODYSPLASIA VERRUCIFORMIS	DLD	1.0	
+Multisystem disorder	DLD	1.0	
+Abnormality of the optic disc	CA2	1.0	
+Abnormality of the optic disc	CA4	1.0	
+Renal tubular dysfunction	CA2	1.0	
+Abnormal glucose homeostasis	CA4	1.0	
+Abnormal glucose homeostasis	DLD	1.0	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	CA2	1.0	
+Metabolic acidosis	DLD	1.0	
+Inborn Errors of Metabolism	CA2	1.0	
+Visceromegaly	CA2	1.0	
+Visceromegaly	DLD	1.0	
+Progressive night blindness	CA4	1.0	
+Congenital disorder of glycosylation	DLD	1.0	
+Abnormality of the renal tubule	CA2	1.0	
+Brain Infarction	DLD	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	CA4	1.0	
+Abnormality of carbohydrate metabolism/homeostasis	DLD	1.0	
+Mental retardation 63, X-linked	CA2	1.0	
+Mental retardation 63, X-linked	DLD	1.0	
+Abnormality of the optic nerve	CA2	1.0	
+Abnormality of the optic nerve	CA4	1.0	
+Abnormality of abdomen morphology	CA2	1.0	
+Abnormality of abdomen morphology	DLD	1.0	
+Visual impairment	CA2	1.0	
+Visual impairment	CA4	1.0	
+Dental malocclusion	CA2	1.0	
+Genu valgum	CA2	1.0	
+Increased bone mineral density	CA2	1.0	
+Abnormality of the genitourinary system	CA2	1.0	
+Abnormality of the genitourinary system	CA4	1.0	
+Abnormality of the genitourinary system	FXYD2	1.0	
+Paralysis	CA2	1.0	
+Chronic ulcerative colitis	CA2	1.0	
+Increased corneal curvature	CA4	1.0	
+Decreased corneal thickness	CA4	1.0	
+Abnormality of corneal thickness	CA4	1.0	
+Abnormal urinary electrolyte concentration	FXYD2	1.0	
+Cerebral calcification	CA2	1.0	
+Neurodevelopmental abnormality	CA2	1.0	
+Neurodevelopmental abnormality	CA4	1.0	
+Neurodevelopmental abnormality	DLD	1.0	
+Calcinosis	SLC22A6	1.0	
+Lethargy	DLD	1.0	
+High grade serous carcinoma	CA2	1.0	
+Leigh syndrome	DLD	1.0	
+Mandibular prognathia	CA2	1.0	

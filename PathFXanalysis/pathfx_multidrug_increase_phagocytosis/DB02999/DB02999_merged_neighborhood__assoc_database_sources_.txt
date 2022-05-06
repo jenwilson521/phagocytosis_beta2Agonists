@@ -1,0 +1,187 @@
+Gene	CUI	Phenotype	Source Databases	
+GRIA1	C0443306	Spastic	DisGeNet	
+GRIA2	C0443306	Spastic	DisGeNet	
+GRIK2	C0443306	Spastic	DisGeNet	
+GRIA1	C0036341	Schizophrenia	DisGeNet,PheGenI	
+GRIA2	C0036341	Schizophrenia	DisGeNet	
+GRIA4	C0036341	Schizophrenia	DisGeNet	
+GRIK2	C0036341	Schizophrenia	DisGeNet	
+GRIP1	C0036341	Schizophrenia	DisGeNet	
+PRKCA	C0036341	Schizophrenia	DisGeNet	
+PRKCG	C0036341	Schizophrenia	DisGeNet	
+GRIA1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIA2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIA4	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIK2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIP1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIA1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA2	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA4	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIA1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIA2	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIK2	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIA1	C0424295	Hyperactivity	DisGeNet	
+GRIA2	C0424295	Hyperactivity	DisGeNet	
+PRKCG	C0424295	Hyperactivity	HumPhenOnt	
+GRIA1	C0035126	Reperfusion Injury	DisGeNet	
+GRIK2	C0035126	Reperfusion Injury	DisGeNet	
+PRKCA	C0035126	Reperfusion Injury	DisGeNet	
+GRIA1	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+GRIA2	C0038587	Substance Withdrawal Syndrome	DisGeNet	
+GRIA1	C0149931	Migraine Disorders	DisGeNet	
+GRIA2	C0149931	Migraine Disorders	DisGeNet	
+GRIA4	C0149931	Migraine Disorders	DisGeNet	
+PRKCA	C1519689	Tumor Promotion	DisGeNet	
+PRKCG	C1519689	Tumor Promotion	DisGeNet	
+PRKCA	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+PRKCG	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+GRIA1	C0003469	Anxiety Disorders	DisGeNet	
+GRIA2	C0003469	Anxiety Disorders	DisGeNet	
+GRIK2	C0003469	Anxiety Disorders	DisGeNet	
+GRIA1	C0041696	Unipolar Depression	DisGeNet	
+GRIA2	C0041696	Unipolar Depression	DisGeNet	
+GRIA4	C0041696	Unipolar Depression	DisGeNet	
+GRIK2	C0018099	Gout	PheGenI	
+PRKCA	C0018099	Gout	PheGenI	
+GRIA1	C0236736	Cocaine-Related Disorders	DisGeNet	
+GRIA2	C0236736	Cocaine-Related Disorders	DisGeNet	
+GRIA1	C0004936	Mental disorders	DisGeNet	
+GRIA2	C0004936	Mental disorders	DisGeNet	
+PRKCA	C0004936	Mental disorders	DisGeNet	
+GRIA1	C1269683	Major depressive disorder	DisGeNet	
+GRIA2	C1269683	Major depressive disorder	DisGeNet	
+GRIA4	C1269683	Major depressive disorder	DisGeNet	
+GRIA1	C0043094	Increased body weight	DisGeNet	
+GRIA2	C0043094	Increased body weight	DisGeNet	
+GRIA4	C0043094	Increased body weight	DisGeNet	
+GRIK2	C0027066	Myoclonus, intractable, neonatal	HumPhenOnt	
+PRKCG	C0027066	Myoclonus, intractable, neonatal	DisGeNet	
+GRIA4	C0236969	Substance-Related Disorders	DisGeNet	
+GRIK2	C0236969	Substance-Related Disorders	DisGeNet	
+GRIA1	C0038220	Status epilepticus	DisGeNet	
+GRIA2	C0038220	Status epilepticus	DisGeNet	
+GRIA2	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	DisGeNet	
+GRIK2	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	DisGeNet,HumPhenOnt	
+GRIP1	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	HumPhenOnt	
+PRKCG	C3714756	Intellectual developmental disorder with dysmorphic facies and ptosis	DisGeNet	
+GRIA1	C0017650	Globus Hystericus	DisGeNet	
+PRKCG	C1720189	Episodic ataxia	DisGeNet	
+GRIP1	C1861921	Cutaneous syndactyly	HumPhenOnt	
+GRIP1	C0685787	Facial cleft	HumPhenOnt	
+GRIP1	C1858567	Abnormality of the lacrimal duct	HumPhenOnt	
+PRKCA	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+GRIA2	C0154682	AMYOTROPHIC LATERAL SCLEROSIS 5	DisGeNet	
+GRIP1	C0521573	Cleft eyelid	HumPhenOnt	
+GRIP1	C0685695	Abnormal lung lobation	HumPhenOnt	
+GRIP1	C0040583	Tracheal stenosis	HumPhenOnt	
+GRIP1	C0262374	Anal stenosis	HumPhenOnt	
+GRIP1	C1533124	Cupped ear	HumPhenOnt	
+GRIP1	C4021738	Abnormality of the pubic bone	HumPhenOnt	
+GRIA1	C0036572	Seizures, Febrile	DisGeNet	
+GRIA2	C0036572	Seizures, Febrile	DisGeNet	
+GRIK2	C0036572	Seizures, Febrile	DisGeNet,HumPhenOnt	
+PRKCA	C0036572	Seizures, Febrile	DisGeNet	
+GRIP1	C0266231	Ectopic anus	HumPhenOnt	
+GRIP1	C0574763	Absent hair	HumPhenOnt	
+PRKCG	C0751214	Hyperalgesia, Thermal	DisGeNet	
+PRKCG	C2936719	Mechanical Allodynia	DisGeNet	
+GRIP1	C0080178	Spina bifida	HumPhenOnt	
+PRKCA	C0080178	Spina bifida	DisGeNet	
+GRIP1	C0079474	Recessive dystrophic epidermolysis bullosa	DisGeNet	
+PRKCA	C0406810	Carney complex	DisGeNet	
+GRIK2	C0524528	Pervasive developmental disorders	DisGeNet	
+GRIP1	C1866190	Atresia of the external auditory canal	HumPhenOnt	
+PRKCA	C0010481	Cushing's syndrome	DisGeNet	
+PRKCG	C0393525	Progressive cerebellar ataxia	HumPhenOnt	
+GRIA1	C0019151	Hepatic encephalopathy	DisGeNet	
+PRKCG	C1295585	Impaired vibratory sensation	HumPhenOnt	
+GRIA1	C0017636	Glioblastoma	DisGeNet	
+GRIA2	C0017636	Glioblastoma	DisGeNet	
+GRIA4	C0017636	Glioblastoma	DisGeNet	
+PRKCA	C0017636	Glioblastoma	DisGeNet	
+PRKCA	C0233794	Memory impairment	DisGeNet	
+PRKCG	C0233794	Memory impairment	HumPhenOnt	
+GRIP1	C1855204	Cellular immunodeficiency	HumPhenOnt	
+GRIP1	C4025835	Abnormality of the nasolacrimal system	HumPhenOnt	
+PRKCA	C0032617	Polyuria	DisGeNet	
+GRIA1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIA2	C0005586	Bipolar affective disorder	DisGeNet	
+GRIK2	C0005586	Bipolar affective disorder	DisGeNet	
+GRIP1	C0262650	Abnormality of the thymus	HumPhenOnt	
+GRIP1	C0266387	Bicornuate uterus	HumPhenOnt	
+GRIA1	C0040336	Tobacco Use Disorder	DisGeNet	
+GRIK2	C0040336	Tobacco Use Disorder	DisGeNet	
+GRIP1	C0040336	Tobacco Use Disorder	DisGeNet	
+GRIP2	C0040336	Tobacco Use Disorder	DisGeNet	
+PRKCA	C0040336	Tobacco Use Disorder	DisGeNet	
+GRIK2	C0018800	Cardiomegaly	DisGeNet,PheGenI	
+PRKCA	C0018800	Cardiomegaly	DisGeNet	
+PRKCA	C0162283	Nephrogenic diabetes insipidus, autosomal	DisGeNet	
+GRIP1	C0025299	Meningocele	HumPhenOnt	
+GRIP1	C0025312	Myelomeningocele	HumPhenOnt	
+GRIA1	C0004352	Autism 15	DisGeNet	
+GRIK2	C0004352	Autism 15	DisGeNet	
+GRIP1	C0004352	Autism 15	DisGeNet	
+GRIA1	C0023186	Learning Disorders	DisGeNet	
+PRKCA	C0085166	Bacterial Vaginosis	DisGeNet	
+GRIP1	C4280695	Increased size of the clitoris	HumPhenOnt	
+GRIP1	C4280696	Abnormal size of the clitoris	HumPhenOnt	
+GRIK2	C0013421	Dystonia 2, torsion, autosomal recessive	HumPhenOnt	
+PRKCG	C0013421	Dystonia 2, torsion, autosomal recessive	DisGeNet,HumPhenOnt	
+GRIP1	C0431659	Scrotal hypoplasia	HumPhenOnt	
+GRIK2	C0020179	Huntington's chorea	DisGeNet	
+PRKCA	C0020179	Huntington's chorea	DisGeNet	
+GRIA4	C0034951	Refractive Errors	DisGeNet	
+GRIP1	C0156394	Clitoral hypertrophy	HumPhenOnt	
+GRIA1	C0525045	Mood Disorders	DisGeNet	
+GRIK2	C0525045	Mood Disorders	DisGeNet	
+PRKCA	C1378050	Oncocytic Neoplasm	DisGeNet	
+GRIP1	C0426421	Wide nose	HumPhenOnt	
+GRIP1	C4021807	Abnormality of the auditory canal	HumPhenOnt	
+GRIA2	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+GRIK2	C3272363	Ischemic Cerebrovascular Accident	DisGeNet	
+GRIA2	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+PRKCG	C0743332	Focal dystonia	HumPhenOnt	
+PRKCA	C0010414	Infection by Cryptococcus neoformans	DisGeNet	
+GRIP1	C0238394	Female pseudohermaphroditism	HumPhenOnt	
+PRKCG	C0752120	Spinocerebellar ataxia 1	DisGeNet	
+GRIA1	C0005911	Body Weight Changes	DisGeNet	
+GRIP1	C0003119	Anophthalmia/Microphthalmia	HumPhenOnt	
+GRIA2	C0948216	Ovarian adenocarcinoma	DisGeNet	
+GRIP1	C0040433	Dental crowding	HumPhenOnt	
+PRKCA	C0342492	Adrenal hyperplasia	DisGeNet	
+GRIP1	C0795690	Omphalocele	HumPhenOnt	
+GRIP1	C1834055	Underdeveloped nasal alae	HumPhenOnt	
+GRIP1	C1843005	Absent eyelashes	HumPhenOnt	
+GRIK2	C0029421	Osteochondritis dissecans	DisGeNet	
+GRIP1	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+GRIK2	C0036974	Shock, Septic	PheGenI	
+PRKCA	C0162770	Right ventricular hypertrophy	DisGeNet	
+GRIP1	C1827524	Wide intermamillary distance	HumPhenOnt	
+GRIP1	C4022412	Abnormal intermamillary distance	HumPhenOnt	
+GRIP1	C4023758	Abnormality of the meninges	HumPhenOnt	
+GRIA2	C0948008	Ischemic stroke	DisGeNet	
+GRIK2	C0948008	Ischemic stroke	DisGeNet	
+GRIK2	C0014548	Epilepsy, generalized, with febrile seizures plus, type 6 (2)	DisGeNet	
+GRIP1	C4025893	Abnormality of the clitoris	HumPhenOnt	
+GRIP1	C0266295	Renal hypoplasia	HumPhenOnt	
+GRIK2	C0007786	Brain Ischemia	DisGeNet	
+PRKCA	C0007786	Brain Ischemia	DisGeNet	
+PRKCA	C0001627	Congenital adrenal hyperplasia	DisGeNet	
+PRKCA	C0030809	Pemphigus Vulgaris	DisGeNet	
+PRKCG	C0234162	Dysmetria	HumPhenOnt	
+GRIP1	C1856023	Abnormality of the vagina	HumPhenOnt	
+GRIA2	C1862941	Amyotrophic Lateral Sclerosis, Sporadic	DisGeNet	
+GRIA1	C0013182	Drug Allergy	DisGeNet	
+GRIP1	C0014065	Cephalocele	HumPhenOnt	
+PRKCG	C0751837	Gait ataxia	DisGeNet,HumPhenOnt	
+GRIA4	C0014553	Absence seizures	DisGeNet	
+GRIP1	C1856660	Abnormality of the helix	HumPhenOnt	
+GRIA2	C0011269	Dementia, Vascular	DisGeNet	
+GRIP1	C4025855	Abnormality of the choanae	HumPhenOnt	
+PRKCA	C0017665	Membranous nephropathy, susceptibility to	DisGeNet	
+PRKCG	C1836598	Incomplete penetrance	HumPhenOnt	
+GRIP1	C0024636	Dental malocclusion	HumPhenOnt	
+GRIK2	C0028768	Obsessive-compulsive disorder	DisGeNet	
+GRIP1	C3179508	Aplasia/Hypoplasia of the thumb	HumPhenOnt	
+GRIP1	C0265783	Pulmonary hypoplasia	HumPhenOnt	

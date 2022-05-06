@@ -1,0 +1,1059 @@
+Gene	CUI	Phenotype	Source Databases	
+AKT1	C0002895	Anemia, Sickle Cell	DisGeNet	
+CALM3	C0002895	Anemia, Sickle Cell	DisGeNet	
+HSP90AA1	C0002895	Anemia, Sickle Cell	DisGeNet	
+NOS1	C0002895	Anemia, Sickle Cell	DisGeNet	
+NOS3	C0002895	Anemia, Sickle Cell	DisGeNet	
+AKT1	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+CALM3	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+CAV1	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+NOS1	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+NOS3	C0020542	Pulmonary hypertension, neonatal, susceptibility to	DisGeNet	
+AKT1	C0686347	Tardive Dyskinesia	DisGeNet	
+NOS1	C0686347	Tardive Dyskinesia	DisGeNet	
+NOS3	C0686347	Tardive Dyskinesia	DisGeNet	
+AKT1	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+CAV1	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+HSP90AA1	C0278484	Malignant neoplasm of colon stage IV	DisGeNet	
+AKT1	C0152115	Orofacial dyskinesia	DisGeNet	
+NOS1	C0152115	Orofacial dyskinesia	DisGeNet	
+NOS3	C0152115	Orofacial dyskinesia	DisGeNet	
+AKT1	C0856169	Endothelial dysfunction	DisGeNet	
+CAV1	C0856169	Endothelial dysfunction	DisGeNet	
+HSP90AA1	C0856169	Endothelial dysfunction	DisGeNet	
+NOS3	C0856169	Endothelial dysfunction	DisGeNet	
+AKT1	C0025286	Meningioma	DisGeNet,HumPhenOnt	
+CALM3	C0025286	Meningioma	DisGeNet	
+CAV1	C0025286	Meningioma	DisGeNet	
+NOS1	C0025286	Meningioma	DisGeNet	
+NOS3	C0025286	Meningioma	DisGeNet	
+AKT1	C0152171	Primary pulmonary hypertension	DisGeNet	
+CAV1	C0152171	Primary pulmonary hypertension	ClinVar,DisGeNet	
+HSP90AA1	C0152171	Primary pulmonary hypertension	DisGeNet	
+NOS3	C0152171	Primary pulmonary hypertension	DisGeNet	
+AKT1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+CAV1	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+NOS3	C0600452	Hepatopulmonary Syndrome	DisGeNet	
+AKT1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+CALM3	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+HSP90AA1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+NOS1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+AKT1	C0011581	Depressive Disorder	DisGeNet	
+CALM3	C0011581	Depressive Disorder	DisGeNet	
+HSP90AA1	C0011581	Depressive Disorder	DisGeNet	
+NOS1	C0011581	Depressive Disorder	DisGeNet	
+NOS3	C0011581	Depressive Disorder	DisGeNet	
+AKT1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CALM3	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+HSP90AA1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+NOS1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+NOS3	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+AKT1	C0018800	Cardiomegaly	DisGeNet	
+CAV1	C0018800	Cardiomegaly	DisGeNet	
+NOS1	C0018800	Cardiomegaly	DisGeNet	
+NOS3	C0018800	Cardiomegaly	DisGeNet	
+HSP90AA1	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+NOS1	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+NOS3	C0020541	Portal hypertension, noncirrhotic	DisGeNet	
+CALM3	C0694539	Chronic atrial fibrillation	DisGeNet	
+NOS3	C0694539	Chronic atrial fibrillation	DisGeNet	
+AKT1	C4025813	Abnormality of subcutaneous fat tissue	HumPhenOnt	
+CAV1	C4025813	Abnormality of subcutaneous fat tissue	HumPhenOnt	
+AKT1	C0345904	Hepatic cancer metastatic	DisGeNet	
+CALM3	C0345904	Hepatic cancer metastatic	DisGeNet	
+CAV1	C0345904	Hepatic cancer metastatic	DisGeNet	
+HSP90AA1	C0345904	Hepatic cancer metastatic	DisGeNet	
+NOS3	C0345904	Hepatic cancer metastatic	DisGeNet	
+AKT1	C0005694	Bladder neck obstruction	DisGeNet	
+NOS3	C0005694	Bladder neck obstruction	DisGeNet	
+AKT1	C0023827	Liposarcoma	DisGeNet	
+CAV1	C0023827	Liposarcoma	DisGeNet	
+HSP90AA1	C0023827	Liposarcoma	DisGeNet	
+AKT1	C3203102	Pulmonary arterial hypertension	DisGeNet	
+CAV1	C3203102	Pulmonary arterial hypertension	DisGeNet,HumPhenOnt	
+HSP90AA1	C3203102	Pulmonary arterial hypertension	DisGeNet	
+NOS3	C3203102	Pulmonary arterial hypertension	DisGeNet	
+AKT1	C0242350	Impotence	DisGeNet	
+NOS1	C0242350	Impotence	DisGeNet	
+NOS3	C0242350	Impotence	DisGeNet	
+CALM3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+CAV1	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+NOS3	C0232197	Ventricular Fibrillation Adverse Event	DisGeNet	
+AKT1	C0021655	Insulin Resistance	DisGeNet	
+CAV1	C0021655	Insulin Resistance	DisGeNet,HumPhenOnt	
+HSP90AA1	C0021655	Insulin Resistance	DisGeNet	
+NOS3	C0021655	Insulin Resistance	DisGeNet	
+AKT1	C0003130	Hypoxia	DisGeNet	
+CAV1	C0003130	Hypoxia	DisGeNet	
+NOS1	C0003130	Hypoxia	DisGeNet	
+NOS3	C0003130	Hypoxia	DisGeNet	
+AKT1	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+CAV1	C1853195	Prostate Cancer, Hereditary, 7	DisGeNet	
+AKT1	C0020676	Hypothyroidism	HumPhenOnt	
+CALM3	C0020676	Hypothyroidism	DisGeNet	
+CAV1	C0020676	Hypothyroidism	DisGeNet	
+NOS3	C0020676	Hypothyroidism	DisGeNet	
+AKT1	C4022020	Mucosal telangiectasiae	HumPhenOnt	
+CAV1	C4022020	Mucosal telangiectasiae	HumPhenOnt	
+AKT1	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+NOS1	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+NOS1	C0027721	Lipoid nephrosis	DisGeNet	
+NOS3	C0027721	Lipoid nephrosis	DisGeNet	
+AKT1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+CALM3	C0740457	Malignant neoplasm of kidney	DisGeNet	
+CAV1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+HSP90AA1	C0740457	Malignant neoplasm of kidney	DisGeNet	
+AKT1	C0007786	Brain Ischemia	DisGeNet	
+CAV1	C0007786	Brain Ischemia	DisGeNet	
+NOS1	C0007786	Brain Ischemia	DisGeNet	
+NOS3	C0007786	Brain Ischemia	DisGeNet	
+AKT1	C0018802	Congestive heart failure	DisGeNet	
+CALM3	C0018802	Congestive heart failure	DisGeNet	
+CAV1	C0018802	Congestive heart failure	HumPhenOnt	
+NOS1	C0018802	Congestive heart failure	DisGeNet	
+NOS3	C0018802	Congestive heart failure	DisGeNet	
+CALM3	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	HumPhenOnt	
+NOS3	C0042514	Ventricular tachycardia, catecholaminergic polymorphic, 2	DisGeNet	
+NOS1	C0020545	Renovascular hypertension	DisGeNet	
+NOS3	C0020545	Renovascular hypertension	DisGeNet	
+AKT1	C0740277	Bile duct cancer resectable	DisGeNet	
+HSP90AA1	C0740277	Bile duct cancer resectable	DisGeNet	
+CALM3	C0010674	Cystic Fibrosis	DisGeNet	
+HSP90AA1	C0010674	Cystic Fibrosis	DisGeNet	
+NOS1	C0010674	Cystic Fibrosis	DisGeNet	
+NOS3	C0010674	Cystic Fibrosis	DisGeNet	
+AKT1	C0238463	Papillary thyroid carcinoma	DisGeNet	
+CALM3	C0238463	Papillary thyroid carcinoma	DisGeNet	
+HSP90AA1	C0238463	Papillary thyroid carcinoma	DisGeNet	
+NOS3	C0238463	Papillary thyroid carcinoma	DisGeNet	
+AKT1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+HSP90AA1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+NOS1	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+NOS3	C0007193	Cardiomyopathy, Dilated	DisGeNet	
+AKT1	C0020456	Hyperglycemia	DisGeNet	
+HSP90AA1	C0020456	Hyperglycemia	DisGeNet	
+NOS1	C0020456	Hyperglycemia	DisGeNet	
+NOS3	C0020456	Hyperglycemia	DisGeNet	
+CAV1	C0019187	Hepatitis, Alcoholic	DisGeNet	
+NOSTRIN	C0019187	Hepatitis, Alcoholic	DisGeNet	
+AKT1	C0017601	Glaucoma, Angle-Closure	HumPhenOnt	
+CAV1	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+HSP90AA1	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+NOS3	C0017601	Glaucoma, Angle-Closure	DisGeNet	
+AKT1	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+CAV1	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+HSP90AA1	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+NOS1	C3539878	Triple Negative Breast Neoplasms	DisGeNet	
+AKT1	C0238462	Medullary thyroid carcinoma	DisGeNet	
+CALM3	C0238462	Medullary thyroid carcinoma	DisGeNet	
+HSP90AA1	C0238462	Medullary thyroid carcinoma	DisGeNet	
+AKT1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+CAV1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+HSP90AA1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+NOS1	C0023493	Adult T-Cell Lymphoma/Leukemia	DisGeNet	
+NOS1	C0013395	Dyspepsia	DisGeNet	
+NOS3	C0013395	Dyspepsia	DisGeNet	
+AKT1	C0206634	Myxoid liposarcoma	DisGeNet	
+HSP90AA1	C0206634	Myxoid liposarcoma	DisGeNet	
+AKT1	C0032460	Polycystic Ovary Syndrome	DisGeNet,HumPhenOnt	
+CAV1	C0032460	Polycystic Ovary Syndrome	HumPhenOnt	
+HSP90AA1	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+NOS3	C0032460	Polycystic Ovary Syndrome	DisGeNet	
+HSP90AA1	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+NOS3	C0034152	Henoch-Schoenlein Purpura	DisGeNet	
+CALM3	C1720983	Channelopathies	DisGeNet	
+CAV1	C1720983	Channelopathies	DisGeNet	
+AKT1	C0004364	Autoimmune disease 1	DisGeNet	
+CAV1	C0004364	Autoimmune disease 1	HumPhenOnt	
+HSP90AA1	C0004364	Autoimmune disease 1	DisGeNet	
+NOS1	C0004364	Autoimmune disease 1	DisGeNet	
+NOS3	C0004364	Autoimmune disease 1	DisGeNet	
+AKT1	C0018553	Cowden syndrome 1	DisGeNet	
+CAV1	C0018553	Cowden syndrome 1	DisGeNet	
+AKT1	C1269683	Major depressive disorder	DisGeNet	
+HSP90AA1	C1269683	Major depressive disorder	DisGeNet	
+NOS1	C1269683	Major depressive disorder	DisGeNet	
+NOS3	C1269683	Major depressive disorder	DisGeNet	
+AKT1	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+HSP90AA1	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+NOS1	C0086692	Benign neoplasm of other endocrine glands	DisGeNet	
+AKT1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+CALM3	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+CAV1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+HSP90AA1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+AKT1	C0010278	Craniosynostoses	HumPhenOnt	
+CAV1	C0010278	Craniosynostoses	DisGeNet	
+NOS3	C0010278	Craniosynostoses	DisGeNet	
+AKT1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+CAV1	C0023890	Liver Cirrhosis, Biliary	DisGeNet,HumPhenOnt	
+NOS1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+NOS3	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+NOSTRIN	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+AKT1	C1527349	Ductal Carcinoma	DisGeNet	
+CAV1	C1527349	Ductal Carcinoma	DisGeNet	
+NOS3	C1527349	Ductal Carcinoma	DisGeNet	
+AKT1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+CAV1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+HSP90AA1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+AKT1	C0023798	Lipoma	HumPhenOnt	
+CAV1	C0023798	Lipoma	DisGeNet	
+NOS1	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+NOS3	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+AKT1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+NOS1	C0033941	Psychoses, Substance-Induced	DisGeNet	
+AKT1	C2945695	Limb ischemia	DisGeNet	
+NOS3	C2945695	Limb ischemia	DisGeNet	
+NOS1	C0028797	Occupational Diseases	DisGeNet	
+NOS3	C0028797	Occupational Diseases	DisGeNet	
+NOS1	C0035344	Retinopathy of Prematurity	DisGeNet	
+NOS3	C0035344	Retinopathy of Prematurity	DisGeNet	
+AKT1	C0162770	Right ventricular hypertrophy	DisGeNet	
+NOS3	C0162770	Right ventricular hypertrophy	DisGeNet	
+CAV1	C0026946	Mycoses	DisGeNet	
+HSP90AA1	C0026946	Mycoses	DisGeNet	
+NOS3	C0026946	Mycoses	DisGeNet	
+AKT1	C1520166	Xenograft Model	DisGeNet	
+CALM3	C1520166	Xenograft Model	DisGeNet	
+CAV1	C1520166	Xenograft Model	DisGeNet	
+HSP90AA1	C1520166	Xenograft Model	DisGeNet	
+CAV1	C0019080	Bleeding with minor or no trauma	DisGeNet	
+NOS3	C0019080	Bleeding with minor or no trauma	DisGeNet	
+AKT1	C1511291	Breast Cancer Model	DisGeNet	
+HSP90AA1	C1511291	Breast Cancer Model	DisGeNet	
+AKT1	C0685938	Malignant gastrointestinal tract tumors	HumPhenOnt	
+CALM3	C0685938	Malignant gastrointestinal tract tumors	DisGeNet	
+HSP90AA1	C0685938	Malignant gastrointestinal tract tumors	DisGeNet	
+AKT1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+HSP90AA1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+NOS1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+CAV1	C0034063	Pulmonary edema	DisGeNet	
+NOS3	C0034063	Pulmonary edema	DisGeNet	
+AKT1	C0085695	Chronic gastritis	DisGeNet	
+CAV1	C0085695	Chronic gastritis	DisGeNet	
+NOS1	C0154723	Migraine with aura	DisGeNet	
+NOS3	C0154723	Migraine with aura	DisGeNet	
+AKT1	C0020538	Hypertension	DisGeNet	
+CALM3	C0020538	Hypertension	DisGeNet	
+CAV1	C0020538	Hypertension	DisGeNet,HumPhenOnt	
+HSP90AA1	C0020538	Hypertension	DisGeNet	
+NOS1	C0020538	Hypertension	DisGeNet	
+NOS3	C0020538	Hypertension	DisGeNet	
+AKT1	C0003850	Arteriosclerosis	DisGeNet	
+CAV1	C0003850	Arteriosclerosis	DisGeNet,HumPhenOnt	
+HSP90AA1	C0003850	Arteriosclerosis	DisGeNet	
+NOS1	C0003850	Arteriosclerosis	DisGeNet	
+NOS3	C0003850	Arteriosclerosis	DisGeNet	
+AKT1	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+NOS1	C0333875	High-Grade Squamous Intraepithelial Lesions	DisGeNet	
+AKT1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+NOS1	C0236733	Amphetamine-Related Disorders	DisGeNet	
+AKT1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+CALM3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+CAV1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+HSP90AA1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NOS1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NOS3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+AKT1	C0699885	Bladder carcinoma	DisGeNet,HumPhenOnt	
+CALM3	C0699885	Bladder carcinoma	DisGeNet	
+CAV1	C0699885	Bladder carcinoma	DisGeNet	
+HSP90AA1	C0699885	Bladder carcinoma	DisGeNet	
+NOS3	C0699885	Bladder carcinoma	DisGeNet	
+AKT1	C0007120	Alveolar cell carcinoma	DisGeNet	
+NOS1	C0007120	Alveolar cell carcinoma	DisGeNet	
+AKT1	C0011875	Diabetic Angiopathies	DisGeNet	
+NOS3	C0011875	Diabetic Angiopathies	DisGeNet	
+NOS1	C4082937	Necrotizing Enterocolitis	DisGeNet	
+NOS3	C4082937	Necrotizing Enterocolitis	DisGeNet	
+AKT1	C0027859	Vestibular Schwannoma	DisGeNet	
+CAV1	C0027859	Vestibular Schwannoma	DisGeNet	
+NOS1	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+NOS3	C0011882	Type 1 diabetic neuropathy	DisGeNet	
+CAV1	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+NOS3	C0852949	Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy	DisGeNet	
+AKT1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+CAV1	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+NOS3	C0007124	Noninfiltrating Intraductal Carcinoma	DisGeNet	
+AKT1	C0149925	Small cell lung cancer	DisGeNet	
+CALM3	C0149925	Small cell lung cancer	DisGeNet	
+CAV1	C0149925	Small cell lung cancer	DisGeNet	
+HSP90AA1	C0149925	Small cell lung cancer	DisGeNet	
+CALM3	C0262587	Parathyroid adenoma	DisGeNet	
+CAV1	C0262587	Parathyroid adenoma	DisGeNet	
+AKT1	C0032002	Abnormality of the pituitary gland	DisGeNet	
+CALM3	C0032002	Abnormality of the pituitary gland	DisGeNet	
+CAV1	C0032002	Abnormality of the pituitary gland	HumPhenOnt	
+HSP90AA1	C0032002	Abnormality of the pituitary gland	DisGeNet	
+AKT1	C0021368	Inflammation	DisGeNet	
+CAV1	C0021368	Inflammation	DisGeNet	
+HSP90AA1	C0021368	Inflammation	DisGeNet	
+NOS3	C0021368	Inflammation	DisGeNet	
+AKT1	C0022116	Ischemia	DisGeNet	
+HSP90AA1	C0022116	Ischemia	DisGeNet	
+NOS1	C0022116	Ischemia	DisGeNet	
+NOS3	C0022116	Ischemia	DisGeNet	
+NOS1	C0027796	Neuralgia	DisGeNet	
+NOS3	C0027796	Neuralgia	DisGeNet	
+AKT1	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+CAV1	C0278601	Inflammatory Breast Carcinoma	DisGeNet	
+NOS1	C0024534	Malaria, Cerebral	DisGeNet	
+NOS3	C0024534	Malaria, Cerebral	DisGeNet	
+AKT1	C0271650	Glucose intolerance	DisGeNet	
+CAV1	C0271650	Glucose intolerance	HumPhenOnt	
+NOS3	C0271650	Glucose intolerance	DisGeNet	
+CAV1	C0035126	Reperfusion Injury	DisGeNet	
+NOS1	C0035126	Reperfusion Injury	DisGeNet	
+NOS3	C0035126	Reperfusion Injury	DisGeNet	
+CALM3	C0085580	Essential hypertension	DisGeNet	
+NOS1	C0085580	Essential hypertension	DisGeNet	
+NOS3	C0085580	Essential hypertension	ClinVar,DisGeNet	
+HSP90AA1	C0024419	Waldenstrom macroglobulinemia	DisGeNet	
+NOS1	C0024419	Waldenstrom macroglobulinemia	DisGeNet	
+AKT1	C0024809	Marijuana Abuse	DisGeNet	
+NOS1	C0024809	Marijuana Abuse	DisGeNet	
+AKT1	C0024121	Lung Neoplasms	DisGeNet,HumPhenOnt	
+CAV1	C0024121	Lung Neoplasms	DisGeNet	
+HSP90AA1	C0024121	Lung Neoplasms	DisGeNet	
+NOS1	C0024121	Lung Neoplasms	DisGeNet	
+NOS3	C0024121	Lung Neoplasms	DisGeNet	
+AKT1	C0598766	Leukemogenesis	DisGeNet	
+CALM3	C0598766	Leukemogenesis	DisGeNet	
+CAV1	C0598766	Leukemogenesis	DisGeNet	
+NOS1	C0598766	Leukemogenesis	DisGeNet	
+AKT1	C1849211	Generalized hirsutism	HumPhenOnt	
+CAV1	C1849211	Generalized hirsutism	HumPhenOnt	
+CAV1	C3887486	Interstitial fibrosis	DisGeNet	
+NOS1	C3887486	Interstitial fibrosis	DisGeNet	
+AKT1	C0006118	Brain neoplasm	DisGeNet	
+CAV1	C0006118	Brain neoplasm	DisGeNet	
+NOS1	C0006118	Brain neoplasm	DisGeNet	
+NOS3	C0006118	Brain neoplasm	DisGeNet	
+AKT1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CALM3	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CAV1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+HSP90AA1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NOS1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+AKT1	C0877373	Advanced cancer	DisGeNet	
+HSP90AA1	C0877373	Advanced cancer	DisGeNet	
+AKT1	C0004114	Astrocytoma	DisGeNet	
+CALM3	C0004114	Astrocytoma	DisGeNet	
+CAV1	C0004114	Astrocytoma	DisGeNet	
+NOS3	C0004114	Astrocytoma	DisGeNet	
+AKT1	C0023267	Leiomyoma	DisGeNet	
+CALM3	C0023267	Leiomyoma	DisGeNet	
+CAV1	C0023267	Leiomyoma	DisGeNet	
+AKT1	C0525045	Mood Disorders	DisGeNet	
+NOS1	C0525045	Mood Disorders	DisGeNet	
+NOS3	C0525045	Mood Disorders	DisGeNet	
+AKT1	C0013146	Methamphetamine abuse	DisGeNet	
+CALM3	C0013146	Methamphetamine abuse	DisGeNet	
+CALM3	C0038436	Posttraumatic stress disorder	DisGeNet	
+HSP90AA1	C0038436	Posttraumatic stress disorder	DisGeNet	
+AKT1	C0042133	Uterine leiomyoma	DisGeNet	
+CALM3	C0042133	Uterine leiomyoma	DisGeNet	
+CAV1	C0042133	Uterine leiomyoma	DisGeNet	
+AKT1	C0878544	Cardiomyopathy	DisGeNet	
+CAV1	C0878544	Cardiomyopathy	HumPhenOnt	
+NOS1	C0878544	Cardiomyopathy	DisGeNet	
+NOS3	C0878544	Cardiomyopathy	DisGeNet	
+AKT1	C0278883	Metastatic melanoma	DisGeNet	
+CALM3	C0278883	Metastatic melanoma	DisGeNet	
+CAV1	C0278883	Metastatic melanoma	DisGeNet	
+AKT1	C0524851	Neurodegenerative Diseases	DisGeNet	
+CALM3	C0524851	Neurodegenerative Diseases	DisGeNet	
+HSP90AA1	C0524851	Neurodegenerative Diseases	DisGeNet	
+NOS3	C0524851	Neurodegenerative Diseases	DisGeNet	
+NOS1	C0751072	 Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	DisGeNet	
+NOS3	C0751072	 Frontotemporal lobar degeneration, TARDBP-related, 612069 (3)	DisGeNet	
+AKT1	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+CAV1	C2931852	Clear-cell metastatic renal cell carcinoma	DisGeNet	
+AKT1	C0038454	Stroke	DisGeNet	
+CALM3	C0038454	Stroke	DisGeNet	
+NOS1	C0038454	Stroke	DisGeNet	
+NOS3	C0038454	Stroke	DisGeNet	
+NOSTRIN	C0038454	Stroke	DisGeNet	
+AKT1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CALM3	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CAV1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+HSP90AA1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NOS1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NOS3	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+AKT1	C0016667	Fragile X syndrome	DisGeNet	
+NOS1	C0016667	Fragile X syndrome	DisGeNet	
+CAV1	C0017612	Glaucoma, Open-Angle	DisGeNet,PheGenI	
+NOS3	C0017612	Glaucoma, Open-Angle	DisGeNet	
+AKT1	C0149871	Deep venous thrombosis	HumPhenOnt	
+NOS3	C0149871	Deep venous thrombosis	DisGeNet	
+AKT1	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+CAV1	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+HSP90AA1	C0023492	Leukemia, T-cell acute lymphoblastoid (2)	DisGeNet	
+CALM3	C0009691	Congenital cataract	DisGeNet	
+CAV1	C0009691	Congenital cataract	HumPhenOnt	
+AKT1	C0004153	Atherosclerosis	DisGeNet	
+CAV1	C0004153	Atherosclerosis	DisGeNet,HumPhenOnt	
+HSP90AA1	C0004153	Atherosclerosis	DisGeNet	
+NOS1	C0004153	Atherosclerosis	DisGeNet	
+NOS3	C0004153	Atherosclerosis	DisGeNet	
+AKT1	C0029927	Ovarian cyst	HumPhenOnt	
+CAV1	C0029927	Ovarian cyst	HumPhenOnt	
+AKT1	C0020459	Hyperinsulinemia	DisGeNet	
+CAV1	C0020459	Hyperinsulinemia	DisGeNet,HumPhenOnt	
+NOS3	C0020459	Hyperinsulinemia	DisGeNet	
+NOS1	C0020523	Immediate hypersensitivity	DisGeNet	
+NOS3	C0020523	Immediate hypersensitivity	DisGeNet	
+AKT1	C0178874	Tumor Progression	DisGeNet	
+CALM3	C0178874	Tumor Progression	DisGeNet	
+CAV1	C0178874	Tumor Progression	DisGeNet	
+HSP90AA1	C0178874	Tumor Progression	DisGeNet	
+NOS1	C0178874	Tumor Progression	DisGeNet	
+NOS3	C0178874	Tumor Progression	DisGeNet	
+CAV1	C0020557	Hypertriglyceridemia	DisGeNet,HumPhenOnt	
+NOS3	C0020557	Hypertriglyceridemia	DisGeNet	
+AKT1	C0947751	Vascular inflammations	DisGeNet	
+NOS3	C0947751	Vascular inflammations	DisGeNet	
+AKT1	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+CAV1	C0349566	Squamous cell carcinoma of tongue	DisGeNet	
+AKT1	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+CAV1	C2265792	Skeletal muscle hypertrophy	HumPhenOnt	
+CAV1	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+NOS1	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+NOS3	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+AKT1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CALM3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CAV1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+HSP90AA1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NOS1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NOS3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+AKT1	C0017638	Glioma	DisGeNet	
+CALM3	C0017638	Glioma	DisGeNet	
+CAV1	C0017638	Glioma	DisGeNet	
+HSP90AA1	C0017638	Glioma	DisGeNet	
+NOS1	C0017638	Glioma	DisGeNet	
+NOS3	C0017638	Glioma	DisGeNet	
+AKT1	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+NOS1	C0079774	Peripheral T-Cell Lymphoma	DisGeNet	
+NOS1	C0086132	Depressive Symptoms	DisGeNet	
+NOS3	C0086132	Depressive Symptoms	DisGeNet	
+AKT1	C0039446	Telangiectases in sun-exposed and nonexposed skin	HumPhenOnt	
+CAV1	C0039446	Telangiectases in sun-exposed and nonexposed skin	HumPhenOnt	
+AKT1	C0949664	Tauopathies	DisGeNet	
+HSP90AA1	C0949664	Tauopathies	DisGeNet	
+AKT1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+CAV1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+HSP90AA1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+AKT1	C0030567	Parkinson Disease	DisGeNet	
+CAV1	C0030567	Parkinson Disease	DisGeNet	
+NOS1	C0030567	Parkinson Disease	DisGeNet	
+NOS3	C0030567	Parkinson Disease	DisGeNet	
+AKT1	C0025500	Mesothelioma, malignant	DisGeNet	
+CALM3	C0025500	Mesothelioma, malignant	DisGeNet	
+NOS3	C0025500	Mesothelioma, malignant	DisGeNet	
+CAV1	C0007194	Hypertrophic cardiomyopathy	HumPhenOnt	
+NOS1	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+NOS3	C0007194	Hypertrophic cardiomyopathy	DisGeNet	
+AKT1	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+CALM3	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+HSP90AA1	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+AKT1	C0279680	Transitional cell carcinoma of the bladder	HumPhenOnt	
+CAV1	C0279680	Transitional cell carcinoma of the bladder	DisGeNet	
+AKT1	C0018801	Heart Failure	DisGeNet	
+CALM3	C0018801	Heart Failure	DisGeNet	
+NOS1	C0018801	Heart Failure	DisGeNet	
+NOS3	C0018801	Heart Failure	DisGeNet	
+AKT1	C0034065	Pulmonary Embolism	HumPhenOnt	
+NOS3	C0034065	Pulmonary Embolism	DisGeNet	
+AKT1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+CAV1	C0220650	Metastatic malignant neoplasm to brain	DisGeNet	
+AKT1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CALM3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CAV1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HSP90AA1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NOS3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+AKT1	C0035372	Rett syndrome, congenital variant	DisGeNet	
+NOS1	C0035372	Rett syndrome, congenital variant	DisGeNet	
+AKT1	C0040147	Thyroiditis	HumPhenOnt	
+NOS3	C0040147	Thyroiditis	DisGeNet	
+AKT1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+CAV1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+NOS1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+NOS3	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+AKT1	C0023269	Leiomyosarcoma	DisGeNet,HumPhenOnt	
+HSP90AA1	C0023269	Leiomyosarcoma	DisGeNet	
+AKT1	C0005586	Bipolar affective disorder	DisGeNet	
+CAV1	C0005586	Bipolar affective disorder	DisGeNet	
+NOS1	C0005586	Bipolar affective disorder	DisGeNet	
+NOS3	C0005586	Bipolar affective disorder	DisGeNet	
+AKT1	C0334579	Anaplastic astrocytoma	DisGeNet	
+CAV1	C0334579	Anaplastic astrocytoma	DisGeNet	
+HSP90AA1	C0041696	Unipolar Depression	DisGeNet	
+NOS1	C0041696	Unipolar Depression	DisGeNet	
+NOS3	C0041696	Unipolar Depression	DisGeNet	
+AKT1	C0020550	Hyperthyroidism	HumPhenOnt	
+NOS3	C0020550	Hyperthyroidism	DisGeNet	
+AKT1	C0042065	Genitourinary neoplasm	ClinVar,HumPhenOnt	
+HSP90AA1	C0042065	Genitourinary neoplasm	DisGeNet	
+AKT1	C1512981	Mammary Tumorigenesis	DisGeNet	
+CAV1	C1512981	Mammary Tumorigenesis	DisGeNet	
+CAV1	C0042373	Vascular Diseases	DisGeNet	
+HSP90AA1	C0042373	Vascular Diseases	DisGeNet	
+NOS3	C0042373	Vascular Diseases	DisGeNet	
+AKT1	C0042487	Venous thrombosis	HumPhenOnt	
+NOS3	C0042487	Venous thrombosis	DisGeNet	
+AKT1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+HSP90AA1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+AKT1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet,HumPhenOnt	
+CALM3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CAV1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+HSP90AA1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NOS1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+AKT1	C0020507	Hyperplasia	DisGeNet	
+CAV1	C0020507	Hyperplasia	DisGeNet	
+AKT1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+CAV1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+AKT1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+CAV1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+HSP90AA1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+AKT1	C0153381	Cancer of mouth	DisGeNet	
+CAV1	C0153381	Cancer of mouth	DisGeNet	
+HSP90AA1	C0153381	Cancer of mouth	DisGeNet	
+CAV1	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+NOS3	C1336076	Sporadic Breast Carcinoma	DisGeNet	
+CALM3	C3827868	Tachycardia	DisGeNet,HumPhenOnt	
+NOS3	C3827868	Tachycardia	DisGeNet	
+AKT1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CAV1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+NOS1	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+NOS3	C0024117	Chronic obstructive pulmonary disease	DisGeNet	
+CAV1	C0002453	Amenorrhea	HumPhenOnt	
+NOS3	C0002453	Amenorrhea	DisGeNet	
+AKT1	C1621958	Glioblastoma multiforme	DisGeNet	
+CALM3	C1621958	Glioblastoma multiforme	DisGeNet	
+HSP90AA1	C1621958	Glioblastoma multiforme	DisGeNet	
+AKT1	C0085298	Sudden cardiac death	HumPhenOnt	
+CALM3	C0085298	Sudden cardiac death	HumPhenOnt	
+AKT1	C0025007	Measles	DisGeNet	
+CALM3	C0025007	Measles	DisGeNet	
+AKT1	C0346153	Familial cancer of breast	ClinVar	
+CAV1	C0346153	Familial cancer of breast	DisGeNet	
+AKT1	C1654637	androgen independent prostate cancer	DisGeNet	
+HSP90AA1	C1654637	androgen independent prostate cancer	DisGeNet	
+AKT1	C0007847	Malignant tumor of cervix	DisGeNet	
+CALM3	C0007847	Malignant tumor of cervix	DisGeNet	
+CAV1	C0007847	Malignant tumor of cervix	DisGeNet	
+HSP90AA1	C0007847	Malignant tumor of cervix	DisGeNet	
+AKT1	C1519670	Tumor Angiogenesis	DisGeNet	
+HSP90AA1	C1519670	Tumor Angiogenesis	DisGeNet	
+NOS3	C1519670	Tumor Angiogenesis	DisGeNet	
+AKT1	C0018916	Hemangioma	DisGeNet,HumPhenOnt	
+NOS3	C0018916	Hemangioma	DisGeNet	
+AKT1	C0019572	Hirsutism	HumPhenOnt	
+CAV1	C0019572	Hirsutism	HumPhenOnt	
+CAV1	C0221032	Berardinelli-Seip congenital lipodystrophy	DisGeNet	
+AKT1	C0268575	Isovaleryl-CoA dehydrogenase deficiency	DisGeNet	
+NOS3	C0340100	High altitude pulmonary edema	DisGeNet	
+NOS3	C0854135	Pseudomonas aeruginosa infection	DisGeNet	
+AKT1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+CAV1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+HSP90AA1	C0007115	Thyroid cancer, nonmedullary, 4	DisGeNet	
+CAV1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+HSP90AA1	C0346957	Disseminated Malignant Neoplasm	DisGeNet	
+CAV1	C0023787	Lipoatrophy	DisGeNet,HumPhenOnt	
+NOS3	C0023787	Lipoatrophy	DisGeNet	
+AKT1	C0001420	Papillary adenocarcinoma	DisGeNet	
+NOS1	C0014848	Achalasia	DisGeNet,HumPhenOnt	
+NOS3	C0017606	Primary angle-closure glaucoma	DisGeNet	
+CALM3	C0018922	hemangiopericytoma	DisGeNet	
+CAV1	C0039445	Hereditary hemorrhagic telangiectasia type 2	DisGeNet	
+NOS3	C0162869	Aneurysm, Ruptured	DisGeNet	
+NOS3	C0553692	Brain Hemorrhage, Traumatic	DisGeNet	
+AKT1	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+CALM3	C1631597	VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 1 (disorder)	DisGeNet	
+CAV1	C1866241	Broad foot	HumPhenOnt	
+AKT1	C3809250	Estrogen resistance	DisGeNet	
+CAV1	C1709246	Non-Neoplastic Disorder	DisGeNet	
+HSP90AA1	C1709246	Non-Neoplastic Disorder	DisGeNet	
+NOS3	C1709246	Non-Neoplastic Disorder	DisGeNet	
+AKT1	C0005695	Urinary Bladder Neoplasms	HumPhenOnt	
+HSP90AA1	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+NOS3	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+NOS1	C0520679	Obstructive sleep apnea	DisGeNet	
+NOS3	C0520679	Obstructive sleep apnea	DisGeNet	
+AKT1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+CALM3	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+CAV1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+HSP90AA1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NOS3	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+AKT1	C0376544	Hematopoietic Neoplasms	DisGeNet	
+CALM3	C0376544	Hematopoietic Neoplasms	DisGeNet	
+NOS3	C0014867	Esophageal varix	DisGeNet	
+NOS1	C0206182	Lymphomatoid Papulosis	DisGeNet	
+NOS1	C0334633	Malignant lymphoma - lymphoplasmacytic	DisGeNet	
+CAV1	C0543442	Decreased adipose tissue	HumPhenOnt	
+NOS1	C0876991	Hemophagocytosis	DisGeNet	
+NOS3	C1301700	Cardiovascular morbidity	DisGeNet	
+AKT1	C1708565	Invasive Skin Melanoma	DisGeNet	
+NOS1	C0085129	Bronchial Hyperreactivity	DisGeNet	
+NOS3	C0085129	Bronchial Hyperreactivity	DisGeNet	
+AKT1	C0035335	Retinoblastoma	DisGeNet	
+CAV1	C0035335	Retinoblastoma	DisGeNet	
+HSP90AA1	C0035335	Retinoblastoma	DisGeNet	
+AKT1	C4021818	Abnormality of the ovary	HumPhenOnt	
+CAV1	C4021818	Abnormality of the ovary	HumPhenOnt	
+CAV1	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+NOS3	C0339573	Primary open angle glaucoma juvenile onset 1	DisGeNet	
+HSP90AA1	C0001622	Adrenal Gland Hyperfunction	DisGeNet	
+NOS3	C0019880	Homocystinuria due to CBS deficiency	DisGeNet	
+AKT1	C0025269	Multiple Endocrine Neoplasia Type 2b	DisGeNet	
+AKT1	C0205824	Liposarcoma, Dedifferentiated	DisGeNet	
+NOS1	C0206141	Idiopathic hypereosinophilic syndrome	DisGeNet	
+AKT1	C0240641	Palmar hyperkeratosis	HumPhenOnt	
+NOS3	C0375071	Malignant neoplasm of vulva	DisGeNet	
+AKT1	C0685695	Abnormal lung lobation	HumPhenOnt	
+CAV1	C1842060	Prominent supraorbital ridges	HumPhenOnt	
+AKT1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CALM3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CAV1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+HSP90AA1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NOS1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NOS3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CAV1	C0004238	Atrial Fibrillation	DisGeNet,PheGenI	
+NOS3	C0004238	Atrial Fibrillation	DisGeNet	
+AKT1	C0013377	Dysgerminoma	HumPhenOnt	
+NOS3	C0014836	Recurrent E. coli infections	DisGeNet	
+NOS3	C0015814	Femur Head Necrosis	DisGeNet	
+CALM3	C0041228	African Trypanosomiasis	DisGeNet	
+CAV1	C0155668	Old myocardial infarction	DisGeNet	
+HSP90AA1	C0221406	Pituitary dependent hypercortisolism	DisGeNet	
+NOS3	C1962972	Proteinuria Adverse Event	DisGeNet	
+CAV1	C4021738	Abnormality of the pubic bone	HumPhenOnt	
+AKT1	C0206682	Thyroid cancer, follicular	DisGeNet,HumPhenOnt	
+CAV1	C0206682	Thyroid cancer, follicular	DisGeNet	
+CAV1	C0027697	Nephritis	DisGeNet	
+NOS3	C0027697	Nephritis	DisGeNet	
+AKT1	C0025202	Melanoma	DisGeNet,HumPhenOnt	
+CALM3	C0025202	Melanoma	DisGeNet	
+CAV1	C0025202	Melanoma	DisGeNet	
+HSP90AA1	C0025202	Melanoma	DisGeNet	
+NOS1	C0025202	Melanoma	DisGeNet	
+NOS3	C0025202	Melanoma	DisGeNet	
+AKT1	C0027149	Myxoma	DisGeNet	
+AKT1	C0043037	Verrucae	DisGeNet	
+AKT1	C0428791	Aortic valve calcification	DisGeNet	
+NOS3	C0476227	pricking of skin	DisGeNet	
+HSP90AA1	C1322286	Thymic Carcinoma	DisGeNet	
+CAV1	C0042384	Vasculitis	DisGeNet	
+NOS3	C0042384	Vasculitis	DisGeNet	
+AKT1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CALM3	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CAV1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HSP90AA1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NOS1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+AKT1	C0036220	Kaposi's sarcoma	DisGeNet	
+HSP90AA1	C0036220	Kaposi's sarcoma	DisGeNet	
+AKT1	C0027962	Melanocytic nevus	HumPhenOnt	
+HSP90AA1	C0027962	Melanocytic nevus	DisGeNet	
+AKT1	C0037926	Spinal cord compression	HumPhenOnt	
+AKT1	C3714644	Neoplasm of the thymus	HumPhenOnt	
+AKT1	C0017636	Glioblastoma	DisGeNet	
+CALM3	C0017636	Glioblastoma	DisGeNet	
+CAV1	C0017636	Glioblastoma	DisGeNet	
+HSP90AA1	C0017636	Glioblastoma	DisGeNet	
+NOS1	C0017636	Glioblastoma	DisGeNet	
+CAV1	C0028949	Oligomenorrhea	HumPhenOnt	
+NOS3	C0854110	Insulin-resistant diabetes mellitus AND acanthosis nigricans	DisGeNet	
+CALM3	C1141890	Congenital long QT syndrome	DisGeNet	
+AKT1	C1856954	Plantar hyperkeratosis	HumPhenOnt	
+CAV1	C3693260	Abnormal urine output	HumPhenOnt	
+AKT1	C0016059	Fibrosis	DisGeNet	
+CAV1	C0016059	Fibrosis	DisGeNet	
+CALM3	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+NOS3	C1449563	Dilated cardiomyopathy 1A	DisGeNet	
+CALM3	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+NOS1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+AKT1	C0041341	Tuberous sclerosis syndrome	DisGeNet,HumPhenOnt	
+CALM3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+AKT1	C0024205	Lymphadenitis	DisGeNet	
+AKT1	C0280631	Uterine leiomyosarcoma	HumPhenOnt	
+CAV1	C0334276	Adenocarcinoma in Situ	DisGeNet	
+NOS3	C0340293	Anterior myocardial infarction	DisGeNet	
+NOS1	C0524528	Pervasive developmental disorders	DisGeNet	
+HSP90AA1	C0752353	Atrophy, Muscular, Spinobulbar	DisGeNet	
+AKT1	C0853662	Oestrogen deficiency	DisGeNet	
+NOS3	C0877008	Enzyme inhibition disorder	DisGeNet	
+AKT1	C0027051	Myocardial Infarction	DisGeNet	
+CAV1	C0027051	Myocardial Infarction	HumPhenOnt	
+NOS1	C0027051	Myocardial Infarction	DisGeNet	
+NOS3	C0027051	Myocardial Infarction	DisGeNet	
+AKT1	C0085669	Acute leukemia	DisGeNet	
+CALM3	C0085669	Acute leukemia	DisGeNet	
+HSP90AA1	C0085669	Acute leukemia	DisGeNet	
+AKT1	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+NOS3	C0027055	Myocardial Reperfusion Injury	DisGeNet	
+AKT1	C0030354	Papilloma	DisGeNet,HumPhenOnt	
+CAV1	C0030354	Papilloma	DisGeNet	
+AKT1	C0019348	Herpes Simplex Infections	DisGeNet	
+CAV1	C0019348	Herpes Simplex Infections	DisGeNet	
+HSP90AA1	C0019348	Herpes Simplex Infections	DisGeNet	
+AKT1	C0003864	Arthritis, Rheumatoid	DisGeNet	
+CAV1	C0003864	Arthritis, Rheumatoid	HumPhenOnt	
+HSP90AA1	C0003864	Arthritis, Rheumatoid	DisGeNet	
+NOS1	C0003864	Arthritis, Rheumatoid	DisGeNet	
+NOS3	C0020544	Renal hypertension	DisGeNet	
+AKT1	C0031039	Pericardial effusion	DisGeNet	
+AKT1	C0040412	Furrowed tongue	HumPhenOnt	
+NOS3	C0392164	Pulmonary Cystic Fibrosis	DisGeNet	
+AKT1	C0854912	Germinoma	HumPhenOnt	
+AKT1	C2678065	Myofibrillar myopathy, BAG3-related	HumPhenOnt	
+HSP90AA1	C2986536	Bisphosphonate-associated osteonecrosis	DisGeNet	
+AKT1	C4024878	Generalized hyperpigmentation	HumPhenOnt	
+AKT1	C0235974	Pancreatic Carcinoma	DisGeNet	
+CALM3	C0235974	Pancreatic Carcinoma	DisGeNet	
+CAV1	C0235974	Pancreatic Carcinoma	DisGeNet	
+HSP90AA1	C0235974	Pancreatic Carcinoma	DisGeNet	
+NOS1	C0235974	Pancreatic Carcinoma	DisGeNet	
+AKT1	C0023470	Myeloid leukemia	DisGeNet	
+CALM3	C0023470	Myeloid leukemia	DisGeNet	
+HSP90AA1	C0023470	Myeloid leukemia	DisGeNet	
+AKT1	C0002395	Alzheimer Disease	DisGeNet	
+CAV1	C0002395	Alzheimer Disease	DisGeNet	
+HSP90AA1	C0002395	Alzheimer Disease	DisGeNet	
+NOS1	C0002395	Alzheimer Disease	DisGeNet	
+NOS3	C0002395	Alzheimer Disease	ClinVar,DisGeNet	
+CAV1	C0155877	Allergic asthma	DisGeNet	
+NOS3	C0155877	Allergic asthma	DisGeNet	
+CALM3	C0011206	Cocaine delirium	DisGeNet	
+NOS1	C0019151	Hepatic encephalopathy	DisGeNet	
+AKT1	C0020496	Cranial hyperostosis	HumPhenOnt	
+NOS3	C0026766	Multiple Organ Failure	DisGeNet	
+AKT1	C4022025	Asymmetric growth	HumPhenOnt	
+CAV1	C4023579	Abnormality of renal excretion	HumPhenOnt	
+HSP90AA1	C0024530	Malaria	DisGeNet	
+NOS1	C0024530	Malaria	DisGeNet	
+NOS3	C0024530	Malaria	DisGeNet	
+AKT1	C0302592	Carcinoma of cervix	DisGeNet	
+CALM3	C0302592	Carcinoma of cervix	DisGeNet	
+CAV1	C0302592	Carcinoma of cervix	DisGeNet	
+HSP90AA1	C0302592	Carcinoma of cervix	DisGeNet	
+AKT1	C0011065	Death, Sudden, Cardiac	DisGeNet	
+NOS3	C0011065	Death, Sudden, Cardiac	DisGeNet	
+CAV1	C0007787	Transient ischemic attack	DisGeNet	
+NOS1	C0007787	Transient ischemic attack	DisGeNet	
+CAV1	C0013394	Dyspareunia	HumPhenOnt	
+AKT1	C0020097	HTLV-I Infections	DisGeNet	
+AKT1	C0020302	Buphthalmos	HumPhenOnt	
+NOS3	C0032533	Polymyalgia Rheumatica	DisGeNet	
+NOS1	C0152020	Gastroparesis	DisGeNet	
+AKT1	C1384494	Metastatic Carcinoma	DisGeNet	
+AKT1	C1855204	Cellular immunodeficiency	HumPhenOnt	
+AKT1	C0220633	Intraocular melanoma	DisGeNet	
+HSP90AA1	C0220633	Intraocular melanoma	DisGeNet	
+AKT1	C0023467	Acute myeloid leukemia	DisGeNet	
+CALM3	C0023467	Acute myeloid leukemia	DisGeNet	
+CAV1	C0023467	Acute myeloid leukemia	DisGeNet	
+HSP90AA1	C0023467	Acute myeloid leukemia	DisGeNet	
+NOS1	C0023467	Acute myeloid leukemia	DisGeNet	
+NOS1	C0036429	Sclerosis	DisGeNet	
+AKT1	C0175704	Noonan syndrome with multiple lentigines	DisGeNet	
+NOS3	C0206172	Diabetic foot ulcer	DisGeNet	
+AKT1	C0233401	Psychiatric symptom	DisGeNet	
+NOS3	C0443306	Spastic	DisGeNet	
+AKT1	C0587248	Costello syndrome	DisGeNet	
+AKT1	C0745730	Multiple lipomas	HumPhenOnt	
+AKT1	C1292754	Mediastinal (Thymic) Large B-Cell Lymphoma	DisGeNet	
+AKT1	C1334699	Mesenchymal Cell Neoplasm	DisGeNet	
+CALM3	C0085207	Maternal diabetes	DisGeNet	
+NOS3	C0085207	Maternal diabetes	DisGeNet	
+CAV1	C0034067	Pulmonary Emphysema	DisGeNet	
+NOS1	C0034067	Pulmonary Emphysema	DisGeNet	
+CAV1	C0020443	Hypercholesterolemia, autosomal dominant, type B	HumPhenOnt	
+NOS3	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+NOS1	C0745744	End Stage Liver Disease	DisGeNet	
+NOS3	C0852036	Pregnancy associated hypertension	DisGeNet	
+NOS3	C1719495	Aggressive periodontitis, generalized	DisGeNet	
+NOS3	C0002063	Alkalosis	DisGeNet	
+NOS1	C0267941	Pancreatitis, Acute Necrotizing	DisGeNet	
+NOS3	C0278061	Mental impairment	DisGeNet	
+CAV1	C0280785	Diffuse Astrocytoma	DisGeNet	
+NOS1	C0525041	Neurobehavioral Manifestations	DisGeNet	
+NOS3	C0917996	Cerebral aneurysm	DisGeNet	
+AKT1	C4021344	Deviation of the hallux	HumPhenOnt	
+AKT1	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+NOS1	C1762616	Meningioma, benign, no ICD-O subtype	DisGeNet	
+AKT1	C0036421	Scleroderma	DisGeNet	
+CAV1	C0036421	Scleroderma	DisGeNet	
+NOS3	C0036421	Scleroderma	DisGeNet	
+HSP90AA1	C0333186	Restenosis	DisGeNet	
+NOS3	C0333186	Restenosis	DisGeNet	
+AKT1	C0015414	Neoplasm of the eye	HumPhenOnt	
+AKT1	C0018536	Hallux valgus	HumPhenOnt	
+AKT1	C0023486	Prolymphocytic Leukemia	DisGeNet	
+CAV1	C0149939	Obstructive nephropathy	DisGeNet	
+CAV1	C0206630	Stromal sarcoma	DisGeNet	
+AKT1	C0262650	Abnormality of the thymus	HumPhenOnt	
+AKT1	C1833970	Colorectal cancer, somatic, 114500 (3)	DisGeNet	
+NOS1	C1836923	Gastrointestinal dysmotility	HumPhenOnt	
+HSP90AA1	C1839259	Bulbo-Spinal Atrophy, X-Linked	DisGeNet	
+NOS1	C2749202	Abnormal gastrointestinal motility	HumPhenOnt	
+AKT1	C0008479	Chondrosarcoma	DisGeNet	
+HSP90AA1	C0008479	Chondrosarcoma	DisGeNet	
+AKT1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+CAV1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+HSP90AA1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NOS3	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+AKT1	C0018790	Cardiac arrest	DisGeNet,HumPhenOnt	
+CALM3	C0018790	Cardiac arrest	DisGeNet,HumPhenOnt	
+AKT1	C0085605	Liver failure acute infantile	DisGeNet	
+CAV1	C0085605	Liver failure acute infantile	HumPhenOnt	
+AKT1	C0162835	Hypopigmentation of the skin	HumPhenOnt	
+CAV1	C0162835	Hypopigmentation of the skin	HumPhenOnt	
+AKT1	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+CAV1	C0238461	Anaplastic thyroid carcinoma	DisGeNet	
+NOS3	C0003855	Arteriovenous fistula	DisGeNet	
+AKT1	C0007121	Bronchogenic Carcinoma	DisGeNet	
+NOS1	C0041972	Urethral obstruction	DisGeNet	
+AKT1	C0151544	Gastrointestinal carcinoma	HumPhenOnt	
+AKT1	C1636149	Macular corneal dystrophy Type I	DisGeNet	
+AKT1	C0152018	Esophageal carcinoma	DisGeNet	
+CAV1	C0152018	Esophageal carcinoma	DisGeNet	
+HSP90AA1	C0152018	Esophageal carcinoma	DisGeNet	
+NOS1	C0024143	Lupus Nephritis	DisGeNet	
+NOS3	C0024143	Lupus Nephritis	DisGeNet	
+CAV1	C0242339	Dyslipidemias	DisGeNet	
+NOS3	C0242339	Dyslipidemias	DisGeNet	
+CAV1	C0000889	Acanthosis nigricans	HumPhenOnt	
+CAV1	C0020651	Hypotension, Orthostatic	HumPhenOnt	
+HSP90AA1	C0153252	Chronic disseminated candidiasis	DisGeNet	
+AKT1	C0206731	Angiofibromas	HumPhenOnt	
+CAV1	C0272138	Erythroblastosis	DisGeNet	
+CAV1	C1112442	Female sexual dysfunction	HumPhenOnt	
+CAV1	C4022678	Abnormal female reproductive system physiology	HumPhenOnt	
+AKT1	C0002793	Anaplasia	DisGeNet	
+CAV1	C0002793	Anaplasia	DisGeNet	
+NOS3	C0002792	Anaphylactic shock NOS	DisGeNet	
+NOS3	C0007642	Cellulitis	DisGeNet	
+NOS3	C0340708	Deep vein thrombosis of lower limb	DisGeNet	
+CALM3	C0745103	Hyperlipoproteinemia Type IIa	DisGeNet	
+CAV1	C0243026	Sepsis	DisGeNet	
+NOS1	C0243026	Sepsis	DisGeNet	
+NOS3	C0243026	Sepsis	DisGeNet	
+AKT1	C0007133	Carcinoma, Papillary	DisGeNet	
+HSP90AA1	C0007133	Carcinoma, Papillary	DisGeNet	
+CAV1	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+NOS3	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+AKT1	C4023557	Abnormality of dental structure	HumPhenOnt	
+CAV1	C4023557	Abnormality of dental structure	HumPhenOnt	
+AKT1	C0007137	Squamous cell carcinoma	DisGeNet	
+CALM3	C0007137	Squamous cell carcinoma	DisGeNet	
+CAV1	C0007137	Squamous cell carcinoma	DisGeNet	
+HSP90AA1	C0007137	Squamous cell carcinoma	DisGeNet	
+NOS1	C0007137	Squamous cell carcinoma	DisGeNet	
+NOS3	C0028840	Ocular Hypertension	DisGeNet	
+NOS3	C0151950	Deep thrombophlebitis	DisGeNet	
+AKT1	C0153014	Non-arthropod borne lymphocytic choriomeningitis	DisGeNet	
+CALM3	C0598894	Monocytic leukemia	DisGeNet	
+NOS3	C1522137	Hypertriglyceridemia result	DisGeNet	
+AKT1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+HSP90AA1	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+NOS1	C0080178	Spina bifida	DisGeNet	
+NOS3	C0080178	Spina bifida	DisGeNet	
+NOS3	C0002986	Fabry disease	DisGeNet	
+NOS3	C0029445	Bone necrosis	DisGeNet	
+NOS3	C0040021	Thromboangiitis Obliterans	DisGeNet	
+AKT1	C0042341	Varicocele	HumPhenOnt	
+AKT1	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+AKT1	C0206643	Fibrous tissue neoplasm	HumPhenOnt	
+AKT1	C0206733	Capillary hemangiomas	HumPhenOnt	
+NOS3	C0242706	Hyperoxia	DisGeNet	
+AKT1	C0342793	Deficiency of malonyl-CoA decarboxylase	DisGeNet	
+AKT1	C0347509	Benign neoplasm of the central nervous system	HumPhenOnt	
+CALM3	C0410702	Adolescent idiopathic scoliosis	DisGeNet	
+AKT1	C0553694	Oropharyngeal disorders	DisGeNet	
+HSP90AA1	C1306214	Pituitary corticotropic cell adenoma	DisGeNet	
+AKT1	C0376545	Hematological neoplasm	DisGeNet	
+CALM3	C0376545	Hematological neoplasm	DisGeNet	
+HSP90AA1	C0376545	Hematological neoplasm	DisGeNet	
+AKT1	C0600139	Prostate carcinoma	DisGeNet	
+CALM3	C0600139	Prostate carcinoma	DisGeNet	
+CAV1	C0600139	Prostate carcinoma	DisGeNet	
+HSP90AA1	C0600139	Prostate carcinoma	DisGeNet	
+NOS1	C0600139	Prostate carcinoma	DisGeNet	
+NOS3	C0600139	Prostate carcinoma	DisGeNet	
+AKT1	C0009404	Colorectal Neoplasms	DisGeNet,HumPhenOnt	
+CAV1	C0009404	Colorectal Neoplasms	DisGeNet	
+HSP90AA1	C0009404	Colorectal Neoplasms	DisGeNet	
+NOS3	C0009404	Colorectal Neoplasms	DisGeNet	
+CAV1	C0011881	Diabetic Nephropathies	DisGeNet	
+NOS1	C0011881	Diabetic Nephropathies	DisGeNet	
+NOS3	C0011881	Diabetic Nephropathies	DisGeNet	
+CAV1	C0022661	Kidney Failure, Chronic	DisGeNet	
+NOS1	C0022661	Kidney Failure, Chronic	DisGeNet	
+NOS3	C0022661	Kidney Failure, Chronic	DisGeNet	
+CAV1	C0338106	Adenocarcinoma of colon	DisGeNet	
+NOS1	C0338106	Adenocarcinoma of colon	DisGeNet	
+AKT1	C0008519	Heterotopia	HumPhenOnt	
+CAV1	C0009024	Clonus	HumPhenOnt	
+NOS3	C0018824	Heart valve disease	DisGeNet	
+AKT1	C0035244	Neoplasm of the respiratory system	HumPhenOnt	
+NOS3	C0677055	CARCINOMA OF VULVA	DisGeNet	
+AKT1	C1837108	Decreased muscle mass	HumPhenOnt	
+NOS3	C2911645	Weight Loss Adverse Event	DisGeNet	
+AKT1	C4021901	Neoplasm of fatty tissue	HumPhenOnt	
+AKT1	C0030193	Pain	DisGeNet	
+CAV1	C0030193	Pain	HumPhenOnt	
+NOS3	C0030193	Pain	DisGeNet	
+CAV1	C0085390	Li-Fraumeni syndrome	DisGeNet	
+AKT1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+CALM3	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+CAV1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+HSP90AA1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NOS1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NOS3	C0016053	Fibromyalgia	DisGeNet	
+CALM3	C0024591	Malignant hyperthermia susceptibility	DisGeNet	
+AKT1	C0206631	Lipomatous tumor	HumPhenOnt	
+CAV1	C0235896	Pulmonary infiltrates	HumPhenOnt	
+NOS3	C3714619	Insulin resistance syndrome	DisGeNet	
+AKT1	C0524620	Metabolic Syndrome X	DisGeNet	
+CAV1	C0524620	Metabolic Syndrome X	DisGeNet	
+NOS3	C0524620	Metabolic Syndrome X	DisGeNet	
+AKT1	C0013386	Dyskinesia, Drug-Induced	DisGeNet	
+AKT1	C0015302	Exostoses	DisGeNet,HumPhenOnt	
+NOS1	C0035258	Restless Legs Syndrome	DisGeNet	
+CAV1	C0086942	Rous Sarcoma	DisGeNet	
+AKT1	C0206669	Hepatocellular adenoma	DisGeNet	
+AKT1	C0349632	Splenic Marginal Zone B-Cell Lymphoma	DisGeNet	
+AKT1	C1266184	Atypical teratoid/rhabdoid tumor	DisGeNet	
+CAV1	C1836296	Lower limb muscle weakness	HumPhenOnt	
+CALM3	C0016057	Fibrosarcoma	DisGeNet	
+CAV1	C0016057	Fibrosarcoma	DisGeNet	
+AKT1	C0004623	Recurrent bacterial infection	DisGeNet	
+NOS1	C0004623	Recurrent bacterial infection	DisGeNet	
+CAV1	C0027813	Neuritis	DisGeNet	
+CALM3	C0085435	Arthritis, Reactive	DisGeNet	
+CAV1	C0153349	Malignant neoplasm of tongue	DisGeNet	
+AKT1	C0280217	stage, non-small cell lung cancer	DisGeNet	
+AKT1	C1853118	Severe congenital neutropenia	DisGeNet	
+CAV1	C4022952	Abnormal autonomic nervous system physiology	HumPhenOnt	
+AKT1	C0036341	Schizophrenia	ClinVar,DisGeNet	
+CALM3	C0036341	Schizophrenia	DisGeNet	
+HSP90AA1	C0036341	Schizophrenia	DisGeNet	
+NOS1	C0036341	Schizophrenia	DisGeNet	
+NOS3	C0036341	Schizophrenia	DisGeNet	
+AKT1	C0870082	Hyperkeratosis	HumPhenOnt	
+CAV1	C0870082	Hyperkeratosis	DisGeNet	
+AKT1	C0079731	B-cell lymphoma	DisGeNet	
+HSP90AA1	C0079731	B-cell lymphoma	DisGeNet	
+NOS1	C0079731	B-cell lymphoma	DisGeNet	
+AKT1	C0011334	Dental Caries	HumPhenOnt	
+CAV1	C0011334	Dental Caries	HumPhenOnt	
+CAV1	C0010701	Phyllodes tumor, benign	DisGeNet	
+CAV1	C0020598	Hypocalcemia	HumPhenOnt	
+AKT1	C0153567	Uterine Cancer	DisGeNet	
+AKT1	C0240896	Chorioretinal coloboma	HumPhenOnt	
+CAV1	C0545053	Accelerated skeletal maturation	HumPhenOnt	
+NOS3	C2825141	Pulmonary function (finding)	DisGeNet	
+AKT1	C4023381	Morphological abnormality of the inner ear	HumPhenOnt	
+AKT1	C0549473	Thyroid carcinoma	DisGeNet,HumPhenOnt	
+CAV1	C0549473	Thyroid carcinoma	DisGeNet	
+HSP90AA1	C0549473	Thyroid carcinoma	DisGeNet	
+AKT1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CALM3	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CAV1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+HSP90AA1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NOS3	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+HSP90AA1	C0008312	Primary biliary cirrhosis	DisGeNet	
+NOS3	C0008312	Primary biliary cirrhosis	DisGeNet	
+NOS1	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+NOS3	C0027726	Nephrotic syndrome, type 5, with or without ocular abnormalities	DisGeNet	
+AKT1	C4025699	Abnormality of the stomach	HumPhenOnt	
+CAV1	C4025699	Abnormality of the stomach	HumPhenOnt	
+AKT1	C0026764	Multiple Myeloma	DisGeNet	
+CALM3	C0026764	Multiple Myeloma	DisGeNet	
+CAV1	C0026764	Multiple Myeloma	DisGeNet	
+HSP90AA1	C0026764	Multiple Myeloma	DisGeNet	
+AKT1	C0011860	Diabetes mellitus type 2	DisGeNet	
+CALM3	C0011860	Diabetes mellitus type 2	DisGeNet	
+CAV1	C0011860	Diabetes mellitus type 2	DisGeNet	
+NOS1	C0011860	Diabetes mellitus type 2	DisGeNet	
+NOS3	C0011860	Diabetes mellitus type 2	DisGeNet	
+AKT1	C0020492	Hyperostosis	HumPhenOnt	
+NOS1	C0025284	Meningeal Neoplasms	DisGeNet	
+NOS3	C0741916	Cardiac defects	DisGeNet	
+AKT1	C2732838	Neoplasm of the skeletal system	HumPhenOnt	
+AKT1	C4022039	Deviation of toes	HumPhenOnt	
+HSP90AA1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+NOS3	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+AKT1	C0345967	Malignant mesothelioma	DisGeNet	
+NOS3	C0345967	Malignant mesothelioma	DisGeNet	
+NOS3	C0221002	Primary hyperparathyroidism	DisGeNet	
+AKT1	C0549463	Lymphoproliferative syndrome, X-linked, 1, 308240 (3)	DisGeNet	
+AKT1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+AKT1	C1257915	Intestinal polyposis	HumPhenOnt	
+AKT1	C0553580	Ewing's sarcoma	DisGeNet	
+CAV1	C0553580	Ewing's sarcoma	DisGeNet	
+AKT1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+CAV1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+NOS3	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+NOS1	C0011884	Diabetic Retinopathy	DisGeNet	
+NOS3	C0011884	Diabetic Retinopathy	DisGeNet	
+AKT1	C0016045	Fibroma	HumPhenOnt	
+AKT1	C0016169	pathologic fistula	DisGeNet	
+CALM3	C0023283	Zoonotic form of cutaneous leishmaniasis	DisGeNet	
+NOS3	C0152136	Low Tension Glaucoma	DisGeNet	
+CAV1	C0558353	Tongue Carcinoma	DisGeNet	
+HSP90AA1	C0750974	Brain Tumor, Primary	DisGeNet	
+NOS1	C1302773	Low Grade Squamous Intraepithelial Neoplasia	DisGeNet	
+AKT1	C4021741	Abnormal cortical bone morphology	HumPhenOnt	
+CALM3	C0917798	Cerebral ischemia	DisGeNet	
+NOS3	C0917798	Cerebral ischemia	DisGeNet	
+AKT1	C0149721	Left ventricular hypertrophy	DisGeNet	
+NOS3	C0149721	Left ventricular hypertrophy	DisGeNet	
+AKT1	C0011848	Diabetes insipidus	HumPhenOnt	
+NOS3	C0014743	Erythema nodosum	DisGeNet	
+CAV1	C0019214	Hepatosplenomegaly	HumPhenOnt	
+CAV1	C0206695	Carcinoma, Neuroendocrine	DisGeNet	
+AKT1	C1861975	Multiple cafe-au-lait spots	HumPhenOnt	
+NOS3	C3714636	Pneumonitis	DisGeNet	
+AKT1	C0014859	Esophageal Neoplasms	DisGeNet	
+HSP90AA1	C0014859	Esophageal Neoplasms	DisGeNet	
+NOS3	C0014859	Esophageal Neoplasms	DisGeNet	
+AKT1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+CAV1	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+NOS1	C0025261	Memory Disorders	DisGeNet	
+AKT1	C0037293	Skin tags	HumPhenOnt	
+NOS3	C0341858	Endometriosis of uterus	DisGeNet	
+CALM3	C1142166	Brugada Syndrome	DisGeNet	
+AKT1	C4022809	Abnormality of intracranial pressure	HumPhenOnt	
+AKT1	C0086543	Cataract, autosomal recessive congenital 5	HumPhenOnt	
+CALM3	C0086543	Cataract, autosomal recessive congenital 5	DisGeNet	
+CAV1	C0086543	Cataract, autosomal recessive congenital 5	HumPhenOnt	
+AKT1	C0376358	Malignant tumor of prostate	DisGeNet	
+CALM3	C0376358	Malignant tumor of prostate	DisGeNet	
+CAV1	C0376358	Malignant tumor of prostate	DisGeNet	
+HSP90AA1	C0376358	Malignant tumor of prostate	DisGeNet	
+NOS1	C0376358	Malignant tumor of prostate	DisGeNet	
+NOS3	C0376358	Malignant tumor of prostate	DisGeNet	
+NOS3	C0005426	Biliary tract neoplasm	DisGeNet	
+HSP90AA1	C0206693	Medullary carcinoma	DisGeNet	
+CAV1	C0343641	Human papilloma virus infection	DisGeNet	
+AKT1	C4020946	Abnormality of the plantar skin of foot	HumPhenOnt	
+AKT1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+CALM3	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+CAV1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+NOS1	C0020981	Angioimmunoblastic Lymphadenopathy	DisGeNet	
+AKT1	C0024266	Lymphocytic Choriomeningitis	DisGeNet	
+AKT1	C0221013	Systemic mastocytosis with associated clonal, hematologic non-mast-cell lineage disease	DisGeNet	
+AKT1	C0241665	Abnormal pulmonary vein morphology	HumPhenOnt	
+AKT1	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+CALM3	C0751674	Lymphangiomyomatosis	DisGeNet	
+CALM3	C0278701	Gastric Adenocarcinoma	DisGeNet	
+CAV1	C0278701	Gastric Adenocarcinoma	DisGeNet	
+AKT1	C0035304	Retinal degeneration	DisGeNet	
+NOS3	C0035304	Retinal degeneration	DisGeNet	
+AKT1	C0151740	Increased intracranial pressure	HumPhenOnt	
+AKT1	C0239479	Round face	HumPhenOnt	
+AKT1	C1569637	Adenocarcinoma, Endometrioid	DisGeNet	
+CAV1	C4025656	Abnormality of cholesterol metabolism	HumPhenOnt	
+AKT1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CALM3	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CAV1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+HSP90AA1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NOS3	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	

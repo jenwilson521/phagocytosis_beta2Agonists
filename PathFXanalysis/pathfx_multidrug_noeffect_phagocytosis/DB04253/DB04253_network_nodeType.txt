@@ -1,0 +1,49 @@
+node_name	node_type	
+DB04253	drug	
+NQO2	drug_target	
+Agranulocytosis	phenotype	
+Alcohol dependence	phenotype	
+Memory Loss	phenotype	
+Anxiety Disorders	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Urinary Bladder Neoplasms	phenotype	
+Myelopathy	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Contact Dermatitis	phenotype	
+Methamphetamine abuse	phenotype	
+Esophageal Neoplasms	phenotype	
+Leukemia, Lymphocytic, Chronic, B-Cell	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Melanoma	phenotype	
+Memory Disorders	phenotype	
+Myeloproliferative Disorders	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Other disorders of the nervous system	phenotype	
+Parkinson Disease	phenotype	
+Psychotic Disorders	phenotype	
+Retinoblastoma	phenotype	
+Schizophrenia	phenotype	
+Seizures, Febrile	phenotype	
+Tobacco Use Disorder	phenotype	
+Alcohol abuse	phenotype	
+Esophageal carcinoma	phenotype	
+Hepatoblastoma	phenotype	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	phenotype	
+Memory impairment	phenotype	
+Pancreatic Carcinoma	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Cognitive Dysfunction	phenotype	
+Hepatic cancer metastatic	phenotype	
+Familial cancer of breast	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Cycloid psychosis	phenotype	
+Malignant tumor of prostate	phenotype	
+Malignant tumor of esophagus	phenotype	
+Carcinogenesis	phenotype	
+Prostate carcinoma	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Neuroblastoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Breast Neoplasms	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	

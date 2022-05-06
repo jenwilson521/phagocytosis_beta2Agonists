@@ -1,0 +1,39 @@
+node_name	node_type	
+DB01536	drug	
+HSD17B1	drug_target	
+HSD3B1	drug_target	
+AKR1C3	drug_target	
+Penile hypospadias	phenotype	
+Choriocarcinoma	phenotype	
+Mammographic breast density	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Non-Hodgkin lymphoma	phenotype	
+Endometriosis	phenotype	
+Blast Phase	phenotype	
+Disorders of Sex Development	phenotype	
+Ovarian Diseases	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Endometrial Neoplasms	phenotype	
+Endometriosis of ovary	phenotype	
+Invasive Lobular Breast Carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Virilism	phenotype	
+Hereditary breast and ovarian cancer syndrome	phenotype	
+Other specified disorders of breast	phenotype	
+Childhood Leukemia	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Breast Fibrocystic Disease	phenotype	
+Neoplasms, Germ Cell and Embryonal	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Uremia	phenotype	
+Congenital adrenal hyperplasia	phenotype	
+Panic disorder 1	phenotype	
+Malignant neoplasm of endometrium	phenotype	
+Uterine Corpus Cancer	phenotype	
+Adrenocortical adenoma	phenotype	
+Ambiguous genitalia	phenotype	
+body mass	phenotype	
+Prostatic Neoplasms	phenotype	
+Testicular Germ Cell Tumor	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	

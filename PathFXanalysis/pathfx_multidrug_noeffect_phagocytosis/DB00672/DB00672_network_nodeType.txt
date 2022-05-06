@@ -1,0 +1,15 @@
+node_name	node_type	
+DB00672	drug	
+ABCC8	drug_target	
+CYP2C9	drug_target	
+PTGS1	drug_target	
+CYP2C19	drug_target	
+SLC15A2	drug_target	
+ABCB1	drug_target	
+SLC22A6	drug_target	
+Drug Allergy	phenotype	
+Neurotoxicity Syndromes	phenotype	
+Stomach Diseases	phenotype	
+Epilepsy, focal, with speech disorder and with or without mental retardation	phenotype	
+Nausea	phenotype	
+Helicobacter Infections	phenotype	

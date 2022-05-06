@@ -1,0 +1,157 @@
+node1	node2	edge_score	
+DB03759	GRIA2	1.0	
+GRIA2	GRIA1	0.8514037595308094
+GRIA2	GRIA4	0.8514037595308094
+GRIA2	GRIP2	0.8392126544448786
+GRIA2	PRKCG	0.833320481754769
+GRIA2	GRIA2	0.8421959353175904
+GRIA2	GRIP1	0.8392126544448786
+GRIA2	PRKCA	0.833320481754769
+GRIA2		1
+Schizophrenia	GRIA1	1.0	
+Schizophrenia	GRIA2	1.0	
+Schizophrenia	GRIA4	1.0	
+Schizophrenia	GRIP1	1.0	
+Schizophrenia	PRKCA	1.0	
+Schizophrenia	PRKCG	1.0	
+Weight Gain Adverse Event	GRIA1	1.0	
+Weight Gain Adverse Event	GRIA2	1.0	
+Weight Gain Adverse Event	GRIA4	1.0	
+Spastic	GRIA1	1.0	
+Spastic	GRIA2	1.0	
+Hyperactivity	GRIA1	1.0	
+Hyperactivity	GRIA2	1.0	
+Hyperactivity	PRKCG	1.0	
+Amyotrophic Lateral Sclerosis	GRIA1	1.0	
+Amyotrophic Lateral Sclerosis	GRIA2	1.0	
+Amyotrophic Lateral Sclerosis	GRIA4	1.0	
+Amyotrophic Lateral Sclerosis	GRIP1	1.0	
+Migraine Disorders	GRIA1	1.0	
+Migraine Disorders	GRIA2	1.0	
+Migraine Disorders	GRIA4	1.0	
+Substance Withdrawal Syndrome	GRIA1	1.0	
+Substance Withdrawal Syndrome	GRIA2	1.0	
+Tumor Promotion	PRKCA	1.0	
+Tumor Promotion	PRKCG	1.0	
+Hepatopulmonary Syndrome	PRKCA	1.0	
+Hepatopulmonary Syndrome	PRKCG	1.0	
+Unipolar Depression	GRIA1	1.0	
+Unipolar Depression	GRIA2	1.0	
+Unipolar Depression	GRIA4	1.0	
+Mental disorders	GRIA1	1.0	
+Mental disorders	GRIA2	1.0	
+Mental disorders	PRKCA	1.0	
+Cocaine-Related Disorders	GRIA1	1.0	
+Cocaine-Related Disorders	GRIA2	1.0	
+Major depressive disorder	GRIA1	1.0	
+Major depressive disorder	GRIA2	1.0	
+Major depressive disorder	GRIA4	1.0	
+Increased body weight	GRIA1	1.0	
+Increased body weight	GRIA2	1.0	
+Increased body weight	GRIA4	1.0	
+Status epilepticus	GRIA1	1.0	
+Status epilepticus	GRIA2	1.0	
+Epilepsy, Temporal Lobe	GRIA1	1.0	
+Epilepsy, Temporal Lobe	GRIA2	1.0	
+Globus Hystericus	GRIA1	1.0	
+Episodic ataxia	PRKCG	1.0	
+Glioblastoma	GRIA1	1.0	
+Glioblastoma	GRIA2	1.0	
+Glioblastoma	GRIA4	1.0	
+Glioblastoma	PRKCA	1.0	
+Cutaneous syndactyly	GRIP1	1.0	
+Facial cleft	GRIP1	1.0	
+Abnormality of the lacrimal duct	GRIP1	1.0	
+Adrenal Gland Hyperfunction	PRKCA	1.0	
+AMYOTROPHIC LATERAL SCLEROSIS 5	GRIA2	1.0	
+Cleft eyelid	GRIP1	1.0	
+Abnormal lung lobation	GRIP1	1.0	
+Tracheal stenosis	GRIP1	1.0	
+Anal stenosis	GRIP1	1.0	
+Cupped ear	GRIP1	1.0	
+Abnormality of the pubic bone	GRIP1	1.0	
+Spina bifida	GRIP1	1.0	
+Spina bifida	PRKCA	1.0	
+Ectopic anus	GRIP1	1.0	
+Absent hair	GRIP1	1.0	
+Hyperalgesia, Thermal	PRKCG	1.0	
+Mechanical Allodynia	PRKCG	1.0	
+Memory impairment	PRKCA	1.0	
+Memory impairment	PRKCG	1.0	
+Recessive dystrophic epidermolysis bullosa	GRIP1	1.0	
+Carney complex	PRKCA	1.0	
+Atresia of the external auditory canal	GRIP1	1.0	
+Cushing's syndrome	PRKCA	1.0	
+Progressive cerebellar ataxia	PRKCG	1.0	
+Hepatic encephalopathy	GRIA1	1.0	
+Impaired vibratory sensation	PRKCG	1.0	
+Cellular immunodeficiency	GRIP1	1.0	
+Abnormality of the nasolacrimal system	GRIP1	1.0	
+Polyuria	PRKCA	1.0	
+Abnormality of the thymus	GRIP1	1.0	
+Bicornuate uterus	GRIP1	1.0	
+Nephrogenic diabetes insipidus, autosomal	PRKCA	1.0	
+Reperfusion Injury	GRIA1	1.0	
+Reperfusion Injury	PRKCA	1.0	
+Meningocele	GRIP1	1.0	
+Myelomeningocele	GRIP1	1.0	
+Learning Disorders	GRIA1	1.0	
+Bacterial Vaginosis	PRKCA	1.0	
+Increased size of the clitoris	GRIP1	1.0	
+Abnormal size of the clitoris	GRIP1	1.0	
+Scrotal hypoplasia	GRIP1	1.0	
+Refractive Errors	GRIA4	1.0	
+Clitoral hypertrophy	GRIP1	1.0	
+Oncocytic Neoplasm	PRKCA	1.0	
+Wide nose	GRIP1	1.0	
+Abnormality of the auditory canal	GRIP1	1.0	
+Carcinoma, Neuroendocrine	GRIA2	1.0	
+Focal dystonia	PRKCG	1.0	
+Infection by Cryptococcus neoformans	PRKCA	1.0	
+Female pseudohermaphroditism	GRIP1	1.0	
+Spinocerebellar ataxia 1	PRKCG	1.0	
+Body Weight Changes	GRIA1	1.0	
+Anxiety Disorders	GRIA1	1.0	
+Anxiety Disorders	GRIA2	1.0	
+Anophthalmia/Microphthalmia	GRIP1	1.0	
+Ovarian adenocarcinoma	GRIA2	1.0	
+Dental crowding	GRIP1	1.0	
+Adrenal hyperplasia	PRKCA	1.0	
+Omphalocele	GRIP1	1.0	
+Underdeveloped nasal alae	GRIP1	1.0	
+Absent eyelashes	GRIP1	1.0	
+Abnormality of the frontal hairline	GRIP1	1.0	
+Right ventricular hypertrophy	PRKCA	1.0	
+Wide intermamillary distance	GRIP1	1.0	
+Abnormal intermamillary distance	GRIP1	1.0	
+Abnormality of the meninges	GRIP1	1.0	
+Abnormality of the clitoris	GRIP1	1.0	
+Renal hypoplasia	GRIP1	1.0	
+Congenital adrenal hyperplasia	PRKCA	1.0	
+Pemphigus Vulgaris	PRKCA	1.0	
+Dysmetria	PRKCG	1.0	
+Abnormality of the vagina	GRIP1	1.0	
+Amyotrophic Lateral Sclerosis, Sporadic	GRIA2	1.0	
+Drug Allergy	GRIA1	1.0	
+Cephalocele	GRIP1	1.0	
+Gait ataxia	PRKCG	1.0	
+Absence seizures	GRIA4	1.0	
+Abnormality of the helix	GRIP1	1.0	
+Dementia, Vascular	GRIA2	1.0	
+Abnormality of the choanae	GRIP1	1.0	
+Membranous nephropathy, susceptibility to	PRKCA	1.0	
+Incomplete penetrance	PRKCG	1.0	
+Dental malocclusion	GRIP1	1.0	
+Aplasia/Hypoplasia of the thumb	GRIP1	1.0	
+Pulmonary hypoplasia	GRIP1	1.0	
+Adrenocortical adenoma	PRKCA	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	GRIA2	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	GRIP1	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	PRKCG	1.0	
+Ambiguous genitalia	GRIP1	1.0	
+Aplasia/Hypoplasia of the lungs	GRIP1	1.0	
+Abnormality of the scrotum	GRIP1	1.0	
+Neuralgia	PRKCG	1.0	
+Multicystic kidney dysplasia	GRIP1	1.0	
+Vertebral segmentation defect	GRIP1	1.0	
+Advanced cancer	PRKCA	1.0	

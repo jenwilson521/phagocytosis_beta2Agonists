@@ -1,0 +1,14 @@
+node1	node2	edge_score	
+DB00827	SLC22A6	1.0	
+SLC22A6		1
+Bipolar affective disorder	SLC22A6	1.0	
+Calcinosis	SLC22A6	1.0	
+Ulcerative colitis	SLC22A6	1.0	
+Crohn Disease	SLC22A6	1.0	
+Diabetic Nephropathies	SLC22A6	1.0	
+Symptomatic human immunodeficiency virus infection	SLC22A6	1.0	
+Hypertension	SLC22A6	1.0	
+Kidney Diseases	SLC22A6	1.0	
+Acute kidney injury	SLC22A6	1.0	
+Renal Insufficiency, Chronic	SLC22A6	1.0	
+Chromosome 11p deletion syndrome	SLC22A6	1.0	

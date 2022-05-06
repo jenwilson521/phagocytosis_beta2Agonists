@@ -1,0 +1,32 @@
+node1	node2	edge_score	
+DB03424	LTA4H	1.0	
+DB03424	SLC15A2	1.0	
+LTA4H		1
+SLC15A2		1
+Pleural Tuberculosis	LTA4H	1.0	
+Tuberculosis, Meningeal	LTA4H	1.0	
+Arterial thrombosis	LTA4H	1.0	
+Mycobacterium Infections	LTA4H	1.0	
+Childhood asthma	LTA4H	1.0	
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	LTA4H	1.0	
+Peritonitis	LTA4H	1.0	
+Varicose Veins	LTA4H	1.0	
+Primary Effusion Lymphoma	LTA4H	1.0	
+Hearing Loss, Partial	SLC15A2	1.0	
+Secondary hyperparathyroidism	SLC15A2	1.0	
+Hypersensitivity	LTA4H	1.0	
+Carotid Artery Diseases	LTA4H	1.0	
+Allergic disposition	LTA4H	1.0	
+Leprosy	LTA4H	1.0	
+Tuberculosis, Pulmonary	LTA4H	1.0	
+Deafness, autosomal recessive 44	SLC15A2	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	LTA4H	1.0	
+Hydrops, lactic acidosis, and sideroblastic anemia	LTA4H	1.0	
+Ischemic Cerebrovascular Accident	LTA4H	1.0	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	LTA4H	1.0	
+Ischemic stroke	LTA4H	1.0	
+Brain Ischemia	LTA4H	1.0	
+Cystic Fibrosis	SLC15A2	1.0	
+Depressive Disorder	LTA4H	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	LTA4H	1.0	
+Metabolic Syndrome X	LTA4H	1.0	

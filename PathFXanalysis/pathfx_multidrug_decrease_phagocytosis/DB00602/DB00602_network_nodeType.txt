@@ -1,0 +1,13 @@
+node_name	node_type	
+DB00602	drug	
+ABCG2	drug_target	
+GLRA3	drug_target	
+ABCC1	drug_target	
+CYP3A4	drug_target	
+ABCB1	drug_target	
+GABRB3	drug_target	
+ABCC2	drug_target	
+Adverse drug events and drug allergies	phenotype	
+Ovarian epithelial cancer stage III	phenotype	
+Juvenile myoclonic epilepsy	phenotype	
+Hippocampal sclerosis	phenotype	

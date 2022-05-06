@@ -1,0 +1,10 @@
+node_name	node_type	
+DB00787	drug	
+SLC22A8	drug_target	
+CYP1A2	drug_target	
+SLC22A6	drug_target	
+SLC10A2	drug_target	
+SLC47A1	drug_target	
+SLC22A1	drug_target	
+SLC47A2	drug_target	
+Chromosome 11p deletion syndrome	phenotype	

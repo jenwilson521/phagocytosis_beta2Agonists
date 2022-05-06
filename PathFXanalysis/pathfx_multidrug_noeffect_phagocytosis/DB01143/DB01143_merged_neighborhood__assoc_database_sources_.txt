@@ -1,0 +1,402 @@
+Gene	CUI	Phenotype	Source Databases	
+ALPL	C0553730	Chondrocalcinosis	HumPhenOnt	
+ENPP1	C0553730	Chondrocalcinosis	DisGeNet	
+ALPL	C0029442	Osteomalacia	HumPhenOnt	
+ENPP1	C0029442	Osteomalacia	DisGeNet,HumPhenOnt	
+ALPL	C0268079	Hyperphosphaturia	HumPhenOnt	
+ENPP1	C0268079	Hyperphosphaturia	HumPhenOnt	
+ALPL	C4022828	Abnormal urine phosphate concentration	HumPhenOnt	
+ENPP1	C4022828	Abnormal urine phosphate concentration	HumPhenOnt	
+ALPL	C0035579	Rickets	HumPhenOnt	
+ENPP1	C0035579	Rickets	HumPhenOnt	
+ALPL	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+ENPP1	C4022032	Abnormality of phosphate homeostasis	HumPhenOnt	
+ALPL	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+ENPP1	C4025328	Abnormality of alkaline phosphatase activity	HumPhenOnt	
+ALPL	C0542514	Blue sclerae	HumPhenOnt	
+ENPP1	C0542514	Blue sclerae	HumPhenOnt	
+ALPL	C4025840	Abnormality of the sclera	HumPhenOnt	
+ENPP1	C4025840	Abnormality of the sclera	HumPhenOnt	
+ALPL	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+ENPP1	C4022922	Abnormal enzyme/coenzyme activity	HumPhenOnt	
+ALPL	C0027709	Nephrocalcinosis	HumPhenOnt	
+ENPP1	C0027709	Nephrocalcinosis	HumPhenOnt	
+ALPL	C0029464	Increased bone mineral density	DisGeNet	
+ENPP1	C0029464	Increased bone mineral density	HumPhenOnt	
+ALPL	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+ENPP1	C4022833	Abnormal urinary electrolyte concentration	HumPhenOnt	
+ALPL	C0006663	Calcinosis	DisGeNet	
+ENPP1	C0006663	Calcinosis	DisGeNet	
+ALPL	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+ENPP1	C0544755	Bowing of limbs due to multiple fractures	HumPhenOnt	
+ALPL	C0022408	Arthropathy	DisGeNet	
+ENPP1	C0022408	Arthropathy	HumPhenOnt	
+ALPL	C4021832	Abnormality of the calf	HumPhenOnt	
+ENPP1	C4021832	Abnormality of the calf	HumPhenOnt	
+ALPL	C3806226	Ectopic calcification	HumPhenOnt	
+ENPP1	C3806226	Ectopic calcification	HumPhenOnt	
+ALPL	C0005940	Bone Diseases	DisGeNet	
+ENPP1	C0005940	Bone Diseases	DisGeNet	
+ALPL	C1855340	Bowing of the long bones	HumPhenOnt	
+ENPP1	C1855340	Bowing of the long bones	HumPhenOnt	
+ALPL	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+ENPP1	C4021594	Anomaly of the limb diaphyses	HumPhenOnt	
+ALPL	C0333285	Internal hemorrhage	HumPhenOnt	
+ENPP1	C0333285	Internal hemorrhage	HumPhenOnt	
+ALPL	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+ENPP1	C4022001	Abnormality of the cerebral vasculature	HumPhenOnt	
+ALPL	C4023585	Abnormality of blood circulation	HumPhenOnt	
+ENPP1	C4023585	Abnormality of blood circulation	HumPhenOnt	
+ALPL	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+ENPP1	C4021787	Abnormal diaphysis morphology	HumPhenOnt	
+ALPL	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+ENPP1	C4023412	Abnormality of cranial sutures	HumPhenOnt	
+ALPL	C0029422	Skeletal dysplasia	DisGeNet	
+ENPP1	C0029422	Skeletal dysplasia	HumPhenOnt	
+ALPL	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+ENPP1	C4025654	Abnormality of ion homeostasis	HumPhenOnt	
+ALPL	C0010278	Craniosynostoses	HumPhenOnt	
+ENPP1	C0010278	Craniosynostoses	HumPhenOnt	
+ALPL	C1839326	Abnormal form of the vertebral bodies	HumPhenOnt	
+ENPP1	C1839326	Abnormal form of the vertebral bodies	HumPhenOnt	
+ALPL	C4023557	Abnormality of dental structure	HumPhenOnt	
+ENPP1	C4023557	Abnormality of dental structure	HumPhenOnt	
+ALPL	C4020755	Abnormality of fontanelles	HumPhenOnt	
+ENPP1	C4020755	Abnormality of fontanelles	HumPhenOnt	
+ALPL	C0158775	Abnormality of the vertebrae	HumPhenOnt	
+ENPP1	C0158775	Abnormality of the vertebrae	HumPhenOnt	
+ALPL	C1458140	Abnormal bleeding	HumPhenOnt	
+ENPP1	C1458140	Abnormal bleeding	HumPhenOnt	
+ALPL	C2674432	Reduced bone mineral density	HumPhenOnt	
+ENPP1	C2674432	Reduced bone mineral density	HumPhenOnt	
+ALPL	C0263661	Disorder of skeletal system	DisGeNet	
+ALPL	C0432073	Decreased skull ossification	HumPhenOnt	
+ENPP1	C1837081	Tibial bowing	HumPhenOnt	
+ALPL	C0595939	Stillbirth	HumPhenOnt	
+ENPP1	C4020957	Abnormal trabecular bone morphology	HumPhenOnt	
+ENPP1	C4025251	Abnormality of the vertebral endplates	HumPhenOnt	
+ENPP1	C3536984	Familial X-linked hypophosphatemic vitamin D refractory rickets	DisGeNet	
+ALPL	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+ENPP1	C4021657	Abnormality of bone mineral density	HumPhenOnt	
+ENPP1	C4024890	Excessive wrinkled skin	HumPhenOnt	
+ALPL	C4025686	Abnormality of skull ossification	HumPhenOnt	
+ENPP1	C0239138	Coxa vara	HumPhenOnt	
+ALPL	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+ENPP1	C4025655	Abnormality of urine homeostasis	HumPhenOnt	
+ENPP1	C3536983	Hypophosphatemic rickets	DisGeNet,HumPhenOnt	
+ENPP1	C4021998	Lack of skin elasticity	HumPhenOnt	
+ALPL	C0005944	Metabolic Bone Disorder	DisGeNet	
+ENPP1	C1859461	Femoral bowing	HumPhenOnt	
+ALPL	C4022455	Abnormality of lower limb bone	HumPhenOnt	
+ENPP1	C4022455	Abnormality of lower limb bone	HumPhenOnt	
+ALPL	C0232513	Premature loss of teeth	HumPhenOnt	
+ENPP1	C0409952	Generalized osteoarthritis	DisGeNet	
+ALPPL2	C0035309	Retinopathy	DisGeNet	
+ENPP1	C0035309	Retinopathy	HumPhenOnt	
+ALPL	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+ENPP1	C4023164	Abnormality of skeletal physiology	HumPhenOnt	
+ALPL	C4021165	Abnormality of long bone morphology	HumPhenOnt	
+ENPP1	C4021165	Abnormality of long bone morphology	HumPhenOnt	
+ENPP1	C0409957	Osteoarthritis of distal interphalangeal joint	DisGeNet	
+ENPP1	C4022025	Asymmetric growth	HumPhenOnt	
+ENPP1	C4023579	Abnormality of renal excretion	HumPhenOnt	
+ALPL	C0002382	Alveolar Bone Loss	DisGeNet	
+ENPP1	C0263746	Osteoarthritis of the hand	DisGeNet	
+ENPP1	C0745730	Multiple lipomas	HumPhenOnt	
+ALPL	C4023161	Abnormal bone ossification	HumPhenOnt	
+ENPP1	C4023161	Abnormal bone ossification	HumPhenOnt	
+ENPP1	C0162323	Polyarticular arthritis	HumPhenOnt	
+ENPP1	C0085682	Hypophosphatemia	HumPhenOnt	
+ALPL	C4021797	Abnormality of the thorax	HumPhenOnt	
+ENPP1	C4021797	Abnormality of the thorax	HumPhenOnt	
+ALPL	C4021596	Abnormality of primary teeth	HumPhenOnt	
+ENPP1	C0037301	Premature skin wrinkling	HumPhenOnt	
+ALPL	C0016663	Pathologic fracture	DisGeNet,HumPhenOnt	
+ENPP1	C1522137	Hypertriglyceridemia result	DisGeNet	
+ALPL	C0850826	Localized skin lesion	HumPhenOnt	
+ENPP1	C0850826	Localized skin lesion	HumPhenOnt	
+ALPL	C4025630	Abnormal bone structure	HumPhenOnt	
+ENPP1	C4025630	Abnormal bone structure	HumPhenOnt	
+ALPL	C4025692	Abnormality of calvarial morphology	HumPhenOnt	
+ENPP1	C4025692	Abnormality of calvarial morphology	HumPhenOnt	
+ENPP1	C0241074	Hyperextensible skin	HumPhenOnt	
+ENPP1	C2362324	Pediatric Obesity	DisGeNet	
+ENPP1	C4021662	Abnormality of the endocardium	HumPhenOnt	
+ENPP1	C4021901	Neoplasm of fatty tissue	HumPhenOnt	
+ALPL	C0022650	Kidney Calculi	PheGenI	
+ENPP1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+ENPP1	C0206631	Lipomatous tumor	HumPhenOnt	
+ALPL	C0231712	Waddling gait	HumPhenOnt	
+ENPP1	C0740277	Bile duct cancer resectable	DisGeNet	
+ENPP1	C3714619	Insulin resistance syndrome	DisGeNet	
+ENPP1	C0040184	Tibia, hypoplasia or aplasia of, with polydactyly	HumPhenOnt	
+ALPL	C0426817	Short-rib thoracic dysplasia 10 with or without polydactyly	HumPhenOnt	
+ALPL	C0040427	Abnormality of dental morphology	HumPhenOnt	
+ENPP1	C0040427	Abnormality of dental morphology	HumPhenOnt	
+ENPP1	C0473583	Pseudoxanthoma elasticum	DisGeNet	
+ALPL	C0020492	Hyperostosis	DisGeNet	
+ALPL	C0578531	Skin dimples	HumPhenOnt	
+ALPL	C4023434	Abnormality of urine calcium concentration	HumPhenOnt	
+ENPP1	C0151849	Elevated alkaline phosphatase	HumPhenOnt	
+ENPP1	C4021741	Abnormal cortical bone morphology	HumPhenOnt	
+ENPP1	C4022036	Abnormality of vitamin metabolism	HumPhenOnt	
+ENPP1	C0151825	Bone pain	HumPhenOnt	
+ENPP1	C0033300	Hutchinson-Gilford syndrome	DisGeNet	
+ALPL	C0002871	Anemia	HumPhenOnt	
+ENPP1	C0002871	Anemia	DisGeNet	
+ENPP1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+ALPL	C4025691	Abnormality of the calvaria	HumPhenOnt	
+ENPP1	C4025691	Abnormality of the calvaria	HumPhenOnt	
+ENPP1	C3542024	Aortic valve disease 2	DisGeNet	
+ENPP1	C4022018	Telangiectasia of the skin	HumPhenOnt	
+ALPL	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+ENPP1	C4023437	Abnormality of the urinary system physiology	HumPhenOnt	
+ENPP1	C0342649	Vascular Calcification	HumPhenOnt	
+ENPP1	C4021746	Abnormality of the ilium	HumPhenOnt	
+ENPP1	C0012359	Dilatation	HumPhenOnt	
+ENPP1	C0149630	Bicuspid aortic valve	DisGeNet	
+ALPL	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+ENPP1	C4023587	Abnormality of cardiovascular system physiology	HumPhenOnt	
+ALPL	C0025521	Inborn Errors of Metabolism	DisGeNet	
+ENPP1	C0042749	 {HIV-1 viremia, susceptibility to}, 609423 (3)	DisGeNet	
+ALPL	C0041948	Uremia	DisGeNet	
+ENPP1	C0002962	Angina pectoris	HumPhenOnt	
+ALPL	C1847363	Aplasia/Hypoplasia of the ribs	HumPhenOnt	
+ALPPL2	C0027654	Embryonal neoplasm	DisGeNet	
+ENPP1	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+ENPP1	C0702166	Acne	HumPhenOnt	
+ALPL	C0022658	Kidney Diseases	DisGeNet	
+ENPP1	C0022658	Kidney Diseases	DisGeNet	
+ALPL	C0020438	Hypercalciuria	HumPhenOnt	
+ALPL	C0004268	Abnormal concentration of calcium in blood	HumPhenOnt	
+ALPL	C0025995	Micromelia	HumPhenOnt	
+ENPP1	C0151811	Subcutaneous nodule	HumPhenOnt	
+ALPL	C1844704	Chondrodysplasia with platyspondyly, distinctive brachydactyly, hydrocephaly, and microphthalmia	HumPhenOnt	
+ENPP1	C0026267	Mitral Valve Prolapse	HumPhenOnt	
+ENPP1	C4025250	Abnormality of the sacrum	HumPhenOnt	
+ALPL	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+ENPP1	C0266292	Congenital anomalies of kidney and urinary tract 1, susceptibility to	HumPhenOnt	
+ALPL	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+ENPP1	C4023641	Abnormality of the upper urinary tract	HumPhenOnt	
+ENPP1	C4021744	Abnormality of the wrist	HumPhenOnt	
+ALPL	C4021789	Abnormality of the vertebral column	HumPhenOnt	
+ENPP1	C4021789	Abnormality of the vertebral column	HumPhenOnt	
+ENPP1	C0158623	Abnormality of the coronary arteries	HumPhenOnt	
+ENPP1	C1168327	High-Grade Prostatic Intraepithelial Neoplasia	DisGeNet	
+ENPP1	C0037287	Skin nodule	HumPhenOnt	
+ENPP1	C0009938	Bruising susceptibility	HumPhenOnt	
+ENPP1	C0518010	body mass	DisGeNet	
+ALPL	C4025628	Abnormal enchondral ossification	HumPhenOnt	
+ALPL	C0029458	Postmenopausal osteoporosis	DisGeNet	
+ALPL	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+ENPP1	C4023616	Abnormality of immune system physiology	HumPhenOnt	
+ALPL	C0022107	Irritability	HumPhenOnt	
+ENPP1	C0270685	Cerebral calcification	HumPhenOnt	
+ENPP1	C4025621	Abnormality of the femoral neck	HumPhenOnt	
+ALPL	C1704258	Abnormality of T cell count	HumPhenOnt	
+ENPP1	C1704258	Abnormality of T cell count	HumPhenOnt	
+ALPL	C4025901	Abnormality of body height	HumPhenOnt	
+ENPP1	C4025901	Abnormality of body height	HumPhenOnt	
+ENPP1	C0239174	Delayed eruption of teeth	HumPhenOnt	
+ALPPL2	C0270814	Spastic syndrome	DisGeNet	
+ENPP1	C1537528	Abnormally lax or hyperextensible skin	HumPhenOnt	
+ENPP1	C1857656	Prematurely aged appearance	HumPhenOnt	
+ALPL	C0240083	Abnormal joint morphology	HumPhenOnt	
+ENPP1	C0240083	Abnormal joint morphology	HumPhenOnt	
+ALPL	C4082761	Abnormality of limb bone morphology	HumPhenOnt	
+ENPP1	C4082761	Abnormality of limb bone morphology	HumPhenOnt	
+ALPL	C4022456	Abnormality of limb bone	HumPhenOnt	
+ENPP1	C4022456	Abnormality of limb bone	HumPhenOnt	
+ALPL	C4025596	Abnormality of connective tissue	HumPhenOnt	
+ENPP1	C4025596	Abnormality of connective tissue	HumPhenOnt	
+ALPL	C0205350	Disproportionate short stature	HumPhenOnt	
+ALPL	C1096086	Abnormality of the lower limb	HumPhenOnt	
+ENPP1	C1096086	Abnormality of the lower limb	HumPhenOnt	
+ALPL	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	HumPhenOnt	
+ENPP1	C0013336	Short stature, rhizomelic, with microcephaly, micrognathia, and developmental delay	HumPhenOnt	
+ALPL	C4025337	Abnormality of calcium homeostasis	HumPhenOnt	
+ENPP1	C4025759	Abnormality of the mitral valve	HumPhenOnt	
+ENPP1	C0023443	Hairy Cell Leukemia	DisGeNet	
+ALPL	C0016655	Recurrent fractures	HumPhenOnt	
+ALPL	C4023163	Abnormal appendicular skeleton morphology	HumPhenOnt	
+ENPP1	C4023163	Abnormal appendicular skeleton morphology	HumPhenOnt	
+ALPL	C0020437	Hypercalcemia, infantile, 2	HumPhenOnt	
+ALPL	C4023648	Abnormality of divalent inorganic cation homeostasis	HumPhenOnt	
+ALPL	C0456132	Large fontanelles	HumPhenOnt	
+ALPL	C0026650	Abnormality of movement	HumPhenOnt	
+ENPP1	C0026650	Abnormality of movement	HumPhenOnt	
+ENPP1	C0020557	Hypertriglyceridemia	DisGeNet	
+ENPP1	C1859363	Abnormality of dental eruption	HumPhenOnt	
+ENPP1	C0039446	Telangiectases in sun-exposed and nonexposed skin	HumPhenOnt	
+ALPL	C0221358	Dolichocephaly	HumPhenOnt	
+ENPP1	C4024995	Abnormality of the atrioventricular valves	HumPhenOnt	
+ALPL	C1858430	Death in infancy	HumPhenOnt	
+ENPP1	C4024737	Aplasia/Hypoplasia of the skin	HumPhenOnt	
+ALPL	C0020224	Polyhydramnios	HumPhenOnt	
+ENPP1	C4023760	Abnormal elasticity of skin	HumPhenOnt	
+ENPP1	C0028756	Obesity, severe, 601665 (3)	DisGeNet	
+ALPL	C0017563	Gingival Diseases	DisGeNet	
+ALPL	C0456070	Growth delay	HumPhenOnt	
+ENPP1	C0456070	Growth delay	HumPhenOnt	
+ENPP1	C0017181	Gastrointestinal hemorrhage	HumPhenOnt	
+ALPL	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+ENPP1	C4025887	Abnormality of the oral cavity	HumPhenOnt	
+ALPL	C0003123	Anorexia	HumPhenOnt	
+ENPP1	C4025247	Abnormalities of the peripheral arteries	HumPhenOnt	
+ALPL	C4293692	Abnormality of digestive system physiology	HumPhenOnt	
+ENPP1	C4293692	Abnormality of digestive system physiology	HumPhenOnt	
+ENPP1	C0033774	Pruritus	HumPhenOnt	
+ALPL	C4021821	Abnormality of the urinary system	HumPhenOnt	
+ENPP1	C4021821	Abnormality of the urinary system	HumPhenOnt	
+ENPP1	C0038449	Arterial stenosis	HumPhenOnt	
+ENPP1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+ALPL	C4021753	Abnormality of the immune system	HumPhenOnt	
+ENPP1	C4021753	Abnormality of the immune system	HumPhenOnt	
+ENPP1	C4021524	Abnormality of adipose tissue	HumPhenOnt	
+ENPP1	C3553764	Joint hyperflexibility	HumPhenOnt	
+ENPP1	C0085096	Peripheral Arterial Disease	DisGeNet	
+ENPP1	C0085298	Sudden cardiac death	HumPhenOnt	
+ALPPL2	C0038454	Stroke	DisGeNet	
+ENPP1	C0038454	Stroke	DisGeNet	
+ALPL	C0003578	Apnea	HumPhenOnt	
+ENPP1	C0015811	Abnormality of femur morphology	HumPhenOnt	
+ALPL	C4023528	Abnormality of skin morphology	HumPhenOnt	
+ENPP1	C4023528	Abnormality of skin morphology	HumPhenOnt	
+ALPL	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ENPP1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ENPP1	C0854107	Subcutaneous hemorrhage	HumPhenOnt	
+ENPP1	C0857576	Abnormality of thyroid physiology	HumPhenOnt	
+ENPP1	C0375206	Hemiplegia/hemiparesis	HumPhenOnt	
+ALPL	C1390474	Bone fragility with contractures, arterial rupture, and deafness	HumPhenOnt	
+ALPL	C0239337	Abnormality of limbs	HumPhenOnt	
+ENPP1	C0239337	Abnormality of limbs	HumPhenOnt	
+ALPL	C0015300	Proptosis	HumPhenOnt	
+ALPL	C0026633	Abnormality of the mouth	HumPhenOnt	
+ENPP1	C0026633	Abnormality of the mouth	HumPhenOnt	
+ALPL	C0235942	Abnormality of the skull	HumPhenOnt	
+ENPP1	C0235942	Abnormality of the skull	HumPhenOnt	
+ALPL	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+ENPP1	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+ALPL	C0020503	Secondary hyperparathyroidism	DisGeNet	
+ALPL	C1842083	Abnormality of the ribs	HumPhenOnt	
+ALPL	C0037268	Abnormality of the skin	HumPhenOnt	
+ENPP1	C0037268	Abnormality of the skin	HumPhenOnt	
+ALPL	C4023646	Abnormality of cation homeostasis	HumPhenOnt	
+ENPP1	C4025676	Abnormality of the knee	HumPhenOnt	
+ALPL	C1837388	Abnormal pattern of respiration	HumPhenOnt	
+ALPL	C0042963	Vomiting	HumPhenOnt	
+ALPL	C0266781	Abnormality of the amniotic fluid	HumPhenOnt	
+ENPP1	C0085207	Maternal diabetes	DisGeNet	
+ALPL	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+ENPP1	C4022457	Abnormal morphology of bones of the lower limbs	HumPhenOnt	
+ENPP1	C0856169	Endothelial dysfunction	DisGeNet	
+ALPL	C4022923	Abnormality of the globe	HumPhenOnt	
+ENPP1	C4022923	Abnormality of the globe	HumPhenOnt	
+ALPL	C4022925	Abnormal eye morphology	HumPhenOnt	
+ENPP1	C4022925	Abnormal eye morphology	HumPhenOnt	
+ENPP1	C0497406	Overweight	DisGeNet	
+ALPPL2	C0036631	Testicular seminoma	DisGeNet	
+ALPL	C0151699	Intracranial hemorrhage	HumPhenOnt	
+ALPL	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+ENPP1	C0042063	Abnormality of the genitourinary system	HumPhenOnt	
+ENPP1	C0018790	Cardiac arrest	HumPhenOnt	
+ALPL	C1546180	Age of death	HumPhenOnt	
+ALPL	C4022499	Mortality/Aging	HumPhenOnt	
+ALPL	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+ENPP1	C4024586	Abnormal axial skeleton morphology	HumPhenOnt	
+ENPP1	C0024523	Malabsorption	HumPhenOnt	
+ALPL	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+ENPP1	C0243050	Abnormality of cardiovascular system electrophysiology	HumPhenOnt	
+ALPL	C4021085	Abnormality of brain morphology	HumPhenOnt	
+ENPP1	C4021085	Abnormality of brain morphology	HumPhenOnt	
+ALPL	C0262361	Growth abnormality	HumPhenOnt	
+ENPP1	C0262361	Growth abnormality	HumPhenOnt	
+ALPL	C0015967	Malignant hyperthermia susceptibility type 5	HumPhenOnt	
+ENPP1	C0242339	Dyslipidemias	DisGeNet	
+ALPL	C0009806	Constipation	HumPhenOnt	
+ALPL	C4023458	Abnormal shape of the frontal region	HumPhenOnt	
+ALPL	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+ENPP1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+ALPL	C0221354	Frontal bossing	HumPhenOnt	
+ALPL	C1832160	Abnormality of temperature regulation	HumPhenOnt	
+ENPP1	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+ENPP1	C0029928	Ovarian Diseases	DisGeNet	
+ENPP1	C0151514	Dermal atrophy	HumPhenOnt	
+ALPL	C4025763	Abnormality of the rib cage	HumPhenOnt	
+ALPL	C4021776	Abnormality of the voice	HumPhenOnt	
+ALPPL2	C0338106	Adenocarcinoma of colon	DisGeNet	
+ALPL	C0020538	Hypertension	DisGeNet	
+ENPP1	C0020538	Hypertension	DisGeNet,HumPhenOnt	
+ENPP1	C0151854	Abnormality of thrombocytes	HumPhenOnt	
+ALPL	C4025761	Abnormality of the integument	HumPhenOnt	
+ENPP1	C4025761	Abnormality of the integument	HumPhenOnt	
+ENPP1	C0086437	Joint hypermobility	HumPhenOnt	
+ALPL	C1860493	Abnormality of the sternum	HumPhenOnt	
+ALPL	C0266015	Abnormality of the digestive system	HumPhenOnt	
+ENPP1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+ALPPL2	C0205851	Germ cell neoplasia	DisGeNet	
+ALPL	C0002395	Alzheimer Disease	DisGeNet	
+ENPP1	C0002395	Alzheimer Disease	DisGeNet	
+ENPP1	C0241654	Abnormality of the heart valves	HumPhenOnt	
+ENPP1	C0870082	Hyperkeratosis	HumPhenOnt	
+ALPL	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+ENPP1	C4021765	Morphological abnormality of the central nervous system	HumPhenOnt	
+ALPL	C0011334	Dental Caries	HumPhenOnt	
+ALPPL2	C0000786	Spontaneous abortion	DisGeNet	
+ALPL	C0038013	Ankylosing spondylitis	DisGeNet	
+ENPP1	C0149721	Left ventricular hypertrophy	DisGeNet	
+ENPP1	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+ALPPL2	C0008497	Choriocarcinoma	DisGeNet	
+ALPL	C4025871	Abnormality of the face	HumPhenOnt	
+ENPP1	C4025871	Abnormality of the face	HumPhenOnt	
+ENPP1	C4021255	Weakness due to upper motor neuron dysfunction	HumPhenOnt	
+ENPP1	C4023527	Abnormality of skin physiology	HumPhenOnt	
+ALPL	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+ENPP1	C4022810	Abnormality of nervous system morphology	HumPhenOnt	
+ALPL	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+ENPP1	C4023165	Abnormality of skeletal morphology	HumPhenOnt	
+ENPP1	C4021735	Abnormality of the hip bone	HumPhenOnt	
+ENPP1	C4021205	Abnormality of the systemic arterial tree	HumPhenOnt	
+ENPP1	C0005826	Abnormal systemic blood pressure	HumPhenOnt	
+ALPL	C0015393	Abnormality of the eye	HumPhenOnt	
+ENPP1	C0015393	Abnormality of the eye	HumPhenOnt	
+ALPL	C0027498	Nausea and vomiting	HumPhenOnt	
+ENPP1	C0271650	Glucose intolerance	DisGeNet	
+ENPP1	C0494876	Epidermal thickening	HumPhenOnt	
+ALPL	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+ENPP1	C4021790	Abnormality of the skeletal system	HumPhenOnt	
+ENPP1	C0400966	Non-alcoholic Fatty Liver Disease	DisGeNet	
+ENPP1	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+ALPL	C3806482	Recurrent respiratory infections	HumPhenOnt	
+ENPP1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALPL	C4021812	Abnormality of the head	HumPhenOnt	
+ENPP1	C4021812	Abnormality of the head	HumPhenOnt	
+ENPP1	C4025843	Abnormality of refraction	HumPhenOnt	
+ALPL	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+ENPP1	C0441748	Autosomal recessive inheritance	HumPhenOnt	
+ALPL	C0854297	Abnormality of head or neck	HumPhenOnt	
+ENPP1	C0854297	Abnormality of head or neck	HumPhenOnt	
+ENPP1	C0021655	Insulin Resistance	DisGeNet	
+ENPP1	C4020971	Abnormality of lower limb joint	HumPhenOnt	
+ENPP1	C0003811	Arrhythmias, Cardiac	HumPhenOnt	
+ENPP1	C0241165	Thickened skin	HumPhenOnt	
+ENPP1	C0020676	Hypothyroidism	HumPhenOnt	
+ENPP1	C0240635	High palate	HumPhenOnt	
+ENPP1	C4025758	Abnormality of the myocardium	HumPhenOnt	
+ENPP1	C4020847	Abnormality of pelvic girdle bone morphology	HumPhenOnt	
+ENPP1	C0020459	Hyperinsulinemia	DisGeNet	
+ENPP1	C0162819	Vascular skin abnormality	HumPhenOnt	
+ENPP1	C0027092	Epiphyseal dysplasia, multiple, with myopia and conductive deafness	HumPhenOnt	
+ENPP1	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+ENPP1	C0015230	Exanthema	HumPhenOnt	
+ALPL	C0028754	Obesity	DisGeNet	
+ENPP1	C0028754	Obesity	ClinVar,DisGeNet	
+ENPP1	C0032914	Preeclampsia/eclampsia 1	DisGeNet	
+ALPL	C0391870	Abnormality of erythrocytes	HumPhenOnt	
+ENPP1	C0040128	Thyroid Diseases	HumPhenOnt	
+ENPP1	C0266623	Abnormality of the neck	HumPhenOnt	
+ALPL	C0025517	Disorders of Intracellular Cobalamin Metabolism	DisGeNet	
+ALPL	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+ENPP1	C4022811	Abnormality of nervous system physiology	HumPhenOnt	
+ALPL	C0035243	Respiratory tract infection	HumPhenOnt	
+ENPP1	C4293699	Abnormal vascular morphology	HumPhenOnt	

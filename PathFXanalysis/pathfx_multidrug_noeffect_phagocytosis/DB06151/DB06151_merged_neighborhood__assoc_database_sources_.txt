@@ -1,0 +1,2314 @@
+Gene	CUI	Phenotype	Source Databases	
+BCL10	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CALM3	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CHUK	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CUL1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EFNB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EPHB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EPHB6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FBXW11	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FYN	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+GRB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+GSS	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+IFIH1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+IKBKB	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+IRAK1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+LYN	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NFKB1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NFKB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NFKBIA	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NFKBIB	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NFKBIE	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NOD1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+NOD2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+RELA	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SHC1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SKP1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SLC22A6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SLCO1B1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SQSTM1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SRC	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TIAM1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TRAF2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TRAF6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+UBE2V1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+YES1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+BCL10	C0024299	Lymphoma, Large B-Cell, Diffuse	ClinVar,DisGeNet,HumPhenOnt	
+BTRC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CALM3	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CARD11	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EPHB1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EPHB2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EPHB4	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+HRAS	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+IKBKB	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+IRAK1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+LYN	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+MALT1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet,HumPhenOnt	
+MAP3K7	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+NFKB1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet,HumPhenOnt	
+NFKB2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet,HumPhenOnt	
+NFKBIA	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+REL	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+RELA	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+RIPK2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SOS1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SQSTM1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SRC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TIAM1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TRAF2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TRAF6	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+BCL10	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+CHUK	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+EFNB2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+EPHB2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+HRAS	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+IFIH1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+MALT1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+MAP3K7	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NEFL	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NFKB1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NFKBIA	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NFKBIE	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NOD1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+NOD2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+RELA	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+RIPK1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+RIPK2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+SQSTM1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+SRC	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+TRAF2	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+TRAF6	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+UBE2V1	C0009450	Verotoxigenic Escherichia coli gastrointestinal tract infection	DisGeNet	
+EFNB1	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+IKBKG	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+MAP3K7	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+NFKB1	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+NFKBIA	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet,HumPhenOnt	
+TAB2	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+TRAF6	C0162359	Hypohidrotic X-linked ectodermal dysplasia	DisGeNet	
+BCL10	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CALM3	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CHUK	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EPHB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EPHB4	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EPHB6	C0024667	Animal Mammary Neoplasms	DisGeNet	
+FYN	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GRB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GRIN1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GSS	C0024667	Animal Mammary Neoplasms	DisGeNet	
+HRAS	C0024667	Animal Mammary Neoplasms	DisGeNet	
+IKBKB	C0024667	Animal Mammary Neoplasms	DisGeNet	
+LYN	C0024667	Animal Mammary Neoplasms	DisGeNet	
+MAP3K7	C0024667	Animal Mammary Neoplasms	DisGeNet	
+MAP3K8	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NFKB1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NFKB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NFKBIA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NOD2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+REL	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RELA	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RIPK1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RIPK2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SHC1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SLCO1B1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SOS1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SQSTM1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SRC	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TAB1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TIAM1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+YES1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CALM3	C0003873	Rheumatoid arthritis	DisGeNet	
+CHUK	C0003873	Rheumatoid arthritis	DisGeNet	
+CUL1	C0003873	Rheumatoid arthritis	DisGeNet	
+EFNB1	C0003873	Rheumatoid arthritis	DisGeNet	
+EFNB2	C0003873	Rheumatoid arthritis	DisGeNet	
+EPHB1	C0003873	Rheumatoid arthritis	DisGeNet	
+EPHB2	C0003873	Rheumatoid arthritis	DisGeNet	
+IFIH1	C0003873	Rheumatoid arthritis	DisGeNet	
+IKBKB	C0003873	Rheumatoid arthritis	DisGeNet	
+IRAK1	C0003873	Rheumatoid arthritis	DisGeNet	
+NFKB1	C0003873	Rheumatoid arthritis	DisGeNet	
+NFKB2	C0003873	Rheumatoid arthritis	DisGeNet	
+NFKBIA	C0003873	Rheumatoid arthritis	DisGeNet	
+NFKBIB	C0003873	Rheumatoid arthritis	DisGeNet	
+NFKBIE	C0003873	Rheumatoid arthritis	DisGeNet	
+NOD1	C0003873	Rheumatoid arthritis	DisGeNet	
+NOD2	C0003873	Rheumatoid arthritis	DisGeNet	
+REL	C0003873	Rheumatoid arthritis	DisGeNet	
+RELA	C0003873	Rheumatoid arthritis	DisGeNet	
+RIPK1	C0003873	Rheumatoid arthritis	DisGeNet	
+SLCO1B1	C0003873	Rheumatoid arthritis	DisGeNet	
+SOS1	C0003873	Rheumatoid arthritis	DisGeNet	
+TAB1	C0003873	Rheumatoid arthritis	DisGeNet	
+TAB2	C0003873	Rheumatoid arthritis	DisGeNet	
+TNIP2	C0003873	Rheumatoid arthritis	DisGeNet	
+TRAF2	C0003873	Rheumatoid arthritis	DisGeNet	
+TRAF6	C0003873	Rheumatoid arthritis	DisGeNet	
+BCL10	C0017638	Glioma	DisGeNet	
+CALM3	C0017638	Glioma	DisGeNet	
+CAMK2B	C0017638	Glioma	DisGeNet	
+CUL1	C0017638	Glioma	DisGeNet	
+EFNB2	C0017638	Glioma	DisGeNet	
+EFNB3	C0017638	Glioma	DisGeNet	
+EPHB1	C0017638	Glioma	DisGeNet	
+EPHB2	C0017638	Glioma	DisGeNet	
+EPHB4	C0017638	Glioma	DisGeNet	
+FYN	C0017638	Glioma	DisGeNet	
+GRB2	C0017638	Glioma	DisGeNet	
+GRIN2B	C0017638	Glioma	DisGeNet	
+HRAS	C0017638	Glioma	DisGeNet	
+IKBKB	C0017638	Glioma	DisGeNet	
+LYN	C0017638	Glioma	DisGeNet	
+MAP3K8	C0017638	Glioma	DisGeNet	
+NFKB1	C0017638	Glioma	DisGeNet	
+NFKB2	C0017638	Glioma	DisGeNet	
+NFKBIA	C0017638	Glioma	DisGeNet	
+NOD2	C0017638	Glioma	DisGeNet	
+RELA	C0017638	Glioma	DisGeNet	
+RIPK2	C0017638	Glioma	DisGeNet	
+SLC7A11	C0017638	Glioma	DisGeNet	
+SOS1	C0017638	Glioma	DisGeNet	
+SQSTM1	C0017638	Glioma	DisGeNet	
+SRC	C0017638	Glioma	DisGeNet	
+TRAF2	C0017638	Glioma	DisGeNet	
+UBE2N	C0017638	Glioma	DisGeNet	
+CAMK2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+CAMK2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN1	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2A	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2B	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2C	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN2D	C2911647	Weight Gain Adverse Event	DisGeNet	
+GRIN3A	C2911647	Weight Gain Adverse Event	DisGeNet	
+SRC	C2911647	Weight Gain Adverse Event	DisGeNet	
+BCL10	C2239176	Hepatocellular carcinoma	DisGeNet	
+BTRC	C2239176	Hepatocellular carcinoma	DisGeNet	
+CALM3	C2239176	Hepatocellular carcinoma	DisGeNet	
+CHUK	C2239176	Hepatocellular carcinoma	DisGeNet	
+CUL1	C2239176	Hepatocellular carcinoma	DisGeNet	
+EFNB1	C2239176	Hepatocellular carcinoma	DisGeNet	
+EFNB2	C2239176	Hepatocellular carcinoma	DisGeNet	
+EPHB1	C2239176	Hepatocellular carcinoma	DisGeNet	
+EPHB2	C2239176	Hepatocellular carcinoma	DisGeNet	
+EPHB4	C2239176	Hepatocellular carcinoma	DisGeNet	
+EPHB6	C2239176	Hepatocellular carcinoma	DisGeNet	
+FBXW11	C2239176	Hepatocellular carcinoma	DisGeNet	
+GRB2	C2239176	Hepatocellular carcinoma	DisGeNet	
+HRAS	C2239176	Hepatocellular carcinoma	DisGeNet	
+IFIH1	C2239176	Hepatocellular carcinoma	DisGeNet	
+IKBKB	C2239176	Hepatocellular carcinoma	DisGeNet	
+IKBKG	C2239176	Hepatocellular carcinoma	DisGeNet	
+IRAK1	C2239176	Hepatocellular carcinoma	DisGeNet	
+MAP3K7	C2239176	Hepatocellular carcinoma	DisGeNet	
+MAP3K8	C2239176	Hepatocellular carcinoma	DisGeNet	
+NFKB1	C2239176	Hepatocellular carcinoma	DisGeNet	
+NFKBIA	C2239176	Hepatocellular carcinoma	DisGeNet	
+NOD2	C2239176	Hepatocellular carcinoma	DisGeNet	
+REL	C2239176	Hepatocellular carcinoma	DisGeNet	
+RELA	C2239176	Hepatocellular carcinoma	DisGeNet	
+SHC1	C2239176	Hepatocellular carcinoma	DisGeNet	
+SLCO1B1	C2239176	Hepatocellular carcinoma	DisGeNet	
+SOS1	C2239176	Hepatocellular carcinoma	DisGeNet	
+SQSTM1	C2239176	Hepatocellular carcinoma	DisGeNet	
+SRC	C2239176	Hepatocellular carcinoma	DisGeNet	
+TAB3	C2239176	Hepatocellular carcinoma	DisGeNet	
+TIAM1	C2239176	Hepatocellular carcinoma	DisGeNet	
+UBE2N	C2239176	Hepatocellular carcinoma	DisGeNet	
+UBE2V1	C2239176	Hepatocellular carcinoma	DisGeNet	
+YES1	C2239176	Hepatocellular carcinoma	DisGeNet	
+BCL10	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+BTRC	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+CALM3	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EFNB1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EFNB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EPHB1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EPHB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+EPHB4	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+GRB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+GRIN2B	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+HRAS	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+IKBKB	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+IRAK1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+MAP3K8	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NFKB1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NFKB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NFKBIA	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NOD1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+NOD2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+RELA	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+RIPK2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+SOS1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+SRC	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TAB2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TIAM1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TRAF2	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+TRAF6	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+YES1	C0024623	{Gastric cancer risk after H. pylori infection}, 137215 (3)	DisGeNet	
+BCL10	C0235974	Pancreatic Carcinoma	DisGeNet	
+BTRC	C0235974	Pancreatic Carcinoma	DisGeNet	
+CALM3	C0235974	Pancreatic Carcinoma	DisGeNet	
+EPHB2	C0235974	Pancreatic Carcinoma	DisGeNet	
+EPHB4	C0235974	Pancreatic Carcinoma	DisGeNet	
+FBXW11	C0235974	Pancreatic Carcinoma	DisGeNet	
+HRAS	C0235974	Pancreatic Carcinoma	DisGeNet	
+IKBKB	C0235974	Pancreatic Carcinoma	DisGeNet	
+IRAK1	C0235974	Pancreatic Carcinoma	DisGeNet	
+MAP3K7	C0235974	Pancreatic Carcinoma	DisGeNet	
+NFKB1	C0235974	Pancreatic Carcinoma	DisGeNet	
+NFKB2	C0235974	Pancreatic Carcinoma	DisGeNet	
+NFKBIA	C0235974	Pancreatic Carcinoma	DisGeNet	
+REL	C0235974	Pancreatic Carcinoma	DisGeNet	
+RELA	C0235974	Pancreatic Carcinoma	DisGeNet	
+RIPK1	C0235974	Pancreatic Carcinoma	DisGeNet	
+RIPK2	C0235974	Pancreatic Carcinoma	DisGeNet	
+SLCO1B1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SOS1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SQSTM1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SRC	C0235974	Pancreatic Carcinoma	DisGeNet	
+TIAM1	C0235974	Pancreatic Carcinoma	DisGeNet	
+TRAF2	C0235974	Pancreatic Carcinoma	DisGeNet	
+TRAF6	C0235974	Pancreatic Carcinoma	DisGeNet	
+YES1	C0235974	Pancreatic Carcinoma	DisGeNet	
+BCL10	C0699791	Stomach cancer	DisGeNet	
+BTRC	C0699791	Stomach cancer	DisGeNet	
+CALM3	C0699791	Stomach cancer	DisGeNet	
+EFNB1	C0699791	Stomach cancer	DisGeNet	
+EFNB2	C0699791	Stomach cancer	DisGeNet	
+EPHB1	C0699791	Stomach cancer	DisGeNet	
+EPHB2	C0699791	Stomach cancer	DisGeNet	
+EPHB4	C0699791	Stomach cancer	DisGeNet	
+FBXW11	C0699791	Stomach cancer	DisGeNet	
+GRB2	C0699791	Stomach cancer	DisGeNet	
+GRIN2B	C0699791	Stomach cancer	DisGeNet	
+HRAS	C0699791	Stomach cancer	DisGeNet	
+IRAK1	C0699791	Stomach cancer	DisGeNet	
+MAP3K8	C0699791	Stomach cancer	DisGeNet	
+NFKB1	C0699791	Stomach cancer	DisGeNet	
+NFKB2	C0699791	Stomach cancer	DisGeNet	
+NFKBIA	C0699791	Stomach cancer	DisGeNet	
+NOD1	C0699791	Stomach cancer	DisGeNet	
+NOD2	C0699791	Stomach cancer	DisGeNet	
+RELA	C0699791	Stomach cancer	DisGeNet	
+RIPK2	C0699791	Stomach cancer	DisGeNet	
+SOS1	C0699791	Stomach cancer	DisGeNet	
+SRC	C0699791	Stomach cancer	DisGeNet	
+TAB2	C0699791	Stomach cancer	DisGeNet	
+TIAM1	C0699791	Stomach cancer	DisGeNet	
+TRAF2	C0699791	Stomach cancer	DisGeNet	
+TRAF6	C0699791	Stomach cancer	DisGeNet	
+YES1	C0699791	Stomach cancer	DisGeNet	
+CHUK	C0009319	Colitis, Ulcerative	DisGeNet	
+EPHB2	C0009319	Colitis, Ulcerative	DisGeNet	
+IFIH1	C0009319	Colitis, Ulcerative	PheGenI	
+IKBKB	C0009319	Colitis, Ulcerative	DisGeNet	
+IKBKG	C0009319	Colitis, Ulcerative	DisGeNet	
+MAP3K7	C0009319	Colitis, Ulcerative	DisGeNet	
+MAP3K8	C0009319	Colitis, Ulcerative	DisGeNet	
+NFKB1	C0009319	Colitis, Ulcerative	DisGeNet,PheGenI	
+NFKB2	C0009319	Colitis, Ulcerative	DisGeNet	
+NFKBIA	C0009319	Colitis, Ulcerative	DisGeNet	
+NOD1	C0009319	Colitis, Ulcerative	DisGeNet	
+NOD2	C0009319	Colitis, Ulcerative	DisGeNet	
+RELA	C0009319	Colitis, Ulcerative	DisGeNet	
+RIPK2	C0009319	Colitis, Ulcerative	DisGeNet	
+SRC	C0009319	Colitis, Ulcerative	DisGeNet	
+TRAF6	C0009319	Colitis, Ulcerative	DisGeNet	
+BCL10	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+BTRC	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CALM3	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+EPHB2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+EPHB4	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+HRAS	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+IKBKB	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+IRAK1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+MAP3K7	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NFKB1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NFKB2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NFKBIA	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+REL	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+RELA	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+RIPK1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+RIPK2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SLCO1B1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SOS1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SQSTM1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SRC	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TIAM1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TRAF2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TRAF6	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+YES1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+BTRC	C0017636	Glioblastoma	DisGeNet	
+CALM3	C0017636	Glioblastoma	DisGeNet	
+CHUK	C0017636	Glioblastoma	DisGeNet	
+CUL1	C0017636	Glioblastoma	DisGeNet	
+EFNB1	C0017636	Glioblastoma	DisGeNet	
+EFNB2	C0017636	Glioblastoma	DisGeNet	
+EFNB3	C0017636	Glioblastoma	DisGeNet	
+EPHB2	C0017636	Glioblastoma	DisGeNet	
+HRAS	C0017636	Glioblastoma	DisGeNet	
+IFIH1	C0017636	Glioblastoma	DisGeNet	
+IKBKB	C0017636	Glioblastoma	DisGeNet	
+LYN	C0017636	Glioblastoma	DisGeNet	
+NEFL	C0017636	Glioblastoma	DisGeNet	
+NFKB1	C0017636	Glioblastoma	DisGeNet	
+NFKBIA	C0017636	Glioblastoma	DisGeNet	
+RELA	C0017636	Glioblastoma	DisGeNet	
+RIPK1	C0017636	Glioblastoma	DisGeNet	
+SHC1	C0017636	Glioblastoma	DisGeNet	
+SOS1	C0017636	Glioblastoma	DisGeNet	
+SQSTM1	C0017636	Glioblastoma	DisGeNet	
+SRC	C0017636	Glioblastoma	DisGeNet	
+TRAF2	C0017636	Glioblastoma	DisGeNet	
+UBE2V1	C0017636	Glioblastoma	DisGeNet	
+YES1	C0017636	Glioblastoma	DisGeNet	
+CHUK	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+IKBKG	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet,HumPhenOnt	
+MAP3K7	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+NFKB1	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+NFKBIA	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet,HumPhenOnt	
+SOS1	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+TAB2	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+TRAF6	C0013575	Ectodermal dysplasia 11b, hypohidrotic/hair/tooth type, autosomal recessive	DisGeNet	
+BCL10	C0024305	Non-Hodgkin lymphoma	HumPhenOnt	
+CHUK	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+EPHB2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+IKBKB	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+MALT1	C0024305	Non-Hodgkin lymphoma	HumPhenOnt	
+NFKB1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+NFKBIA	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+NFKBIB	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+NOD2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+REL	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+RIPK1	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+RIPK2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF2	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+TRAF6	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+BCL10	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+CARD11	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+IKBKG	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+MALT1	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+NFKB1	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+NOD1	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+NOD2	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+RELA	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+TRAF2	C0242647	Primary cutaneous marginal zone B-cell lymphoma	DisGeNet	
+BCL10	C0079731	B-cell lymphoma	DisGeNet,HumPhenOnt	
+CARD11	C0079731	B-cell lymphoma	DisGeNet	
+CHUK	C0079731	B-cell lymphoma	DisGeNet	
+EPHB2	C0079731	B-cell lymphoma	DisGeNet	
+LYN	C0079731	B-cell lymphoma	DisGeNet	
+MALT1	C0079731	B-cell lymphoma	DisGeNet,HumPhenOnt	
+NFKB1	C0079731	B-cell lymphoma	DisGeNet	
+NFKB2	C0079731	B-cell lymphoma	DisGeNet	
+NFKBIE	C0079731	B-cell lymphoma	DisGeNet	
+REL	C0079731	B-cell lymphoma	DisGeNet	
+RELA	C0079731	B-cell lymphoma	DisGeNet	
+RIPK1	C0079731	B-cell lymphoma	DisGeNet	
+RIPK2	C0079731	B-cell lymphoma	DisGeNet	
+SQSTM1	C0079731	B-cell lymphoma	DisGeNet	
+TRAF2	C0079731	B-cell lymphoma	DisGeNet	
+BCL10	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+CARD11	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+IRAK1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+MALT1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+NFKB1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+NFKB2	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+NOD2	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+REL	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+RIPK1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+RIPK2	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+SOS1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+TRAF6	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+UBE2N	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+UBE2V1	C0079744	Germinal Center B-Cell-Like Diffuse Large B-Cell Lymphoma	DisGeNet	
+BCL10	C0007137	Squamous cell carcinoma	DisGeNet	
+CALM3	C0007137	Squamous cell carcinoma	DisGeNet	
+CAMK2A	C0007137	Squamous cell carcinoma	DisGeNet	
+CHUK	C0007137	Squamous cell carcinoma	DisGeNet	
+EFNB2	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB1	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB2	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB3	C0007137	Squamous cell carcinoma	DisGeNet	
+EPHB4	C0007137	Squamous cell carcinoma	DisGeNet	
+FYN	C0007137	Squamous cell carcinoma	DisGeNet	
+GRIN2B	C0007137	Squamous cell carcinoma	DisGeNet	
+GRIN3A	C0007137	Squamous cell carcinoma	DisGeNet	
+HRAS	C0007137	Squamous cell carcinoma	DisGeNet	
+IKBKB	C0007137	Squamous cell carcinoma	DisGeNet	
+MAP3K7	C0007137	Squamous cell carcinoma	DisGeNet	
+NFKB1	C0007137	Squamous cell carcinoma	DisGeNet	
+NFKB2	C0007137	Squamous cell carcinoma	DisGeNet	
+NFKBIA	C0007137	Squamous cell carcinoma	DisGeNet	
+RELA	C0007137	Squamous cell carcinoma	DisGeNet	
+RIPK1	C0007137	Squamous cell carcinoma	DisGeNet	
+SOS1	C0007137	Squamous cell carcinoma	DisGeNet	
+SQSTM1	C0007137	Squamous cell carcinoma	DisGeNet	
+SRC	C0007137	Squamous cell carcinoma	DisGeNet	
+TRAF2	C0007137	Squamous cell carcinoma	DisGeNet	
+UBE2N	C0007137	Squamous cell carcinoma	DisGeNet	
+CHUK	C0015929	Fetal Diseases	DisGeNet	
+NFKB1	C0015929	Fetal Diseases	DisGeNet	
+NFKB2	C0015929	Fetal Diseases	DisGeNet	
+NFKBIA	C0015929	Fetal Diseases	DisGeNet	
+NFKBIB	C0015929	Fetal Diseases	DisGeNet	
+NFKBIE	C0015929	Fetal Diseases	DisGeNet	
+NOD2	C0015929	Fetal Diseases	DisGeNet	
+TRAF2	C0015929	Fetal Diseases	DisGeNet	
+BCL10	C0038356	Stomach Neoplasms	HumPhenOnt	
+BTRC	C0038356	Stomach Neoplasms	DisGeNet	
+EFNB1	C0038356	Stomach Neoplasms	DisGeNet	
+EFNB2	C0038356	Stomach Neoplasms	DisGeNet	
+EPHB2	C0038356	Stomach Neoplasms	DisGeNet	
+FYN	C0038356	Stomach Neoplasms	DisGeNet	
+GRIN2B	C0038356	Stomach Neoplasms	DisGeNet	
+HRAS	C0038356	Stomach Neoplasms	DisGeNet	
+IRAK1	C0038356	Stomach Neoplasms	DisGeNet	
+MALT1	C0038356	Stomach Neoplasms	DisGeNet	
+MAP3K8	C0038356	Stomach Neoplasms	DisGeNet	
+NFKB1	C0038356	Stomach Neoplasms	DisGeNet	
+NFKBIA	C0038356	Stomach Neoplasms	DisGeNet	
+NOD2	C0038356	Stomach Neoplasms	DisGeNet	
+RELA	C0038356	Stomach Neoplasms	DisGeNet	
+SRC	C0038356	Stomach Neoplasms	HumPhenOnt	
+YES1	C0038356	Stomach Neoplasms	DisGeNet	
+BCL10	C0678222	Breast carcinoma	DisGeNet	
+BTRC	C0678222	Breast carcinoma	DisGeNet	
+CALM3	C0678222	Breast carcinoma	DisGeNet	
+CHUK	C0678222	Breast carcinoma	DisGeNet	
+CUL1	C0678222	Breast carcinoma	DisGeNet	
+EFNB2	C0678222	Breast carcinoma	DisGeNet	
+EPHB2	C0678222	Breast carcinoma	DisGeNet	
+EPHB4	C0678222	Breast carcinoma	DisGeNet	
+EPHB6	C0678222	Breast carcinoma	DisGeNet	
+FYN	C0678222	Breast carcinoma	DisGeNet	
+GRB2	C0678222	Breast carcinoma	DisGeNet	
+GRIN1	C0678222	Breast carcinoma	DisGeNet	
+HRAS	C0678222	Breast carcinoma	DisGeNet	
+IKBKB	C0678222	Breast carcinoma	DisGeNet	
+IKBKG	C0678222	Breast carcinoma	DisGeNet	
+IRAK1	C0678222	Breast carcinoma	DisGeNet	
+LYN	C0678222	Breast carcinoma	DisGeNet	
+MAP3K7	C0678222	Breast carcinoma	DisGeNet	
+MAP3K8	C0678222	Breast carcinoma	DisGeNet	
+NEFL	C0678222	Breast carcinoma	DisGeNet	
+NFKB1	C0678222	Breast carcinoma	DisGeNet	
+NFKBIA	C0678222	Breast carcinoma	DisGeNet	
+NOD1	C0678222	Breast carcinoma	DisGeNet	
+NOD2	C0678222	Breast carcinoma	DisGeNet	
+REL	C0678222	Breast carcinoma	DisGeNet	
+RELA	C0678222	Breast carcinoma	DisGeNet	
+RIPK1	C0678222	Breast carcinoma	DisGeNet	
+SHC1	C0678222	Breast carcinoma	DisGeNet	
+SLC7A11	C0678222	Breast carcinoma	DisGeNet	
+SLCO1B1	C0678222	Breast carcinoma	DisGeNet	
+SOS1	C0678222	Breast carcinoma	DisGeNet	
+SQSTM1	C0678222	Breast carcinoma	DisGeNet	
+SRC	C0678222	Breast carcinoma	DisGeNet	
+TAB2	C0678222	Breast carcinoma	DisGeNet	
+TIAM1	C0678222	Breast carcinoma	DisGeNet	
+TRAF2	C0678222	Breast carcinoma	DisGeNet	
+TRAF6	C0678222	Breast carcinoma	DisGeNet	
+UBE2N	C0678222	Breast carcinoma	DisGeNet	
+UBE2V1	C0678222	Breast carcinoma	DisGeNet	
+BCL10	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+BTRC	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CALM3	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CHUK	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CUL1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EFNB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EPHB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EPHB4	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EPHB6	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FYN	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+GRB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+GRIN1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+HRAS	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+IKBKB	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+IKBKG	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+IRAK1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+LYN	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+MAP3K7	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+MAP3K8	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NEFL	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NFKB1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NFKBIA	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NFKBIE	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NOD1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NOD2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+REL	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+RELA	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+RIPK1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SHC1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLC7A11	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLCO1B1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SOS1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SQSTM1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SRC	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TAB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TIAM1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TRAF2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TRAF6	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+UBE2N	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+UBE2V1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+BCL10	C0026764	Multiple Myeloma	DisGeNet	
+CALM3	C0026764	Multiple Myeloma	DisGeNet	
+CHUK	C0026764	Multiple Myeloma	DisGeNet	
+EPHB2	C0026764	Multiple Myeloma	DisGeNet	
+GRB2	C0026764	Multiple Myeloma	DisGeNet	
+HRAS	C0026764	Multiple Myeloma	DisGeNet	
+IKBKB	C0026764	Multiple Myeloma	DisGeNet	
+MALT1	C0026764	Multiple Myeloma	DisGeNet	
+MAP3K7	C0026764	Multiple Myeloma	DisGeNet	
+MAP3K8	C0026764	Multiple Myeloma	DisGeNet	
+NFKB1	C0026764	Multiple Myeloma	DisGeNet	
+NFKB2	C0026764	Multiple Myeloma	DisGeNet	
+NFKBIA	C0026764	Multiple Myeloma	DisGeNet	
+NFKBIE	C0026764	Multiple Myeloma	DisGeNet	
+REL	C0026764	Multiple Myeloma	DisGeNet	
+RELA	C0026764	Multiple Myeloma	DisGeNet	
+SOS1	C0026764	Multiple Myeloma	DisGeNet	
+TRAF2	C0026764	Multiple Myeloma	DisGeNet	
+TRAF6	C0026764	Multiple Myeloma	DisGeNet	
+NFKB1	C0026857	Musculoskeletal Diseases	DisGeNet	
+NFKB2	C0026857	Musculoskeletal Diseases	DisGeNet	
+NFKBIA	C0026857	Musculoskeletal Diseases	DisGeNet	
+NFKBIB	C0026857	Musculoskeletal Diseases	DisGeNet	
+NFKBIE	C0026857	Musculoskeletal Diseases	DisGeNet	
+NOD2	C0026857	Musculoskeletal Diseases	DisGeNet	
+TRAF2	C0026857	Musculoskeletal Diseases	DisGeNet	
+NFKB1	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+NFKB2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+NFKBIA	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+NFKBIB	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+NFKBIE	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+NOD2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+TRAF2	C0032964	Pregnancy Complications, Hematologic	DisGeNet	
+BCL10	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+CARD11	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+IFIH1	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+IKBKB	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+IKBKG	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+NFKB1	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+NFKB2	C1855755	Abnormal immunoglobulin level	HumPhenOnt	
+BCL10	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+CARD11	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+IFIH1	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+IKBKB	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+IKBKG	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+NFKB1	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+NFKB2	C1849242	Abnormality of B cell physiology	HumPhenOnt	
+BCL10	C4021748	Abnormality of B cells	HumPhenOnt	
+CARD11	C4021748	Abnormality of B cells	HumPhenOnt	
+IFIH1	C4021748	Abnormality of B cells	HumPhenOnt	
+IKBKB	C4021748	Abnormality of B cells	HumPhenOnt	
+IKBKG	C4021748	Abnormality of B cells	HumPhenOnt	
+NFKB1	C4021748	Abnormality of B cells	HumPhenOnt	
+NFKB2	C4021748	Abnormality of B cells	HumPhenOnt	
+BCL10	C0596263	Carcinogenesis	DisGeNet	
+BTRC	C0596263	Carcinogenesis	DisGeNet	
+CALM3	C0596263	Carcinogenesis	DisGeNet	
+CARD11	C0596263	Carcinogenesis	DisGeNet	
+CHUK	C0596263	Carcinogenesis	DisGeNet	
+EFNB1	C0596263	Carcinogenesis	DisGeNet	
+EFNB2	C0596263	Carcinogenesis	DisGeNet	
+EPHB1	C0596263	Carcinogenesis	DisGeNet	
+EPHB2	C0596263	Carcinogenesis	DisGeNet	
+EPHB4	C0596263	Carcinogenesis	DisGeNet	
+EPHB6	C0596263	Carcinogenesis	DisGeNet	
+GRB2	C0596263	Carcinogenesis	DisGeNet	
+HRAS	C0596263	Carcinogenesis	DisGeNet	
+IKBKB	C0596263	Carcinogenesis	DisGeNet	
+MALT1	C0596263	Carcinogenesis	DisGeNet	
+MAP3K7	C0596263	Carcinogenesis	DisGeNet	
+MAP3K8	C0596263	Carcinogenesis	DisGeNet	
+NEFL	C0596263	Carcinogenesis	DisGeNet	
+NFKB1	C0596263	Carcinogenesis	DisGeNet	
+NFKB2	C0596263	Carcinogenesis	DisGeNet	
+NFKBIA	C0596263	Carcinogenesis	DisGeNet	
+NOD2	C0596263	Carcinogenesis	DisGeNet	
+RELA	C0596263	Carcinogenesis	DisGeNet	
+RIPK1	C0596263	Carcinogenesis	DisGeNet	
+SHC1	C0596263	Carcinogenesis	DisGeNet	
+SLC7A11	C0596263	Carcinogenesis	DisGeNet	
+SOS1	C0596263	Carcinogenesis	DisGeNet	
+SQSTM1	C0596263	Carcinogenesis	DisGeNet	
+SRC	C0596263	Carcinogenesis	DisGeNet	
+TIAM1	C0596263	Carcinogenesis	DisGeNet	
+TRAF2	C0596263	Carcinogenesis	DisGeNet	
+TRAF6	C0596263	Carcinogenesis	DisGeNet	
+UBE2N	C0596263	Carcinogenesis	DisGeNet	
+UBE2V1	C0596263	Carcinogenesis	DisGeNet	
+YES1	C0596263	Carcinogenesis	DisGeNet	
+BCL10	C0025202	Melanoma	DisGeNet	
+BTRC	C0025202	Melanoma	DisGeNet	
+CALM3	C0025202	Melanoma	DisGeNet	
+CAMK2B	C0025202	Melanoma	DisGeNet	
+CUL1	C0025202	Melanoma	DisGeNet	
+EPHB2	C0025202	Melanoma	DisGeNet	
+EPHB6	C0025202	Melanoma	DisGeNet	
+GRIN2A	C0025202	Melanoma	DisGeNet	
+HRAS	C0025202	Melanoma	DisGeNet	
+IFIH1	C0025202	Melanoma	DisGeNet	
+IKBKB	C0025202	Melanoma	DisGeNet	
+MAP3K7	C0025202	Melanoma	DisGeNet	
+MAP3K8	C0025202	Melanoma	DisGeNet	
+NFKB1	C0025202	Melanoma	DisGeNet	
+NFKBIA	C0025202	Melanoma	DisGeNet	
+NFKBIE	C0025202	Melanoma	DisGeNet	
+NOD2	C0025202	Melanoma	DisGeNet	
+RELA	C0025202	Melanoma	DisGeNet	
+RIPK1	C0025202	Melanoma	DisGeNet	
+SHC1	C0025202	Melanoma	DisGeNet	
+SOS1	C0025202	Melanoma	DisGeNet	
+SQSTM1	C0025202	Melanoma	DisGeNet	
+SRC	C0025202	Melanoma	DisGeNet	
+TIAM1	C0025202	Melanoma	DisGeNet	
+TRAF2	C0025202	Melanoma	DisGeNet	
+TRAF6	C0025202	Melanoma	DisGeNet	
+YES1	C0025202	Melanoma	DisGeNet	
+BCL10	C0009402	Colorectal cancer 1	DisGeNet	
+BTRC	C0009402	Colorectal cancer 1	DisGeNet	
+CHUK	C0009402	Colorectal cancer 1	DisGeNet	
+EFNB1	C0009402	Colorectal cancer 1	DisGeNet	
+EFNB2	C0009402	Colorectal cancer 1	DisGeNet	
+EPHB1	C0009402	Colorectal cancer 1	DisGeNet	
+EPHB2	C0009402	Colorectal cancer 1	DisGeNet	
+EPHB3	C0009402	Colorectal cancer 1	DisGeNet	
+EPHB4	C0009402	Colorectal cancer 1	DisGeNet	
+EPHB6	C0009402	Colorectal cancer 1	DisGeNet	
+GRB2	C0009402	Colorectal cancer 1	DisGeNet	
+GRIN2A	C0009402	Colorectal cancer 1	DisGeNet	
+GRIN2B	C0009402	Colorectal cancer 1	DisGeNet	
+HRAS	C0009402	Colorectal cancer 1	DisGeNet	
+IFIH1	C0009402	Colorectal cancer 1	DisGeNet	
+IKBKB	C0009402	Colorectal cancer 1	DisGeNet	
+LYN	C0009402	Colorectal cancer 1	DisGeNet	
+MAP3K8	C0009402	Colorectal cancer 1	DisGeNet	
+NFKB1	C0009402	Colorectal cancer 1	DisGeNet	
+NFKBIA	C0009402	Colorectal cancer 1	DisGeNet	
+NOD2	C0009402	Colorectal cancer 1	DisGeNet	
+RELA	C0009402	Colorectal cancer 1	DisGeNet	
+RIPK1	C0009402	Colorectal cancer 1	DisGeNet	
+RIPK2	C0009402	Colorectal cancer 1	DisGeNet	
+SOS1	C0009402	Colorectal cancer 1	DisGeNet	
+SQSTM1	C0009402	Colorectal cancer 1	DisGeNet	
+SRC	C0009402	Colorectal cancer 1	DisGeNet	
+TIAM1	C0009402	Colorectal cancer 1	DisGeNet	
+BCL10	C4048270	Decreased antibody level in blood	HumPhenOnt	
+CARD11	C4048270	Decreased antibody level in blood	HumPhenOnt	
+IKBKB	C4048270	Decreased antibody level in blood	HumPhenOnt	
+IKBKG	C4048270	Decreased antibody level in blood	HumPhenOnt	
+NFKB1	C4048270	Decreased antibody level in blood	HumPhenOnt	
+NFKB2	C4048270	Decreased antibody level in blood	HumPhenOnt	
+CHUK	C0004153	Atherosclerosis	DisGeNet	
+EFNB1	C0004153	Atherosclerosis	DisGeNet	
+EPHB2	C0004153	Atherosclerosis	DisGeNet	
+GSS	C0004153	Atherosclerosis	DisGeNet	
+IKBKB	C0004153	Atherosclerosis	DisGeNet	
+IKBKG	C0004153	Atherosclerosis	DisGeNet	
+IRAK1	C0004153	Atherosclerosis	DisGeNet	
+NFKB1	C0004153	Atherosclerosis	DisGeNet	
+NFKB2	C0004153	Atherosclerosis	DisGeNet	
+NFKBIA	C0004153	Atherosclerosis	DisGeNet	
+NFKBIB	C0004153	Atherosclerosis	DisGeNet	
+NFKBIE	C0004153	Atherosclerosis	DisGeNet	
+NOD1	C0004153	Atherosclerosis	DisGeNet	
+NOD2	C0004153	Atherosclerosis	DisGeNet	
+RELA	C0004153	Atherosclerosis	DisGeNet	
+RIPK2	C0004153	Atherosclerosis	DisGeNet	
+SOS1	C0004153	Atherosclerosis	DisGeNet	
+SRC	C0004153	Atherosclerosis	DisGeNet	
+TRAF6	C0004153	Atherosclerosis	DisGeNet	
+BCL10	C0009404	Colorectal Neoplasms	DisGeNet	
+CHUK	C0009404	Colorectal Neoplasms	DisGeNet	
+EPHB1	C0009404	Colorectal Neoplasms	DisGeNet	
+EPHB2	C0009404	Colorectal Neoplasms	DisGeNet	
+EPHB4	C0009404	Colorectal Neoplasms	DisGeNet	
+GRIN2A	C0009404	Colorectal Neoplasms	DisGeNet	
+HRAS	C0009404	Colorectal Neoplasms	DisGeNet	
+MAP3K8	C0009404	Colorectal Neoplasms	DisGeNet	
+NFKB1	C0009404	Colorectal Neoplasms	DisGeNet	
+NFKBIA	C0009404	Colorectal Neoplasms	DisGeNet	
+NOD2	C0009404	Colorectal Neoplasms	DisGeNet	
+RELA	C0009404	Colorectal Neoplasms	DisGeNet	
+SLCO1B1	C0009404	Colorectal Neoplasms	DisGeNet	
+SOS1	C0009404	Colorectal Neoplasms	DisGeNet	
+SRC	C0009404	Colorectal Neoplasms	DisGeNet,HumPhenOnt	
+TIAM1	C0009404	Colorectal Neoplasms	DisGeNet	
+UBE2V1	C0009404	Colorectal Neoplasms	DisGeNet	
+YES1	C0009404	Colorectal Neoplasms	DisGeNet	
+ACY1	C0700095	Neuroblastoma	DisGeNet	
+BTRC	C0700095	Neuroblastoma	DisGeNet	
+CALM3	C0700095	Neuroblastoma	DisGeNet	
+CUL1	C0700095	Neuroblastoma	DisGeNet	
+DLG4	C0700095	Neuroblastoma	DisGeNet	
+EFNB2	C0700095	Neuroblastoma	DisGeNet	
+EFNB3	C0700095	Neuroblastoma	DisGeNet	
+EPHB2	C0700095	Neuroblastoma	DisGeNet	
+EPHB6	C0700095	Neuroblastoma	DisGeNet	
+FBXW11	C0700095	Neuroblastoma	DisGeNet	
+FYN	C0700095	Neuroblastoma	DisGeNet	
+GRB2	C0700095	Neuroblastoma	DisGeNet	
+HRAS	C0700095	Neuroblastoma	DisGeNet	
+NEFL	C0700095	Neuroblastoma	DisGeNet	
+NFKB1	C0700095	Neuroblastoma	DisGeNet	
+RELA	C0700095	Neuroblastoma	DisGeNet	
+RIPK2	C0700095	Neuroblastoma	DisGeNet	
+SKP1	C0700095	Neuroblastoma	DisGeNet	
+SQSTM1	C0700095	Neuroblastoma	DisGeNet	
+SRC	C0700095	Neuroblastoma	DisGeNet	
+UBE2N	C0700095	Neuroblastoma	DisGeNet	
+BCL10	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+CARD11	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+IFIH1	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+IKBKB	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+IKBKG	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+NFKB1	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+NFKB2	C3150510	Abnormality of humoral immunity	HumPhenOnt	
+BCL10	C1527249	Colorectal cancer	DisGeNet	
+BTRC	C1527249	Colorectal cancer	DisGeNet	
+CHUK	C1527249	Colorectal cancer	DisGeNet	
+EFNB1	C1527249	Colorectal cancer	DisGeNet	
+EFNB2	C1527249	Colorectal cancer	DisGeNet	
+EPHB1	C1527249	Colorectal cancer	DisGeNet	
+EPHB2	C1527249	Colorectal cancer	DisGeNet	
+EPHB3	C1527249	Colorectal cancer	DisGeNet	
+EPHB4	C1527249	Colorectal cancer	DisGeNet	
+EPHB6	C1527249	Colorectal cancer	DisGeNet	
+GRB2	C1527249	Colorectal cancer	DisGeNet	
+HRAS	C1527249	Colorectal cancer	DisGeNet	
+IKBKB	C1527249	Colorectal cancer	DisGeNet	
+LYN	C1527249	Colorectal cancer	DisGeNet	
+MAP3K8	C1527249	Colorectal cancer	DisGeNet	
+NFKB1	C1527249	Colorectal cancer	DisGeNet	
+NFKBIA	C1527249	Colorectal cancer	DisGeNet	
+NOD1	C1527249	Colorectal cancer	DisGeNet	
+NOD2	C1527249	Colorectal cancer	DisGeNet	
+RELA	C1527249	Colorectal cancer	DisGeNet	
+RIPK1	C1527249	Colorectal cancer	DisGeNet	
+RIPK2	C1527249	Colorectal cancer	DisGeNet	
+SLCO1B1	C1527249	Colorectal cancer	DisGeNet	
+SOS1	C1527249	Colorectal cancer	DisGeNet	
+SQSTM1	C1527249	Colorectal cancer	DisGeNet	
+SRC	C1527249	Colorectal cancer	DisGeNet	
+TAB3	C1527249	Colorectal cancer	DisGeNet	
+TIAM1	C1527249	Colorectal cancer	DisGeNet	
+EFNB2	C0010346	Crohn Disease	DisGeNet	
+EPHB2	C0010346	Crohn Disease	DisGeNet	
+GRB2	C0010346	Crohn Disease	DisGeNet	
+MAP3K7	C0010346	Crohn Disease	DisGeNet	
+MAP3K8	C0010346	Crohn Disease	DisGeNet	
+NFKB1	C0010346	Crohn Disease	DisGeNet	
+NFKB2	C0010346	Crohn Disease	DisGeNet	
+NFKBIA	C0010346	Crohn Disease	DisGeNet	
+NOD1	C0010346	Crohn Disease	DisGeNet	
+NOD2	C0010346	Crohn Disease	ClinVar,DisGeNet,PheGenI	
+RELA	C0010346	Crohn Disease	DisGeNet	
+RIPK2	C0010346	Crohn Disease	DisGeNet	
+SHC1	C0010346	Crohn Disease	DisGeNet	
+SLC22A6	C0010346	Crohn Disease	DisGeNet	
+TAB1	C0010346	Crohn Disease	DisGeNet	
+TRAF6	C0010346	Crohn Disease	DisGeNet	
+CALM3	C1520166	Xenograft Model	DisGeNet	
+EFNB2	C1520166	Xenograft Model	DisGeNet	
+EPHB2	C1520166	Xenograft Model	DisGeNet	
+EPHB4	C1520166	Xenograft Model	DisGeNet	
+EPHB6	C1520166	Xenograft Model	DisGeNet	
+NFKB1	C1520166	Xenograft Model	DisGeNet	
+NOD1	C1520166	Xenograft Model	DisGeNet	
+RELA	C1520166	Xenograft Model	DisGeNet	
+RIPK1	C1520166	Xenograft Model	DisGeNet	
+RIPK2	C1520166	Xenograft Model	DisGeNet	
+SLC7A11	C1520166	Xenograft Model	DisGeNet	
+TRAF6	C1520166	Xenograft Model	DisGeNet	
+CALM3	C0036341	Schizophrenia	DisGeNet	
+CAMK2A	C0036341	Schizophrenia	DisGeNet	
+CAMK2B	C0036341	Schizophrenia	DisGeNet	
+DLG4	C0036341	Schizophrenia	DisGeNet	
+EFNB1	C0036341	Schizophrenia	PheGenI	
+EFNB2	C0036341	Schizophrenia	DisGeNet	
+EPHB2	C0036341	Schizophrenia	DisGeNet	
+FYN	C0036341	Schizophrenia	DisGeNet	
+GRB2	C0036341	Schizophrenia	DisGeNet	
+GRIN1	C0036341	Schizophrenia	DisGeNet	
+GRIN2A	C0036341	Schizophrenia	DisGeNet	
+GRIN2B	C0036341	Schizophrenia	DisGeNet	
+GRIN2C	C0036341	Schizophrenia	DisGeNet	
+GRIN2D	C0036341	Schizophrenia	DisGeNet	
+GRIN3A	C0036341	Schizophrenia	DisGeNet	
+MAP3K8	C0036341	Schizophrenia	DisGeNet	
+NEFL	C0036341	Schizophrenia	DisGeNet	
+NFKB1	C0036341	Schizophrenia	DisGeNet	
+REL	C0036341	Schizophrenia	DisGeNet	
+RELA	C0036341	Schizophrenia	DisGeNet	
+RIPK2	C0036341	Schizophrenia	DisGeNet	
+SOS1	C0036341	Schizophrenia	DisGeNet	
+UBE2N	C0036341	Schizophrenia	DisGeNet	
+EPHB2	C0042769	Virus Diseases	DisGeNet	
+HRAS	C0042769	Virus Diseases	DisGeNet	
+IFIH1	C0042769	Virus Diseases	DisGeNet	
+IKBKG	C0042769	Virus Diseases	DisGeNet	
+NFKB1	C0042769	Virus Diseases	DisGeNet	
+NFKBIA	C0042769	Virus Diseases	DisGeNet	
+NOD1	C0042769	Virus Diseases	DisGeNet	
+NOD2	C0042769	Virus Diseases	DisGeNet	
+REL	C0042769	Virus Diseases	DisGeNet	
+SKP1	C0042769	Virus Diseases	DisGeNet	
+SQSTM1	C0042769	Virus Diseases	DisGeNet	
+TRAF6	C0042769	Virus Diseases	DisGeNet	
+UBE2N	C0042769	Virus Diseases	DisGeNet	
+UBE2V1	C0042769	Virus Diseases	DisGeNet	
+BCL10	C0025500	Mesothelioma, malignant	ClinVar,DisGeNet	
+CALM3	C0025500	Mesothelioma, malignant	DisGeNet	
+EPHB2	C0025500	Mesothelioma, malignant	DisGeNet	
+EPHB4	C0025500	Mesothelioma, malignant	DisGeNet	
+FYN	C0025500	Mesothelioma, malignant	DisGeNet	
+LYN	C0025500	Mesothelioma, malignant	DisGeNet	
+RELA	C0025500	Mesothelioma, malignant	DisGeNet	
+SOS1	C0025500	Mesothelioma, malignant	DisGeNet	
+SRC	C0025500	Mesothelioma, malignant	DisGeNet	
+TRAF2	C0025500	Mesothelioma, malignant	DisGeNet	
+BCL10	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+CARD11	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+HRAS	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+IFIH1	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+IKBKB	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+IKBKG	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+MALT1	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+MAP3K7	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+MAP3K8	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+NFKB1	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+NFKB2	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+NFKBIA	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+SOS1	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+SQSTM1	C4022992	Abnormal respiratory system morphology	HumPhenOnt	
+ACTN2	C0001973	Alcohol dependence	DisGeNet	
+CAMK2A	C0001973	Alcohol dependence	DisGeNet	
+CAMK2D	C0001973	Alcohol dependence	DisGeNet	
+DLG4	C0001973	Alcohol dependence	DisGeNet	
+FYN	C0001973	Alcohol dependence	DisGeNet	
+GRIN1	C0001973	Alcohol dependence	DisGeNet	
+GRIN2A	C0001973	Alcohol dependence	DisGeNet	
+GRIN2B	C0001973	Alcohol dependence	DisGeNet	
+NEFL	C0001973	Alcohol dependence	DisGeNet	
+NFKB1	C0001973	Alcohol dependence	DisGeNet	
+NFKB2	C0001973	Alcohol dependence	DisGeNet	
+NFKBIA	C0001973	Alcohol dependence	DisGeNet	
+RIPK2	C0001973	Alcohol dependence	DisGeNet	
+BCL10	C0494261	Combined immunodeficiency, X-linked	DisGeNet	
+IKBKB	C0494261	Combined immunodeficiency, X-linked	DisGeNet	
+IKBKG	C0494261	Combined immunodeficiency, X-linked	DisGeNet	
+MALT1	C0494261	Combined immunodeficiency, X-linked	DisGeNet	
+BCL10	C0242379	Malignant neoplasm of lung	DisGeNet	
+BTRC	C0242379	Malignant neoplasm of lung	DisGeNet	
+CALM3	C0242379	Malignant neoplasm of lung	DisGeNet	
+CHUK	C0242379	Malignant neoplasm of lung	DisGeNet	
+EFNB3	C0242379	Malignant neoplasm of lung	DisGeNet	
+EPHB1	C0242379	Malignant neoplasm of lung	DisGeNet	
+EPHB2	C0242379	Malignant neoplasm of lung	DisGeNet	
+EPHB4	C0242379	Malignant neoplasm of lung	DisGeNet	
+EPHB6	C0242379	Malignant neoplasm of lung	DisGeNet	
+GSS	C0242379	Malignant neoplasm of lung	DisGeNet	
+HRAS	C0242379	Malignant neoplasm of lung	DisGeNet	
+IKBKB	C0242379	Malignant neoplasm of lung	DisGeNet	
+MAP3K7	C0242379	Malignant neoplasm of lung	DisGeNet	
+MAP3K8	C0242379	Malignant neoplasm of lung	DisGeNet	
+NFKB1	C0242379	Malignant neoplasm of lung	DisGeNet	
+NFKBIA	C0242379	Malignant neoplasm of lung	DisGeNet	
+NFKBIE	C0242379	Malignant neoplasm of lung	DisGeNet	
+NOD2	C0242379	Malignant neoplasm of lung	DisGeNet	
+SHC1	C0242379	Malignant neoplasm of lung	DisGeNet	
+SLCO1B1	C0242379	Malignant neoplasm of lung	DisGeNet	
+SOS1	C0242379	Malignant neoplasm of lung	DisGeNet	
+SRC	C0242379	Malignant neoplasm of lung	DisGeNet	
+TIAM1	C0242379	Malignant neoplasm of lung	DisGeNet	
+TRAF2	C0242379	Malignant neoplasm of lung	DisGeNet	
+TRAF6	C0242379	Malignant neoplasm of lung	DisGeNet	
+UBE2N	C0242379	Malignant neoplasm of lung	DisGeNet	
+DLG4	C0020179	Huntington's chorea	DisGeNet	
+GRIN1	C0020179	Huntington's chorea	DisGeNet	
+GRIN2A	C0020179	Huntington's chorea	DisGeNet	
+GRIN2B	C0020179	Huntington's chorea	DisGeNet	
+GRIN3A	C0020179	Huntington's chorea	DisGeNet	
+NFKB1	C0020179	Huntington's chorea	DisGeNet	
+RIPK2	C0020179	Huntington's chorea	DisGeNet	
+SOS1	C0020179	Huntington's chorea	DisGeNet	
+TRAF6	C0020179	Huntington's chorea	DisGeNet	
+BCL10	C0035243	Respiratory tract infection	HumPhenOnt	
+CARD11	C0035243	Respiratory tract infection	HumPhenOnt	
+EPHB1	C0035243	Respiratory tract infection	DisGeNet	
+IFIH1	C0035243	Respiratory tract infection	HumPhenOnt	
+IKBKB	C0035243	Respiratory tract infection	HumPhenOnt	
+IKBKG	C0035243	Respiratory tract infection	HumPhenOnt	
+MALT1	C0035243	Respiratory tract infection	HumPhenOnt	
+NFKB1	C0035243	Respiratory tract infection	HumPhenOnt	
+NFKB2	C0035243	Respiratory tract infection	HumPhenOnt	
+NFKBIA	C0035243	Respiratory tract infection	HumPhenOnt	
+ACTN2	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+CHUK	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+IKBKB	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+NEFL	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+NFKB1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+SOS1	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+TRAF6	C0026846	Amyotrophy involving the shoulder musculature	DisGeNet	
+BCL10	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CALM3	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CAMK2D	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+EPHB2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+EPHB6	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+IKBKB	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+LYN	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+MAP3K8	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NFKB1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NFKB2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NFKBIE	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NOD1	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+NOD2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+REL	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+RELA	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+SRC	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+TRAF2	C0023434	Chronic Lymphocytic Leukemia	DisGeNet	
+CAMK2A	C0005586	Bipolar affective disorder	DisGeNet	
+DLG4	C0005586	Bipolar affective disorder	DisGeNet	
+FYN	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN1	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2A	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2B	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2C	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN2D	C0005586	Bipolar affective disorder	DisGeNet	
+GRIN3A	C0005586	Bipolar affective disorder	DisGeNet	
+HRAS	C0005586	Bipolar affective disorder	DisGeNet	
+NFKB1	C0005586	Bipolar affective disorder	DisGeNet	
+NOD2	C0005586	Bipolar affective disorder	DisGeNet	
+SLC22A6	C0005586	Bipolar affective disorder	DisGeNet	
+SOS1	C0005586	Bipolar affective disorder	DisGeNet	
+ACY1	C0009375	Neoplasm of the colon	DisGeNet	
+CHUK	C0009375	Neoplasm of the colon	DisGeNet	
+EFNB2	C0009375	Neoplasm of the colon	DisGeNet	
+EPHB2	C0009375	Neoplasm of the colon	DisGeNet	
+HRAS	C0009375	Neoplasm of the colon	DisGeNet	
+IKBKB	C0009375	Neoplasm of the colon	DisGeNet	
+NFKB1	C0009375	Neoplasm of the colon	DisGeNet	
+NFKBIA	C0009375	Neoplasm of the colon	DisGeNet	
+NOD1	C0009375	Neoplasm of the colon	DisGeNet	
+NOD2	C0009375	Neoplasm of the colon	DisGeNet	
+RELA	C0009375	Neoplasm of the colon	DisGeNet	
+SHC1	C0009375	Neoplasm of the colon	DisGeNet	
+SRC	C0009375	Neoplasm of the colon	DisGeNet	
+TIAM1	C0009375	Neoplasm of the colon	DisGeNet	
+CARD11	C0243026	Sepsis	DisGeNet	
+FYN	C0243026	Sepsis	DisGeNet	
+GRIN2A	C0243026	Sepsis	DisGeNet	
+IRAK1	C0243026	Sepsis	DisGeNet	
+NFKB1	C0243026	Sepsis	DisGeNet	
+NFKB2	C0243026	Sepsis	HumPhenOnt	
+NFKBIA	C0243026	Sepsis	DisGeNet	
+NOD1	C0243026	Sepsis	DisGeNet	
+NOD2	C0243026	Sepsis	DisGeNet	
+RELA	C0243026	Sepsis	DisGeNet	
+TAB3	C0243026	Sepsis	DisGeNet	
+TRAF6	C0243026	Sepsis	DisGeNet	
+BCL10	C0023467	Acute myeloid leukemia	DisGeNet	
+BTRC	C0023467	Acute myeloid leukemia	DisGeNet	
+CALM3	C0023467	Acute myeloid leukemia	DisGeNet	
+EPHB2	C0023467	Acute myeloid leukemia	DisGeNet	
+HRAS	C0023467	Acute myeloid leukemia	DisGeNet	
+IKBKG	C0023467	Acute myeloid leukemia	DisGeNet	
+LYN	C0023467	Acute myeloid leukemia	DisGeNet	
+MAP3K7	C0023467	Acute myeloid leukemia	DisGeNet	
+NFKB1	C0023467	Acute myeloid leukemia	DisGeNet	
+NFKB2	C0023467	Acute myeloid leukemia	DisGeNet	
+NOD2	C0023467	Acute myeloid leukemia	DisGeNet	
+REL	C0023467	Acute myeloid leukemia	DisGeNet	
+RELA	C0023467	Acute myeloid leukemia	DisGeNet	
+RIPK1	C0023467	Acute myeloid leukemia	DisGeNet	
+SOS1	C0023467	Acute myeloid leukemia	DisGeNet	
+SQSTM1	C0023467	Acute myeloid leukemia	DisGeNet	
+SRC	C0023467	Acute myeloid leukemia	DisGeNet	
+TIAM1	C0023467	Acute myeloid leukemia	DisGeNet	
+TRAF2	C0023467	Acute myeloid leukemia	DisGeNet	
+TRAF6	C0023467	Acute myeloid leukemia	DisGeNet	
+UBE2V1	C0023467	Acute myeloid leukemia	DisGeNet	
+CALM3	C0016057	Fibrosarcoma	DisGeNet	
+EPHB4	C0016057	Fibrosarcoma	DisGeNet	
+FBXW11	C0016057	Fibrosarcoma	DisGeNet	
+HRAS	C0016057	Fibrosarcoma	DisGeNet	
+NFKB1	C0016057	Fibrosarcoma	DisGeNet	
+RELA	C0016057	Fibrosarcoma	DisGeNet	
+RIPK1	C0016057	Fibrosarcoma	DisGeNet	
+TRAF2	C0016057	Fibrosarcoma	DisGeNet	
+IKBKG	C0004623	Recurrent bacterial infection	DisGeNet	
+NFKB1	C0004623	Recurrent bacterial infection	DisGeNet	
+NFKBIA	C0004623	Recurrent bacterial infection	DisGeNet	
+NOD1	C0004623	Recurrent bacterial infection	DisGeNet	
+NOD2	C0004623	Recurrent bacterial infection	DisGeNet	
+RELA	C0004623	Recurrent bacterial infection	DisGeNet	
+RIPK2	C0004623	Recurrent bacterial infection	DisGeNet	
+TRAF6	C0004623	Recurrent bacterial infection	DisGeNet	
+BCL10	C1261473	Sarcoma, Ewing	DisGeNet	
+EPHB2	C1261473	Sarcoma, Ewing	DisGeNet	
+EPHB4	C1261473	Sarcoma, Ewing	DisGeNet	
+FBXW11	C1261473	Sarcoma, Ewing	DisGeNet	
+FYN	C1261473	Sarcoma, Ewing	DisGeNet	
+HRAS	C1261473	Sarcoma, Ewing	DisGeNet,HumPhenOnt	
+MAP3K7	C1261473	Sarcoma, Ewing	DisGeNet	
+NEFL	C1261473	Sarcoma, Ewing	DisGeNet	
+NFKB1	C1261473	Sarcoma, Ewing	DisGeNet	
+RELA	C1261473	Sarcoma, Ewing	DisGeNet	
+RIPK2	C1261473	Sarcoma, Ewing	DisGeNet	
+SOS1	C1261473	Sarcoma, Ewing	HumPhenOnt	
+SQSTM1	C1261473	Sarcoma, Ewing	HumPhenOnt	
+SRC	C1261473	Sarcoma, Ewing	DisGeNet,HumPhenOnt	
+CALM3	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+DLG4	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+FYN	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2A	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+GRIN2B	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+NFKB1	C0014556	Epilepsy, Temporal Lobe	DisGeNet	
+CALM3	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+EPHB2	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+GRIN2C	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+HRAS	C0041341	Tuberous sclerosis syndrome	HumPhenOnt	
+IKBKB	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+NEFL	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+NFKB1	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+FYN	C0920646	Renal ischaemia	DisGeNet	
+NFKB1	C0920646	Renal ischaemia	DisGeNet	
+NOD1	C0920646	Renal ischaemia	DisGeNet	
+NOD2	C0920646	Renal ischaemia	DisGeNet	
+RIPK2	C0920646	Renal ischaemia	DisGeNet	
+BCL10	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+CARD11	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+IFIH1	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+IKBKB	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+IKBKG	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+NFKB1	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+NFKB2	C0427546	Abnormality of lymphocytes	HumPhenOnt	
+NFKB1	C0009782	Connective Tissue Diseases	DisGeNet	
+NFKB2	C0009782	Connective Tissue Diseases	DisGeNet	
+NFKBIA	C0009782	Connective Tissue Diseases	DisGeNet	
+NFKBIB	C0009782	Connective Tissue Diseases	DisGeNet	
+NFKBIE	C0009782	Connective Tissue Diseases	DisGeNet	
+NOD2	C0009782	Connective Tissue Diseases	DisGeNet	
+TRAF2	C0009782	Connective Tissue Diseases	DisGeNet	
+EFNB1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+HRAS	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+SOS1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+SQSTM1	C1836940	Thickened nuchal skin fold	HumPhenOnt	
+BCL10	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+BTRC	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CALM3	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+CHUK	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EFNB2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EPHB1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EPHB2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EPHB3	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EPHB4	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+EPHB6	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+FYN	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+GRB2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+HRAS	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+IKBKB	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+MAP3K7	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+MAP3K8	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NEFL	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NFKB1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NFKBIA	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NFKBIB	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+RELA	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+SHC1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+SLC7A11	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+SOS1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+SRC	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TIAM1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TRAF2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+TRAF6	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+UBE2N	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+UBE2V1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+YES1	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+BCL10	C0027651	Neoplasms	HumPhenOnt	
+HRAS	C0027651	Neoplasms	HumPhenOnt	
+IKBKG	C0027651	Neoplasms	HumPhenOnt	
+MALT1	C0027651	Neoplasms	HumPhenOnt	
+MAP3K8	C0027651	Neoplasms	HumPhenOnt	
+NFKB1	C0027651	Neoplasms	HumPhenOnt	
+NFKB2	C0027651	Neoplasms	HumPhenOnt	
+NOD2	C0027651	Neoplasms	HumPhenOnt	
+SLCO1B1	C0027651	Neoplasms	DisGeNet	
+SOS1	C0027651	Neoplasms	HumPhenOnt	
+SQSTM1	C0027651	Neoplasms	HumPhenOnt	
+SRC	C0027651	Neoplasms	HumPhenOnt	
+CAMK2A	C0021368	Inflammation	DisGeNet	
+EFNB1	C0021368	Inflammation	DisGeNet	
+NFKB1	C0021368	Inflammation	DisGeNet	
+NFKB2	C0021368	Inflammation	DisGeNet	
+NFKBIA	C0021368	Inflammation	DisGeNet	
+NFKBIB	C0021368	Inflammation	DisGeNet	
+NFKBIE	C0021368	Inflammation	DisGeNet	
+NOD1	C0021368	Inflammation	DisGeNet	
+NOD2	C0021368	Inflammation	DisGeNet	
+REL	C0021368	Inflammation	DisGeNet	
+RELA	C0021368	Inflammation	DisGeNet	
+TRAF2	C0021368	Inflammation	DisGeNet	
+BCL10	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CALM3	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+CUL1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+EPHB2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+EPHB4	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+HRAS	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+IKBKB	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+IRAK1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+MAP3K7	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+MAP3K8	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NFKB1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NFKB2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NFKBIA	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NFKBIB	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NOD2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+RELA	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+RIPK1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SOS1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SQSTM1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+SRC	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+UBE2N	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+YES1	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+BCL10	C4021760	Abnormality of lung morphology	HumPhenOnt	
+CARD11	C4021760	Abnormality of lung morphology	HumPhenOnt	
+HRAS	C4021760	Abnormality of lung morphology	HumPhenOnt	
+IFIH1	C4021760	Abnormality of lung morphology	HumPhenOnt	
+IKBKB	C4021760	Abnormality of lung morphology	HumPhenOnt	
+IKBKG	C4021760	Abnormality of lung morphology	HumPhenOnt	
+MALT1	C4021760	Abnormality of lung morphology	HumPhenOnt	
+MAP3K8	C4021760	Abnormality of lung morphology	HumPhenOnt	
+NFKB1	C4021760	Abnormality of lung morphology	HumPhenOnt	
+NFKB2	C4021760	Abnormality of lung morphology	HumPhenOnt	
+NFKBIA	C4021760	Abnormality of lung morphology	HumPhenOnt	
+SOS1	C4021760	Abnormality of lung morphology	HumPhenOnt	
+BCL10	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+EFNB2	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+EPHB2	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+EPHB4	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+GRB2	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+GRIN2B	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+MAP3K7	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+NFKB1	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+NFKBIA	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+RELA	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+SOS1	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+TIAM1	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+TRAF6	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+UBE2N	C0279626	Esophageal Squamous Cell Carcinoma	DisGeNet	
+ACY1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CALM3	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+CARD11	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+EPHB2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+EPHB4	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+IKBKB	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+MAP3K8	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NFKB1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NFKB2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+NOD2	C0007134	Renal cell carcinoma, nonpapillary	HumPhenOnt	
+RELA	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+RIPK2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SLCO1B1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SOS1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SQSTM1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+SRC	C0007134	Renal cell carcinoma, nonpapillary	HumPhenOnt	
+TIAM1	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+TRAF2	C0007134	Renal cell carcinoma, nonpapillary	DisGeNet	
+BCL10	C0699790	Carcinoma of colon	DisGeNet	
+CALM3	C0699790	Carcinoma of colon	DisGeNet	
+EFNB2	C0699790	Carcinoma of colon	DisGeNet	
+EPHB2	C0699790	Carcinoma of colon	DisGeNet	
+EPHB4	C0699790	Carcinoma of colon	DisGeNet	
+GRIN2A	C0699790	Carcinoma of colon	DisGeNet	
+GSS	C0699790	Carcinoma of colon	DisGeNet	
+HRAS	C0699790	Carcinoma of colon	DisGeNet	
+MAP3K8	C0699790	Carcinoma of colon	DisGeNet	
+NFKB1	C0699790	Carcinoma of colon	DisGeNet	
+NFKB2	C0699790	Carcinoma of colon	DisGeNet	
+NFKBIA	C0699790	Carcinoma of colon	DisGeNet	
+NOD2	C0699790	Carcinoma of colon	DisGeNet	
+RIPK1	C0699790	Carcinoma of colon	DisGeNet	
+SLCO1B1	C0699790	Carcinoma of colon	DisGeNet	
+SOS1	C0699790	Carcinoma of colon	DisGeNet	
+SRC	C0699790	Carcinoma of colon	ClinVar,DisGeNet	
+TIAM1	C0699790	Carcinoma of colon	DisGeNet	
+TRAF2	C0699790	Carcinoma of colon	DisGeNet	
+TRAF6	C0699790	Carcinoma of colon	DisGeNet	
+YES1	C0699790	Carcinoma of colon	DisGeNet	
+CHUK	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+EPHB2	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+HRAS	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+MAP3K8	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+NFKB1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+NFKBIA	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+NFKBIB	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+RELA	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+SOS1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+TIAM1	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+TRAF2	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+UBE2N	C2931822	Nasopharyngeal carcinoma, susceptibility to, 3	DisGeNet	
+BCL10	C0677886	Ovarian epithelial cancer	DisGeNet	
+CALM3	C0677886	Ovarian epithelial cancer	DisGeNet	
+CAMK2D	C0677886	Ovarian epithelial cancer	DisGeNet	
+CARD11	C0677886	Ovarian epithelial cancer	DisGeNet	
+EPHB2	C0677886	Ovarian epithelial cancer	DisGeNet	
+EPHB4	C0677886	Ovarian epithelial cancer	DisGeNet	
+HRAS	C0677886	Ovarian epithelial cancer	DisGeNet	
+IKBKB	C0677886	Ovarian epithelial cancer	DisGeNet	
+IRAK1	C0677886	Ovarian epithelial cancer	DisGeNet	
+MAP3K7	C0677886	Ovarian epithelial cancer	DisGeNet	
+MAP3K8	C0677886	Ovarian epithelial cancer	DisGeNet	
+NFKB1	C0677886	Ovarian epithelial cancer	DisGeNet	
+NFKBIA	C0677886	Ovarian epithelial cancer	DisGeNet	
+NFKBIB	C0677886	Ovarian epithelial cancer	DisGeNet	
+RELA	C0677886	Ovarian epithelial cancer	DisGeNet	
+RIPK1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SLCO1B1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SOS1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SQSTM1	C0677886	Ovarian epithelial cancer	DisGeNet	
+SRC	C0677886	Ovarian epithelial cancer	DisGeNet	
+TRAF2	C0677886	Ovarian epithelial cancer	DisGeNet	
+UBE2N	C0677886	Ovarian epithelial cancer	DisGeNet	
+YES1	C0677886	Ovarian epithelial cancer	DisGeNet	
+BCL10	C0023903	Neoplasm of the liver	DisGeNet	
+CHUK	C0023903	Neoplasm of the liver	DisGeNet	
+EFNB2	C0023903	Neoplasm of the liver	DisGeNet	
+EPHB2	C0023903	Neoplasm of the liver	DisGeNet	
+EPHB4	C0023903	Neoplasm of the liver	DisGeNet	
+EPHB6	C0023903	Neoplasm of the liver	DisGeNet	
+HRAS	C0023903	Neoplasm of the liver	DisGeNet	
+MALT1	C0023903	Neoplasm of the liver	DisGeNet	
+MAP3K7	C0023903	Neoplasm of the liver	DisGeNet	
+MAP3K8	C0023903	Neoplasm of the liver	DisGeNet	
+NFKB1	C0023903	Neoplasm of the liver	DisGeNet	
+NFKBIA	C0023903	Neoplasm of the liver	DisGeNet	
+SHC1	C0023903	Neoplasm of the liver	DisGeNet	
+SOS1	C0023903	Neoplasm of the liver	DisGeNet	
+SQSTM1	C0023903	Neoplasm of the liver	DisGeNet	
+SRC	C0023903	Neoplasm of the liver	DisGeNet	
+TIAM1	C0023903	Neoplasm of the liver	DisGeNet	
+BTRC	C0004114	Astrocytoma	DisGeNet	
+CALM3	C0004114	Astrocytoma	DisGeNet	
+EFNB1	C0004114	Astrocytoma	DisGeNet	
+EFNB2	C0004114	Astrocytoma	DisGeNet	
+EPHB2	C0004114	Astrocytoma	DisGeNet	
+HRAS	C0004114	Astrocytoma	DisGeNet	
+NEFL	C0004114	Astrocytoma	DisGeNet	
+NFKB1	C0004114	Astrocytoma	DisGeNet	
+RIPK2	C0004114	Astrocytoma	DisGeNet	
+SRC	C0004114	Astrocytoma	DisGeNet	
+UBE2N	C0004114	Astrocytoma	DisGeNet	
+UBE2V1	C0004114	Astrocytoma	DisGeNet	
+BCL10	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet,HumPhenOnt	
+CARD11	C0021051	Immunodeficiency due to defect in CD3-gamma	HumPhenOnt	
+CHUK	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+EPHB2	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+EPHB6	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+HRAS	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+IKBKB	C0021051	Immunodeficiency due to defect in CD3-gamma	HumPhenOnt	
+IKBKG	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet,HumPhenOnt	
+MALT1	C0021051	Immunodeficiency due to defect in CD3-gamma	HumPhenOnt	
+NFKB1	C0021051	Immunodeficiency due to defect in CD3-gamma	ClinVar,DisGeNet,HumPhenOnt	
+NFKB2	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet,HumPhenOnt	
+BCL10	C0007102	Colon cancer	DisGeNet	
+EFNB2	C0007102	Colon cancer	DisGeNet	
+EPHB2	C0007102	Colon cancer	DisGeNet	
+EPHB4	C0007102	Colon cancer	DisGeNet	
+GRIN2A	C0007102	Colon cancer	DisGeNet	
+GSS	C0007102	Colon cancer	DisGeNet	
+HRAS	C0007102	Colon cancer	DisGeNet	
+MAP3K7	C0007102	Colon cancer	DisGeNet	
+MAP3K8	C0007102	Colon cancer	DisGeNet	
+NFKB1	C0007102	Colon cancer	DisGeNet	
+NFKB2	C0007102	Colon cancer	DisGeNet	
+NFKBIA	C0007102	Colon cancer	DisGeNet	
+NOD2	C0007102	Colon cancer	DisGeNet	
+RIPK1	C0007102	Colon cancer	DisGeNet	
+SLCO1B1	C0007102	Colon cancer	DisGeNet	
+SOS1	C0007102	Colon cancer	DisGeNet	
+SRC	C0007102	Colon cancer	DisGeNet	
+TRAF2	C0007102	Colon cancer	DisGeNet	
+TRAF6	C0007102	Colon cancer	DisGeNet	
+YES1	C0007102	Colon cancer	DisGeNet	
+CHUK	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+IFIH1	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+IKBKB	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+IKBKG	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+NFKB1	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+NFKB2	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+NFKBIA	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+NOD2	C0035235	Respiratory Syncytial Virus Infections	DisGeNet	
+BCL10	C0079772	T-cell lymphoma	DisGeNet	
+IKBKB	C0079772	T-cell lymphoma	DisGeNet	
+MALT1	C0079772	T-cell lymphoma	DisGeNet	
+MAP3K8	C0079772	T-cell lymphoma	DisGeNet	
+NFKB1	C0079772	T-cell lymphoma	DisGeNet	
+NFKB2	C0079772	T-cell lymphoma	DisGeNet	
+SOS1	C0079772	T-cell lymphoma	DisGeNet	
+TIAM1	C0079772	T-cell lymphoma	DisGeNet	
+BCL10	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIN2A	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIN2B	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+MAP3K8	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+NEFL	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+NFKB1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+RELA	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SLC7A11	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SOS1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SQSTM1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet,HumPhenOnt	
+TAB3	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+TIAM1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+UBE2V1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GRIN1	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2A	C0032051	Placental Insufficiency	DisGeNet	
+GRIN2B	C0032051	Placental Insufficiency	DisGeNet	
+EFNB1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+HRAS	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+SOS1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+SQSTM1	C4023366	Fetal ultrasound soft marker	HumPhenOnt	
+BTRC	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+EFNB2	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+EPHB2	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+EPHB3	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+EPHB4	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+FBXW11	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+GSS	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+RELA	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+SOS1	C0032580	Familial adenomatous polyposis 1	DisGeNet	
+IKBKG	C0013371	Shigella Infections	DisGeNet	
+NFKB1	C0013371	Shigella Infections	DisGeNet	
+SQSTM1	C0013371	Shigella Infections	DisGeNet	
+UBE2N	C0013371	Shigella Infections	DisGeNet	
+EPHB2	C1446409	Hormone receptor positive tumor	DisGeNet	
+LYN	C1446409	Hormone receptor positive tumor	DisGeNet	
+NFKB1	C1446409	Hormone receptor positive tumor	DisGeNet	
+SRC	C1446409	Hormone receptor positive tumor	DisGeNet	
+ACTN2	C0152009	Abnormal leukocyte count	HumPhenOnt	
+BCL10	C0152009	Abnormal leukocyte count	HumPhenOnt	
+CARD11	C0152009	Abnormal leukocyte count	HumPhenOnt	
+GSS	C0152009	Abnormal leukocyte count	HumPhenOnt	
+IFIH1	C0152009	Abnormal leukocyte count	HumPhenOnt	
+IKBKB	C0152009	Abnormal leukocyte count	HumPhenOnt	
+IKBKG	C0152009	Abnormal leukocyte count	HumPhenOnt	
+NFKB1	C0152009	Abnormal leukocyte count	HumPhenOnt	
+NFKB2	C0152009	Abnormal leukocyte count	HumPhenOnt	
+ACTN2	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+BCL10	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+CARD11	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+GSS	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+IFIH1	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+IKBKB	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+IKBKG	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+NFKB1	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+NFKB2	C4023612	Abnormality of cellular immune system	HumPhenOnt	
+BCL10	C3806482	Recurrent respiratory infections	HumPhenOnt	
+CARD11	C3806482	Recurrent respiratory infections	HumPhenOnt	
+IFIH1	C3806482	Recurrent respiratory infections	HumPhenOnt	
+IKBKG	C3806482	Recurrent respiratory infections	HumPhenOnt	
+MALT1	C3806482	Recurrent respiratory infections	HumPhenOnt	
+NFKB1	C3806482	Recurrent respiratory infections	HumPhenOnt	
+NFKB2	C3806482	Recurrent respiratory infections	HumPhenOnt	
+NFKBIA	C3806482	Recurrent respiratory infections	HumPhenOnt	
+CALM3	C0699885	Bladder carcinoma	DisGeNet	
+EPHB2	C0699885	Bladder carcinoma	DisGeNet	
+EPHB4	C0699885	Bladder carcinoma	DisGeNet	
+FBXW11	C0699885	Bladder carcinoma	DisGeNet	
+GRB2	C0699885	Bladder carcinoma	DisGeNet	
+HRAS	C0699885	Bladder carcinoma	DisGeNet,HumPhenOnt	
+IRAK1	C0699885	Bladder carcinoma	DisGeNet	
+MAP3K7	C0699885	Bladder carcinoma	DisGeNet	
+NFKB1	C0699885	Bladder carcinoma	DisGeNet	
+RELA	C0699885	Bladder carcinoma	DisGeNet	
+SOS1	C0699885	Bladder carcinoma	DisGeNet	
+SRC	C0699885	Bladder carcinoma	HumPhenOnt	
+TRAF2	C0699885	Bladder carcinoma	DisGeNet	
+TRAF6	C0699885	Bladder carcinoma	DisGeNet	
+UBE2N	C0699885	Bladder carcinoma	DisGeNet	
+IKBKB	C0333516	Tumor necrosis	DisGeNet	
+IKBKG	C0333516	Tumor necrosis	DisGeNet	
+NFKB1	C0333516	Tumor necrosis	DisGeNet	
+RIPK1	C0333516	Tumor necrosis	DisGeNet	
+TRAF2	C0333516	Tumor necrosis	DisGeNet	
+TRAF6	C0333516	Tumor necrosis	DisGeNet	
+BCL10	C0030193	Pain	HumPhenOnt	
+GRIN1	C0030193	Pain	DisGeNet	
+GRIN2B	C0030193	Pain	DisGeNet	
+GSS	C0030193	Pain	DisGeNet	
+IRAK1	C0030193	Pain	DisGeNet	
+MALT1	C0030193	Pain	HumPhenOnt	
+NFKB1	C0030193	Pain	HumPhenOnt	
+NFKB2	C0030193	Pain	HumPhenOnt	
+NOD2	C0030193	Pain	HumPhenOnt	
+SLCO1B1	C0030193	Pain	HumPhenOnt	
+SQSTM1	C0030193	Pain	HumPhenOnt	
+GRIN1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2A	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+GRIN2B	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+IRAK1	C0752308	Hypoxia-Ischemia, Brain	DisGeNet	
+ACY1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+BCL10	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CALM3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CAMK2D	C0007131	Non-small cell lung carcinoma	DisGeNet	
+EFNB3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+EPHB2	C0007131	Non-small cell lung carcinoma	DisGeNet	
+EPHB3	C0007131	Non-small cell lung carcinoma	DisGeNet	
+EPHB6	C0007131	Non-small cell lung carcinoma	DisGeNet	
+GRIN2B	C0007131	Non-small cell lung carcinoma	DisGeNet	
+HRAS	C0007131	Non-small cell lung carcinoma	DisGeNet	
+IKBKB	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NFKB1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+NFKBIA	C0007131	Non-small cell lung carcinoma	DisGeNet	
+RELA	C0007131	Non-small cell lung carcinoma	DisGeNet	
+RIPK1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+RIPK2	C0007131	Non-small cell lung carcinoma	DisGeNet	
+SLCO1B1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+SOS1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+SQSTM1	C0007131	Non-small cell lung carcinoma	DisGeNet	
+SRC	C0007131	Non-small cell lung carcinoma	DisGeNet	
+UBE2N	C0007131	Non-small cell lung carcinoma	DisGeNet	
+CALM3	C0278883	Metastatic melanoma	DisGeNet	
+CAMK2B	C0278883	Metastatic melanoma	DisGeNet	
+EPHB2	C0278883	Metastatic melanoma	DisGeNet	
+EPHB6	C0278883	Metastatic melanoma	DisGeNet	
+NFKB1	C0278883	Metastatic melanoma	DisGeNet	
+SOS1	C0278883	Metastatic melanoma	DisGeNet	
+TIAM1	C0278883	Metastatic melanoma	DisGeNet	
+TRAF2	C0278883	Metastatic melanoma	DisGeNet	
+BCL10	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+CARD11	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+HRAS	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+IFIH1	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+IKBKB	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+IKBKG	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+MALT1	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+MAP3K7	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+MAP3K8	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+NFKB1	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+NFKB2	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+NFKBIA	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+NOD2	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+SOS1	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+SQSTM1	C4018871	Abnormality of the respiratory system	HumPhenOnt	
+GRIN1	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+GRIN2B	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+RIPK2	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+IKBKG	C0398689	HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	DisGeNet	
+NFKBIA	C0398689	HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	DisGeNet	
+TRAF2	C0398689	HYPER-IgM IMMUNODEFICIENCY, X-LINKED, WITH ECTODERMAL DYSPLASIA, HYPOHIDROTIC	DisGeNet	
+BTRC	C0030297	Pancreatic Neoplasms	DisGeNet	
+CHUK	C0030297	Pancreatic Neoplasms	DisGeNet	
+EPHB2	C0030297	Pancreatic Neoplasms	DisGeNet	
+HRAS	C0030297	Pancreatic Neoplasms	DisGeNet	
+NFKB1	C0030297	Pancreatic Neoplasms	DisGeNet	
+NFKB2	C0030297	Pancreatic Neoplasms	DisGeNet	
+NFKBIA	C0030297	Pancreatic Neoplasms	DisGeNet	
+RELA	C0030297	Pancreatic Neoplasms	DisGeNet	
+SLC7A11	C0030297	Pancreatic Neoplasms	DisGeNet	
+SRC	C0030297	Pancreatic Neoplasms	DisGeNet	
+TIAM1	C0030297	Pancreatic Neoplasms	DisGeNet	
+TRAF2	C0030297	Pancreatic Neoplasms	DisGeNet	
+ACTN2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+CARD11	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GRIN1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GRIN2A	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+GRIN2B	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+HRAS	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+IFIH1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+MAP3K7	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NEFL	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NFKB1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NFKB2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NFKBIA	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+NOD2	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SOS1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SQSTM1	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+SRC	C0443147	Autosomal dominant non-syndromic sensorineural deafness type DFNA	HumPhenOnt	
+ACY1	C0149925	Small cell lung cancer	DisGeNet	
+BCL10	C0149925	Small cell lung cancer	DisGeNet	
+CALM3	C0149925	Small cell lung cancer	DisGeNet	
+EPHB1	C0149925	Small cell lung cancer	DisGeNet	
+EPHB2	C0149925	Small cell lung cancer	DisGeNet	
+FBXW11	C0149925	Small cell lung cancer	DisGeNet	
+HRAS	C0149925	Small cell lung cancer	DisGeNet	
+NFKB1	C0149925	Small cell lung cancer	DisGeNet	
+SOS1	C0149925	Small cell lung cancer	DisGeNet	
+SRC	C0149925	Small cell lung cancer	DisGeNet	
+TRAF2	C0149925	Small cell lung cancer	DisGeNet	
+CAMK2A	C0002395	Alzheimer Disease	DisGeNet	
+CAMK2G	C0002395	Alzheimer Disease	DisGeNet	
+DLG4	C0002395	Alzheimer Disease	DisGeNet	
+EPHB2	C0002395	Alzheimer Disease	DisGeNet	
+FYN	C0002395	Alzheimer Disease	DisGeNet	
+GRB2	C0002395	Alzheimer Disease	DisGeNet	
+GRIN1	C0002395	Alzheimer Disease	DisGeNet	
+GRIN2A	C0002395	Alzheimer Disease	DisGeNet	
+GRIN2B	C0002395	Alzheimer Disease	DisGeNet	
+GRIN3A	C0002395	Alzheimer Disease	DisGeNet	
+IKBKB	C0002395	Alzheimer Disease	DisGeNet	
+NEFL	C0002395	Alzheimer Disease	DisGeNet	
+NFKB1	C0002395	Alzheimer Disease	DisGeNet	
+NFKBIA	C0002395	Alzheimer Disease	DisGeNet	
+RELA	C0002395	Alzheimer Disease	DisGeNet	
+SQSTM1	C0002395	Alzheimer Disease	DisGeNet	
+TAB3	C0002395	Alzheimer Disease	DisGeNet	
+TRAF2	C0002395	Alzheimer Disease	DisGeNet	
+TRAF6	C0002395	Alzheimer Disease	DisGeNet	
+ACTN2	C1837514	Phenotypic variability	HumPhenOnt	
+ACY1	C1837514	Phenotypic variability	HumPhenOnt	
+GRIN2A	C1837514	Phenotypic variability	HumPhenOnt	
+GRIN2B	C1837514	Phenotypic variability	HumPhenOnt	
+IFIH1	C1837514	Phenotypic variability	HumPhenOnt	
+NEFL	C1837514	Phenotypic variability	HumPhenOnt	
+NFKB1	C1837514	Phenotypic variability	HumPhenOnt	
+NFKB2	C1837514	Phenotypic variability	HumPhenOnt	
+SQSTM1	C1837514	Phenotypic variability	HumPhenOnt	
+EFNB2	C0036220	Kaposi's sarcoma	DisGeNet	
+EPHB2	C0036220	Kaposi's sarcoma	DisGeNet	
+EPHB4	C0036220	Kaposi's sarcoma	DisGeNet	
+IRAK1	C0036220	Kaposi's sarcoma	DisGeNet	
+REL	C0036220	Kaposi's sarcoma	DisGeNet	
+SOS1	C0036220	Kaposi's sarcoma	DisGeNet	
+BCL10	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+CALM3	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+NFKB1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+NFKB2	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+RIPK1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+TRAF2	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+UBE2V1	C0206180	Anaplastic large cell lymphoma, ALK negative	DisGeNet	
+BTRC	C0024121	Lung Neoplasms	DisGeNet	
+EPHB2	C0024121	Lung Neoplasms	DisGeNet	
+EPHB4	C0024121	Lung Neoplasms	DisGeNet	
+GSS	C0024121	Lung Neoplasms	DisGeNet	
+HRAS	C0024121	Lung Neoplasms	DisGeNet	
+IKBKB	C0024121	Lung Neoplasms	DisGeNet	
+IKBKG	C0024121	Lung Neoplasms	DisGeNet	
+MAP3K8	C0024121	Lung Neoplasms	ClinVar,DisGeNet,HumPhenOnt	
+NFKB1	C0024121	Lung Neoplasms	DisGeNet	
+NFKBIA	C0024121	Lung Neoplasms	DisGeNet	
+NOD2	C0024121	Lung Neoplasms	DisGeNet	
+RELA	C0024121	Lung Neoplasms	DisGeNet	
+RIPK1	C0024121	Lung Neoplasms	DisGeNet	
+RIPK2	C0024121	Lung Neoplasms	DisGeNet	
+UBE2N	C0024121	Lung Neoplasms	DisGeNet	
+BCL10	C0497156	Lymphadenopathy	HumPhenOnt	
+MALT1	C0497156	Lymphadenopathy	HumPhenOnt	
+NFKB1	C0497156	Lymphadenopathy	HumPhenOnt	
+NFKB2	C0497156	Lymphadenopathy	HumPhenOnt	
+NOD2	C0497156	Lymphadenopathy	HumPhenOnt	
+MAP3K8	C0872054	latent infection	DisGeNet	
+NFKB1	C0872054	latent infection	DisGeNet	
+NFKB2	C0872054	latent infection	DisGeNet	
+TRAF2	C0872054	latent infection	DisGeNet	
+CALM3	C0235782	Gallbladder Carcinoma	DisGeNet	
+EPHB2	C0235782	Gallbladder Carcinoma	DisGeNet	
+NFKB1	C0235782	Gallbladder Carcinoma	DisGeNet	
+RIPK1	C0235782	Gallbladder Carcinoma	DisGeNet	
+RIPK2	C0235782	Gallbladder Carcinoma	DisGeNet	
+UBE2N	C0235782	Gallbladder Carcinoma	DisGeNet	
+CALM3	C0011206	Cocaine delirium	DisGeNet	
+GRIN2B	C0011206	Cocaine delirium	DisGeNet	
+GRIN3A	C0011206	Cocaine delirium	DisGeNet	
+EFNB1	C4022025	Asymmetric growth	HumPhenOnt	
+HRAS	C4022025	Asymmetric growth	HumPhenOnt	
+IKBKG	C4022025	Asymmetric growth	HumPhenOnt	
+CALM3	C0004096	Asthma	DisGeNet	
+CHUK	C0004096	Asthma	DisGeNet	
+EPHB2	C0004096	Asthma	DisGeNet	
+FYN	C0004096	Asthma	DisGeNet	
+IFIH1	C0004096	Asthma	DisGeNet	
+IKBKB	C0004096	Asthma	DisGeNet	
+IRAK1	C0004096	Asthma	DisGeNet	
+NFKB1	C0004096	Asthma	DisGeNet	
+NFKB2	C0004096	Asthma	DisGeNet,HumPhenOnt	
+NFKBIA	C0004096	Asthma	DisGeNet	
+NOD1	C0004096	Asthma	DisGeNet	
+NOD2	C0004096	Asthma	DisGeNet	
+RELA	C0004096	Asthma	DisGeNet	
+RIPK2	C0004096	Asthma	DisGeNet	
+SQSTM1	C0004096	Asthma	DisGeNet	
+TAB1	C0004096	Asthma	DisGeNet	
+TRAF2	C0004096	Asthma	DisGeNet	
+ACY1	C0032927	Precancerous Conditions	DisGeNet	
+EFNB2	C0032927	Precancerous Conditions	DisGeNet	
+EPHB2	C0032927	Precancerous Conditions	DisGeNet	
+HRAS	C0032927	Precancerous Conditions	DisGeNet	
+NFKBIA	C0032927	Precancerous Conditions	DisGeNet	
+NOD2	C0032927	Precancerous Conditions	DisGeNet	
+SOS1	C0032927	Precancerous Conditions	DisGeNet	
+TRAF2	C0032927	Precancerous Conditions	DisGeNet	
+YES1	C0032927	Precancerous Conditions	DisGeNet	
+BCL10	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+MALT1	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+NFKB1	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+NFKB2	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+NOD2	C0149727	Abnormality of the lymph nodes	HumPhenOnt	
+NFKB1	C0477474	Dermatitis and eczema	DisGeNet	
+NOD1	C0477474	Dermatitis and eczema	DisGeNet	
+NOD2	C0477474	Dermatitis and eczema	DisGeNet	
+NFKB1	C1290884	Inflammatory disorder	DisGeNet	
+NOD2	C1290884	Inflammatory disorder	DisGeNet	
+RELA	C1290884	Inflammatory disorder	DisGeNet	
+RIPK1	C1290884	Inflammatory disorder	DisGeNet	
+RIPK2	C1290884	Inflammatory disorder	DisGeNet	
+TRAF6	C1290884	Inflammatory disorder	DisGeNet	
+UBE2V1	C1290884	Inflammatory disorder	DisGeNet	
+BCL10	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+CARD11	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+HRAS	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+MALT1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+MAP3K8	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+NFKB1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+SRC	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+UBE2V1	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+BCL10	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+HRAS	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+IKBKG	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+MALT1	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+MAP3K8	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+NFKB1	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+NFKB2	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+NOD2	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+SQSTM1	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+SRC	C4023185	Neoplasm by anatomical site	HumPhenOnt	
+IFIH1	C0003872	Arthritis, Psoriatic	DisGeNet	
+IRAK1	C0003872	Arthritis, Psoriatic	DisGeNet	
+NFKB1	C0003872	Arthritis, Psoriatic	DisGeNet	
+NFKBIA	C0003872	Arthritis, Psoriatic	DisGeNet	
+NOD2	C0003872	Arthritis, Psoriatic	ClinVar,DisGeNet	
+REL	C0003872	Arthritis, Psoriatic	DisGeNet,PheGenI	
+GRIN2A	C1861403	Variable expressivity	HumPhenOnt	
+GRIN2B	C1861403	Variable expressivity	HumPhenOnt	
+IFIH1	C1861403	Variable expressivity	HumPhenOnt	
+NEFL	C1861403	Variable expressivity	HumPhenOnt	
+NFKB1	C1861403	Variable expressivity	HumPhenOnt	
+NFKB2	C1861403	Variable expressivity	HumPhenOnt	
+HRAS	C0151526	Premature Birth	HumPhenOnt	
+NFKB1	C0151526	Premature Birth	DisGeNet	
+NFKB2	C0151526	Premature Birth	DisGeNet	
+NFKBIA	C0151526	Premature Birth	DisGeNet	
+NFKBIB	C0151526	Premature Birth	DisGeNet	
+NFKBIE	C0151526	Premature Birth	DisGeNet	
+NOD2	C0151526	Premature Birth	DisGeNet	
+TRAF2	C0151526	Premature Birth	DisGeNet	
+CALM3	C0029408	Osteoarthritis	DisGeNet	
+CAMK2B	C0029408	Osteoarthritis	DisGeNet,PheGenI	
+CHUK	C0029408	Osteoarthritis	DisGeNet	
+EFNB2	C0029408	Osteoarthritis	DisGeNet	
+EPHB2	C0029408	Osteoarthritis	DisGeNet	
+EPHB4	C0029408	Osteoarthritis	DisGeNet	
+IKBKB	C0029408	Osteoarthritis	DisGeNet	
+MAP3K7	C0029408	Osteoarthritis	DisGeNet	
+NFKB1	C0029408	Osteoarthritis	DisGeNet	
+NOD1	C0029408	Osteoarthritis	DisGeNet	
+RELA	C0029408	Osteoarthritis	DisGeNet	
+SOS1	C0029408	Osteoarthritis	DisGeNet	
+TRAF2	C0029408	Osteoarthritis	DisGeNet	
+EFNB1	C0265529	Plagiocephaly	HumPhenOnt	
+HRAS	C0265529	Plagiocephaly	HumPhenOnt	
+IFIH1	C0265529	Plagiocephaly	HumPhenOnt	
+IFIH1	C0276447	Rhinovirus infection	DisGeNet	
+NFKB1	C0276447	Rhinovirus infection	DisGeNet	
+RELA	C0276447	Rhinovirus infection	DisGeNet	
+BCL10	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+EPHB2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+EPHB4	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+HRAS	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+MAP3K8	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+NFKB1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+NFKB2	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+REL	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+RELA	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+RIPK1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SOS1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+SQSTM1	C1168401	Squamous cell carcinoma of the head and neck	DisGeNet	
+NFKB1	C0008149	Chlamydia Infections	DisGeNet	
+NOD1	C0008149	Chlamydia Infections	DisGeNet	
+RIPK2	C0008149	Chlamydia Infections	DisGeNet	
+SHC1	C0008149	Chlamydia Infections	DisGeNet	
+NOD2	C0003838	Arterial Occlusive Diseases	DisGeNet	
+SLCO1B1	C0003838	Arterial Occlusive Diseases	DisGeNet	
+SOS1	C0003838	Arterial Occlusive Diseases	DisGeNet	
+IFIH1	C0018081	Gonorrhea	DisGeNet	
+NOD1	C0018081	Gonorrhea	DisGeNet	
+NOD2	C0018081	Gonorrhea	DisGeNet	
+EPHB2	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+MALT1	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+NEFL	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+NFKB1	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+NOD1	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+NOD2	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+RIPK2	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+UBE2V1	C0014072	Experimental Autoimmune Encephalomyelitis	DisGeNet	
+EPHB2	C0009324	Ulcerative colitis	DisGeNet	
+HRAS	C0009324	Ulcerative colitis	DisGeNet	
+LYN	C0009324	Ulcerative colitis	DisGeNet	
+NFKB1	C0009324	Ulcerative colitis	DisGeNet	
+NFKB2	C0009324	Ulcerative colitis	DisGeNet	
+NFKBIA	C0009324	Ulcerative colitis	DisGeNet	
+NOD1	C0009324	Ulcerative colitis	DisGeNet	
+NOD2	C0009324	Ulcerative colitis	DisGeNet	
+REL	C0009324	Ulcerative colitis	DisGeNet	
+RELA	C0009324	Ulcerative colitis	DisGeNet	
+RIPK2	C0009324	Ulcerative colitis	DisGeNet	
+SLC22A6	C0009324	Ulcerative colitis	DisGeNet	
+EFNB2	C0035126	Reperfusion Injury	DisGeNet	
+GRIN2A	C0035126	Reperfusion Injury	DisGeNet	
+GRIN2B	C0035126	Reperfusion Injury	DisGeNet	
+MAP3K8	C0035126	Reperfusion Injury	DisGeNet	
+NOD2	C0035126	Reperfusion Injury	DisGeNet	
+RELA	C0035126	Reperfusion Injury	DisGeNet	
+SRC	C0035126	Reperfusion Injury	DisGeNet	
+CAMK2A	C0043094	Increased body weight	DisGeNet	
+CAMK2B	C0043094	Increased body weight	DisGeNet	
+GRIN1	C0043094	Increased body weight	DisGeNet	
+GRIN2A	C0043094	Increased body weight	DisGeNet	
+GRIN2B	C0043094	Increased body weight	DisGeNet	
+GRIN2C	C0043094	Increased body weight	DisGeNet	
+GRIN2D	C0043094	Increased body weight	DisGeNet	
+GRIN3A	C0043094	Increased body weight	DisGeNet	
+SRC	C0043094	Increased body weight	DisGeNet	
+GRIN1	C1504404	Hippocampal sclerosis	DisGeNet	
+GRIN2A	C1504404	Hippocampal sclerosis	DisGeNet	
+NFKB1	C1504404	Hippocampal sclerosis	DisGeNet	
+BCL10	C4023595	Abnormality of cell physiology	HumPhenOnt	
+CARD11	C4023595	Abnormality of cell physiology	HumPhenOnt	
+IFIH1	C4023595	Abnormality of cell physiology	HumPhenOnt	
+IKBKB	C4023595	Abnormality of cell physiology	HumPhenOnt	
+IKBKG	C4023595	Abnormality of cell physiology	HumPhenOnt	
+NFKB1	C4023595	Abnormality of cell physiology	HumPhenOnt	
+NFKB2	C4023595	Abnormality of cell physiology	HumPhenOnt	
+BCL10	C0042164	Uveitis	HumPhenOnt	
+IKBKG	C0042164	Uveitis	HumPhenOnt	
+MALT1	C0042164	Uveitis	HumPhenOnt	
+NOD2	C0042164	Uveitis	DisGeNet,HumPhenOnt	
+RELA	C0042164	Uveitis	DisGeNet	
+CALM3	C0025007	Measles	DisGeNet	
+IFIH1	C0025007	Measles	DisGeNet	
+MAP3K7	C0025007	Measles	DisGeNet	
+NFKBIA	C0025007	Measles	DisGeNet	
+SQSTM1	C0025007	Measles	DisGeNet	
+EFNB1	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+HRAS	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+IKBKG	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+MAP3K7	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+NOD2	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+SOS1	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+SQSTM1	C4021387	Abnormality of upper limb joint	HumPhenOnt	
+GRIN1	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2A	C0037769	Hypsarrhythmia	DisGeNet	
+GRIN2B	C0037769	Hypsarrhythmia	DisGeNet	
+SOS1	C0037769	Hypsarrhythmia	DisGeNet	
+FYN	C0242422	Parkinsonism	DisGeNet	
+LYN	C0242422	Parkinsonism	DisGeNet	
+NEFL	C0242422	Parkinsonism	DisGeNet	
+NFKB2	C0242422	Parkinsonism	DisGeNet	
+RELA	C0242422	Parkinsonism	DisGeNet	
+SRC	C0242422	Parkinsonism	DisGeNet	
+BCL10	C0684249	Lung cancer	DisGeNet	
+BTRC	C0684249	Lung cancer	DisGeNet	
+CALM3	C0684249	Lung cancer	DisGeNet	
+CHUK	C0684249	Lung cancer	DisGeNet	
+EPHB2	C0684249	Lung cancer	DisGeNet	
+EPHB4	C0684249	Lung cancer	DisGeNet	
+EPHB6	C0684249	Lung cancer	DisGeNet	
+HRAS	C0684249	Lung cancer	DisGeNet	
+IKBKB	C0684249	Lung cancer	DisGeNet	
+MAP3K7	C0684249	Lung cancer	DisGeNet	
+MAP3K8	C0684249	Lung cancer	ClinVar,DisGeNet	
+NFKB1	C0684249	Lung cancer	DisGeNet	
+NFKBIA	C0684249	Lung cancer	DisGeNet	
+NOD2	C0684249	Lung cancer	DisGeNet	
+SHC1	C0684249	Lung cancer	DisGeNet	
+SOS1	C0684249	Lung cancer	DisGeNet	
+SRC	C0684249	Lung cancer	DisGeNet	
+TIAM1	C0684249	Lung cancer	DisGeNet	
+TRAF2	C0684249	Lung cancer	DisGeNet	
+TRAF6	C0684249	Lung cancer	DisGeNet	
+UBE2N	C0684249	Lung cancer	DisGeNet	
+BCL10	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+EPHB2	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+HRAS	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+MALT1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+NFKB1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+NFKBIA	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+RELA	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+SQSTM1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+BCL10	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+CALM3	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+EFNB1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+EFNB2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+EPHB2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+EPHB4	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+GRB2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+HRAS	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+IKBKG	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+LYN	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+MAP3K7	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NFKB1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NFKB2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NOD2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+RELA	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+SOS1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+SRC	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+TNIP2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+UBE2V1	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+BCL10	C0017152	Gastritis	DisGeNet	
+MALT1	C0017152	Gastritis	DisGeNet	
+NFKB1	C0017152	Gastritis	DisGeNet	
+NFKBIA	C0017152	Gastritis	DisGeNet	
+NOD1	C0017152	Gastritis	DisGeNet	
+NOD2	C0017152	Gastritis	DisGeNet	
+FYN	C0037019	Shy-Drager syndrome	DisGeNet	
+NEFL	C0037019	Shy-Drager syndrome	DisGeNet	
+NFKBIA	C0037019	Shy-Drager syndrome	DisGeNet	
+SQSTM1	C0037019	Shy-Drager syndrome	DisGeNet	
+BCL10	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+CARD11	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+IFIH1	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+MALT1	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+NFKB1	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+NFKB2	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+NOD2	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+SOS1	C4021976	Abnormality of the lymphatic system	HumPhenOnt	
+EFNB2	C0022116	Ischemia	DisGeNet	
+GRIN2A	C0022116	Ischemia	DisGeNet	
+GRIN2B	C0022116	Ischemia	DisGeNet	
+IKBKG	C0022116	Ischemia	DisGeNet	
+IRAK1	C0022116	Ischemia	DisGeNet	
+NFKB1	C0022116	Ischemia	DisGeNet	
+NFKBIA	C0022116	Ischemia	DisGeNet	
+NOD2	C0022116	Ischemia	DisGeNet	
+RELA	C0022116	Ischemia	DisGeNet	
+SOS1	C0022116	Ischemia	DisGeNet	
+BCL10	C0014038	Encephalitis	HumPhenOnt	
+IKBKG	C0014038	Encephalitis	HumPhenOnt	
+NFKB1	C0014038	Encephalitis	DisGeNet	
+NFKBIA	C0014038	Encephalitis	DisGeNet	
+RELA	C0014038	Encephalitis	DisGeNet	
+BTRC	C0025149	Medulloblastoma	DisGeNet	
+CALM3	C0025149	Medulloblastoma	DisGeNet	
+EFNB1	C0025149	Medulloblastoma	DisGeNet	
+EPHB2	C0025149	Medulloblastoma	DisGeNet	
+GRB2	C0025149	Medulloblastoma	DisGeNet	
+NFKB1	C0025149	Medulloblastoma	DisGeNet	
+NFKBIA	C0025149	Medulloblastoma	DisGeNet	
+RELA	C0025149	Medulloblastoma	DisGeNet	
+SOS1	C0025149	Medulloblastoma	DisGeNet	
+CHUK	C2937358	Cerebral Hemorrhage	DisGeNet	
+IRAK1	C2937358	Cerebral Hemorrhage	DisGeNet	
+NFKB1	C2937358	Cerebral Hemorrhage	DisGeNet	
+NFKB2	C2937358	Cerebral Hemorrhage	DisGeNet	
+NFKBIA	C2937358	Cerebral Hemorrhage	DisGeNet	
+RELA	C2937358	Cerebral Hemorrhage	DisGeNet	
+BCL10	C0598766	Leukemogenesis	DisGeNet	
+CALM3	C0598766	Leukemogenesis	DisGeNet	
+EPHB2	C0598766	Leukemogenesis	DisGeNet	
+MALT1	C0598766	Leukemogenesis	DisGeNet	
+NFKB1	C0598766	Leukemogenesis	DisGeNet	
+NFKB2	C0598766	Leukemogenesis	DisGeNet	
+REL	C0598766	Leukemogenesis	DisGeNet	
+RIPK1	C0598766	Leukemogenesis	DisGeNet	
+SOS1	C0598766	Leukemogenesis	DisGeNet	
+TIAM1	C0598766	Leukemogenesis	DisGeNet	
+EPHB2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+HRAS	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+IKBKB	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+NFKB2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+NOD1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+RIPK1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+RIPK2	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+TRAF6	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+UBE2V1	C0085110	Severe combined immunodeficiency due to ADA deficiency	DisGeNet	
+FYN	C0005940	Bone Diseases	DisGeNet	
+NFKB1	C0005940	Bone Diseases	DisGeNet	
+RELA	C0005940	Bone Diseases	DisGeNet	
+SOS1	C0005940	Bone Diseases	DisGeNet	
+SQSTM1	C0005940	Bone Diseases	DisGeNet	
+ACTN2	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+BCL10	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+CARD11	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+GSS	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+HRAS	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+IFIH1	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+IKBKB	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+IKBKG	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+MALT1	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+NFKB1	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+NFKB2	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+NOD2	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+SOS1	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+SRC	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+TAB2	C0241657	Abnormality of blood and blood-forming tissues	HumPhenOnt	
+MALT1	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+NOD1	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+NOD2	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+SOS1	C0221198	NOONAN-LIKE/MULTIPLE GIANT CELL LESION SYNDROME (disorder)	DisGeNet	
+EPHB1	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+EPHB2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+HRAS	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+SRC	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+CALM3	C0011860	Diabetes mellitus type 2	DisGeNet	
+EFNB2	C0011860	Diabetes mellitus type 2	DisGeNet	
+EPHB1	C0011860	Diabetes mellitus type 2	DisGeNet	
+GRB2	C0011860	Diabetes mellitus type 2	DisGeNet	
+HRAS	C0011860	Diabetes mellitus type 2	DisGeNet	
+IFIH1	C0011860	Diabetes mellitus type 2	DisGeNet	
+IKBKB	C0011860	Diabetes mellitus type 2	DisGeNet	
+IRAK1	C0011860	Diabetes mellitus type 2	DisGeNet	
+NFKB1	C0011860	Diabetes mellitus type 2	DisGeNet	
+NOD1	C0011860	Diabetes mellitus type 2	DisGeNet	
+NOD2	C0011860	Diabetes mellitus type 2	DisGeNet	
+RELA	C0011860	Diabetes mellitus type 2	DisGeNet	
+RIPK2	C0011860	Diabetes mellitus type 2	DisGeNet	
+SHC1	C0011860	Diabetes mellitus type 2	DisGeNet	
+SLCO1B1	C0011860	Diabetes mellitus type 2	DisGeNet	
+SOS1	C0011860	Diabetes mellitus type 2	DisGeNet	
+SQSTM1	C0011860	Diabetes mellitus type 2	DisGeNet	
+SRC	C0011860	Diabetes mellitus type 2	DisGeNet	
+UBE2V1	C0011860	Diabetes mellitus type 2	DisGeNet	
+CARD11	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+EPHB2	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+IKBKB	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+NFKB1	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+NFKB2	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+TRAF2	C0079773	Cutaneous T-cell lymphoma	DisGeNet	
+BTRC	C0238463	Papillary thyroid carcinoma	DisGeNet	
+CALM3	C0238463	Papillary thyroid carcinoma	DisGeNet	
+EPHB2	C0238463	Papillary thyroid carcinoma	DisGeNet	
+EPHB4	C0238463	Papillary thyroid carcinoma	DisGeNet	
+HRAS	C0238463	Papillary thyroid carcinoma	DisGeNet	
+MAP3K8	C0238463	Papillary thyroid carcinoma	DisGeNet	
+NFKB1	C0238463	Papillary thyroid carcinoma	DisGeNet	
+SOS1	C0238463	Papillary thyroid carcinoma	DisGeNet	
+EPHB2	C0039101	Synovial sarcoma	DisGeNet	
+EPHB4	C0039101	Synovial sarcoma	DisGeNet	
+NFKB1	C0039101	Synovial sarcoma	DisGeNet	
+SOS1	C0039101	Synovial sarcoma	DisGeNet	
+SRC	C0039101	Synovial sarcoma	DisGeNet	
+BCL10	C0919267	Ovarian Neoplasms	DisGeNet	
+EPHB2	C0919267	Ovarian Neoplasms	DisGeNet	
+EPHB4	C0919267	Ovarian Neoplasms	DisGeNet	
+GRB2	C0919267	Ovarian Neoplasms	DisGeNet	
+HRAS	C0919267	Ovarian Neoplasms	DisGeNet	
+MAP3K8	C0919267	Ovarian Neoplasms	DisGeNet	
+NFKB1	C0919267	Ovarian Neoplasms	DisGeNet	
+RELA	C0919267	Ovarian Neoplasms	DisGeNet	
+SOS1	C0919267	Ovarian Neoplasms	DisGeNet	
+SRC	C0919267	Ovarian Neoplasms	DisGeNet	
+TRAF2	C0919267	Ovarian Neoplasms	DisGeNet	
+UBE2V1	C0919267	Ovarian Neoplasms	DisGeNet	
+CALM3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EFNB3	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EPHB2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EPHB4	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+GRB2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+HRAS	C0005684	Malignant tumor of urinary bladder	ClinVar,DisGeNet	
+IRAK1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+MAP3K7	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NFKB1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NFKBIE	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NOD2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+RELA	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+SOS1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+TRAF6	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+UBE2N	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+BCL10	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CARD11	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CHUK	C0266015	Abnormality of the digestive system	HumPhenOnt	
+EFNB1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+HRAS	C0266015	Abnormality of the digestive system	HumPhenOnt	
+IFIH1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+IKBKB	C0266015	Abnormality of the digestive system	HumPhenOnt	
+IKBKG	C0266015	Abnormality of the digestive system	HumPhenOnt	
+MALT1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+NFKB1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+NFKB2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+NFKBIA	C0266015	Abnormality of the digestive system	HumPhenOnt	
+NOD2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SLCO1B1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SOS1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SQSTM1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SRC	C0266015	Abnormality of the digestive system	HumPhenOnt	
+IFIH1	C0011603	Seborheic dermatitis	DisGeNet	
+IRAK1	C0011603	Seborheic dermatitis	DisGeNet	
+NFKB1	C0011603	Seborheic dermatitis	DisGeNet	
+NFKBIA	C0011603	Seborheic dermatitis	DisGeNet	
+NOD2	C0011603	Seborheic dermatitis	DisGeNet	
+EPHB2	C0036421	Scleroderma	DisGeNet	
+HRAS	C0036421	Scleroderma	DisGeNet	
+IRAK1	C0036421	Scleroderma	DisGeNet	
+NFKB1	C0036421	Scleroderma	DisGeNet	
+RELA	C0036421	Scleroderma	DisGeNet	
+SOS1	C0036421	Scleroderma	DisGeNet	
+TAB1	C0036421	Scleroderma	DisGeNet	
+TRAF6	C0036421	Scleroderma	DisGeNet	
+UBE2V1	C0036421	Scleroderma	DisGeNet	
+CHUK	C0598935	Tumor Initiation	DisGeNet	
+EPHB2	C0598935	Tumor Initiation	DisGeNet	
+MAP3K7	C0598935	Tumor Initiation	DisGeNet	
+NFKB1	C0598935	Tumor Initiation	DisGeNet	
+SOS1	C0598935	Tumor Initiation	DisGeNet	
+BCL10	C0023473	Chronic myeloid leukemia	DisGeNet	
+CALM3	C0023473	Chronic myeloid leukemia	DisGeNet	
+CHUK	C0023473	Chronic myeloid leukemia	DisGeNet	
+EPHB2	C0023473	Chronic myeloid leukemia	DisGeNet	
+GRB2	C0023473	Chronic myeloid leukemia	DisGeNet	
+HRAS	C0023473	Chronic myeloid leukemia	DisGeNet	
+LYN	C0023473	Chronic myeloid leukemia	DisGeNet	
+NFKB1	C0023473	Chronic myeloid leukemia	DisGeNet	
+SOS1	C0023473	Chronic myeloid leukemia	DisGeNet	
+SQSTM1	C0023473	Chronic myeloid leukemia	DisGeNet	
+SRC	C0023473	Chronic myeloid leukemia	DisGeNet	
+EPHB1	C0042384	Vasculitis	DisGeNet	
+IFIH1	C0042384	Vasculitis	HumPhenOnt	
+NFKB1	C0042384	Vasculitis	DisGeNet,HumPhenOnt	
+NFKB2	C0042384	Vasculitis	HumPhenOnt	
+NOD2	C0042384	Vasculitis	HumPhenOnt	
+BCL10	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+CALM3	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EFNB2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EPHB1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EPHB2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EPHB4	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+EPHB6	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+HRAS	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+MAP3K7	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NEFL	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+NFKB1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+SOS1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+SRC	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+TAB2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+TIAM1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+YES1	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	
+BCL10	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+CALM3	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+CHUK	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+EFNB1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+EPHB2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+FYN	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+GSS	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+HRAS	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+IKBKB	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NFKB1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NFKB2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+NFKBIA	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+RELA	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+RIPK2	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+SOS1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+SQSTM1	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+UBE2N	C0001418	 Adenocarcinoma, ovarian, somatic, 167000 (3)	DisGeNet	
+EPHB2	C0349639	Juvenile myelomonocytic leukemia	DisGeNet	
+REL	C0349639	Juvenile myelomonocytic leukemia	DisGeNet	
+SOS1	C0349639	Juvenile myelomonocytic leukemia	DisGeNet	
+SRC	C0349639	Juvenile myelomonocytic leukemia	DisGeNet	
+HRAS	C1512409	Hepatocarcinogenesis	DisGeNet	
+IKBKG	C1512409	Hepatocarcinogenesis	DisGeNet	
+MAP3K7	C1512409	Hepatocarcinogenesis	DisGeNet	
+NFKB1	C1512409	Hepatocarcinogenesis	DisGeNet	
+NFKBIA	C1512409	Hepatocarcinogenesis	DisGeNet	
+SOS1	C1512409	Hepatocarcinogenesis	DisGeNet	
+UBE2N	C1512409	Hepatocarcinogenesis	DisGeNet	
+UBE2V1	C1512409	Hepatocarcinogenesis	DisGeNet	
+CALM3	C0524851	Neurodegenerative Diseases	DisGeNet	
+DLG4	C0524851	Neurodegenerative Diseases	DisGeNet	
+EPHB2	C0524851	Neurodegenerative Diseases	DisGeNet	
+FYN	C0524851	Neurodegenerative Diseases	DisGeNet	
+GSS	C0524851	Neurodegenerative Diseases	DisGeNet	
+NFKB1	C0524851	Neurodegenerative Diseases	DisGeNet	
+NFKBIA	C0524851	Neurodegenerative Diseases	DisGeNet	
+SOS1	C0524851	Neurodegenerative Diseases	DisGeNet	
+SQSTM1	C0524851	Neurodegenerative Diseases	DisGeNet	
+UBE2V1	C0524851	Neurodegenerative Diseases	DisGeNet	
+BCL10	C0600139	Prostate carcinoma	DisGeNet	
+CALM3	C0600139	Prostate carcinoma	DisGeNet	
+CHUK	C0600139	Prostate carcinoma	DisGeNet	
+EPHB2	C0600139	Prostate carcinoma	DisGeNet	
+EPHB4	C0600139	Prostate carcinoma	DisGeNet	
+FYN	C0600139	Prostate carcinoma	DisGeNet	
+HRAS	C0600139	Prostate carcinoma	DisGeNet	
+IRAK1	C0600139	Prostate carcinoma	DisGeNet	
+LYN	C0600139	Prostate carcinoma	DisGeNet	
+MAP3K7	C0600139	Prostate carcinoma	DisGeNet	
+MAP3K8	C0600139	Prostate carcinoma	DisGeNet	
+NFKB1	C0600139	Prostate carcinoma	DisGeNet	
+NFKB2	C0600139	Prostate carcinoma	DisGeNet	
+NFKBIA	C0600139	Prostate carcinoma	DisGeNet	
+RELA	C0600139	Prostate carcinoma	DisGeNet	
+RIPK2	C0600139	Prostate carcinoma	DisGeNet	
+SHC1	C0600139	Prostate carcinoma	DisGeNet	
+SOS1	C0600139	Prostate carcinoma	DisGeNet	
+SQSTM1	C0600139	Prostate carcinoma	DisGeNet	
+SRC	C0600139	Prostate carcinoma	DisGeNet	
+TRAF2	C0600139	Prostate carcinoma	DisGeNet	
+TRAF6	C0600139	Prostate carcinoma	DisGeNet	
+UBE2V1	C0600139	Prostate carcinoma	DisGeNet	
+HRAS	C1867873	Failure to thrive in infancy	HumPhenOnt	
+NFKB1	C1867873	Failure to thrive in infancy	HumPhenOnt	
+NFKB2	C1867873	Failure to thrive in infancy	HumPhenOnt	
+EFNB1	C0409348	Camptodactyly of finger	HumPhenOnt	
+IKBKG	C0409348	Camptodactyly of finger	HumPhenOnt	
+MAP3K7	C0409348	Camptodactyly of finger	HumPhenOnt	
+NOD2	C0409348	Camptodactyly of finger	HumPhenOnt	
+BCL10	C4025842	Abnormality of the uvea	HumPhenOnt	
+BTRC	C4025842	Abnormality of the uvea	HumPhenOnt	
+HRAS	C4025842	Abnormality of the uvea	HumPhenOnt	
+IKBKG	C4025842	Abnormality of the uvea	HumPhenOnt	
+MALT1	C4025842	Abnormality of the uvea	HumPhenOnt	
+NOD2	C4025842	Abnormality of the uvea	HumPhenOnt	
+SOS1	C4025842	Abnormality of the uvea	HumPhenOnt	
+IFIH1	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+IKBKG	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+NFKB1	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+NFKB2	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+NOD2	C3875321	Inflammatory abnormality of the skin	HumPhenOnt	
+REL	C3875321	Inflammatory abnormality of the skin	DisGeNet	
+CAMK2D	C0018800	Cardiomegaly	DisGeNet	
+IFIH1	C0018800	Cardiomegaly	HumPhenOnt	
+LYN	C0018800	Cardiomegaly	DisGeNet	
+RELA	C0018800	Cardiomegaly	DisGeNet	
+SHC1	C0018800	Cardiomegaly	DisGeNet	
+SRC	C0018800	Cardiomegaly	DisGeNet	
+CAMK2G	C0021390	Inflammatory Bowel Diseases	PheGenI	
+EPHB4	C0021390	Inflammatory Bowel Diseases	PheGenI	
+IFIH1	C0021390	Inflammatory Bowel Diseases	PheGenI	
+MAP3K7	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+MAP3K8	C0021390	Inflammatory Bowel Diseases	DisGeNet,PheGenI	
+NFKB1	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+NFKBIA	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+NOD1	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+NOD2	C0021390	Inflammatory Bowel Diseases	DisGeNet,PheGenI	
+RELA	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+RIPK2	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+SOS1	C0021390	Inflammatory Bowel Diseases	DisGeNet	
+IKBKG	C0037274	Dermatosis NOS	DisGeNet	
+NFKB1	C0037274	Dermatosis NOS	DisGeNet	
+NFKB2	C0037274	Dermatosis NOS	DisGeNet	
+NFKBIA	C0037274	Dermatosis NOS	DisGeNet	
+NFKBIB	C0037274	Dermatosis NOS	DisGeNet	
+NFKBIE	C0037274	Dermatosis NOS	DisGeNet	
+NOD2	C0037274	Dermatosis NOS	DisGeNet	
+TRAF2	C0037274	Dermatosis NOS	DisGeNet	
+EPHB2	C0014474	Ependymoma	DisGeNet	
+NEFL	C0014474	Ependymoma	DisGeNet	
+NFKB1	C0014474	Ependymoma	DisGeNet	
+RELA	C0014474	Ependymoma	DisGeNet	
+EFNB1	C4021784	Interphalangeal joint contracture of finger	HumPhenOnt	
+IKBKG	C4021784	Interphalangeal joint contracture of finger	HumPhenOnt	
+MAP3K7	C4021784	Interphalangeal joint contracture of finger	HumPhenOnt	
+NOD2	C4021784	Interphalangeal joint contracture of finger	HumPhenOnt	
+IKBKG	C0019159	Hepatitis	DisGeNet	
+NFKB1	C0019159	Hepatitis	DisGeNet	
+NOD2	C0019159	Hepatitis	DisGeNet	
+RELA	C0019159	Hepatitis	DisGeNet	
+RIPK1	C0019159	Hepatitis	DisGeNet	
+SLCO1B1	C0019159	Hepatitis	DisGeNet	
+SOS1	C0019159	Hepatitis	DisGeNet	
+NFKBIA	C0206726	gliosarcoma	DisGeNet	
+RIPK2	C0206726	gliosarcoma	DisGeNet	
+SOS1	C0206726	gliosarcoma	DisGeNet	
+EFNB1	C1857304	Flexion contracture of finger	HumPhenOnt	
+IKBKG	C1857304	Flexion contracture of finger	HumPhenOnt	
+MAP3K7	C1857304	Flexion contracture of finger	HumPhenOnt	
+NOD2	C1857304	Flexion contracture of finger	HumPhenOnt	
+EFNB1	C4023722	Abnormality of hair texture	HumPhenOnt	
+HRAS	C4023722	Abnormality of hair texture	HumPhenOnt	
+IKBKG	C4023722	Abnormality of hair texture	HumPhenOnt	
+SOS1	C4023722	Abnormality of hair texture	HumPhenOnt	
+EPHB2	C0028326	Noonan syndrome 1	DisGeNet	
+HRAS	C0028326	Noonan syndrome 1	DisGeNet	
+SOS1	C0028326	Noonan syndrome 1	ClinVar,DisGeNet	
+EPHB2	C1333064	Classical Hodgkin's Lymphoma	DisGeNet	
+NFKB1	C1333064	Classical Hodgkin's Lymphoma	DisGeNet	
+NFKBIA	C1333064	Classical Hodgkin's Lymphoma	DisGeNet	
+REL	C1333064	Classical Hodgkin's Lymphoma	DisGeNet	
+EFNB1	C4021604	Abnormality of phalangeal joints of the hand	HumPhenOnt	
+IKBKG	C4021604	Abnormality of phalangeal joints of the hand	HumPhenOnt	
+MAP3K7	C4021604	Abnormality of phalangeal joints of the hand	HumPhenOnt	
+NOD2	C4021604	Abnormality of phalangeal joints of the hand	HumPhenOnt	
+ACTN2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+BCL10	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+CARD11	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+GSS	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+HRAS	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+IFIH1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+IKBKB	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+IKBKG	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+MALT1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NFKB1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NFKB2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NFKBIA	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NOD2	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SLCO1B1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SOS1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+SQSTM1	C4021768	Abnormality of metabolism/homeostasis	HumPhenOnt	
+NOD2	C1562908	Leprosy, Paucibacillary	DisGeNet	
+RIPK2	C1562908	Leprosy, Paucibacillary	DisGeNet	
+HRAS	C1527390	Neoplasms, Intracranial	DisGeNet	
+NFKB1	C1527390	Neoplasms, Intracranial	DisGeNet	
+SOS1	C1527390	Neoplasms, Intracranial	DisGeNet	
+EFNB1	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+IFIH1	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+SOS1	C4025839	Abnormality of the frontal hairline	HumPhenOnt	
+IKBKB	C0039483	Giant cell arteritis	DisGeNet	
+IRAK1	C0039483	Giant cell arteritis	DisGeNet	
+NFKB1	C0039483	Giant cell arteritis	DisGeNet	
+TRAF6	C0039483	Giant cell arteritis	DisGeNet	
+HRAS	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+MAP3K7	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+MAP3K8	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+NFKB1	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+NFKB2	C4021631	Abnormality of the tracheobronchial system	HumPhenOnt	
+CARD11	C0009447	Common variable immunodeficiency 2	DisGeNet	
+NFKB1	C0009447	Common variable immunodeficiency 2	DisGeNet	
+NFKB2	C0009447	Common variable immunodeficiency 2	ClinVar,DisGeNet	
+NOD2	C0009447	Common variable immunodeficiency 2	DisGeNet	
+ACTN2	C4021753	Abnormality of the immune system	HumPhenOnt	
+BCL10	C4021753	Abnormality of the immune system	HumPhenOnt	
+CARD11	C4021753	Abnormality of the immune system	HumPhenOnt	
+GSS	C4021753	Abnormality of the immune system	HumPhenOnt	
+IFIH1	C4021753	Abnormality of the immune system	HumPhenOnt	
+IKBKB	C4021753	Abnormality of the immune system	HumPhenOnt	
+IKBKG	C4021753	Abnormality of the immune system	HumPhenOnt	
+MALT1	C4021753	Abnormality of the immune system	HumPhenOnt	
+NFKB1	C4021753	Abnormality of the immune system	HumPhenOnt	
+NFKB2	C4021753	Abnormality of the immune system	HumPhenOnt	
+NFKBIA	C4021753	Abnormality of the immune system	HumPhenOnt	
+NOD2	C4021753	Abnormality of the immune system	HumPhenOnt	
+SOS1	C4021753	Abnormality of the immune system	HumPhenOnt	
+EPHB1	C0004930	Behavior Disorders	DisGeNet	
+SQSTM1	C0004930	Behavior Disorders	DisGeNet	
+EPHB2	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+FYN	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+IFIH1	C0024141	Lupus Erythematosus, Systemic	DisGeNet,PheGenI	
+IKBKB	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+IRAK1	C0024141	Lupus Erythematosus, Systemic	DisGeNet,PheGenI	
+LYN	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+NFKB1	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+NFKBIA	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+NOD2	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+REL	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+RELA	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+RIPK2	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+SOS1	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+TRAF2	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+TRAF6	C0024141	Lupus Erythematosus, Systemic	DisGeNet	
+CALM3	C0007785	Ischaemic cerebral infarction	DisGeNet	
+DLG4	C0007785	Ischaemic cerebral infarction	DisGeNet	
+IRAK1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+NFKB1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+SOS1	C0007785	Ischaemic cerebral infarction	DisGeNet	
+TAB3	C0007785	Ischaemic cerebral infarction	DisGeNet	
+IFIH1	C0850666	Helicobacter pylori infection	DisGeNet	
+MALT1	C0850666	Helicobacter pylori infection	DisGeNet	
+NFKB1	C0850666	Helicobacter pylori infection	DisGeNet	
+NOD1	C0850666	Helicobacter pylori infection	DisGeNet	
+NOD2	C0850666	Helicobacter pylori infection	DisGeNet	
+RELA	C0850666	Helicobacter pylori infection	DisGeNet	
+NFKB1	C0263361	Psoriasis vulgaris	DisGeNet	
+NOD2	C0263361	Psoriasis vulgaris	DisGeNet	
+REL	C0263361	Psoriasis vulgaris	DisGeNet	
+TRAF6	C0263361	Psoriasis vulgaris	DisGeNet	

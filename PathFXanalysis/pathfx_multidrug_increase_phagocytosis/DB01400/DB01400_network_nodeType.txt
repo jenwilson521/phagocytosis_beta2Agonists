@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01400	drug	
+ABCB1	drug_target	
+ACHE	drug_target	
+BCHE	drug_target	
+Neurotoxicity Syndromes	phenotype	

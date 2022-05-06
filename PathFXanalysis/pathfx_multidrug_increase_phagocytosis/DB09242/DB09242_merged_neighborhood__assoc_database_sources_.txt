@@ -1,0 +1,21 @@
+Gene	CUI	Phenotype	Source Databases	
+NISCH	C0003850	Arteriosclerosis	DisGeNet	
+NISCH	C0004153	Atherosclerosis	DisGeNet	
+NISCH	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NISCH	C0007222	Cardiovascular Diseases	DisGeNet	
+NISCH	C0011860	Diabetes mellitus type 2	DisGeNet	
+NISCH	C0018801	Heart Failure	DisGeNet	
+NISCH	C0020538	Hypertension	DisGeNet	
+NISCH	C0020649	Hypotension	DisGeNet	
+NISCH	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NISCH	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NISCH	C0028754	Obesity	DisGeNet	
+NISCH	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+NISCH	C0278488	Carcinoma breast stage IV	DisGeNet	
+NISCH	C0428977	Bradycardia	DisGeNet	
+NISCH	C0677886	Ovarian epithelial cancer	DisGeNet	
+NISCH	C0678222	Breast carcinoma	DisGeNet	
+NISCH	C0853879	Invasive breast carcinoma	DisGeNet	
+NISCH	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NISCH	C1520166	Xenograft Model	DisGeNet	
+NISCH	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	

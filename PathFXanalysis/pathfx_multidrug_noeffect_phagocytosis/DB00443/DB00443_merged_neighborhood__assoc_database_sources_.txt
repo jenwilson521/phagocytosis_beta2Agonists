@@ -1,0 +1,8 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0029445	Bone necrosis	DisGeNet	
+CYP3A4	C0029445	Bone necrosis	DisGeNet	
+NR3C1	C0029445	Bone necrosis	DisGeNet	
+ABCB1	C0086132	Depressive Symptoms	DisGeNet	
+CYP19A1	C0086132	Depressive Symptoms	DisGeNet	
+CYP3A4	C0086132	Depressive Symptoms	DisGeNet	
+NR3C1	C0086132	Depressive Symptoms	DisGeNet	

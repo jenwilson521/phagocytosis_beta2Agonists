@@ -1,0 +1,49 @@
+node1	node2	edge_score	
+DB02530	GATM	1.0	
+GATM		1
+Autism 15	GATM	1.0	
+Renal cell carcinoma, nonpapillary	GATM	1.0	
+Primary biliary cirrhosis	GATM	1.0	
+Failure to thrive	GATM	1.0	
+Heart Failure	GATM	1.0	
+Congestive heart failure	GATM	1.0	
+Kidney Diseases	GATM	1.0	
+Acute kidney injury	GATM	1.0	
+Animal Mammary Neoplasms	GATM	1.0	
+Mammary Neoplasms, Experimental	GATM	1.0	
+Myopathy, scapulohumeroperoneal	GATM	1.0	
+Necrosis	GATM	1.0	
+Muscle weakness	GATM	1.0	
+Renal Insufficiency, Chronic	GATM	1.0	
+Abnormality of the genitourinary system	GATM	1.0	
+Acute myocardial ischemia	GATM	1.0	
+Onset	GATM	1.0	
+Proximal muscle weakness	GATM	1.0	
+Behavioral abnormality	GATM	1.0	
+Gowers sign	GATM	1.0	
+Delayed speech and language development	GATM	1.0	
+Organic aciduria	GATM	1.0	
+Growth abnormality	GATM	1.0	
+3-Methylglutaconic aciduria	GATM	1.0	
+Malignant tumor of prostate	GATM	1.0	
+Autosomal recessive inheritance	GATM	1.0	
+Abnormality of the nervous system	GATM	1.0	
+Global developmental delay, absent or hypoplastic corpus callosum, and dysmorphic facies	GATM	1.0	
+Prostate carcinoma	GATM	1.0	
+Neurodevelopmental abnormality	GATM	1.0	
+Autistic behavior	GATM	1.0	
+Decreased body weight	GATM	1.0	
+Abnormality of amino acid metabolism	GATM	1.0	
+Infantile-onset ascending hereditary spastic paralysis	GATM	1.0	
+Prostate Cancer, Hereditary, 7	GATM	1.0	
+Intellectual developmental disorder with dysmorphic facies and ptosis	GATM	1.0	
+Abnormality of the musculature	GATM	1.0	
+Abnormality of metabolism/homeostasis	GATM	1.0	
+Abnormality of the urinary system	GATM	1.0	
+Neurodevelopmental delay	GATM	1.0	
+Abnormality of nervous system physiology	GATM	1.0	
+Abnormality of muscle physiology	GATM	1.0	
+Abnormality of the urinary system physiology	GATM	1.0	
+Abnormality of carboxylic acid metabolism	GATM	1.0	
+Abnormality of body weight	GATM	1.0	
+Abnormality of urine homeostasis	GATM	1.0	

@@ -1,0 +1,87 @@
+Gene	CUI	Phenotype	Source Databases	
+ABCB1	C0013182	Drug Allergy	DisGeNet	
+ABCC2	C0013182	Drug Allergy	DisGeNet	
+CYP2C19	C0013182	Drug Allergy	DisGeNet	
+CYP2C8	C0013182	Drug Allergy	DisGeNet	
+CYP2C9	C0013182	Drug Allergy	DisGeNet	
+CYP3A4	C0013182	Drug Allergy	DisGeNet	
+CYP3A5	C0013182	Drug Allergy	DisGeNet	
+UGT2B7	C0013182	Drug Allergy	DisGeNet	
+ABCB1	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCC2	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ALB	C1096063	Drug Resistant Epilepsy	DisGeNet	
+APOE	C1096063	Drug Resistant Epilepsy	DisGeNet	
+CYP2C19	C1096063	Drug Resistant Epilepsy	DisGeNet	
+GFAP	C1096063	Drug Resistant Epilepsy	DisGeNet	
+ABCB1	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP2C19	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A4	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+CYP3A5	C0024620	Primary malignant neoplasm of liver	DisGeNet	
+ABCB1	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCC2	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ALB	C0860207	Drug-Induced Liver Injury	DisGeNet	
+APOE	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2B6	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C19	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP2C9	C0860207	Drug-Induced Liver Injury	DisGeNet	
+CYP3A5	C0860207	Drug-Induced Liver Injury	DisGeNet	
+GSN	C0860207	Drug-Induced Liver Injury	DisGeNet	
+HPX	C0860207	Drug-Induced Liver Injury	DisGeNet	
+ABCB1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+ALB	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+APOC1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+APOE	C0020473	Hyperlipidemia, combined, 1	DisGeNet,HumPhenOnt	
+CDCP1	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C19	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C8	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP2C9	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A4	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+CYP3A5	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+HP	C0020473	Hyperlipidemia, combined, 1	DisGeNet	
+SLC25A13	C0020473	Hyperlipidemia, combined, 1	HumPhenOnt	
+ABCB1	C0027497	Nausea	DisGeNet	
+CYP1A2	C0027497	Nausea	DisGeNet	
+CYP2C19	C0027497	Nausea	DisGeNet	
+CYP2C9	C0027497	Nausea	DisGeNet	
+UGT2B7	C0027497	Nausea	DisGeNet	
+ABCB1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ALB	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+APOE	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP2C8	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A4	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+CYP3A5	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+GSN	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+LDB3	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	HumPhenOnt	
+SACS	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SERPING1	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+SETX	C0442874	Neuropathy ataxia retinitis pigmentosa syndrome	DisGeNet	
+ABCB1	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+AHSG	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ALB	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+APOE	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CST3	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP2C19	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP2C8	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+CYP3A5	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+HP	C0403447	Chronic Kidney Insufficiency	DisGeNet	
+ABCB1	C0948089	Acute Coronary Syndrome	DisGeNet	
+ALB	C0948089	Acute Coronary Syndrome	DisGeNet	
+APOE	C0948089	Acute Coronary Syndrome	DisGeNet	
+CST3	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP1A2	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2B6	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C19	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP2C9	C0948089	Acute Coronary Syndrome	DisGeNet	
+CYP3A4	C0948089	Acute Coronary Syndrome	DisGeNet,PheGenI	
+CYP3A5	C0948089	Acute Coronary Syndrome	DisGeNet	
+GSN	C0948089	Acute Coronary Syndrome	DisGeNet	
+UGT2B7	C0948089	Acute Coronary Syndrome	PheGenI	
+ABCB1	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCC2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ALB	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP1A2	C0041755	Adverse drug events and drug allergies	DisGeNet	
+CYP2C9	C0041755	Adverse drug events and drug allergies	DisGeNet	
+ABCB1	C0030201	Acute postoperative pain	DisGeNet	
+CYP3A4	C0030201	Acute postoperative pain	DisGeNet	
+KLK3	C0030201	Acute postoperative pain	DisGeNet	
+UGT2B7	C0030201	Acute postoperative pain	DisGeNet	

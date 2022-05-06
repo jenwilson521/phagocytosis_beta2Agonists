@@ -1,0 +1,1110 @@
+Gene	CUI	Phenotype	Source Databases	
+AGFG1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+AP2A1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+APOB	C0024667	Animal Mammary Neoplasms	DisGeNet	
+BIN1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CD4	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CFTR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+CTTN	C0024667	Animal Mammary Neoplasms	DisGeNet	
+DAB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+DERL1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+DNM2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EGF	C0024667	Animal Mammary Neoplasms	DisGeNet	
+EGFR	C0024667	Animal Mammary Neoplasms	DisGeNet	
+FNBP1L	C0024667	Animal Mammary Neoplasms	DisGeNet	
+GRB2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+HIP1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+IGF2R	C0024667	Animal Mammary Neoplasms	DisGeNet	
+PTGS2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+REPS1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+REPS2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+RNF5	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SEL1L	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SH3GL2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SH3KBP1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SLC12A2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SLCO1A2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SNX9	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SYNJ2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+SYT1	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TF	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TFRC	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TP53	C0024667	Animal Mammary Neoplasms	DisGeNet	
+TRIP10	C0024667	Animal Mammary Neoplasms	DisGeNet	
+VAMP8	C0024667	Animal Mammary Neoplasms	DisGeNet	
+WASL	C0024667	Animal Mammary Neoplasms	DisGeNet	
+WNT5A	C0024667	Animal Mammary Neoplasms	DisGeNet	
+ACTR2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+ADRB2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+AP2A1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+ARPC1A	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+AVP	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CBL	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CFTR	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CLTC	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+CTTN	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+DAB2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+DNM2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+EGF	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+EGFR	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+IGF2R	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+KIAA0319	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+LRP2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+PTGS2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+REPS1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SEL1L	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SYT1	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+SYT9	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TF	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TFRC	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+TP53	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+VCP	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+WNT5A	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+AP2A1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+ARPC5	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+ARRB1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+CLTC	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+CLTCL1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+EGF	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+EGFR	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+PTGS2	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+SYNJ1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+SYT1	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+TFRC	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+TP53	C0035412	Rhabdomyosarcoma alveolar	DisGeNet	
+ADRB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+AGFG1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+AMPH	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+AP2A1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+APOB	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ARRB1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ARRB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+AVP	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+BIN1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CD3D	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CD4	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CFTR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CLTC	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+CTTN	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+DAB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+DERL1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+DNAJC6	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+DNM2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+DVL2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EGF	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+EGFR	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+ERLIN2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+FNBP1L	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+GRB2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+IGF2R	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+KIAA0319	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+LRP2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+PICALM	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+PTGS2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+RAB5A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+REPS2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+RNF5	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+RPS27A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SEL1L	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SH3GL2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SH3KBP1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SLCO1A2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SNX9	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SYNJ2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+SYT1	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TF	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TFRC	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TP53	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+TRIP10	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+UBC	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+VAMP7	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+VCP	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+WASL	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+WNT5A	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+APOB	C0001486	Adenovirus Infections	DisGeNet	
+CFTR	C0001486	Adenovirus Infections	DisGeNet	
+DNM2	C0001486	Adenovirus Infections	DisGeNet	
+EGF	C0001486	Adenovirus Infections	DisGeNet	
+EGFR	C0001486	Adenovirus Infections	DisGeNet	
+TP53	C0001486	Adenovirus Infections	DisGeNet	
+ADRB2	C0678222	Breast carcinoma	DisGeNet	
+AGFG1	C0678222	Breast carcinoma	DisGeNet	
+AMPH	C0678222	Breast carcinoma	DisGeNet	
+AP2A1	C0678222	Breast carcinoma	DisGeNet	
+APOB	C0678222	Breast carcinoma	DisGeNet	
+ARRB1	C0678222	Breast carcinoma	DisGeNet	
+ARRB2	C0678222	Breast carcinoma	DisGeNet	
+AVP	C0678222	Breast carcinoma	DisGeNet	
+BIN1	C0678222	Breast carcinoma	DisGeNet	
+CD3D	C0678222	Breast carcinoma	DisGeNet	
+CFTR	C0678222	Breast carcinoma	DisGeNet	
+CLTC	C0678222	Breast carcinoma	DisGeNet	
+CTTN	C0678222	Breast carcinoma	DisGeNet	
+DAB2	C0678222	Breast carcinoma	DisGeNet	
+DERL1	C0678222	Breast carcinoma	DisGeNet	
+DNAJC6	C0678222	Breast carcinoma	DisGeNet	
+DNM2	C0678222	Breast carcinoma	DisGeNet	
+DVL2	C0678222	Breast carcinoma	DisGeNet	
+EGF	C0678222	Breast carcinoma	DisGeNet	
+EGFR	C0678222	Breast carcinoma	DisGeNet	
+ERLIN2	C0678222	Breast carcinoma	DisGeNet	
+FNBP1L	C0678222	Breast carcinoma	DisGeNet	
+GRB2	C0678222	Breast carcinoma	DisGeNet	
+IGF2R	C0678222	Breast carcinoma	DisGeNet	
+KIAA0319	C0678222	Breast carcinoma	DisGeNet	
+LRP2	C0678222	Breast carcinoma	DisGeNet	
+PTGS2	C0678222	Breast carcinoma	DisGeNet	
+RAB5A	C0678222	Breast carcinoma	DisGeNet	
+REPS2	C0678222	Breast carcinoma	DisGeNet	
+RNF5	C0678222	Breast carcinoma	DisGeNet	
+RPS27A	C0678222	Breast carcinoma	DisGeNet	
+SEL1L	C0678222	Breast carcinoma	DisGeNet	
+SH3GL2	C0678222	Breast carcinoma	DisGeNet	
+SH3KBP1	C0678222	Breast carcinoma	DisGeNet	
+SLCO1A2	C0678222	Breast carcinoma	DisGeNet	
+SNX9	C0678222	Breast carcinoma	DisGeNet	
+SYNJ2	C0678222	Breast carcinoma	DisGeNet	
+SYT1	C0678222	Breast carcinoma	DisGeNet	
+TF	C0678222	Breast carcinoma	DisGeNet	
+TFRC	C0678222	Breast carcinoma	DisGeNet	
+TP53	C0678222	Breast carcinoma	DisGeNet,HumPhenOnt	
+TRIP10	C0678222	Breast carcinoma	DisGeNet	
+UBC	C0678222	Breast carcinoma	DisGeNet	
+VAMP7	C0678222	Breast carcinoma	DisGeNet	
+VCP	C0678222	Breast carcinoma	DisGeNet	
+WASL	C0678222	Breast carcinoma	DisGeNet	
+WNT5A	C0678222	Breast carcinoma	DisGeNet	
+ADRB2	C0022660	Acute kidney injury	DisGeNet	
+AGFG1	C0022660	Acute kidney injury	DisGeNet	
+AVP	C0022660	Acute kidney injury	DisGeNet	
+EGF	C0022660	Acute kidney injury	DisGeNet	
+EGFR	C0022660	Acute kidney injury	DisGeNet	
+LRP2	C0022660	Acute kidney injury	DisGeNet	
+PTGS2	C0022660	Acute kidney injury	DisGeNet	
+SLC22A6	C0022660	Acute kidney injury	DisGeNet	
+SLC22A8	C0022660	Acute kidney injury	DisGeNet	
+TP53	C0022660	Acute kidney injury	DisGeNet	
+ADRB2	C0002395	Alzheimer Disease	DisGeNet	
+AP2A2	C0002395	Alzheimer Disease	DisGeNet	
+APOB	C0002395	Alzheimer Disease	DisGeNet	
+ARRB2	C0002395	Alzheimer Disease	DisGeNet	
+BIN1	C0002395	Alzheimer Disease	DisGeNet,PheGenI	
+CFTR	C0002395	Alzheimer Disease	DisGeNet	
+CHRM2	C0002395	Alzheimer Disease	DisGeNet	
+DAB2	C0002395	Alzheimer Disease	DisGeNet	
+DNM2	C0002395	Alzheimer Disease	DisGeNet	
+EGFR	C0002395	Alzheimer Disease	DisGeNet	
+GRB2	C0002395	Alzheimer Disease	DisGeNet	
+IGF2R	C0002395	Alzheimer Disease	DisGeNet	
+ITSN1	C0002395	Alzheimer Disease	DisGeNet	
+LRP2	C0002395	Alzheimer Disease	DisGeNet	
+M6PR	C0002395	Alzheimer Disease	DisGeNet	
+PICALM	C0002395	Alzheimer Disease	DisGeNet,PheGenI	
+PTGS2	C0002395	Alzheimer Disease	DisGeNet	
+SH3GL2	C0002395	Alzheimer Disease	DisGeNet	
+SLC18A3	C0002395	Alzheimer Disease	DisGeNet	
+SYNJ1	C0002395	Alzheimer Disease	DisGeNet	
+SYT1	C0002395	Alzheimer Disease	DisGeNet	
+TF	C0002395	Alzheimer Disease	DisGeNet	
+TP53	C0002395	Alzheimer Disease	DisGeNet	
+UBB	C0002395	Alzheimer Disease	DisGeNet	
+VAMP2	C0002395	Alzheimer Disease	DisGeNet	
+VCP	C0002395	Alzheimer Disease	DisGeNet	
+EGF	C0206720	Squamous Cell Neoplasms	DisGeNet	
+EGFR	C0206720	Squamous Cell Neoplasms	DisGeNet	
+PTGS2	C0206720	Squamous Cell Neoplasms	DisGeNet	
+TP53	C0206720	Squamous Cell Neoplasms	DisGeNet	
+AVP	C0011848	Diabetes insipidus	DisGeNet,HumPhenOnt	
+AVPR2	C0011848	Diabetes insipidus	DisGeNet,HumPhenOnt	
+OCRL	C0011848	Diabetes insipidus	HumPhenOnt	
+TP53	C0011848	Diabetes insipidus	DisGeNet	
+UBB	C0011848	Diabetes insipidus	DisGeNet	
+ADRB2	C0001973	Alcohol dependence	DisGeNet	
+AP2B1	C0001973	Alcohol dependence	DisGeNet	
+AVP	C0001973	Alcohol dependence	DisGeNet	
+CFTR	C0001973	Alcohol dependence	DisGeNet	
+CHRM2	C0001973	Alcohol dependence	DisGeNet	
+DAB2	C0001973	Alcohol dependence	DisGeNet	
+EGF	C0001973	Alcohol dependence	DisGeNet	
+HIP1	C0001973	Alcohol dependence	DisGeNet	
+KIAA0319	C0001973	Alcohol dependence	DisGeNet	
+LRP2	C0001973	Alcohol dependence	DisGeNet	
+SGIP1	C0001973	Alcohol dependence	DisGeNet	
+STON2	C0001973	Alcohol dependence	DisGeNet	
+TF	C0001973	Alcohol dependence	DisGeNet	
+TGOLN2	C0001973	Alcohol dependence	DisGeNet	
+TP53	C0001973	Alcohol dependence	DisGeNet	
+ACTR2	C0042769	Virus Diseases	DisGeNet	
+APOB	C0042769	Virus Diseases	DisGeNet	
+CD4	C0042769	Virus Diseases	DisGeNet	
+CFTR	C0042769	Virus Diseases	DisGeNet	
+CTTN	C0042769	Virus Diseases	DisGeNet	
+EGF	C0042769	Virus Diseases	DisGeNet	
+IGF2R	C0042769	Virus Diseases	DisGeNet	
+KIAA0319	C0042769	Virus Diseases	DisGeNet	
+PTGS2	C0042769	Virus Diseases	DisGeNet	
+RAB5A	C0042769	Virus Diseases	DisGeNet	
+RNF5	C0042769	Virus Diseases	DisGeNet	
+SCARB2	C0042769	Virus Diseases	DisGeNet	
+SEL1L	C0042769	Virus Diseases	DisGeNet	
+SLC10A1	C0042769	Virus Diseases	DisGeNet	
+SLC22A8	C0042769	Virus Diseases	DisGeNet	
+TP53	C0042769	Virus Diseases	DisGeNet	
+EGFR	C0031039	Pericardial effusion	DisGeNet	
+PTGS2	C0031039	Pericardial effusion	DisGeNet	
+SCARB2	C0031039	Pericardial effusion	HumPhenOnt	
+TP53	C0031039	Pericardial effusion	DisGeNet	
+ACTR2	C0235974	Pancreatic Carcinoma	DisGeNet	
+ADRB2	C0235974	Pancreatic Carcinoma	DisGeNet	
+AP2A1	C0235974	Pancreatic Carcinoma	DisGeNet	
+ARPC1A	C0235974	Pancreatic Carcinoma	DisGeNet	
+AVP	C0235974	Pancreatic Carcinoma	DisGeNet	
+CBL	C0235974	Pancreatic Carcinoma	DisGeNet	
+CFTR	C0235974	Pancreatic Carcinoma	DisGeNet	
+CLTC	C0235974	Pancreatic Carcinoma	DisGeNet	
+CTTN	C0235974	Pancreatic Carcinoma	DisGeNet	
+DNM2	C0235974	Pancreatic Carcinoma	DisGeNet	
+EGF	C0235974	Pancreatic Carcinoma	DisGeNet	
+EGFR	C0235974	Pancreatic Carcinoma	DisGeNet	
+FZD4	C0235974	Pancreatic Carcinoma	DisGeNet	
+IGF2R	C0235974	Pancreatic Carcinoma	DisGeNet	
+LRP2	C0235974	Pancreatic Carcinoma	DisGeNet	
+PTGS2	C0235974	Pancreatic Carcinoma	DisGeNet	
+REPS1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SEL1L	C0235974	Pancreatic Carcinoma	DisGeNet	
+SYT1	C0235974	Pancreatic Carcinoma	DisGeNet	
+SYT9	C0235974	Pancreatic Carcinoma	DisGeNet	
+TF	C0235974	Pancreatic Carcinoma	DisGeNet	
+TFRC	C0235974	Pancreatic Carcinoma	DisGeNet	
+TP53	C0235974	Pancreatic Carcinoma	ClinVar,DisGeNet	
+VCP	C0235974	Pancreatic Carcinoma	DisGeNet	
+WNT5A	C0235974	Pancreatic Carcinoma	DisGeNet	
+CBL	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+EGF	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+EGFR	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+HGS	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+PTGS2	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+TP53	C0854917	Rhabdoid Tumor of the Kidney	DisGeNet	
+BIN1	C0039273	Pes cavus	HumPhenOnt	
+DNAJC6	C0039273	Pes cavus	HumPhenOnt	
+DNM2	C0039273	Pes cavus	HumPhenOnt	
+ERLIN2	C0039273	Pes cavus	HumPhenOnt	
+SYNJ1	C0039273	Pes cavus	HumPhenOnt	
+SYT2	C0039273	Pes cavus	HumPhenOnt	
+VCP	C0039273	Pes cavus	HumPhenOnt	
+AMPH	C0175709	Myotubular myopathy	DisGeNet	
+BIN1	C0175709	Myotubular myopathy	ClinVar,DisGeNet	
+DNM2	C0175709	Myotubular myopathy	ClinVar,DisGeNet	
+WASL	C0175709	Myotubular myopathy	DisGeNet	
+ACTR2	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+ACTR3	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+CTTN	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+DNM2	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+WASL	C0043194	Wiskott-Aldrich syndrome, 301000 (3)	DisGeNet	
+ADRB2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+APOB	C0020443	Hypercholesterolemia, autosomal dominant, type B	ClinVar,DisGeNet,HumPhenOnt	
+AVP	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+DAB2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+LDLRAP1	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet,HumPhenOnt	
+LRP2	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+OCRL	C0020443	Hypercholesterolemia, autosomal dominant, type B	HumPhenOnt	
+PICALM	C0020443	Hypercholesterolemia, autosomal dominant, type B	DisGeNet	
+EGFR	C0007121	Bronchogenic Carcinoma	DisGeNet	
+PTGS2	C0007121	Bronchogenic Carcinoma	DisGeNet	
+TP53	C0007121	Bronchogenic Carcinoma	DisGeNet	
+VCP	C0007121	Bronchogenic Carcinoma	DisGeNet	
+EPS15	C0598894	Monocytic leukemia	DisGeNet	
+PICALM	C0598894	Monocytic leukemia	DisGeNet	
+PTGS2	C0598894	Monocytic leukemia	DisGeNet	
+TP53	C0598894	Monocytic leukemia	DisGeNet	
+AVP	C0162565	Acute intermittent porphyria	DisGeNet	
+CFTR	C0162565	Acute intermittent porphyria	DisGeNet	
+EGFR	C0162565	Acute intermittent porphyria	DisGeNet	
+TP53	C0162565	Acute intermittent porphyria	DisGeNet	
+AVP	C0013295	Duodenal Ulcer	DisGeNet	
+CFTR	C0013295	Duodenal Ulcer	DisGeNet	
+EGF	C0013295	Duodenal Ulcer	DisGeNet	
+PTGS2	C0013295	Duodenal Ulcer	DisGeNet	
+TP53	C0013295	Duodenal Ulcer	DisGeNet	
+EPS15	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PICALM	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+PTGS2	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+TFRC	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+TP53	C1318544	M5b Acute differentiated monocytic leukemia	DisGeNet	
+EGF	C0677055	CARCINOMA OF VULVA	DisGeNet	
+EGFR	C0677055	CARCINOMA OF VULVA	DisGeNet	
+PTGS2	C0677055	CARCINOMA OF VULVA	DisGeNet	
+TP53	C0677055	CARCINOMA OF VULVA	DisGeNet	
+ADRB2	C0018802	Congestive heart failure	DisGeNet	
+ARRB1	C0018802	Congestive heart failure	DisGeNet	
+ARRB2	C0018802	Congestive heart failure	DisGeNet	
+AVP	C0018802	Congestive heart failure	DisGeNet	
+AVPR2	C0018802	Congestive heart failure	DisGeNet	
+BIN1	C0018802	Congestive heart failure	DisGeNet	
+CTTN	C0018802	Congestive heart failure	DisGeNet	
+DNM2	C0018802	Congestive heart failure	DisGeNet	
+EGFR	C0018802	Congestive heart failure	DisGeNet	
+FZD4	C0018802	Congestive heart failure	DisGeNet	
+PTGS2	C0018802	Congestive heart failure	DisGeNet	
+SCARB2	C0018802	Congestive heart failure	DisGeNet	
+TF	C0018802	Congestive heart failure	HumPhenOnt	
+TFRC	C0018802	Congestive heart failure	DisGeNet	
+TP53	C0018802	Congestive heart failure	DisGeNet	
+APOB	C0011265	Dementia familial British	DisGeNet	
+BIN1	C0011265	Dementia familial British	DisGeNet	
+CD4	C0011265	Dementia familial British	DisGeNet	
+DNM2	C0011265	Dementia familial British	DisGeNet	
+EGF	C0011265	Dementia familial British	DisGeNet	
+PICALM	C0011265	Dementia familial British	DisGeNet	
+PTGS2	C0011265	Dementia familial British	DisGeNet	
+TP53	C0011265	Dementia familial British	DisGeNet	
+VCP	C0011265	Dementia familial British	DisGeNet	
+APOB	C0740277	Bile duct cancer resectable	DisGeNet	
+EGFR	C0740277	Bile duct cancer resectable	DisGeNet	
+PTGS2	C0740277	Bile duct cancer resectable	DisGeNet	
+TP53	C0740277	Bile duct cancer resectable	DisGeNet	
+APOB	C0016978	Neoplasm of the gallbladder	DisGeNet	
+EGF	C0016978	Neoplasm of the gallbladder	DisGeNet	
+EGFR	C0016978	Neoplasm of the gallbladder	DisGeNet	
+TP53	C0016978	Neoplasm of the gallbladder	DisGeNet	
+CFTR	C0086942	Rous Sarcoma	DisGeNet	
+EGF	C0086942	Rous Sarcoma	DisGeNet	
+RPS27A	C0086942	Rous Sarcoma	DisGeNet	
+UBC	C0086942	Rous Sarcoma	DisGeNet	
+ADRB2	C0018801	Heart Failure	DisGeNet	
+ARRB1	C0018801	Heart Failure	DisGeNet	
+ARRB2	C0018801	Heart Failure	DisGeNet	
+AVP	C0018801	Heart Failure	DisGeNet	
+AVPR2	C0018801	Heart Failure	DisGeNet	
+BIN1	C0018801	Heart Failure	DisGeNet,PheGenI	
+CTTN	C0018801	Heart Failure	DisGeNet	
+DNM2	C0018801	Heart Failure	DisGeNet	
+EGFR	C0018801	Heart Failure	DisGeNet	
+FZD4	C0018801	Heart Failure	DisGeNet	
+PTGS2	C0018801	Heart Failure	DisGeNet	
+SCARB2	C0018801	Heart Failure	DisGeNet	
+SH3GL2	C0018801	Heart Failure	DisGeNet	
+TFRC	C0018801	Heart Failure	DisGeNet	
+TP53	C0018801	Heart Failure	DisGeNet	
+AAK1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+ADRB2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+AMPH	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+APOB	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+DERL1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+DNM2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+EGF	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+EGFR	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+IGF2R	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+PTGS2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+RAB5A	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SYT1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+TP53	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+VCP	C0002736	Amyotrophic Lateral Sclerosis	ClinVar,DisGeNet,HumPhenOnt	
+WNT5A	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+CTTN	C0023531	Leukoplakia	DisGeNet	
+EGFR	C0023531	Leukoplakia	DisGeNet	
+PTGS2	C0023531	Leukoplakia	DisGeNet	
+TP53	C0023531	Leukoplakia	DisGeNet	
+DNAJC6	C0085623	Akinesia	HumPhenOnt	
+DNM2	C0085623	Akinesia	DisGeNet	
+SYNJ1	C0085623	Akinesia	HumPhenOnt	
+OCRL	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A6	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+SLC22A8	C0812435	Chromosome 11p deletion syndrome	DisGeNet	
+CTTN	C0151546	Oral Cavity Carcinoma	DisGeNet	
+EGF	C0151546	Oral Cavity Carcinoma	DisGeNet	
+EGFR	C0151546	Oral Cavity Carcinoma	DisGeNet	
+PTGS2	C0151546	Oral Cavity Carcinoma	DisGeNet	
+TP53	C0151546	Oral Cavity Carcinoma	DisGeNet	
+ADRB2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+APOB	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+ARRB2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+AVP	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+EGF	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+EGFR	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+IGF2R	C0023890	Liver Cirrhosis, Biliary	DisGeNet,HumPhenOnt	
+PTGS2	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+RPS27A	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+SCARB2	C0023890	Liver Cirrhosis, Biliary	HumPhenOnt	
+SLC10A1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+STAM	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+SYT1	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TF	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TFRC	C0023890	Liver Cirrhosis, Biliary	DisGeNet	
+TP53	C0023890	Liver Cirrhosis, Biliary	DisGeNet,HumPhenOnt	
+FZD4	C0020179	Huntington's chorea	DisGeNet	
+HIP1	C0020179	Huntington's chorea	DisGeNet	
+PTGS2	C0020179	Huntington's chorea	DisGeNet	
+RPS27A	C0020179	Huntington's chorea	DisGeNet	
+TFRC	C0020179	Huntington's chorea	DisGeNet	
+TP53	C0020179	Huntington's chorea	DisGeNet	
+TRIP10	C0020179	Huntington's chorea	DisGeNet	
+UBC	C0020179	Huntington's chorea	DisGeNet	
+VCP	C0020179	Huntington's chorea	DisGeNet	
+EGFR	C0005967	Bone neoplasms	DisGeNet	
+IGF2R	C0005967	Bone neoplasms	DisGeNet	
+PTGS2	C0005967	Bone neoplasms	DisGeNet	
+SYT1	C0005967	Bone neoplasms	DisGeNet	
+TP53	C0005967	Bone neoplasms	DisGeNet	
+ADRB2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+AP2B1	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+APOB	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+AVP	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+CHRM2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+DVL2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+EGFR	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+HGS	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+PTGS2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+SLC12A2	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+TF	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+TP53	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+AVP	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+TP53	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+WNT5A	C1332347	Inappropriate ADH Syndrome	DisGeNet	
+APOB	C0497327	Dementia	DisGeNet	
+BIN1	C0497327	Dementia	DisGeNet	
+CD4	C0497327	Dementia	DisGeNet	
+DNM2	C0497327	Dementia	DisGeNet	
+EGF	C0497327	Dementia	DisGeNet	
+PICALM	C0497327	Dementia	DisGeNet	
+PTGS2	C0497327	Dementia	DisGeNet	
+SCARB2	C0497327	Dementia	HumPhenOnt	
+SEL1L	C0497327	Dementia	DisGeNet	
+TP53	C0497327	Dementia	DisGeNet	
+VCP	C0497327	Dementia	DisGeNet,HumPhenOnt	
+EGF	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+EGFR	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+PTGS2	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+SYT1	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+TP53	C0206681	Adenocarcinoma, Clear Cell	DisGeNet	
+ARRB1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+ARRB2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CBL	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CD3D	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CD3G	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CLTA	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+CLTC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EGF	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EGFR	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+HIP1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+LDLRAP1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+PTGS2	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+RPS27A	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SEL1L	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SLC22A8	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+SYT1	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TFRC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+TP53	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet,HumPhenOnt	
+UBC	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+VCP	C0024299	Lymphoma, Large B-Cell, Diffuse	DisGeNet	
+EGF	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+EGFR	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+PTGS2	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+TP53	C0334463	Malignant Fibrous Histiocytoma	DisGeNet	
+EGF	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+PTGS2	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+TP53	C0280321	Squamous cell carcinoma of the hypopharynx	DisGeNet	
+EGFR	C0349530	Early gastric cancer	DisGeNet	
+PTGS2	C0349530	Early gastric cancer	DisGeNet	
+TP53	C0349530	Early gastric cancer	DisGeNet	
+EGFR	C0375071	Malignant neoplasm of vulva	DisGeNet	
+PTGS2	C0375071	Malignant neoplasm of vulva	DisGeNet	
+TP53	C0375071	Malignant neoplasm of vulva	DisGeNet	
+EGFR	C1314694	Astrocytoma, low grade	DisGeNet	
+TP53	C1314694	Astrocytoma, low grade	DisGeNet	
+WNT5A	C1314694	Astrocytoma, low grade	DisGeNet	
+EGFR	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+PTGS2	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+TP53	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+VCP	C0280313	Oropharyngeal squamous cell carcinoma	DisGeNet	
+ARPC2	C0014544	Epilepsy	DisGeNet	
+CHRM2	C0014544	Epilepsy	DisGeNet	
+DNAJC6	C0014544	Epilepsy	DisGeNet	
+HIP1	C0014544	Epilepsy	DisGeNet	
+KIAA0319	C0014544	Epilepsy	DisGeNet	
+REPS1	C0014544	Epilepsy	DisGeNet	
+SCARB2	C0014544	Epilepsy	ClinVar,DisGeNet	
+SLC12A2	C0014544	Epilepsy	DisGeNet	
+SLCO1A2	C0014544	Epilepsy	DisGeNet	
+SYT1	C0014544	Epilepsy	DisGeNet	
+VAMP2	C0014544	Epilepsy	DisGeNet	
+VCP	C0014544	Epilepsy	DisGeNet	
+WASL	C0014544	Epilepsy	DisGeNet	
+APOB	C0155733	Aortic atherosclerosis	DisGeNet,HumPhenOnt	
+LDLRAP1	C0155733	Aortic atherosclerosis	HumPhenOnt	
+PTGS2	C0155733	Aortic atherosclerosis	DisGeNet	
+EGFR	C1322286	Thymic Carcinoma	DisGeNet	
+PTGS2	C1322286	Thymic Carcinoma	DisGeNet	
+TP53	C1322286	Thymic Carcinoma	DisGeNet	
+APOB	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+DAB2	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+EGF	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+TP53	C3463897	Hydatidiform mole, recurrent, 1, 231090 (3)	DisGeNet	
+AVP	C0020625	Hyponatremia	DisGeNet	
+AVPR2	C0020625	Hyponatremia	HumPhenOnt	
+OCRL	C0020625	Hyponatremia	HumPhenOnt	
+DAB2	C0206701	High grade serous carcinoma	DisGeNet	
+EGF	C0206701	High grade serous carcinoma	DisGeNet	
+EGFR	C0206701	High grade serous carcinoma	DisGeNet	
+PTGS2	C0206701	High grade serous carcinoma	DisGeNet	
+TP53	C0206701	High grade serous carcinoma	DisGeNet	
+AAK1	C0030567	Parkinson Disease	DisGeNet	
+AVP	C0030567	Parkinson Disease	DisGeNet	
+DNAJC6	C0030567	Parkinson Disease	ClinVar,DisGeNet	
+EGF	C0030567	Parkinson Disease	DisGeNet	
+GAK	C0030567	Parkinson Disease	DisGeNet	
+HIP1R	C0030567	Parkinson Disease	DisGeNet	
+IGF2R	C0030567	Parkinson Disease	DisGeNet	
+PICALM	C0030567	Parkinson Disease	DisGeNet	
+PTGS2	C0030567	Parkinson Disease	DisGeNet	
+SCARB2	C0030567	Parkinson Disease	DisGeNet	
+SH3GL2	C0030567	Parkinson Disease	DisGeNet	
+SYNJ1	C0030567	Parkinson Disease	DisGeNet	
+TF	C0030567	Parkinson Disease	DisGeNet	
+VCP	C0030567	Parkinson Disease	DisGeNet	
+CBL	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+EGF	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+EGFR	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+KIAA0319	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+LRP2	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+VCP	C0008073	Growth retardation, intellectual developmental disorder, hypotonia, and hepatopathy, 617093 (3)	DisGeNet	
+EGF	C0206726	gliosarcoma	DisGeNet	
+EGFR	C0206726	gliosarcoma	DisGeNet	
+PTGS2	C0206726	gliosarcoma	DisGeNet	
+TP53	C0206726	gliosarcoma	DisGeNet	
+EGF	C0017150	Gastrinoma	DisGeNet	
+EGFR	C0017150	Gastrinoma	DisGeNet	
+TP53	C0017150	Gastrinoma	DisGeNet	
+CTTN	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+EGF	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+EGFR	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+FNBP1L	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+GRB2	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+PTGS2	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+SYNJ2	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+SYT1	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+TFRC	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+TP53	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+TRIP10	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+VCP	C0153676	Secondary malignant neoplasm of lung	DisGeNet	
+APOB	C0678213	Complete hydatidiform mole	DisGeNet	
+EGFR	C0678213	Complete hydatidiform mole	DisGeNet	
+TP53	C0678213	Complete hydatidiform mole	DisGeNet	
+ACTR2	C0376358	Malignant tumor of prostate	DisGeNet	
+ARRB2	C0376358	Malignant tumor of prostate	DisGeNet	
+BIN1	C0376358	Malignant tumor of prostate	DisGeNet	
+CFTR	C0376358	Malignant tumor of prostate	DisGeNet	
+CLTC	C0376358	Malignant tumor of prostate	DisGeNet	
+DAB2	C0376358	Malignant tumor of prostate	DisGeNet	
+DNM2	C0376358	Malignant tumor of prostate	DisGeNet	
+EGF	C0376358	Malignant tumor of prostate	DisGeNet	
+EGFR	C0376358	Malignant tumor of prostate	DisGeNet	
+FZD4	C0376358	Malignant tumor of prostate	DisGeNet	
+GAK	C0376358	Malignant tumor of prostate	DisGeNet	
+HIP1	C0376358	Malignant tumor of prostate	ClinVar,DisGeNet	
+IGF2R	C0376358	Malignant tumor of prostate	DisGeNet	
+KIAA0319	C0376358	Malignant tumor of prostate	DisGeNet	
+LRP2	C0376358	Malignant tumor of prostate	DisGeNet	
+M6PR	C0376358	Malignant tumor of prostate	DisGeNet	
+PACSIN2	C0376358	Malignant tumor of prostate	DisGeNet	
+PIK3C2A	C0376358	Malignant tumor of prostate	DisGeNet	
+PTGS2	C0376358	Malignant tumor of prostate	DisGeNet	
+REPS1	C0376358	Malignant tumor of prostate	DisGeNet	
+REPS2	C0376358	Malignant tumor of prostate	DisGeNet	
+SCARB2	C0376358	Malignant tumor of prostate	DisGeNet	
+SEL1L	C0376358	Malignant tumor of prostate	DisGeNet	
+SLCO1A2	C0376358	Malignant tumor of prostate	DisGeNet	
+STAM2	C0376358	Malignant tumor of prostate	DisGeNet	
+SYT1	C0376358	Malignant tumor of prostate	DisGeNet	
+TF	C0376358	Malignant tumor of prostate	DisGeNet	
+TFRC	C0376358	Malignant tumor of prostate	DisGeNet	
+TP53	C0376358	Malignant tumor of prostate	DisGeNet,HumPhenOnt	
+VAMP3	C0376358	Malignant tumor of prostate	DisGeNet	
+VCP	C0376358	Malignant tumor of prostate	DisGeNet	
+WNT5A	C0376358	Malignant tumor of prostate	DisGeNet	
+ADRB2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+BIN1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGF	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGFR	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+PTGS2	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+SYT1	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+TP53	C0936223	Metastatic Prostate Carcinoma	DisGeNet	
+EGF	C0221228	Comedone	DisGeNet	
+EGFR	C0221228	Comedone	DisGeNet	
+TP53	C0221228	Comedone	DisGeNet	
+ADRB2	C0005586	Bipolar affective disorder	DisGeNet	
+APOB	C0005586	Bipolar affective disorder	DisGeNet	
+AVP	C0005586	Bipolar affective disorder	DisGeNet	
+CHRM2	C0005586	Bipolar affective disorder	DisGeNet	
+HIP1R	C0005586	Bipolar affective disorder	DisGeNet	
+KIAA0319	C0005586	Bipolar affective disorder	DisGeNet	
+RPS27A	C0005586	Bipolar affective disorder	DisGeNet	
+SLC22A6	C0005586	Bipolar affective disorder	DisGeNet	
+SYNJ1	C0005586	Bipolar affective disorder	DisGeNet	
+TP53	C0005586	Bipolar affective disorder	DisGeNet	
+UBC	C0005586	Bipolar affective disorder	DisGeNet	
+VAMP2	C0005586	Bipolar affective disorder	DisGeNet	
+VAMP3	C0005586	Bipolar affective disorder	DisGeNet	
+VAMP7	C0005586	Bipolar affective disorder	DisGeNet	
+AAK1	C0019196	Hepatitis C	DisGeNet	
+AP2M1	C0019196	Hepatitis C	DisGeNet	
+APOB	C0019196	Hepatitis C	DisGeNet	
+CD4	C0019196	Hepatitis C	DisGeNet	
+EGF	C0019196	Hepatitis C	DisGeNet	
+EGFR	C0019196	Hepatitis C	DisGeNet	
+GAK	C0019196	Hepatitis C	DisGeNet	
+GRB2	C0019196	Hepatitis C	DisGeNet	
+PTGS2	C0019196	Hepatitis C	DisGeNet	
+RAB5A	C0019196	Hepatitis C	DisGeNet	
+TFRC	C0019196	Hepatitis C	DisGeNet	
+TP53	C0019196	Hepatitis C	DisGeNet	
+WNT5A	C0019196	Hepatitis C	DisGeNet	
+ADRB2	C0030193	Pain	DisGeNet	
+APOB	C0030193	Pain	HumPhenOnt	
+AVP	C0030193	Pain	DisGeNet	
+CFTR	C0030193	Pain	HumPhenOnt	
+CLTC	C0030193	Pain	DisGeNet	
+CLTCL1	C0030193	Pain	DisGeNet	
+LDLRAP1	C0030193	Pain	HumPhenOnt	
+PTGS2	C0030193	Pain	DisGeNet	
+SCARB2	C0030193	Pain	HumPhenOnt	
+SLC18A3	C0030193	Pain	DisGeNet	
+TP53	C0030193	Pain	HumPhenOnt	
+VCP	C0030193	Pain	HumPhenOnt	
+AGFG1	C0751383	Juvenile neuronal ceroid lipofuscinosis	DisGeNet	
+PICALM	C0751383	Juvenile neuronal ceroid lipofuscinosis	DisGeNet	
+TRIP10	C0751383	Juvenile neuronal ceroid lipofuscinosis	DisGeNet	
+EGF	C0153392	Nasopharyngeal cancer recurrent	DisGeNet	
+EGFR	C0153392	Nasopharyngeal cancer recurrent	DisGeNet	
+SYT1	C0153392	Nasopharyngeal cancer recurrent	DisGeNet	
+TP53	C0153392	Nasopharyngeal cancer recurrent	DisGeNet	
+DNAJC6	C0242422	Parkinsonism	DisGeNet,HumPhenOnt	
+EGFR	C0242422	Parkinsonism	DisGeNet	
+LRP2	C0242422	Parkinsonism	DisGeNet	
+PTGS2	C0242422	Parkinsonism	DisGeNet	
+SYNJ1	C0242422	Parkinsonism	DisGeNet,HumPhenOnt	
+TP53	C0242422	Parkinsonism	DisGeNet	
+VCP	C0242422	Parkinsonism	HumPhenOnt	
+EGF	C0858252	Breast adenocarcinoma	DisGeNet	
+EGFR	C0858252	Breast adenocarcinoma	DisGeNet	
+FNBP1L	C0858252	Breast adenocarcinoma	DisGeNet	
+PTGS2	C0858252	Breast adenocarcinoma	DisGeNet	
+TP53	C0858252	Breast adenocarcinoma	DisGeNet	
+AGFG1	C0017205	Gaucher Disease	DisGeNet	
+AVPR2	C0017205	Gaucher Disease	DisGeNet	
+CFTR	C0017205	Gaucher Disease	DisGeNet	
+SCARB2	C0017205	Gaucher Disease	DisGeNet	
+AVPR2	C0029442	Osteomalacia	DisGeNet	
+LRP2	C0029442	Osteomalacia	DisGeNet	
+OCRL	C0029442	Osteomalacia	HumPhenOnt	
+DERL1	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+PTGS2	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+TP53	C0279565	Invasive Lobular Breast Carcinoma	DisGeNet	
+ADRB2	C0027430	Nasal polyposis	DisGeNet	
+AP2A1	C0027430	Nasal polyposis	DisGeNet	
+CFTR	C0027430	Nasal polyposis	DisGeNet	
+EGFR	C0027430	Nasal polyposis	DisGeNet	
+PTGS2	C0027430	Nasal polyposis	DisGeNet	
+SYT1	C0027430	Nasal polyposis	DisGeNet	
+TP53	C0027430	Nasal polyposis	DisGeNet	
+CBL	C0265219	Miller Dieker syndrome	DisGeNet	
+DERL1	C0265219	Miller Dieker syndrome	DisGeNet	
+KIAA0319	C0265219	Miller Dieker syndrome	DisGeNet	
+TP53	C0265219	Miller Dieker syndrome	DisGeNet	
+EGF	C0276623	Chronic viral hepatitis	DisGeNet	
+TFRC	C0276623	Chronic viral hepatitis	DisGeNet	
+TP53	C0276623	Chronic viral hepatitis	DisGeNet	
+EGF	C3669246	Mammary adenocarcinoma	DisGeNet	
+TFRC	C3669246	Mammary adenocarcinoma	DisGeNet	
+TP53	C3669246	Mammary adenocarcinoma	DisGeNet	
+AGFG1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+APOB	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CD4	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CFTR	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+CTTN	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+DAB2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EGF	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EGFR	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+FZD4	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+GRB2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+IGF2R	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+PTGS2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+REPS1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+RPS27A	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+SYT1	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+TFRC	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+TP53	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+UBC	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+WNT5A	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+EGFR	C0031269	Peutz-Jeghers syndrome	DisGeNet	
+PTGS2	C0031269	Peutz-Jeghers syndrome	DisGeNet	
+TP53	C0031269	Peutz-Jeghers syndrome	DisGeNet	
+WNT5A	C0031269	Peutz-Jeghers syndrome	DisGeNet	
+EGF	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+PTGS2	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+TP53	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+WNT5A	C0334108	Polyposis syndrome, mixed hereditary 1 (4)	DisGeNet	
+APOB	C0700078	Reduced tendon reflexes	HumPhenOnt	
+BIN1	C0700078	Reduced tendon reflexes	HumPhenOnt	
+DNAJC6	C0700078	Reduced tendon reflexes	HumPhenOnt	
+DNM2	C0700078	Reduced tendon reflexes	HumPhenOnt	
+OCRL	C0700078	Reduced tendon reflexes	HumPhenOnt	
+SYNJ1	C0700078	Reduced tendon reflexes	HumPhenOnt	
+SYT2	C0700078	Reduced tendon reflexes	HumPhenOnt	
+VCP	C0700078	Reduced tendon reflexes	HumPhenOnt	
+EGFR	C0269102	Endometrioma	DisGeNet	
+PTGS2	C0269102	Endometrioma	DisGeNet	
+SYT1	C0269102	Endometrioma	DisGeNet	
+TP53	C0269102	Endometrioma	DisGeNet	
+ADRB2	C0013080	Down Syndrome	DisGeNet	
+AMPH	C0013080	Down Syndrome	DisGeNet	
+ITSN1	C0013080	Down Syndrome	DisGeNet	
+PICALM	C0013080	Down Syndrome	DisGeNet	
+PTGS2	C0013080	Down Syndrome	DisGeNet	
+RAB5A	C0013080	Down Syndrome	DisGeNet	
+SYNJ1	C0013080	Down Syndrome	DisGeNet	
+SYT1	C0013080	Down Syndrome	DisGeNet	
+TP53	C0013080	Down Syndrome	DisGeNet	
+UBB	C0013080	Down Syndrome	DisGeNet	
+EGF	C0280280	Prostate cancer stage C	DisGeNet	
+PTGS2	C0280280	Prostate cancer stage C	DisGeNet	
+TP53	C0280280	Prostate cancer stage C	DisGeNet	
+EGFR	C0280785	Diffuse Astrocytoma	DisGeNet	
+PTGS2	C0280785	Diffuse Astrocytoma	DisGeNet	
+TP53	C0280785	Diffuse Astrocytoma	DisGeNet	
+EGF	C3665419	Intracranial glioma	DisGeNet	
+EGFR	C3665419	Intracranial glioma	DisGeNet	
+TP53	C3665419	Intracranial glioma	DisGeNet	
+AP2S1	C0020438	Hypercalciuria	DisGeNet	
+CFTR	C0020438	Hypercalciuria	HumPhenOnt	
+LRP2	C0020438	Hypercalciuria	DisGeNet	
+OCRL	C0020438	Hypercalciuria	HumPhenOnt	
+ARRB2	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+BIN1	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+DNM2	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+PICALM	C0494463	Alzheimer Disease, Late Onset	DisGeNet	
+AVP	C1516170	Cancer Cell Growth	DisGeNet	
+EGF	C1516170	Cancer Cell Growth	DisGeNet	
+EGFR	C1516170	Cancer Cell Growth	DisGeNet	
+ERLIN2	C1516170	Cancer Cell Growth	DisGeNet	
+FZD4	C1516170	Cancer Cell Growth	DisGeNet	
+PTGS2	C1516170	Cancer Cell Growth	DisGeNet	
+TP53	C1516170	Cancer Cell Growth	DisGeNet	
+TRIP10	C1516170	Cancer Cell Growth	DisGeNet	
+PTGS2	C0346627	Intestinal Cancer	DisGeNet	
+TP53	C0346627	Intestinal Cancer	DisGeNet	
+WNT5A	C0346627	Intestinal Cancer	DisGeNet	
+AAK1	C0040336	Tobacco Use Disorder	DisGeNet	
+AMPH	C0040336	Tobacco Use Disorder	DisGeNet	
+APOB	C0040336	Tobacco Use Disorder	DisGeNet	
+ARRB1	C0040336	Tobacco Use Disorder	DisGeNet	
+ARRB2	C0040336	Tobacco Use Disorder	DisGeNet	
+CBL	C0040336	Tobacco Use Disorder	DisGeNet	
+CHRM2	C0040336	Tobacco Use Disorder	DisGeNet	
+CLTCL1	C0040336	Tobacco Use Disorder	DisGeNet	
+DAB2	C0040336	Tobacco Use Disorder	DisGeNet	
+EGF	C0040336	Tobacco Use Disorder	DisGeNet	
+EGFR	C0040336	Tobacco Use Disorder	DisGeNet	
+EPN2	C0040336	Tobacco Use Disorder	DisGeNet	
+ERLIN1	C0040336	Tobacco Use Disorder	DisGeNet	
+FNBP1	C0040336	Tobacco Use Disorder	DisGeNet	
+FNBP1L	C0040336	Tobacco Use Disorder	DisGeNet	
+GRB2	C0040336	Tobacco Use Disorder	DisGeNet	
+HIP1R	C0040336	Tobacco Use Disorder	DisGeNet	
+IGF2R	C0040336	Tobacco Use Disorder	DisGeNet	
+LRP2	C0040336	Tobacco Use Disorder	DisGeNet	
+PACSIN2	C0040336	Tobacco Use Disorder	DisGeNet	
+PIK3C2A	C0040336	Tobacco Use Disorder	DisGeNet	
+SGIP1	C0040336	Tobacco Use Disorder	DisGeNet	
+SH3GL2	C0040336	Tobacco Use Disorder	DisGeNet	
+SLC12A2	C0040336	Tobacco Use Disorder	DisGeNet	
+SLC18A3	C0040336	Tobacco Use Disorder	DisGeNet	
+SLCO1A2	C0040336	Tobacco Use Disorder	DisGeNet	
+SNX9	C0040336	Tobacco Use Disorder	DisGeNet	
+SYT1	C0040336	Tobacco Use Disorder	DisGeNet	
+SYT9	C0040336	Tobacco Use Disorder	DisGeNet	
+TF	C0040336	Tobacco Use Disorder	DisGeNet	
+TP53	C0040336	Tobacco Use Disorder	DisGeNet	
+WNT5A	C0040336	Tobacco Use Disorder	DisGeNet	
+PIK3C2A	C0040411	Neoplasm of the tongue	DisGeNet	
+PTGS2	C0040411	Neoplasm of the tongue	DisGeNet	
+TP53	C0040411	Neoplasm of the tongue	DisGeNet	
+EGF	C0025568	Metaplasia	DisGeNet	
+EGFR	C0025568	Metaplasia	DisGeNet	
+PTGS2	C0025568	Metaplasia	DisGeNet	
+TP53	C0025568	Metaplasia	DisGeNet	
+DNAJC6	C0751837	Gait ataxia	HumPhenOnt	
+HIP1	C0751837	Gait ataxia	DisGeNet	
+SCARB2	C0751837	Gait ataxia	HumPhenOnt	
+SYNJ1	C0751837	Gait ataxia	HumPhenOnt	
+EGF	C1456781	Benign melanocytic nevus	DisGeNet	
+EGFR	C1456781	Benign melanocytic nevus	DisGeNet	
+LRP2	C1456781	Benign melanocytic nevus	DisGeNet	
+TP53	C1456781	Benign melanocytic nevus	DisGeNet	
+ACTR2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+ACTR3	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+ADRB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+APOB	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CBL	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CD3G	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CD4	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CFTR	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+CLTC	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+DNM2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EGFR	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+FZD4	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+GRB2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+HGS	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+IGF2R	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+LRP2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+PTGS2	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+RAB5A	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SLC22A11	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SLC22A6	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+SYT1	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TFRC	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+TP53	C0019693	Symptomatic human immunodeficiency virus infection	DisGeNet	
+EGF	C0007140	Carcinosarcoma	DisGeNet	
+EGFR	C0007140	Carcinosarcoma	DisGeNet	
+TP53	C0007140	Carcinosarcoma	DisGeNet	
+DAB2	C1135868	Gestational trophoblastic disease	DisGeNet	
+EGFR	C1135868	Gestational trophoblastic disease	DisGeNet	
+TP53	C1135868	Gestational trophoblastic disease	DisGeNet	
+AGFG1	C0699885	Bladder carcinoma	DisGeNet	
+CFTR	C0699885	Bladder carcinoma	DisGeNet	
+CTTN	C0699885	Bladder carcinoma	DisGeNet	
+DAB2	C0699885	Bladder carcinoma	DisGeNet	
+EGF	C0699885	Bladder carcinoma	DisGeNet	
+EGFR	C0699885	Bladder carcinoma	DisGeNet	
+FZD4	C0699885	Bladder carcinoma	DisGeNet	
+GRB2	C0699885	Bladder carcinoma	DisGeNet	
+PTGS2	C0699885	Bladder carcinoma	DisGeNet	
+REPS1	C0699885	Bladder carcinoma	DisGeNet	
+RPS27A	C0699885	Bladder carcinoma	DisGeNet	
+SYT1	C0699885	Bladder carcinoma	DisGeNet	
+TFRC	C0699885	Bladder carcinoma	DisGeNet	
+TP53	C0699885	Bladder carcinoma	DisGeNet,HumPhenOnt	
+UBC	C0699885	Bladder carcinoma	DisGeNet	
+WNT5A	C0699885	Bladder carcinoma	DisGeNet	
+CTTN	C0027809	Schwannoma	DisGeNet	
+EGF	C0027809	Schwannoma	DisGeNet	
+EGFR	C0027809	Schwannoma	DisGeNet	
+HGS	C0027809	Schwannoma	DisGeNet	
+TP53	C0027809	Schwannoma	DisGeNet	
+BIN1	C4025865	Abnormality of facial musculature	HumPhenOnt	
+DNAJC6	C4025865	Abnormality of facial musculature	HumPhenOnt	
+DNM2	C4025865	Abnormality of facial musculature	HumPhenOnt	
+SYNJ1	C4025865	Abnormality of facial musculature	HumPhenOnt	
+VCP	C4025865	Abnormality of facial musculature	HumPhenOnt	
+APOB	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+EGF	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+EGFR	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+TP53	C0020217	Hydatidiform mole, recurrent, 2	DisGeNet	
+ARRB1	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+ARRB2	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+CTTN	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+EGF	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+EGFR	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+IGF2R	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+PTGS2	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+RPS27A	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+TP53	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+TRIP10	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+APOB	C0333463	Senile plaques	DisGeNet	
+LRP2	C0333463	Senile plaques	DisGeNet	
+PTGS2	C0333463	Senile plaques	DisGeNet	
+TF	C0333463	Senile plaques	DisGeNet	
+UBB	C0333463	Senile plaques	DisGeNet	
+VCP	C0333463	Senile plaques	HumPhenOnt	
+WNT5A	C0333463	Senile plaques	DisGeNet	
+EGF	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+EGFR	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+KIAA0319	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+PTGS2	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+TFRC	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+TP53	C0041341	Tuberous sclerosis syndrome	DisGeNet	
+EGF	C0008373	Cholesteatoma	DisGeNet	
+EGFR	C0008373	Cholesteatoma	DisGeNet	
+TP53	C0008373	Cholesteatoma	DisGeNet	
+ADRB2	C0600040	Chronic interstitial cystitis	DisGeNet	
+EGF	C0600040	Chronic interstitial cystitis	DisGeNet	
+TP53	C0600040	Chronic interstitial cystitis	DisGeNet	
+APOB	C0011269	Dementia, Vascular	DisGeNet	
+AVP	C0011269	Dementia, Vascular	DisGeNet	
+EGF	C0011269	Dementia, Vascular	DisGeNet	
+TP53	C0011269	Dementia, Vascular	DisGeNet	
+EGF	C0018206	granulosa cell tumor	DisGeNet	
+EGFR	C0018206	granulosa cell tumor	DisGeNet	
+FZD4	C0018206	granulosa cell tumor	DisGeNet	
+TP53	C0018206	granulosa cell tumor	DisGeNet	
+EGFR	C0205698	Undifferentiated carcinoma	DisGeNet	
+PTGS2	C0205698	Undifferentiated carcinoma	DisGeNet	
+SYT1	C0205698	Undifferentiated carcinoma	DisGeNet	
+TP53	C0205698	Undifferentiated carcinoma	DisGeNet	
+EGFR	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+IGF2R	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+PTGS2	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+SH3GL2	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+TP53	C0280324	Laryngeal Squamous Cell Carcinoma	DisGeNet	
+AP2S1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+APOB	C0266015	Abnormality of the digestive system	HumPhenOnt	
+AVP	C0266015	Abnormality of the digestive system	HumPhenOnt	
+AVPR2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+BIN1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CD3D	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CD3G	C0266015	Abnormality of the digestive system	HumPhenOnt	
+CFTR	C0266015	Abnormality of the digestive system	HumPhenOnt	
+EGFR	C0266015	Abnormality of the digestive system	HumPhenOnt	
+ERLIN2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+IGF2R	C0266015	Abnormality of the digestive system	HumPhenOnt	
+LDLRAP1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+LRP2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+NECAP1	C0266015	Abnormality of the digestive system	HumPhenOnt	
+OCRL	C0266015	Abnormality of the digestive system	HumPhenOnt	
+SCARB2	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TF	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TFRC	C0266015	Abnormality of the digestive system	HumPhenOnt	
+TP53	C0266015	Abnormality of the digestive system	HumPhenOnt	
+VCP	C0266015	Abnormality of the digestive system	HumPhenOnt	
+WNT5A	C0266015	Abnormality of the digestive system	HumPhenOnt	
+AVP	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+CTTN	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+EGF	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+EGFR	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+IGF2R	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+PTGS2	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+SYT1	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+TFRC	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+TP53	C0220641	Lip and Oral Cavity Carcinoma	DisGeNet	
+BIN1	C0234146	Areflexia	HumPhenOnt	
+DNM2	C0234146	Areflexia	HumPhenOnt	
+OCRL	C0234146	Areflexia	HumPhenOnt	
+SYT2	C0234146	Areflexia	HumPhenOnt	
+VCP	C0234146	Areflexia	HumPhenOnt	
+APOB	C0029445	Bone necrosis	DisGeNet	
+TF	C0029445	Bone necrosis	DisGeNet	
+TP53	C0029445	Bone necrosis	DisGeNet	
+CFTR	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+EGF	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+EGFR	C0085548	Autosomal recessive polycystic kidney disease	DisGeNet	
+EGFR	C0206716	Ganglioglioma	DisGeNet	
+KIAA0319	C0206716	Ganglioglioma	DisGeNet	
+TP53	C0206716	Ganglioglioma	DisGeNet	
+EGF	C1257930	Mammary Carcinoma, Human	DisGeNet	
+EGFR	C1257930	Mammary Carcinoma, Human	DisGeNet	
+TP53	C1257930	Mammary Carcinoma, Human	DisGeNet	
+APOB	C0008354	Cholera	DisGeNet	
+CFTR	C0008354	Cholera	DisGeNet	
+EGF	C0008354	Cholera	DisGeNet	
+EGFR	C0008354	Cholera	DisGeNet	
+APOB	C0947622	Cholecystolithiasis	DisGeNet	
+PTGS2	C0947622	Cholecystolithiasis	DisGeNet	
+SLCO1A2	C0947622	Cholecystolithiasis	DisGeNet	
+TP53	C0947622	Cholecystolithiasis	DisGeNet	
+CFTR	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+EGF	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+EGFR	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+TP53	C0334299	Carcinoid tumor no ICD-O subtype	DisGeNet	
+ACTR2	C0600139	Prostate carcinoma	DisGeNet	
+ARRB2	C0600139	Prostate carcinoma	DisGeNet	
+BIN1	C0600139	Prostate carcinoma	DisGeNet	
+CFTR	C0600139	Prostate carcinoma	DisGeNet	
+CLTC	C0600139	Prostate carcinoma	DisGeNet	
+DAB2	C0600139	Prostate carcinoma	DisGeNet	
+DNM2	C0600139	Prostate carcinoma	DisGeNet	
+EGF	C0600139	Prostate carcinoma	DisGeNet	
+EGFR	C0600139	Prostate carcinoma	DisGeNet	
+FZD4	C0600139	Prostate carcinoma	DisGeNet	
+GAK	C0600139	Prostate carcinoma	DisGeNet	
+HIP1	C0600139	Prostate carcinoma	DisGeNet	
+IGF2R	C0600139	Prostate carcinoma	DisGeNet	
+KIAA0319	C0600139	Prostate carcinoma	DisGeNet	
+LRP2	C0600139	Prostate carcinoma	DisGeNet	
+M6PR	C0600139	Prostate carcinoma	DisGeNet	
+PTGS2	C0600139	Prostate carcinoma	DisGeNet	
+REPS1	C0600139	Prostate carcinoma	DisGeNet	
+REPS2	C0600139	Prostate carcinoma	DisGeNet	
+SCARB2	C0600139	Prostate carcinoma	DisGeNet	
+SEL1L	C0600139	Prostate carcinoma	DisGeNet	
+SLCO1A2	C0600139	Prostate carcinoma	DisGeNet	
+SYT1	C0600139	Prostate carcinoma	DisGeNet	
+TF	C0600139	Prostate carcinoma	DisGeNet	
+TFRC	C0600139	Prostate carcinoma	DisGeNet	
+TP53	C0600139	Prostate carcinoma	DisGeNet	
+VAMP3	C0600139	Prostate carcinoma	DisGeNet	
+VCP	C0600139	Prostate carcinoma	DisGeNet	
+WNT5A	C0600139	Prostate carcinoma	DisGeNet	
+ADRB2	C0026266	Mitral regurgitation	DisGeNet	
+APOB	C0026266	Mitral regurgitation	HumPhenOnt	
+CBL	C0026266	Mitral regurgitation	HumPhenOnt	
+LDLRAP1	C0026266	Mitral regurgitation	HumPhenOnt	
+EGF	C3665593	Melanocytic nevus of skin	DisGeNet	
+LRP2	C3665593	Melanocytic nevus of skin	DisGeNet	
+TP53	C3665593	Melanocytic nevus of skin	DisGeNet	
+ARRB2	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+EGFR	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+PTGS2	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+SYT1	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+TP53	C0282612	Prostatic Intraepithelial Neoplasias	DisGeNet	
+CTTN	C0027533	Neck Neoplasms	DisGeNet	
+EGFR	C0027533	Neck Neoplasms	DisGeNet	
+TP53	C0027533	Neck Neoplasms	DisGeNet	
+BIN1	C0007621	Neoplastic Cell Transformation	DisGeNet	
+EGF	C0007621	Neoplastic Cell Transformation	DisGeNet	
+TFRC	C0007621	Neoplastic Cell Transformation	DisGeNet	
+TP53	C0007621	Neoplastic Cell Transformation	DisGeNet	
+WNT5A	C0007621	Neoplastic Cell Transformation	DisGeNet	
+EGFR	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+PTGS2	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+SLC12A2	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+TF	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+TP53	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+VAMP8	C0024668	Mammary Neoplasms, Experimental	DisGeNet	
+BIN1	C0427065	Distal muscle weakness	HumPhenOnt	
+DNM2	C0427065	Distal muscle weakness	HumPhenOnt	
+SYT2	C0427065	Distal muscle weakness	HumPhenOnt	
+VCP	C0427065	Distal muscle weakness	HumPhenOnt	
+DVL2	C0021841	Intestinal Neoplasms	DisGeNet	
+EGFR	C0021841	Intestinal Neoplasms	DisGeNet	
+PTGS2	C0021841	Intestinal Neoplasms	DisGeNet	
+TP53	C0021841	Intestinal Neoplasms	DisGeNet	
+WNT5A	C0021841	Intestinal Neoplasms	DisGeNet	
+ADRB2	C1290884	Inflammatory disorder	DisGeNet	
+CFTR	C1290884	Inflammatory disorder	DisGeNet	
+CTTN	C1290884	Inflammatory disorder	DisGeNet	
+FNBP1	C1290884	Inflammatory disorder	DisGeNet	
+PTGS2	C1290884	Inflammatory disorder	DisGeNet	
+SYT1	C1290884	Inflammatory disorder	DisGeNet	
+TP53	C1290884	Inflammatory disorder	DisGeNet	
+ADRB2	C0033578	Prostatic Neoplasms	DisGeNet	
+ARRB2	C0033578	Prostatic Neoplasms	DisGeNet	
+BIN1	C0033578	Prostatic Neoplasms	DisGeNet	
+CBL	C0033578	Prostatic Neoplasms	DisGeNet	
+CFTR	C0033578	Prostatic Neoplasms	DisGeNet	
+DAB2	C0033578	Prostatic Neoplasms	DisGeNet	
+EGF	C0033578	Prostatic Neoplasms	DisGeNet	
+EGFR	C0033578	Prostatic Neoplasms	DisGeNet	
+HIP1	C0033578	Prostatic Neoplasms	DisGeNet	
+IGF2R	C0033578	Prostatic Neoplasms	DisGeNet	
+LRP2	C0033578	Prostatic Neoplasms	DisGeNet	
+M6PR	C0033578	Prostatic Neoplasms	DisGeNet	
+PTGS2	C0033578	Prostatic Neoplasms	DisGeNet	
+REPS2	C0033578	Prostatic Neoplasms	DisGeNet	
+RPS27A	C0033578	Prostatic Neoplasms	DisGeNet	
+SLC12A2	C0033578	Prostatic Neoplasms	DisGeNet	
+SYNJ2	C0033578	Prostatic Neoplasms	DisGeNet	
+TP53	C0033578	Prostatic Neoplasms	DisGeNet,HumPhenOnt	
+VAMP8	C0033578	Prostatic Neoplasms	PheGenI	
+WNT5A	C0033578	Prostatic Neoplasms	DisGeNet	
+ADRB2	C0001883	Airway Obstruction	DisGeNet	
+CFTR	C0001883	Airway Obstruction	DisGeNet	
+TFRC	C0001883	Airway Obstruction	DisGeNet	
+EGF	C0206669	Hepatocellular adenoma	DisGeNet	
+IGF2R	C0206669	Hepatocellular adenoma	DisGeNet	
+TP53	C0206669	Hepatocellular adenoma	DisGeNet	
+EGFR	C0950124	Papillomavirus Infections	DisGeNet	
+TP53	C0950124	Papillomavirus Infections	DisGeNet	
+VAMP7	C0950124	Papillomavirus Infections	DisGeNet	
+APOB	C4073244	Abnormality of head blood vessel	HumPhenOnt	
+FZD4	C4073244	Abnormality of head blood vessel	HumPhenOnt	
+LDLRAP1	C4073244	Abnormality of head blood vessel	HumPhenOnt	

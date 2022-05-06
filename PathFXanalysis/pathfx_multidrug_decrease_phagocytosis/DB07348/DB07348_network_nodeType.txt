@@ -1,0 +1,17 @@
+node_name	node_type	
+DB07348	drug	
+CYTH2	drug_target	
+ARF1	drug_target	
+Akinesia	phenotype	
+Hereditary Motor and Sensory-Neuropathy Type II	phenotype	
+Thin ribs	phenotype	
+Basal ganglia calcification, idiopathic, 6	phenotype	
+Easy fatigability	phenotype	
+Onion bulb formation	phenotype	
+Becker muscular dystrophy	phenotype	
+Congenital onset	phenotype	
+Chikungunya Fever	phenotype	
+Retrocollis	phenotype	
+Peripheral demyelination	phenotype	
+Abnormality of transition element cation homeostasis	phenotype	
+Inflammatory Myofibroblastic Tumor	phenotype	

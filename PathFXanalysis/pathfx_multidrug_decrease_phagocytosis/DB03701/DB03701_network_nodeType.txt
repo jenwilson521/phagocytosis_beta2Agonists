@@ -1,0 +1,3 @@
+node_name	node_type	
+DB03701	drug	
+CYP3A4	drug_target	

@@ -1,0 +1,28 @@
+node_name	node_type	
+DB01054	drug	
+CACNG1	drug_target	
+ABCB1	drug_target	
+CYP3A5	drug_target	
+CACNA2D1	drug_target	
+CACNA2D2	drug_target	
+CYP3A4	drug_target	
+CACNA1C	drug_target	
+CACNA1D	drug_target	
+CACNB2	drug_target	
+CACNA1S	drug_target	
+CACNA1H	drug_target	
+Abnormal cardiac test	phenotype	
+Pain insensitivity	phenotype	
+Abnormal EKG	phenotype	
+Primary malignant neoplasm of liver	phenotype	
+Abnormal atrioventricular conduction	phenotype	
+Atrioventricular block	phenotype	
+Malignant hyperthermia susceptibility	phenotype	
+Primary atrial arrhythmia	phenotype	
+Supraventricular arrhythmia	phenotype	
+Brugada Syndrome	phenotype	
+Channelopathies	phenotype	
+Supraventricular tachycardia	phenotype	
+Syncope	phenotype	
+Ventricular arrhythmia	phenotype	
+Primary hyperaldosteronism	phenotype	

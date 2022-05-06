@@ -1,0 +1,23 @@
+node_name	node_type	
+DB09242	drug	
+NISCH	drug_target	
+Arteriosclerosis	phenotype	
+Atherosclerosis	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Cardiovascular Diseases	phenotype	
+Diabetes mellitus type 2	phenotype	
+Heart Failure	phenotype	
+Hypertension	phenotype	
+Hypotension	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Obesity	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Carcinoma breast stage IV	phenotype	
+Bradycardia	phenotype	
+Ovarian epithelial cancer	phenotype	
+Breast carcinoma	phenotype	
+Invasive breast carcinoma	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Xenograft Model	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	

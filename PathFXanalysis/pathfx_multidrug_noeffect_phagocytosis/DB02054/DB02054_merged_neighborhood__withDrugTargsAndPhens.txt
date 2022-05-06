@@ -1,0 +1,48 @@
+node1	node2	edge_score	
+DB02054	OAT	1.0	
+OAT		1
+Disorder of amino acid metabolism	OAT	1.0	
+Azoospermia	OAT	1.0	
+Diabetes mellitus type 1	OAT	1.0	
+Abnormality of the eye	OAT	1.0	
+orbit (eye disorders)	OAT	1.0	
+Epiphyseal dysplasia, multiple, with myopia and conductive deafness	OAT	1.0	
+Night blindness, congenital stationary, type 1g	OAT	1.0	
+Obesity	OAT	1.0	
+Muscle weakness	OAT	1.0	
+Abnormality of the retina	OAT	1.0	
+Retinal degeneration	OAT	1.0	
+Retinitis pigmentosa	OAT	1.0	
+Retinoblastoma	OAT	1.0	
+Scotoma	OAT	1.0	
+Synovial sarcoma	OAT	1.0	
+Trisomy	OAT	1.0	
+Pleural Effusion, Malignant	OAT	1.0	
+Cataract, autosomal recessive congenital 5	OAT	1.0	
+Aortic Aneurysm, Thoracic	OAT	1.0	
+Proximal muscle weakness	OAT	1.0	
+Autosomal recessive inheritance	OAT	1.0	
+Blindness	OAT	1.0	
+EMG abnormality	OAT	1.0	
+Abnormality of the lens	OAT	1.0	
+Renal ischaemia	OAT	1.0	
+Degenerative disease of the spinal cord	OAT	1.0	
+Polar cataract	OAT	1.0	
+Unspecified visual loss	OAT	1.0	
+Visual impairment	OAT	1.0	
+Visual field defect	OAT	1.0	
+Abnormality of the musculature	OAT	1.0	
+Abnormality of metabolism/homeostasis	OAT	1.0	
+Abnormality of the globe	OAT	1.0	
+Abnormal eye physiology	OAT	1.0	
+Abnormal eye morphology	OAT	1.0	
+Abnormality of muscle physiology	OAT	1.0	
+Abnormality of the posterior segment of the globe	OAT	1.0	
+Abnormality of the anterior segment of the globe	OAT	1.0	
+Abnormality of the fundus	OAT	1.0	
+Abnormality of the choroid	OAT	1.0	
+Abnormality of the uvea	OAT	1.0	
+Abnormality of refraction	OAT	1.0	
+Chorioretinal abnormality	OAT	1.0	
+Abnormality of vision	OAT	1.0	
+Necrotizing Enterocolitis	OAT	1.0	

@@ -1,0 +1,47 @@
+Gene	CUI	Phenotype	Source Databases	
+NQO2	C0001824	Agranulocytosis	DisGeNet	
+NQO2	C0001973	Alcohol dependence	DisGeNet	
+NQO2	C0002622	Memory Loss	DisGeNet	
+NQO2	C0003469	Anxiety Disorders	DisGeNet	
+NQO2	C0005684	Malignant tumor of urinary bladder	DisGeNet	
+NQO2	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+NQO2	C0005956	Myelopathy	DisGeNet	
+NQO2	C0006142	Breast-ovarian cancer, familial 1	DisGeNet	
+NQO2	C0011616	Contact Dermatitis	DisGeNet	
+NQO2	C0013146	Methamphetamine abuse	DisGeNet	
+NQO2	C0014859	Esophageal Neoplasms	DisGeNet	
+NQO2	C0023418	Leukemia, Lymphocytic, Chronic, B-Cell	DisGeNet	
+NQO2	C0024667	Animal Mammary Neoplasms	DisGeNet	
+NQO2	C0025202	Melanoma	DisGeNet	
+NQO2	C0025261	Memory Disorders	DisGeNet	
+NQO2	C0027022	Myeloproliferative Disorders	DisGeNet	
+NQO2	C0027627	Secondary hypertriglyceridemia	DisGeNet	
+NQO2	C0027765	Other disorders of the nervous system	DisGeNet	
+NQO2	C0030567	Parkinson Disease	DisGeNet	
+NQO2	C0033975	Psychotic Disorders	DisGeNet	
+NQO2	C0035335	Retinoblastoma	DisGeNet	
+NQO2	C0036341	Schizophrenia	DisGeNet	
+NQO2	C0036572	Seizures, Febrile	DisGeNet	
+NQO2	C0040336	Tobacco Use Disorder	DisGeNet	
+NQO2	C0085762	Alcohol abuse	DisGeNet	
+NQO2	C0152018	Esophageal carcinoma	DisGeNet	
+NQO2	C0206624	Hepatoblastoma	DisGeNet	
+NQO2	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+NQO2	C0233794	Memory impairment	DisGeNet	
+NQO2	C0235974	Pancreatic Carcinoma	DisGeNet	
+NQO2	C0236663	Alcohol withdrawal syndrome	DisGeNet	
+NQO2	C0338656	Cognitive Dysfunction	DisGeNet	
+NQO2	C0345904	Hepatic cancer metastatic	DisGeNet	
+NQO2	C0346153	Familial cancer of breast	ClinVar	
+NQO2	C0346647	Malignant neoplasm of pancreas	DisGeNet	
+NQO2	C0349204	Cycloid psychosis	DisGeNet	
+NQO2	C0376358	Malignant tumor of prostate	DisGeNet	
+NQO2	C0546837	Malignant tumor of esophagus	DisGeNet	
+NQO2	C0596263	Carcinogenesis	DisGeNet	
+NQO2	C0600139	Prostate carcinoma	DisGeNet	
+NQO2	C0677886	Ovarian epithelial cancer	DisGeNet	
+NQO2	C0678222	Breast carcinoma	DisGeNet	
+NQO2	C0700095	Neuroblastoma	DisGeNet	
+NQO2	C1140680	BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	DisGeNet	
+NQO2	C1458155	Breast Neoplasms	ClinVar	
+NQO2	C3266877	Secondary malignant neoplasm of pancreas	DisGeNet	

@@ -1,0 +1,93 @@
+node_name	node_type	
+DB00880	drug	
+SLC22A6	drug_target	
+SLC12A3	drug_target	
+CA1	drug_target	
+CA2	drug_target	
+CA4	drug_target	
+Multisystem disorder	phenotype	
+Renal tubular dysfunction	phenotype	
+Aqueous Humor Disorders	phenotype	
+Abnormality of acid-base homeostasis	phenotype	
+Kidney Diseases	phenotype	
+Ulcerative colitis	phenotype	
+Paralysis	phenotype	
+Abnormality of central motor function	phenotype	
+Ectopic calcification	phenotype	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Peroxisome biogenesis disorder 6A	phenotype	
+Chromosome 11p deletion syndrome	phenotype	
+Basal ganglia calcification, idiopathic, 6	phenotype	
+Oropharynx (excludes nasopharynx)	phenotype	
+Mental handicap	phenotype	
+Treacher Collins syndrome	phenotype	
+Urolithiasis	phenotype	
+Chondrocalcinosis	phenotype	
+Renal tubular acidosis, distal, autosomal dominant	phenotype	
+Metabolic Bone Disorder	phenotype	
+Abnormal urine output	phenotype	
+Cholangitis	phenotype	
+Abnormality of metabolism/homeostasis	phenotype	
+Hypervolemia	phenotype	
+Germinoma	phenotype	
+Abnormal drinking behavior	phenotype	
+Cranial hyperostosis	phenotype	
+Abnormality of renal excretion	phenotype	
+Noonan syndrome with multiple lentigines	phenotype	
+Encephalopathy, acute, infection-induced, 4, susceptibility to	phenotype	
+Simple pneumoconiosis	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Mental impairment	phenotype	
+Glanzmann thrombasthenia	phenotype	
+{TSC2 angiomyolipomas, renal, modifier of}, 613254 (3)	phenotype	
+Acidosis	phenotype	
+Tubulointerstitial nephritis	phenotype	
+Acute intermittent porphyria	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Aseptic necrosis	phenotype	
+Kidney Calculi	phenotype	
+Hypokalemia	phenotype	
+Friedreich's ataxia	phenotype	
+Osteopetrosis autosomal recessive 4	phenotype	
+Polydipsia	phenotype	
+Atypical teratoid/rhabdoid tumor	phenotype	
+Pneumococcal Infections	phenotype	
+Other rheumatic heart disease	phenotype	
+Hyperostosis	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Hepatosplenomegaly	phenotype	
+Bone pain	phenotype	
+Photoreceptor degeneration	phenotype	
+Blindness	phenotype	
+Abnormality of the basal ganglia	phenotype	
+EPIDERMODYSPLASIA VERRUCIFORMIS	phenotype	
+Lymphangiomyomatosis	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Aortic valve disease 2	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Extraosseous Ewings sarcoma-primitive neuroepithelial tumor	phenotype	
+Primary hyperaldosteronism	phenotype	
+Bicuspid aortic valve	phenotype	
+Metabolic acidosis	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Hepatomegaly	phenotype	
+Optic atrophy 10 with or without ataxia, mental retardation, and seizures	phenotype	
+Inborn Errors of Metabolism	phenotype	
+Generalized muscle weakness	phenotype	
+Hirschsprung disease 1	phenotype	
+Progressive night blindness	phenotype	
+Abnormal consumption behavior	phenotype	
+Abnormality of the optic disc	phenotype	
+Congenital disorder of glycosylation	phenotype	
+Abnormality of the renal tubule	phenotype	
+Hypercalciuria	phenotype	
+Nephrocalcinosis	phenotype	
+Abnormal renal physiology	phenotype	
+Brain Infarction	phenotype	
+Epithelial hyperplasia of skin	phenotype	
+Abnormal glucose homeostasis	phenotype	
+Abnormality of nervous system physiology	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Juvenile onset	phenotype	

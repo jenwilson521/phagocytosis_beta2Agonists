@@ -1,0 +1,187 @@
+Gene	CUI	Phenotype	Source Databases	
+MPO	C0010674	Cystic Fibrosis	DisGeNet	
+SLC15A2	C0010674	Cystic Fibrosis	DisGeNet	
+MPO	C0026769	Multiple Sclerosis	DisGeNet	
+SLC15A2	C0026769	Multiple Sclerosis	DisGeNet	
+MPO	C0003949	Asbestosis	DisGeNet	
+MPO	C0011609	Drug Eruptions	DisGeNet	
+MPO	C0152276	Granulocytic Sarcoma	DisGeNet	
+MPO	C0014335	Enteritis	DisGeNet	
+MPO	C0008728	Churg-Strauss Syndrome	DisGeNet	
+MPO	C0032533	Polymyalgia Rheumatica	DisGeNet	
+MPO	C2347126	Microscopic Polyarteritis	DisGeNet	
+MPO	C0027719	Nephrosclerosis	DisGeNet	
+MPO	C0917996	Cerebral aneurysm	DisGeNet	
+MPO	C0521173	Granulomatosis	DisGeNet	
+MPO	C0403416	Idiopathic crescentic glomerulonephritis	DisGeNet	
+MPO	C1258104	Diffuse Scleroderma	DisGeNet	
+MPO	C0280220	Ovarian epithelial cancer stage III	DisGeNet	
+MPO	C0038354	Stomach Diseases	DisGeNet	
+MPO	C0002986	Fabry disease	DisGeNet	
+MPO	C0001824	Agranulocytosis	DisGeNet	
+MPO	C0020545	Renovascular hypertension	DisGeNet	
+MPO	C0242172	Pelvic inflammatory disease	DisGeNet	
+MPO	C1402315	Vascular lesions	DisGeNet	
+MPO	C0035242	Respiratory Tract Diseases	DisGeNet	
+MPO	C0005426	Biliary tract neoplasm	DisGeNet	
+MPO	C3665444	Chronic neutrophilia	DisGeNet	
+MPO	C2717865	Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis	DisGeNet	
+MPO	C0013371	Shigella Infections	DisGeNet	
+MPO	C1334177	Infiltrating Cervical Carcinoma	DisGeNet	
+MPO	C0031347	Pharyngeal Neoplasms	DisGeNet	
+MPO	C2986665	Early-Stage Breast Carcinoma	DisGeNet	
+MPO	C0221757	Alpha-1-antitrypsin deficiency	DisGeNet	
+MPO	C4055506	Neurodegeneration with brain iron accumulation 4	DisGeNet	
+MPO	C0028797	Occupational Diseases	DisGeNet	
+MPO	C0036974	Shock, Septic	DisGeNet	
+MPO	C1397307	Cardiac fibrosis	DisGeNet	
+MPO	C0006277	Bronchitis	DisGeNet	
+MPO	C0349782	Ischemic cardiomyopathy	DisGeNet	
+MPO	C0008677	Bronchitis, Chronic	DisGeNet	
+MPO	C0342257	Complications of Diabetes Mellitus	DisGeNet	
+MPO	C0034063	Pulmonary edema	DisGeNet	
+MPO	C0042138	Uterine neoplasm	DisGeNet	
+MPO	C0751955	Brain Infarction	DisGeNet	
+MPO	C0018203	Granulomatous disease, chronic, autosomal recessive, cytochrome b-negative	DisGeNet	
+MPO	C0220621	pediatric acute myeloblastic leukemia	DisGeNet	
+MPO	C0013295	Duodenal Ulcer	DisGeNet	
+MPO	C0280141	Acute Undifferentiated Leukemia	DisGeNet	
+MPO	C0340288	Stable angina	DisGeNet	
+MPO	C0206139	Lichen Planus, Oral	DisGeNet	
+MPO	C0392514	Hereditary hemochromatosis	DisGeNet	
+MPO	C0011875	Diabetic Angiopathies	DisGeNet	
+MPO	C0031106	Periodontitis, Juvenile	DisGeNet	
+MPO	C0220615	Adult Acute Myeloblastic Leukemia	DisGeNet	
+MPO	C0012860	DNA Damage	DisGeNet	
+MPO	C0085409	Polyglandular autoimmune syndrome, type 1	DisGeNet	
+MPO	C1704436	Peripheral Arterial Diseases	DisGeNet	
+MPO	C0037019	Shy-Drager syndrome	DisGeNet	
+MPO	C0018995	Hemochromatosis	DisGeNet	
+MPO	C0010692	Cystitis	DisGeNet	
+MPO	C0001339	Acute pancreatitis	DisGeNet	
+MPO	C0023891	Liver Cirrhosis, Alcoholic	DisGeNet	
+MPO	C0751606	Adult Acute Lymphocytic Leukemia	DisGeNet	
+MPO	C0023055	Neoplasm of the larynx	DisGeNet	
+MPO	C0023462	Acute megakaryocytic leukemia	DisGeNet	
+MPO	C0023485	Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	DisGeNet	
+MPO	C0079487	Helicobacter Infections	DisGeNet	
+MPO	C0577631	Carotid Atherosclerosis	DisGeNet	
+MPO	C0018621	Hay fever	DisGeNet	
+MPO	C0017154	Chronic atrophic gastritis	DisGeNet	
+MPO	C0020523	Immediate hypersensitivity	DisGeNet	
+MPO	C0030920	Peptic ulcer	DisGeNet	
+MPO	C0042109	Urticaria	DisGeNet	
+MPO	C0039483	Giant cell arteritis	DisGeNet	
+MPO	C0017563	Gingival Diseases	DisGeNet	
+MPO	C0007107	Malignant neoplasm of larynx	DisGeNet	
+MPO	C0018939	Hematological Disease	DisGeNet	
+MPO	C0015397	orbit (eye disorders)	DisGeNet	
+SLC15A2	C0018772	Hearing Loss, Partial	DisGeNet	
+MPO	C0002940	{Aneurysm, familial abdominal 3} (2)	DisGeNet	
+MPO	C0085096	Peripheral Arterial Disease	DisGeNet	
+MPO	C0026499	Monosomy	DisGeNet	
+MPO	C3241937	Nonalcoholic Steatohepatitis	DisGeNet	
+MPO	C0236969	Substance-Related Disorders	DisGeNet	
+MPO	C0729233	Dissecting aneurysm of the thoracic aorta	DisGeNet	
+MPO	C0027697	Nephritis	DisGeNet	
+MPO	C0041107	Trisomy	DisGeNet	
+MPO	C0020445	Familial hypercholesterolemia	DisGeNet	
+SLC15A2	C0020503	Secondary hyperparathyroidism	DisGeNet	
+MPO	C0266929	Chronic Periodontitis	DisGeNet	
+MPO	C0042384	Vasculitis	DisGeNet	
+MPO	C0595989	Laryngeal carcinoma	DisGeNet	
+MPO	C0020517	Hypersensitivity	DisGeNet	
+MPO	C0007273	Carotid Artery Diseases	DisGeNet	
+MPO	C0007959	Charcot-Marie-Tooth disease, type 2N	DisGeNet	
+MPO	C0149782	Squamous cell carcinoma of lung	DisGeNet	
+MPO	C0234985	Mental deterioration	DisGeNet	
+MPO	C0006111	Brain Diseases	DisGeNet	
+MPO	C0848332	Spots on skin	DisGeNet	
+MPO	C0856169	Endothelial dysfunction	DisGeNet	
+MPO	C0497406	Overweight	DisGeNet	
+MPO	C0206624	Hepatoblastoma	DisGeNet	
+MPO	C0007114	Skin cancer	DisGeNet	
+MPO	C0018790	Cardiac arrest	DisGeNet	
+MPO	C0024143	Lupus Nephritis	DisGeNet	
+MPO	C0026640	Neoplasm of the oral cavity	DisGeNet	
+MPO	C2316810	Stage 5 chronic kidney disease	DisGeNet	
+MPO	C0006287	Bronchopulmonary Dysplasia	DisGeNet	
+MPO	C0017152	Gastritis	DisGeNet	
+MPO	C0151514	Dermal atrophy	DisGeNet	
+MPO	C2745900	Hypergranular promyelocytic leukemia	DisGeNet	
+MPO	C0042900	Vitiligo	DisGeNet	
+MPO	C0023448	Lymphoid leukemia	DisGeNet	
+MPO	C0004623	Recurrent bacterial infection	DisGeNet	
+SLC15A2	C0011053	Deafness, autosomal recessive 44	DisGeNet	
+MPO	C0870082	Hyperkeratosis	DisGeNet	
+MPO	C0333463	Senile plaques	DisGeNet	
+MPO	C0027404	Narcolepsy	DisGeNet	
+MPO	C0017658	Glomerulonephritis, Membranous	DisGeNet	
+MPO	C0038525	Subarachnoid hemorrhage	DisGeNet	
+MPO	C0022660	Acute kidney injury	DisGeNet	
+MPO	C0002895	Anemia, Sickle Cell	DisGeNet	
+MPO	C0027643	Neoplasm Recurrence, Local	DisGeNet	
+MPO	C0030305	Pancreatitis	DisGeNet	
+MPO	C0149978	Rectal Carcinoma	DisGeNet	
+MPO	C0007785	Ischaemic cerebral infarction	DisGeNet	
+MPO	C0850666	Helicobacter pylori infection	DisGeNet	
+MPO	C0035126	Reperfusion Injury	DisGeNet	
+MPO	C0024131	Lupus Vulgaris	DisGeNet	
+MPO	C0023267	Leiomyoma	DisGeNet	
+MPO	C0018133	Graft-versus-host disease, susceptibility to	DisGeNet	
+MPO	C0024138	Discoid lupus erythematosus	DisGeNet	
+MPO	C0281361	Pancreatic adenocarcinoma	DisGeNet	
+MPO	C0948089	Acute Coronary Syndrome	DisGeNet	
+MPO	C0018671	Head and Neck Neoplasms	DisGeNet	
+MPO	C0003130	Hypoxia	DisGeNet	
+MPO	C0278488	Carcinoma breast stage IV	DisGeNet	
+MPO	C0035078	Renal Insufficiency, Chronic	DisGeNet	
+MPO	C0015230	Exanthema	DisGeNet	
+MPO	C1961099	T-cell acute lymphoblastic leukemias	DisGeNet	
+MPO	C0024115	Pulmonary Disease, Chronic Obstructive	DisGeNet	
+MPO	C0011991	Diarrhea 8, secretory sodium, congenital	DisGeNet	
+MPO	C1292769	B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	DisGeNet	
+MPO	C0036690	Septicemia	DisGeNet	
+MPO	C0023452	Leukemia, Lymphocytic, Acute, L1	DisGeNet	
+MPO	C0409974	{Systemic lupus erythematosus, susceptibility to, 8} (2)	DisGeNet	
+MPO	C0235946	Brain atrophy	DisGeNet	
+MPO	C3463824	Myelodysplastic syndrome	DisGeNet	
+MPO	C0006826	Cancer of the lower GI tract	DisGeNet	
+MPO	C0041696	Unipolar Depression	DisGeNet	
+MPO	C0004943	Behcet Syndrome	DisGeNet	
+MPO	C0042373	Vascular Diseases	DisGeNet	
+MPO	C0007786	Brain Ischemia	DisGeNet	
+MPO	C0239946	Hepatic fibrosis	DisGeNet	
+MPO	C0023487	Acute promyelocytic leukemia	DisGeNet	
+MPO	C0032927	Precancerous Conditions	DisGeNet	
+MPO	C0524910	Hepatitis C, Chronic	DisGeNet	
+MPO	C0005695	Urinary Bladder Neoplasms	DisGeNet	
+MPO	C0032285	Pneumonia	DisGeNet	
+MPO	C0151744	Acute myocardial ischemia	DisGeNet	
+MPO	C1269683	Major depressive disorder	DisGeNet	
+MPO	C0021400	Influenza	DisGeNet	
+MPO	C0221287	Combined Hepatocellular Carcinoma and Cholangiocarcinoma	DisGeNet	
+MPO	C0085669	Acute leukemia	DisGeNet	
+MPO	C0023470	Myeloid leukemia	DisGeNet	
+MPO	C0008626	Congenital chromosomal disease	DisGeNet	
+MPO	C0011581	Depressive Disorder	DisGeNet	
+MPO	C0011570	{Unipolar depression, susceptibility to}, 608516 (3)	DisGeNet	
+MPO	C0024305	Non-Hodgkin lymphoma	DisGeNet	
+MPO	C0021051	Immunodeficiency due to defect in CD3-gamma	DisGeNet	
+MPO	C0152018	Esophageal carcinoma	DisGeNet	
+MPO	C0023895	Liver Diseases	DisGeNet	
+MPO	C0243026	Sepsis	DisGeNet	
+MPO	C0345904	Hepatic cancer metastatic	DisGeNet	
+MPO	C0376545	Hematological neoplasm	DisGeNet	
+MPO	C0011881	Diabetic Nephropathies	DisGeNet	
+MPO	C0022661	Kidney Failure, Chronic	DisGeNet	
+MPO	C0149925	Small cell lung cancer	DisGeNet	
+MPO	C0524620	Metabolic Syndrome X	DisGeNet	
+MPO	C0021368	Inflammation	DisGeNet	
+MPO	C0022116	Ischemia	DisGeNet	
+MPO	C0546837	Malignant tumor of esophagus	DisGeNet	
+MPO	C0041296	Tuberculosis	DisGeNet	
+MPO	C0079731	B-cell lymphoma	DisGeNet	
+MPO	C0598766	Leukemogenesis	DisGeNet	
+MPO	C0006118	Brain neoplasm	DisGeNet	
+MPO	C0009319	Colitis, Ulcerative	DisGeNet	

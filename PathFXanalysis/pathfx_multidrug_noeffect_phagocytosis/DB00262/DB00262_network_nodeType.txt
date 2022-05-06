@@ -1,0 +1,9 @@
+node_name	node_type	
+DB00262	drug	
+CYP1A2	drug_target	
+GSR	drug_target	
+Lung Injury	phenotype	
+Neoplasm of the larynx	phenotype	
+Polyglandular Type I Autoimmune Syndrome	phenotype	
+Pleural Neoplasms	phenotype	
+Calcium oxalate urolithiasis	phenotype	

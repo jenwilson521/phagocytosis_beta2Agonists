@@ -1,0 +1,455 @@
+node_name	node_type	
+DB00623	drug	
+CALM3	drug_target	
+CYP2D6	drug_target	
+DRD2	drug_target	
+CYP1A2	drug_target	
+CYP2E1	drug_target	
+DRD1	drug_target	
+ABCB1	drug_target	
+Mental disorders	phenotype	
+Pituitary adenoma	phenotype	
+Drug Dependence	phenotype	
+Weight Gain Adverse Event	phenotype	
+Inflammation	phenotype	
+Ischemia	phenotype	
+Liver Diseases	phenotype	
+Taste bitter	phenotype	
+Bipolar affective disorder	phenotype	
+Pain	phenotype	
+Depressive Disorder	phenotype	
+Heroin Dependence	phenotype	
+Status epilepticus	phenotype	
+Cushing's syndrome	phenotype	
+Alzheimer Disease	phenotype	
+Opiate Addiction	phenotype	
+Acth-Independent Macronodular Adrenal Hyperplasia	phenotype	
+Abnormality of the pituitary gland	phenotype	
+Cocaine-Related Disorders	phenotype	
+Diabetes Mellitus, Type 1	phenotype	
+Epilepsy, Temporal Lobe	phenotype	
+Asthma	phenotype	
+Respiratory Syncytial Virus Infections	phenotype	
+Alcohol abuse	phenotype	
+Pulmonary Disease, Chronic Obstructive	phenotype	
+Attention deficit hyperactivity disorder	phenotype	
+Bronchiolitis, Viral	phenotype	
+Insulinoma	phenotype	
+Verotoxigenic Escherichia coli gastrointestinal tract infection	phenotype	
+Panic disorder syndrome 1 (2)	phenotype	
+Neuroendocrine neoplasm	phenotype	
+Adenomas, multiple colorectal, 608456 (3)	phenotype	
+genetic hypertension	phenotype	
+Migraine Disorders	phenotype	
+Hypotension	phenotype	
+Anxiety Disorders	phenotype	
+Unipolar Depression	phenotype	
+Alcohol dependence	phenotype	
+Major depressive disorder	phenotype	
+Bradycardia	phenotype	
+Arteriosclerosis	phenotype	
+Pseudohypoparathyroidism, type IB, 603233 (3)	phenotype	
+Rheumatoid arthritis	phenotype	
+Substance Withdrawal Syndrome	phenotype	
+Substance addiction and disorders	phenotype	
+Arthritis, Rheumatoid	phenotype	
+Schizophrenia	phenotype	
+Ulcerative colitis	phenotype	
+Essential hypertension	phenotype	
+Pneumonia	phenotype	
+Hyperglycemia	phenotype	
+Neoplasm of the adrenal gland	phenotype	
+Hypertension	phenotype	
+Methamphetamine abuse	phenotype	
+Cardiovascular Diseases	phenotype	
+Osteoarthritis	phenotype	
+{Unipolar depression, susceptibility to}, 608516 (3)	phenotype	
+Psychoses, Substance-Induced	phenotype	
+Obesity	phenotype	
+Metabolic Syndrome X	phenotype	
+Reperfusion Injury	phenotype	
+Mood Disorders	phenotype	
+Pheochromocytoma	phenotype	
+Left ventricular hypertrophy	phenotype	
+Hereditary pancreatitis	phenotype	
+Congestive heart failure	phenotype	
+Coronary Artery Disease	phenotype	
+Obesity, severe, 601665 (3)	phenotype	
+Medullary thyroid carcinoma	phenotype	
+Increased body weight	phenotype	
+Endometriosis	phenotype	
+Neuralgia	phenotype	
+Kidney Failure, Chronic	phenotype	
+Diabetes mellitus type 2	phenotype	
+Hyperalgesia	phenotype	
+Heart Failure	phenotype	
+Atherosclerosis	phenotype	
+Epilepsy	phenotype	
+Pancreatic Carcinoma	phenotype	
+Irritable bowel syndrome with diarrhea	phenotype	
+Chronic obstructive pulmonary disease	phenotype	
+Neuroblastoma	phenotype	
+Hypersensitivity	phenotype	
+Secondary hypertriglyceridemia	phenotype	
+Tachycardia	phenotype	
+Coronary heart disease 7	phenotype	
+Autoimmune disease 1	phenotype	
+Cocaine Dependence	phenotype	
+Nicotine Dependence	phenotype	
+Prostate carcinoma	phenotype	
+Pituitary corticotropic cell adenoma	phenotype	
+Prostatic Neoplasms	phenotype	
+Pulmonary Cystic Fibrosis	phenotype	
+Symptomatic human immunodeficiency virus infection	phenotype	
+Posttraumatic stress disorder	phenotype	
+Disorders of parathyroid gland	phenotype	
+Anorexia nervosa 1	phenotype	
+Tumor Angiogenesis	phenotype	
+Experimental Autoimmune Encephalomyelitis	phenotype	
+Juvenile rheumatoid arthritis	phenotype	
+Sciatic Neuropathy	phenotype	
+Sepsis	phenotype	
+Bronchial Hyperreactivity	phenotype	
+Substance-Related Disorders	phenotype	
+Marijuana Abuse	phenotype	
+Small cell lung cancer	phenotype	
+CNS disorder	phenotype	
+Malignant tumor of prostate	phenotype	
+Preeclampsia/eclampsia 1	phenotype	
+Pain insensitivity	phenotype	
+Myocardial Reperfusion Injury	phenotype	
+Schizoaffective Disorder	phenotype	
+Pituitary Neoplasms	phenotype	
+Animal Mammary Neoplasms	phenotype	
+Autism 15	phenotype	
+Polyphagia	phenotype	
+Somatotroph adenoma	phenotype	
+Acute myocardial ischemia	phenotype	
+Malignant neoplasm of pancreas	phenotype	
+Hyperlipidemia, combined, 1	phenotype	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	phenotype	
+Ichthyosis bullosa of Siemens	phenotype	
+Hypoparathyroidism - autosomal dominant	phenotype	
+Prolactinoma, familial	phenotype	
+Myocardial Infarction	phenotype	
+Dyskinesia, Drug-Induced	phenotype	
+Dermatitis, Atopic	phenotype	
+Anorexia	phenotype	
+Inflammatory Bowel Diseases	phenotype	
+Tardive Dyskinesia	phenotype	
+Liver Cirrhosis, Biliary	phenotype	
+Immediate hypersensitivity	phenotype	
+Pulmonary hypertension, neonatal, susceptibility to	phenotype	
+Juvenile idiopathic arthritis, enthesitis related arthritis	phenotype	
+Dyslipidemias	phenotype	
+Inflammatory disorder	phenotype	
+alcohol use disorder	phenotype	
+Nephrosclerosis	phenotype	
+Colitis, Ulcerative	phenotype	
+Benign Prostatic Hyperplasia	phenotype	
+Pancreatic Neoplasms	phenotype	
+Hepatitis C, Chronic	phenotype	
+Pseudohypoparathyroidism, Type Ia	phenotype	
+Hyperplasia	phenotype	
+Crohn Disease	phenotype	
+Pituitary dependent hypercortisolism	phenotype	
+Nausea	phenotype	
+Secondary malignant neoplasm of pancreas	phenotype	
+Multiple Sclerosis	phenotype	
+Breast carcinoma	phenotype	
+Malignant neoplasm of lung	phenotype	
+Memory Disorders	phenotype	
+Helicobacter pylori infection	phenotype	
+Substance Use Disorders	phenotype	
+Polycystic Ovary Syndrome	phenotype	
+Orofacial dyskinesia	phenotype	
+Inflammatory pain	phenotype	
+Substance abuse problem	phenotype	
+Cancer of mouth	phenotype	
+Eating disorder	phenotype	
+Renal Insufficiency, Chronic	phenotype	
+Drug usage	phenotype	
+body mass	phenotype	
+airway disease	phenotype	
+Chronic Fatigue Syndrome	phenotype	
+Pediatric Obesity	phenotype	
+Diabetes mellitus type 1	phenotype	
+Secondary hyperparathyroidism	phenotype	
+Renovascular hypertension	phenotype	
+Panic disorder 1	phenotype	
+Breast-ovarian cancer, familial 1	phenotype	
+Multiple Endocrine Neoplasia Type 1	phenotype	
+Vascular Diseases	phenotype	
+Eczema	phenotype	
+Obstructive sleep apnea	phenotype	
+Amphetamine-Related Disorders	phenotype	
+Septicemia	phenotype	
+Dermatosis NOS	phenotype	
+Paroxysmal atrial fibrillation	phenotype	
+Disorder of endocrine system	phenotype	
+Pulmonary fibrosis and/or bone marrow failure, telomere-related, 4	phenotype	
+Glucose intolerance	phenotype	
+Thrombocytosis, benign familial microcytic	phenotype	
+Cholestasis of pregnancy	phenotype	
+Albinism, ocular, with sensorineural deafness	phenotype	
+Zoonotic form of cutaneous leishmaniasis	phenotype	
+Primary pulmonary hypertension	phenotype	
+MAJOR AFFECTIVE DISORDER 4	phenotype	
+MAJOR AFFECTIVE DISORDER 5	phenotype	
+MAJOR AFFECTIVE DISORDER 6	phenotype	
+Major affective disorder 7	phenotype	
+MAJOR AFFECTIVE DISORDER 8	phenotype	
+MAJOR AFFECTIVE DISORDER 9	phenotype	
+Neoplasm of the colon	phenotype	
+Adrenal Gland Hyperfunction	phenotype	
+Hereditary Sensory Autonomic Neuropathy, Type 1	phenotype	
+Melanoma	phenotype	
+Osteosarcoma	phenotype	
+Hypothermia	phenotype	
+Chronic neutrophilia	phenotype	
+Systemic arterial pressure	phenotype	
+Recurrent tumor	phenotype	
+Acute Coronary Syndrome	phenotype	
+Kaposi's sarcoma	phenotype	
+Diabetic Nephropathies	phenotype	
+Brain Ischemia	phenotype	
+Pseudohypoparathyroidism type 1A	phenotype	
+Sleep Wake Disorders	phenotype	
+Chronic Kidney Insufficiency	phenotype	
+Heart Diseases	phenotype	
+Psoriasis	phenotype	
+Tumor Progression	phenotype	
+Chronic pain	phenotype	
+Lip and Oral Cavity Carcinoma	phenotype	
+Sarcoidosis, Pulmonary	phenotype	
+Thyroid Neoplasms	phenotype	
+Interstitial fibrosis	phenotype	
+Memory Loss	phenotype	
+Bronchiolitis Obliterans	phenotype	
+Encephalitis	phenotype	
+As If Personality	phenotype	
+Non-Neoplastic Disorder	phenotype	
+Glioblastoma	phenotype	
+Hepatitis, Autoimmune	phenotype	
+Lymphadenitis	phenotype	
+Respiration Disorders	phenotype	
+Lung cancer	phenotype	
+Anaplastic thyroid carcinoma	phenotype	
+Anterior uveitis	phenotype	
+Chlamydia Infections	phenotype	
+Idiopathic Pulmonary Fibrosis	phenotype	
+Hemolytic uremic syndrome	phenotype	
+Lupus Nephritis	phenotype	
+Allergic asthma	phenotype	
+Airway Obstruction	phenotype	
+Lymphocytic infiltration	phenotype	
+Multiple Myeloma	phenotype	
+Sarcoidosis	phenotype	
+Antisocial Personality Disorder	phenotype	
+Ileitis	phenotype	
+Neoplasm of the larynx	phenotype	
+Ovarian epithelial cancer	phenotype	
+Uveitis	phenotype	
+Intraocular melanoma	phenotype	
+Glioma	phenotype	
+Colon cancer	phenotype	
+Chronic Lymphocytic Leukemia	phenotype	
+Myasthenia Gravis	phenotype	
+Acromegaly	phenotype	
+Hypogonadotropic hypogonadism 7 with or without anosmia	phenotype	
+Dermatitis, Allergic Contact	phenotype	
+Age-related macular degeneration 2	phenotype	
+Personality disorder	phenotype	
+Adrenocortical carcinoma	phenotype	
+Herpes Simplex Infections	phenotype	
+Stroke	phenotype	
+Astrocytoma	phenotype	
+Insulin Resistance	phenotype	
+Sarcoma, Ewing	phenotype	
+Erythema nodosum	phenotype	
+Pruritus	phenotype	
+Lung Neoplasms	phenotype	
+Chronic sciatica	phenotype	
+Carcinoma of colon	phenotype	
+Gastric ulcer	phenotype	
+Tuberculosis, Pulmonary	phenotype	
+Adult T-Cell Lymphoma/Leukemia	phenotype	
+Pancreatitis	phenotype	
+Secondary malignant neoplasm of lung	phenotype	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	phenotype	
+Cardiomegaly	phenotype	
+Low back pain	phenotype	
+Graves Disease	phenotype	
+Dyskinesia, seizures, and intellectual developmental disorder	phenotype	
+Henoch-Schoenlein Purpura	phenotype	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	phenotype	
+Bone Diseases	phenotype	
+Premature Birth	phenotype	
+Hodgkin Disease	phenotype	
+Chronic disseminated candidiasis	phenotype	
+Nephrogenic diabetes insipidus, autosomal	phenotype	
+Pulmonary arterial hypertension	phenotype	
+Ependymoma	phenotype	
+polyps	phenotype	
+Severe Acute Respiratory Syndrome	phenotype	
+Neoplasm of the oral cavity	phenotype	
+Cutaneous T-cell lymphoma	phenotype	
+Malnutrition	phenotype	
+Ovarian Failure, Premature	phenotype	
+Chronic interstitial cystitis	phenotype	
+Meningioma	phenotype	
+Dental Caries	phenotype	
+Absence seizures	phenotype	
+Hyperinsulinemia	phenotype	
+Disease Progression	phenotype	
+Transient ischemic attack	phenotype	
+Renal cell carcinoma, nonpapillary	phenotype	
+Gastrointestinal Diseases	phenotype	
+Ovarian Diseases	phenotype	
+Weight Loss Adverse Event	phenotype	
+Acute myocardial infarction	phenotype	
+Trachoma	phenotype	
+Membranous nephropathy, susceptibility to	phenotype	
+Chronic heart failure	phenotype	
+Alcohol withdrawal syndrome	phenotype	
+Mitral stenosis	phenotype	
+Scleroderma	phenotype	
+Synovial Cyst	phenotype	
+Obsessive-compulsive disorder	phenotype	
+Lipoma	phenotype	
+Thyroid Nodule	phenotype	
+Primary hyperaldosteronism	phenotype	
+Carcinoid tumor	phenotype	
+Acute kidney injury	phenotype	
+Gastrinoma	phenotype	
+Nonalcoholic Steatohepatitis	phenotype	
+Carcinoid tumor no ICD-O subtype	phenotype	
+Neoplasm of the skin	phenotype	
+Differentiated Thyroid Gland Carcinoma	phenotype	
+NEUROTICISM	phenotype	
+aggressive cancer	phenotype	
+Arrhythmias, Cardiac	phenotype	
+Squamous cell carcinoma	phenotype	
+Thyroid carcinoma	phenotype	
+Pleuritis	phenotype	
+Polydipsia	phenotype	
+Hyperparathyroidism 4	phenotype	
+Neoplasm Recurrence, Local	phenotype	
+Hypothyroidism	phenotype	
+Thyroid adenoma	phenotype	
+Idiopathic fibrosing alveolitis, chronic form	phenotype	
+Malignant tumor of urinary bladder	phenotype	
+Contact Dermatitis	phenotype	
+Restenosis	phenotype	
+Cycloid psychosis	phenotype	
+Bronchiolitis	phenotype	
+Parkinson Disease	phenotype	
+Skin cancer	phenotype	
+Acute Lung Injury	phenotype	
+Well Differentiated Pancreatic Endocrine Tumor	phenotype	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	phenotype	
+Rectal Carcinoma	phenotype	
+B Acute Lymphoblastic Leukemia with t(9;22)(q34;q11.2); BCR-ABL1	phenotype	
+Female infertility	phenotype	
+Malignant ascites	phenotype	
+Huntington's chorea	phenotype	
+Mycosis Fungoides	phenotype	
+Non-small cell lung carcinoma	phenotype	
+Hepatitis, Alcoholic	phenotype	
+Low Tension Glaucoma	phenotype	
+Acute postoperative pain	phenotype	
+Bleeding with minor or no trauma	phenotype	
+Disorders of Intracellular Cobalamin Metabolism	phenotype	
+Postoperative Complications	phenotype	
+Cytomegalovirus Infections	phenotype	
+Primary biliary cirrhosis	phenotype	
+Acute disease of cardiovascular system	phenotype	
+Multinodular goiter	phenotype	
+Psychotic Disorders	phenotype	
+Depressive Symptoms	phenotype	
+Multiple endocrine neoplasia, type 4	phenotype	
+Ischaemic cerebral infarction	phenotype	
+Uterine leiomyoma	phenotype	
+Fatigue	phenotype	
+Pulmonary edema	phenotype	
+Glomerulonephritis, Membranous	phenotype	
+Urticaria	phenotype	
+Malignant neoplasm of kidney	phenotype	
+Sezary Syndrome	phenotype	
+Diabetic Retinopathy	phenotype	
+Anemia, Sickle Cell	phenotype	
+Venous Thromboembolism	phenotype	
+Myelofibrosis	phenotype	
+Maternal diabetes	phenotype	
+Thyroid hormone receptor defect	phenotype	
+Wilson disease	phenotype	
+Thyroid Diseases	phenotype	
+androgen independent prostate cancer	phenotype	
+Acute-Phase Reaction	phenotype	
+Anemia of chronic disease	phenotype	
+Lymphoid hyperplasia	phenotype	
+Inappropriate ADH Syndrome	phenotype	
+Hypotension, Orthostatic	phenotype	
+Stable angina	phenotype	
+Ventricular Fibrillation Adverse Event	phenotype	
+Choriocarcinoma	phenotype	
+Lichen Planus, Oral	phenotype	
+Carcinoma, Lewis Lung	phenotype	
+Overweight	phenotype	
+Hepatitis C	phenotype	
+Gingival Diseases	phenotype	
+Musculoskeletal Diseases	phenotype	
+Cognition Disorders	phenotype	
+Bulimia	phenotype	
+Philadelphia chromosome positive chronic myelogenous leukemia	phenotype	
+Pregnancy Complications, Hematologic	phenotype	
+Epstein-Barr Virus Infections	phenotype	
+Carcinogenesis	phenotype	
+Stress, Psychological	phenotype	
+Vitreoretinopathy, neovascular inflammatory, 193235 (3)	phenotype	
+Adrenal hyperplasia	phenotype	
+Renal insufficiency	phenotype	
+AIDS Dementia Complex	phenotype	
+Stomach Diseases	phenotype	
+Carotid Stenosis	phenotype	
+Fibrosis	phenotype	
+Chondrosarcoma	phenotype	
+Acquired Immunodeficiency Syndrome	phenotype	
+Multiple Endocrine Neoplasia Type 2b	phenotype	
+Gastric Adenocarcinoma	phenotype	
+Cancer Cell Growth	phenotype	
+Primary cutaneous marginal zone B-cell lymphoma	phenotype	
+Ovarian Neoplasms	phenotype	
+Neoplasm of the endocrine system	phenotype	
+Herpes NOS	phenotype	
+Chorioamnionitis	phenotype	
+Acute Erythroblastic Leukemia	phenotype	
+Acute pyelonephritis	phenotype	
+cardiac event	phenotype	
+Connective Tissue Diseases	phenotype	
+Proliferative diabetic retinopathy	phenotype	
+Adrenocortical adenoma	phenotype	
+Squamous cell carcinoma of the head and neck	phenotype	
+Acute GVH disease	phenotype	
+Severe combined immunodeficiency due to ADA deficiency	phenotype	
+Melanocytic nevus of skin	phenotype	
+Avellino corneal dystrophy	phenotype	
+Nodular goiter	phenotype	
+Myeloproliferative disorder, chronic, with eosinophilia	phenotype	
+Neurodegenerative Diseases	phenotype	
+Respiratory Distress Syndrome, Adult	phenotype	
+Venous thrombosis	phenotype	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	phenotype	
+Bone neoplasms	phenotype	
+Periodontitis	phenotype	
+Pulmonary infiltrates	phenotype	
+Bile duct cancer resectable	phenotype	
+Hepatocellular carcinoma	phenotype	
+Pneumocystis jiroveci pneumonia	phenotype	
+Granuloma	phenotype	
+Hypersomnia	phenotype	
+Neoplasm of the thymus	phenotype	
+Stage 5 chronic kidney disease	phenotype	
+Ganglioneuroblastoma	phenotype	
+Coronary Restenosis	phenotype	
+Inflammatory Breast Carcinoma	phenotype	

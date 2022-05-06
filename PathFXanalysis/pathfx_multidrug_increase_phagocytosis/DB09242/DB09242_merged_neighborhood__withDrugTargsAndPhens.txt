@@ -1,0 +1,23 @@
+node1	node2	edge_score	
+DB09242	NISCH	1.0	
+NISCH		1
+Arteriosclerosis	NISCH	1.0	
+Atherosclerosis	NISCH	1.0	
+Breast-ovarian cancer, familial 1	NISCH	1.0	
+Cardiovascular Diseases	NISCH	1.0	
+Diabetes mellitus type 2	NISCH	1.0	
+Heart Failure	NISCH	1.0	
+Hypertension	NISCH	1.0	
+Hypotension	NISCH	1.0	
+Animal Mammary Neoplasms	NISCH	1.0	
+Secondary hypertriglyceridemia	NISCH	1.0	
+Obesity	NISCH	1.0	
+Secondary malignant neoplasm of lung	NISCH	1.0	
+Carcinoma breast stage IV	NISCH	1.0	
+Bradycardia	NISCH	1.0	
+Ovarian epithelial cancer	NISCH	1.0	
+Breast carcinoma	NISCH	1.0	
+Invasive breast carcinoma	NISCH	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NISCH	1.0	
+Xenograft Model	NISCH	1.0	
+Secondary malignant neoplasm of pancreas	NISCH	1.0	

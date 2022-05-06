@@ -1,0 +1,8 @@
+node_name	node_type	
+DB00443	drug	
+NR3C1	drug_target	
+ABCB1	drug_target	
+CYP3A4	drug_target	
+CYP19A1	drug_target	
+Bone necrosis	phenotype	
+Depressive Symptoms	phenotype	

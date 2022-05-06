@@ -1,0 +1,1030 @@
+node1	node2	edge_score	
+DB03127	PLAU	1.0	
+DB03127	ST14	1.0	
+DB03127	PRSS3	1.0	
+DB03127	ECI1	1.0	
+DB03127	KLK6	1.0	
+DB03127	CSNK2A1	1.0	
+DB03127	PRSS1	1.0	
+DB03127	ATOX1	1.0	
+DB03127	PRSS2	1.0	
+PLAU	PLAUR	0.8484307441293273
+PLAU		1
+PLAU	PLAU	0.8421959353175904
+PLAU	PLG	0.8564332803525301
+ST14		1
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GCN1L1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SGOL2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PHC3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HP	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCED1B	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RLF	0.818984274335209
+PRSS3		1
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DCD	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:x6cpThd263Mg5MI1OElxwfuSmiY9606	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CNOT1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOC1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ITIH1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC9A8	0.818984274335209
+APOE	rs7412	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:Ze+0W0eVhC83twMz3vRT3padrsk9606	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PF4V1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TRAPPC11	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PCDH1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	BBC3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA0232	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPAST	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TSC22D1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OBSL1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KLK3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	RANBP3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	HPX	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CEP44	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR8D2	0.8638247395845513
+PRSS3	complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	0.904977499353
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KIAA1551	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CABLES1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	APOE	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF232	0.818984274335209
+APOE	rs429358	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	refseq:NP_001914	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TTPAL	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SCAF1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	JARID2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:xz86zyvibNFDhT+J8v28Znx5/2M9913	0.818984274335209
+APOE	APOE E2, APOE E3, APOE E4	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AMPD3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CAMTA1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	IGDCC4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GJC2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC1A5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR2T6	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SCN5A	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLC25A13	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	TLN2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CROT	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NLRC4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CRB1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CDCP1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	THRAP3	0.818984274335209
+APOC1	rs7412	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ALB	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	FAM71E2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	rogid:q6IZvGeHHY4cOWPHVW3Z7k177/w32630	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AP4E1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KRT9	0.8638247395845513
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SLA2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PLAG1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	DGKG	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GFAP	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PDZRN4	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	KCNMA1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SACS	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CLCA2	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	NCOA3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SH3BP5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SPATA31A7	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	MYLK3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	GSN	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	EXOC6	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CST3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTSL	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	ZNF292	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	LDB3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SERPING1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CACNA1I	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	PEG3	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	OR3A2	0.818984274335209
+APOC1	rs429358	0.8107944315918569
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	QTRTD1	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	SETX	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CHKB	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	CTAGE5	0.818984274335209
+complex:lAo9+jzjVOaRJSWZQvoh0G1mUDc	AHSG	0.818984274335209
+ECI1		1
+KLK6		1
+CSNK2A1		1
+CSNK2A1	CSNK2A2	0.7968725854638756
+CSNK2A1	CSNK2B	0.7915342995787267
+PRSS1		1
+ATOX1		1
+PRSS2		1
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	AP4E1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	APOE	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CAMTA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	CST3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GFAP	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GJC2	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	GSN	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KCNMA1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	KRT9	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	LDB3	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	NLRC4	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PLAG1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PLAU	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	PRSS1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SCN5A	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SERPING1	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SETX	1.0	
+Autosomal dominant non-syndromic sensorineural deafness type DFNA	SPAST	1.0	
+Alzheimer Disease, Late Onset	APOC1	1.0	
+Alzheimer Disease, Late Onset	APOE	1.0	
+Alzheimer Disease, Late Onset	CST3	1.0	
+Alzheimer Disease, Late Onset	GFAP	1.0	
+Alzheimer Disease, Late Onset	PLAU	1.0	
+Abnormality of metabolism/homeostasis	ALB	1.0	
+Abnormality of metabolism/homeostasis	APOE	1.0	
+Abnormality of metabolism/homeostasis	CAMTA1	1.0	
+Abnormality of metabolism/homeostasis	CHKB	1.0	
+Abnormality of metabolism/homeostasis	CRB1	1.0	
+Abnormality of metabolism/homeostasis	CST3	1.0	
+Abnormality of metabolism/homeostasis	GJC2	1.0	
+Abnormality of metabolism/homeostasis	GSN	1.0	
+Abnormality of metabolism/homeostasis	KRT1	1.0	
+Abnormality of metabolism/homeostasis	KRT9	1.0	
+Abnormality of metabolism/homeostasis	LDB3	1.0	
+Abnormality of metabolism/homeostasis	NLRC4	1.0	
+Abnormality of metabolism/homeostasis	PLG	1.0	
+Abnormality of metabolism/homeostasis	PRSS1	1.0	
+Abnormality of metabolism/homeostasis	PRSS2	1.0	
+Abnormality of metabolism/homeostasis	SCN5A	1.0	
+Abnormality of metabolism/homeostasis	SERPING1	1.0	
+Abnormality of metabolism/homeostasis	SETX	1.0	
+Abnormality of metabolism/homeostasis	SLC25A13	1.0	
+Abnormality of metabolism/homeostasis	TRAPPC11	1.0	
+Dementia, Vascular	ALB	1.0	
+Dementia, Vascular	APOE	1.0	
+Dementia, Vascular	CST3	1.0	
+Dementia, Vascular	KLK6	1.0	
+Dementia, Vascular	PLG	1.0	
+Abnormality of the skin	APOC1	1.0	
+Abnormality of the skin	APOE	1.0	
+Abnormality of the skin	CHKB	1.0	
+Abnormality of the skin	CRB1	1.0	
+Abnormality of the skin	GJC2	1.0	
+Abnormality of the skin	GSN	1.0	
+Abnormality of the skin	KRT1	1.0	
+Abnormality of the skin	KRT9	1.0	
+Abnormality of the skin	LDB3	1.0	
+Abnormality of the skin	NLRC4	1.0	
+Abnormality of the skin	PLAU	1.0	
+Abnormality of the skin	PLG	1.0	
+Abnormality of the skin	PRSS1	1.0	
+Abnormality of the skin	PRSS2	1.0	
+Abnormality of the skin	SCN5A	1.0	
+Abnormality of the skin	SERPING1	1.0	
+Abnormality of the skin	SETX	1.0	
+Abnormality of the skin	ST14	1.0	
+Abnormality of circulating protein level	ALB	1.0	
+Abnormality of circulating protein level	CHKB	1.0	
+Abnormality of circulating protein level	LDB3	1.0	
+Abnormality of circulating protein level	PRSS1	1.0	
+Abnormality of circulating protein level	PRSS2	1.0	
+Abnormality of circulating protein level	SCN5A	1.0	
+Abnormality of circulating protein level	SETX	1.0	
+Abnormality of circulating protein level	TRAPPC11	1.0	
+Pancreatitis	ALB	1.0	
+Pancreatitis	APOE	1.0	
+Pancreatitis	CTSL	1.0	
+Pancreatitis	NCOA3	1.0	
+Pancreatitis	PLAUR	1.0	
+Pancreatitis	PRSS1	1.0	
+Pancreatitis	PRSS2	1.0	
+Pancreatitis	SLC25A13	1.0	
+Aural atresia, congenital	APOE	1.0	
+Aural atresia, congenital	CST3	1.0	
+Aural atresia, congenital	GSN	1.0	
+Aural atresia, congenital	PLG	1.0	
+Guillain-Barre syndrome, familial	ALB	1.0	
+Guillain-Barre syndrome, familial	APOE	1.0	
+Guillain-Barre syndrome, familial	GFAP	1.0	
+Guillain-Barre syndrome, familial	SERPING1	1.0	
+Ovarian epithelial cancer	ALB	1.0	
+Ovarian epithelial cancer	APOE	1.0	
+Ovarian epithelial cancer	ATOX1	1.0	
+Ovarian epithelial cancer	CABLES1	1.0	
+Ovarian epithelial cancer	CDCP1	1.0	
+Ovarian epithelial cancer	CTSL	1.0	
+Ovarian epithelial cancer	GSN	1.0	
+Ovarian epithelial cancer	HP	1.0	
+Ovarian epithelial cancer	KLK3	1.0	
+Ovarian epithelial cancer	KLK6	1.0	
+Ovarian epithelial cancer	KRT9	1.0	
+Ovarian epithelial cancer	NCOA3	1.0	
+Ovarian epithelial cancer	PEG3	1.0	
+Ovarian epithelial cancer	PLAG1	1.0	
+Ovarian epithelial cancer	PLAU	1.0	
+Ovarian epithelial cancer	PLAUR	1.0	
+Ovarian epithelial cancer	PLG	1.0	
+Ovarian epithelial cancer	PRSS1	1.0	
+Ovarian epithelial cancer	PRSS2	1.0	
+Ovarian epithelial cancer	PRSS3	1.0	
+Ovarian epithelial cancer	RANBP3	1.0	
+Ovarian epithelial cancer	SCAF1	1.0	
+Ovarian epithelial cancer	ST14	1.0	
+{Aneurysm, familial abdominal 3} (2)	APOE	1.0	
+{Aneurysm, familial abdominal 3} (2)	CST3	1.0	
+{Aneurysm, familial abdominal 3} (2)	HP	1.0	
+{Aneurysm, familial abdominal 3} (2)	PLAU	1.0	
+{Aneurysm, familial abdominal 3} (2)	PLG	1.0	
+{Aneurysm, familial abdominal 3} (2)	SLA2	1.0	
+Hereditary pancreatitis	ALB	1.0	
+Hereditary pancreatitis	APOE	1.0	
+Hereditary pancreatitis	HP	1.0	
+Hereditary pancreatitis	KLK3	1.0	
+Hereditary pancreatitis	PLAG1	1.0	
+Hereditary pancreatitis	PRSS1	1.0	
+Hereditary pancreatitis	PRSS2	1.0	
+Hereditary pancreatitis	PRSS3	1.0	
+Hereditary pancreatitis	TSC22D1	1.0	
+Hyperlipidemia, combined, 1	ALB	1.0	
+Hyperlipidemia, combined, 1	APOC1	1.0	
+Hyperlipidemia, combined, 1	APOE	1.0	
+Hyperlipidemia, combined, 1	CDCP1	1.0	
+Hyperlipidemia, combined, 1	HP	1.0	
+Hyperlipidemia, combined, 1	PLG	1.0	
+Hyperlipidemia, combined, 1	PRSS1	1.0	
+Hyperlipidemia, combined, 1	SLC25A13	1.0	
+Plaque, Atherosclerotic	ALB	1.0	
+Plaque, Atherosclerotic	APOE	1.0	
+Plaque, Atherosclerotic	CST3	1.0	
+Plaque, Atherosclerotic	GFAP	1.0	
+Plaque, Atherosclerotic	GSN	1.0	
+Plaque, Atherosclerotic	PLG	1.0	
+Plaque, Atherosclerotic	SERPING1	1.0	
+Prostatic Neoplasms	APOE	1.0	
+Prostatic Neoplasms	CDCP1	1.0	
+Prostatic Neoplasms	CSNK2A1	1.0	
+Prostatic Neoplasms	CST3	1.0	
+Prostatic Neoplasms	DCD	1.0	
+Prostatic Neoplasms	HPX	1.0	
+Prostatic Neoplasms	KCNMA1	1.0	
+Prostatic Neoplasms	KLK3	1.0	
+Prostatic Neoplasms	NCOA3	1.0	
+Prostatic Neoplasms	PEG3	1.0	
+Prostatic Neoplasms	PLAG1	1.0	
+Prostatic Neoplasms	PLAU	1.0	
+Prostatic Neoplasms	PLAUR	1.0	
+Prostatic Neoplasms	PLG	1.0	
+Prostatic Neoplasms	PRSS1	1.0	
+Prostatic Neoplasms	PRSS2	1.0	
+Prostatic Neoplasms	PRSS3	1.0	
+Prostatic Neoplasms	SLC1A5	1.0	
+Prostatic Neoplasms	ST14	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	GFAP	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT1	1.0	
+Epidermolysis bullosa simplex, Cockayne-Touraine type	KRT9	1.0	
+Cognition Disorders	APOC1	1.0	
+Cognition Disorders	APOE	1.0	
+Cognition Disorders	CST3	1.0	
+Cognition Disorders	SPAST	1.0	
+Vascular Diseases	AHSG	1.0	
+Vascular Diseases	ALB	1.0	
+Vascular Diseases	APOE	1.0	
+Vascular Diseases	ATOX1	1.0	
+Vascular Diseases	CST3	1.0	
+Vascular Diseases	HP	1.0	
+Vascular Diseases	PF4V1	1.0	
+Vascular Diseases	PLAUR	1.0	
+Vascular Diseases	PLG	1.0	
+Diabetic Nephropathies	AHSG	1.0	
+Diabetic Nephropathies	ALB	1.0	
+Diabetic Nephropathies	APOC1	1.0	
+Diabetic Nephropathies	APOE	1.0	
+Diabetic Nephropathies	CST3	1.0	
+Diabetic Nephropathies	HP	1.0	
+Diabetic Nephropathies	PLAU	1.0	
+Diabetic Nephropathies	PLG	1.0	
+Diabetic Nephropathies	PRSS1	1.0	
+Diabetic Nephropathies	PRSS2	1.0	
+Diabetic Nephropathies	TSC22D1	1.0	
+Bleeding disorder, platelet-type, 21	ALB	1.0	
+Bleeding disorder, platelet-type, 21	APOE	1.0	
+Bleeding disorder, platelet-type, 21	GSN	1.0	
+Bleeding disorder, platelet-type, 21	KLK3	1.0	
+Bleeding disorder, platelet-type, 21	PLAU	1.0	
+Bleeding disorder, platelet-type, 21	PLG	1.0	
+Spastic paraplegia 9	AP4E1	1.0	
+Spastic paraplegia 9	GFAP	1.0	
+Spastic paraplegia 9	GJC2	1.0	
+Spastic paraplegia 9	SPAST	1.0	
+Spastic paraplegia 9	ST14	1.0	
+Abnormality of skin morphology	APOE	1.0	
+Abnormality of skin morphology	CHKB	1.0	
+Abnormality of skin morphology	CRB1	1.0	
+Abnormality of skin morphology	GSN	1.0	
+Abnormality of skin morphology	KRT1	1.0	
+Abnormality of skin morphology	KRT9	1.0	
+Abnormality of skin morphology	LDB3	1.0	
+Abnormality of skin morphology	NLRC4	1.0	
+Abnormality of skin morphology	PLAU	1.0	
+Abnormality of skin morphology	PLG	1.0	
+Abnormality of skin morphology	PRSS1	1.0	
+Abnormality of skin morphology	PRSS2	1.0	
+Abnormality of skin morphology	SCN5A	1.0	
+Abnormality of skin morphology	SERPING1	1.0	
+Abnormality of skin morphology	SETX	1.0	
+Abnormality of skin morphology	ST14	1.0	
+Squamous cell carcinoma	APOE	1.0	
+Squamous cell carcinoma	BBC3	1.0	
+Squamous cell carcinoma	CDCP1	1.0	
+Squamous cell carcinoma	CLCA2	1.0	
+Squamous cell carcinoma	CSNK2A1	1.0	
+Squamous cell carcinoma	CSNK2A2	1.0	
+Squamous cell carcinoma	CSNK2B	1.0	
+Squamous cell carcinoma	CTSL	1.0	
+Squamous cell carcinoma	GFAP	1.0	
+Squamous cell carcinoma	GSN	1.0	
+Squamous cell carcinoma	HP	1.0	
+Squamous cell carcinoma	KRT1	1.0	
+Squamous cell carcinoma	KRT9	1.0	
+Squamous cell carcinoma	NCOA3	1.0	
+Squamous cell carcinoma	PLAU	1.0	
+Squamous cell carcinoma	PLAUR	1.0	
+Squamous cell carcinoma	PLG	1.0	
+Squamous cell carcinoma	PRSS2	1.0	
+Squamous cell carcinoma	SLC1A5	1.0	
+Squamous cell carcinoma	ST14	1.0	
+Carcinoma of colon	AHSG	1.0	
+Carcinoma of colon	ALB	1.0	
+Carcinoma of colon	APOE	1.0	
+Carcinoma of colon	BBC3	1.0	
+Carcinoma of colon	CABLES1	1.0	
+Carcinoma of colon	CDCP1	1.0	
+Carcinoma of colon	CSNK2A1	1.0	
+Carcinoma of colon	CTAGE5	1.0	
+Carcinoma of colon	GSN	1.0	
+Carcinoma of colon	JARID2	1.0	
+Carcinoma of colon	KLK6	1.0	
+Carcinoma of colon	NCOA3	1.0	
+Carcinoma of colon	PLAU	1.0	
+Carcinoma of colon	PLAUR	1.0	
+Carcinoma of colon	PLG	1.0	
+Carcinoma of colon	PRSS1	1.0	
+Carcinoma of colon	RANBP3	1.0	
+Carcinoma of colon	SCAF1	1.0	
+Carcinoma of colon	SCN5A	1.0	
+Carcinoma of colon	ST14	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	APOE	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GFAP	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GJC2	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	GSN	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	LDB3	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	NLRC4	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	PLAUR	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SACS	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SERPING1	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SETX	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	SPAST	1.0	
+Peripheral neuropathy, myopathy, hoarseness, and hearing loss	TLN2	1.0	
+Abnormality of nervous system morphology	AP4E1	1.0	
+Abnormality of nervous system morphology	APOE	1.0	
+Abnormality of nervous system morphology	CAMTA1	1.0	
+Abnormality of nervous system morphology	CHKB	1.0	
+Abnormality of nervous system morphology	CRB1	1.0	
+Abnormality of nervous system morphology	CST3	1.0	
+Abnormality of nervous system morphology	GFAP	1.0	
+Abnormality of nervous system morphology	GJC2	1.0	
+Abnormality of nervous system morphology	GSN	1.0	
+Abnormality of nervous system morphology	LDB3	1.0	
+Abnormality of nervous system morphology	NLRC4	1.0	
+Abnormality of nervous system morphology	OBSL1	1.0	
+Abnormality of nervous system morphology	PLG	1.0	
+Abnormality of nervous system morphology	SACS	1.0	
+Abnormality of nervous system morphology	SCN5A	1.0	
+Abnormality of nervous system morphology	SERPING1	1.0	
+Abnormality of nervous system morphology	SETX	1.0	
+Abnormality of nervous system morphology	SLC25A13	1.0	
+Abnormality of nervous system morphology	SPAST	1.0	
+Abnormality of nervous system morphology	TRAPPC11	1.0	
+Colon cancer	AHSG	1.0	
+Colon cancer	ALB	1.0	
+Colon cancer	APOE	1.0	
+Colon cancer	BBC3	1.0	
+Colon cancer	CABLES1	1.0	
+Colon cancer	CDCP1	1.0	
+Colon cancer	CSNK2A1	1.0	
+Colon cancer	GSN	1.0	
+Colon cancer	JARID2	1.0	
+Colon cancer	KLK6	1.0	
+Colon cancer	NCOA3	1.0	
+Colon cancer	PLAU	1.0	
+Colon cancer	PLAUR	1.0	
+Colon cancer	PLG	1.0	
+Colon cancer	PRSS1	1.0	
+Colon cancer	RANBP3	1.0	
+Colon cancer	SCAF1	1.0	
+Colon cancer	SCN5A	1.0	
+Colon cancer	ST14	1.0	
+Myocardial Infarction	AHSG	1.0	
+Myocardial Infarction	APOC1	1.0	
+Myocardial Infarction	APOE	1.0	
+Myocardial Infarction	CDCP1	1.0	
+Myocardial Infarction	CST3	1.0	
+Myocardial Infarction	GFAP	1.0	
+Myocardial Infarction	GSN	1.0	
+Myocardial Infarction	HP	1.0	
+Myocardial Infarction	KCNMA1	1.0	
+Myocardial Infarction	PLAU	1.0	
+Myocardial Infarction	PLAUR	1.0	
+Myocardial Infarction	PLG	1.0	
+Myocardial Infarction	SCN5A	1.0	
+Myocardial Infarction	SERPING1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	ALB	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	APOE	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	GSN	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	LDB3	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SACS	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SERPING1	1.0	
+Neuropathy ataxia retinitis pigmentosa syndrome	SETX	1.0	
+Myopathy, scapulohumeroperoneal	ALB	1.0	
+Myopathy, scapulohumeroperoneal	APOE	1.0	
+Myopathy, scapulohumeroperoneal	CHKB	1.0	
+Myopathy, scapulohumeroperoneal	GFAP	1.0	
+Myopathy, scapulohumeroperoneal	LDB3	1.0	
+Myopathy, scapulohumeroperoneal	OBSL1	1.0	
+Myopathy, scapulohumeroperoneal	SCN5A	1.0	
+Myopathy, scapulohumeroperoneal	ST14	1.0	
+Myopathy, scapulohumeroperoneal	TRAPPC11	1.0	
+Impaired vibratory sensation	SACS	1.0	
+Impaired vibratory sensation	SETX	1.0	
+Impaired vibratory sensation	SPAST	1.0	
+Corneal Diseases	APOE	1.0	
+Corneal Diseases	GFAP	1.0	
+Corneal Diseases	GSN	1.0	
+Spastic	APOE	1.0	
+Spastic	GJC2	1.0	
+Spastic	SPAST	1.0	
+Dysmetria	CAMTA1	1.0	
+Dysmetria	GJC2	1.0	
+Dysmetria	SACS	1.0	
+Dysmetria	SETX	1.0	
+Pulmonary Embolism	ALB	1.0	
+Pulmonary Embolism	APOE	1.0	
+Pulmonary Embolism	HP	1.0	
+Pulmonary Embolism	PLAU	1.0	
+Pulmonary Embolism	PLG	1.0	
+Cerebral edema	APOE	1.0	
+Cerebral edema	GFAP	1.0	
+Cerebral edema	PLAU	1.0	
+Cerebral edema	SLC25A13	1.0	
+Azorean disease	APOE	1.0	
+Azorean disease	BBC3	1.0	
+Azorean disease	CST3	1.0	
+Azorean disease	GFAP	1.0	
+Motor Neuron Disease	APOE	1.0	
+Motor Neuron Disease	GFAP	1.0	
+Motor Neuron Disease	HP	1.0	
+Motor Neuron Disease	SETX	1.0	
+Motor Neuron Disease	SPAST	1.0	
+Pancreatitis, Acute Necrotizing	PLG	1.0	
+Pancreatitis, Acute Necrotizing	PRSS2	1.0	
+Pancreatitis, Acute Necrotizing	SERPING1	1.0	
+Pancreatitis, Alcoholic	APOE	1.0	
+Pancreatitis, Alcoholic	PRSS1	1.0	
+Pancreatitis, Alcoholic	PRSS2	1.0	
+Alcoholic Steatohepatitis	APOE	1.0	
+Alcoholic Steatohepatitis	BBC3	1.0	
+Alcoholic Steatohepatitis	NLRC4	1.0	
+Noninfiltrating Intraductal Carcinoma	ECI1	1.0	
+Noninfiltrating Intraductal Carcinoma	GSN	1.0	
+Noninfiltrating Intraductal Carcinoma	HPX	1.0	
+Noninfiltrating Intraductal Carcinoma	NCOA3	1.0	
+Noninfiltrating Intraductal Carcinoma	PLAU	1.0	
+Noninfiltrating Intraductal Carcinoma	PLAUR	1.0	
+Noninfiltrating Intraductal Carcinoma	PLG	1.0	
+Abnormality of the integument	APOE	1.0	
+Abnormality of the integument	CHKB	1.0	
+Abnormality of the integument	CRB1	1.0	
+Abnormality of the integument	GJC2	1.0	
+Abnormality of the integument	GSN	1.0	
+Abnormality of the integument	KRT1	1.0	
+Abnormality of the integument	KRT9	1.0	
+Abnormality of the integument	LDB3	1.0	
+Abnormality of the integument	NLRC4	1.0	
+Abnormality of the integument	OBSL1	1.0	
+Abnormality of the integument	PLAU	1.0	
+Abnormality of the integument	PLG	1.0	
+Abnormality of the integument	PRSS1	1.0	
+Abnormality of the integument	PRSS2	1.0	
+Abnormality of the integument	SCN5A	1.0	
+Abnormality of the integument	SERPING1	1.0	
+Abnormality of the integument	SETX	1.0	
+Abnormality of the integument	ST14	1.0	
+Venous thrombosis	APOE	1.0	
+Venous thrombosis	PLAU	1.0	
+Venous thrombosis	PLG	1.0	
+Venous thrombosis	PRSS1	1.0	
+Venous thrombosis	PRSS2	1.0	
+Prostatic Intraepithelial Neoplasias	CLCA2	1.0	
+Prostatic Intraepithelial Neoplasias	KLK3	1.0	
+Prostatic Intraepithelial Neoplasias	PLAG1	1.0	
+Prostatic Intraepithelial Neoplasias	PLAU	1.0	
+Prostatic Intraepithelial Neoplasias	PLAUR	1.0	
+Generalized abnormality of skin	APOE	1.0	
+Generalized abnormality of skin	CRB1	1.0	
+Generalized abnormality of skin	KRT1	1.0	
+Generalized abnormality of skin	KRT9	1.0	
+Generalized abnormality of skin	NLRC4	1.0	
+Generalized abnormality of skin	PLAU	1.0	
+Generalized abnormality of skin	PLG	1.0	
+Generalized abnormality of skin	PRSS1	1.0	
+Generalized abnormality of skin	PRSS2	1.0	
+Generalized abnormality of skin	SERPING1	1.0	
+Generalized abnormality of skin	SETX	1.0	
+Erythroblastosis	GSN	1.0	
+Erythroblastosis	KLK3	1.0	
+Erythroblastosis	PLAG1	1.0	
+Meningioma, benign, no ICD-O subtype	CST3	1.0	
+Meningioma, benign, no ICD-O subtype	CTAGE5	1.0	
+Meningioma, benign, no ICD-O subtype	CTSL	1.0	
+Meningioma, benign, no ICD-O subtype	PLAU	1.0	
+Meningioma, benign, no ICD-O subtype	PLAUR	1.0	
+Meningioma, benign, no ICD-O subtype	PLG	1.0	
+Babinski sign	AP4E1	1.0	
+Babinski sign	GJC2	1.0	
+Babinski sign	SACS	1.0	
+Babinski sign	SETX	1.0	
+Babinski sign	SPAST	1.0	
+Diabetic Angiopathies	ALB	1.0	
+Diabetic Angiopathies	APOE	1.0	
+Diabetic Angiopathies	HP	1.0	
+Diabetic Angiopathies	PLG	1.0	
+Alzheimer Disease	AHSG	1.0	
+Alzheimer Disease	ALB	1.0	
+Alzheimer Disease	APOC1	1.0	
+Alzheimer Disease	APOE	1.0	
+Alzheimer Disease	CST3	1.0	
+Alzheimer Disease	CTSL	1.0	
+Alzheimer Disease	GFAP	1.0	
+Alzheimer Disease	GSN	1.0	
+Alzheimer Disease	HP	1.0	
+Alzheimer Disease	KCNMA1	1.0	
+Alzheimer Disease	KLK3	1.0	
+Alzheimer Disease	KLK6	1.0	
+Alzheimer Disease	PCED1B	1.0	
+Alzheimer Disease	PLAU	1.0	
+Alzheimer Disease	PLG	1.0	
+Alzheimer Disease	SERPING1	1.0	
+Alzheimer Disease	SH3BP5	1.0	
+Alzheimer Disease	SPAST	1.0	
+Nephrotic Syndrome, Minimal Change	ALB	1.0	
+Nephrotic Syndrome, Minimal Change	APOE	1.0	
+Nephrotic Syndrome, Minimal Change	HPX	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	ALB	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	GSN	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	LDB3	1.0	
+Polyneuropathy, hearing loss, ataxia, retinitis pigmentosa, and cataract	SETX	1.0	
+Pointed chin	AP4E1	1.0	
+Pointed chin	CAMTA1	1.0	
+Pointed chin	OBSL1	1.0	
+Abnormal leukocyte count	APOE	1.0	
+Abnormal leukocyte count	KRT1	1.0	
+Abnormal leukocyte count	KRT9	1.0	
+Abnormal leukocyte count	LDB3	1.0	
+Abnormal leukocyte count	PRSS1	1.0	
+Abnormal leukocyte count	PRSS2	1.0	
+Abnormal leukocyte count	SCN5A	1.0	
+Abnormal leukocyte count	SETX	1.0	
+Abnormality of cellular immune system	APOE	1.0	
+Abnormality of cellular immune system	KRT1	1.0	
+Abnormality of cellular immune system	KRT9	1.0	
+Abnormality of cellular immune system	LDB3	1.0	
+Abnormality of cellular immune system	PRSS1	1.0	
+Abnormality of cellular immune system	PRSS2	1.0	
+Abnormality of cellular immune system	SCN5A	1.0	
+Abnormality of cellular immune system	SETX	1.0	
+Increased antibody level in blood	KRT1	1.0	
+Increased antibody level in blood	KRT9	1.0	
+Increased antibody level in blood	SETX	1.0	
+Insulin resistance syndrome	ALB	1.0	
+Insulin resistance syndrome	APOC1	1.0	
+Insulin resistance syndrome	PLG	1.0	
+Acute myocardial infarction	APOE	1.0	
+Acute myocardial infarction	CST3	1.0	
+Acute myocardial infarction	HP	1.0	
+Acute myocardial infarction	PLAU	1.0	
+Acute myocardial infarction	PLG	1.0	
+Acute myocardial infarction	SCN5A	1.0	
+Albuminuria	ALB	1.0	
+Albuminuria	APOE	1.0	
+Albuminuria	CST3	1.0	
+Albuminuria	CTSL	1.0	
+Albuminuria	HP	1.0	
+Cerebral Amyloid Angiopathy	APOE	1.0	
+Cerebral Amyloid Angiopathy	CST3	1.0	
+Cerebral Amyloid Angiopathy	GSN	1.0	
+Hypoxia	APOE	1.0	
+Hypoxia	CSNK2A1	1.0	
+Hypoxia	DCD	1.0	
+Hypoxia	HP	1.0	
+Hypoxia	KCNMA1	1.0	
+Hypoxia	PLAUR	1.0	
+Hypoxia	SCN5A	1.0	
+Acute pancreatitis	APOE	1.0	
+Acute pancreatitis	PRSS1	1.0	
+Acute pancreatitis	PRSS2	1.0	
+Acute pancreatitis	PRSS3	1.0	
+Abnormality of blood and blood-forming tissues	APOE	1.0	
+Abnormality of blood and blood-forming tissues	CRB1	1.0	
+Abnormality of blood and blood-forming tissues	CST3	1.0	
+Abnormality of blood and blood-forming tissues	KRT1	1.0	
+Abnormality of blood and blood-forming tissues	KRT9	1.0	
+Abnormality of blood and blood-forming tissues	LDB3	1.0	
+Abnormality of blood and blood-forming tissues	NLRC4	1.0	
+Abnormality of blood and blood-forming tissues	OBSL1	1.0	
+Abnormality of blood and blood-forming tissues	PLAU	1.0	
+Abnormality of blood and blood-forming tissues	PLG	1.0	
+Abnormality of blood and blood-forming tissues	PRSS1	1.0	
+Abnormality of blood and blood-forming tissues	PRSS2	1.0	
+Abnormality of blood and blood-forming tissues	SCN5A	1.0	
+Abnormality of blood and blood-forming tissues	SERPING1	1.0	
+Abnormality of blood and blood-forming tissues	SETX	1.0	
+Drug Resistant Epilepsy	ALB	1.0	
+Drug Resistant Epilepsy	APOE	1.0	
+Drug Resistant Epilepsy	GFAP	1.0	
+Glioblastoma	AHSG	1.0	
+Glioblastoma	APOE	1.0	
+Glioblastoma	BBC3	1.0	
+Glioblastoma	CAMTA1	1.0	
+Glioblastoma	CNOT1	1.0	
+Glioblastoma	CSNK2A1	1.0	
+Glioblastoma	CSNK2A2	1.0	
+Glioblastoma	CST3	1.0	
+Glioblastoma	CTSL	1.0	
+Glioblastoma	GFAP	1.0	
+Glioblastoma	GSN	1.0	
+Glioblastoma	HP	1.0	
+Glioblastoma	KLK6	1.0	
+Glioblastoma	PLAU	1.0	
+Glioblastoma	PLAUR	1.0	
+Glioblastoma	PLG	1.0	
+Glioblastoma	SPAST	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ALB	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	APOE	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CABLES1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CDCP1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	CTSL	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	KLK3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	KLK6	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	KRT9	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NCOA3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PEG3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAG1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAU	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLAUR	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PLG	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	PRSS3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	RANBP3	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SCAF1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	SERPING1	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	ST14	1.0	
+Carcinoma breast stage IV	ALB	1.0	
+Carcinoma breast stage IV	HP	1.0	
+Carcinoma breast stage IV	KCNMA1	1.0	
+Carcinoma breast stage IV	KLK6	1.0	
+Carcinoma breast stage IV	KRT1	1.0	
+Carcinoma breast stage IV	PLAU	1.0	
+Carcinoma breast stage IV	SCN5A	1.0	
+Abnormality of fluid regulation	APOE	1.0	
+Abnormality of fluid regulation	CAMTA1	1.0	
+Abnormality of fluid regulation	GJC2	1.0	
+Abnormality of fluid regulation	NLRC4	1.0	
+Abnormality of fluid regulation	PRSS1	1.0	
+Abnormality of fluid regulation	SERPING1	1.0	
+Abnormality of fluid regulation	SLC25A13	1.0	
+Meningioma	CST3	1.0	
+Meningioma	CTAGE5	1.0	
+Meningioma	CTSL	1.0	
+Meningioma	GFAP	1.0	
+Meningioma	KLK6	1.0	
+Meningioma	PLAU	1.0	
+Meningioma	PLAUR	1.0	
+Meningioma	PLG	1.0	
+Chorea, childhood-onset, with psychomotor retardation	GJC2	1.0	
+Chorea, childhood-onset, with psychomotor retardation	KCNMA1	1.0	
+Chorea, childhood-onset, with psychomotor retardation	SETX	1.0	
+Chorea, childhood-onset, with psychomotor retardation	TRAPPC11	1.0	
+tumor vasculature	ALB	1.0	
+tumor vasculature	CDCP1	1.0	
+tumor vasculature	KLK3	1.0	
+tumor vasculature	PLAU	1.0	
+Cardiomyopathy, Dilated	APOE	1.0	
+Cardiomyopathy, Dilated	CHKB	1.0	
+Cardiomyopathy, Dilated	CTSL	1.0	
+Cardiomyopathy, Dilated	GFAP	1.0	
+Cardiomyopathy, Dilated	KRT9	1.0	
+Cardiomyopathy, Dilated	LDB3	1.0	
+Cardiomyopathy, Dilated	PLG	1.0	
+Cardiomyopathy, Dilated	SCN5A	1.0	
+Other disorders of the nervous system	APOE	1.0	
+Other disorders of the nervous system	CST3	1.0	
+Other disorders of the nervous system	GFAP	1.0	
+Other disorders of the nervous system	PLG	1.0	
+Other disorders of the nervous system	SACS	1.0	
+Other disorders of the nervous system	SCAF1	1.0	
+Other disorders of the nervous system	SETX	1.0	
+Other disorders of the nervous system	SPAST	1.0	
+Ovarian Neoplasms	APOE	1.0	
+Ovarian Neoplasms	CABLES1	1.0	
+Ovarian Neoplasms	CDCP1	1.0	
+Ovarian Neoplasms	KLK3	1.0	
+Ovarian Neoplasms	KLK6	1.0	
+Ovarian Neoplasms	NCOA3	1.0	
+Ovarian Neoplasms	PEG3	1.0	
+Ovarian Neoplasms	PLAG1	1.0	
+Ovarian Neoplasms	PLAU	1.0	
+Ovarian Neoplasms	PLAUR	1.0	
+Ovarian Neoplasms	SCAF1	1.0	
+Ovarian Neoplasms	ST14	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	ALB	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	PRSS1	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	SLC25A13	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	ALB	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	APOE	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	CTSL	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	GSN	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	HPX	1.0	
+Nephrotic syndrome, type 5, with or without ocular abnormalities	PLG	1.0	
+Animal Mammary Neoplasms	AHSG	1.0	
+Animal Mammary Neoplasms	APOE	1.0	
+Animal Mammary Neoplasms	CDCP1	1.0	
+Animal Mammary Neoplasms	CLCA2	1.0	
+Animal Mammary Neoplasms	CSNK2A1	1.0	
+Animal Mammary Neoplasms	CST3	1.0	
+Animal Mammary Neoplasms	CTSL	1.0	
+Animal Mammary Neoplasms	GSN	1.0	
+Animal Mammary Neoplasms	HP	1.0	
+Animal Mammary Neoplasms	ITIH1	1.0	
+Animal Mammary Neoplasms	KCNMA1	1.0	
+Animal Mammary Neoplasms	KLK3	1.0	
+Animal Mammary Neoplasms	KLK6	1.0	
+Animal Mammary Neoplasms	NCOA3	1.0	
+Animal Mammary Neoplasms	PLAU	1.0	
+Animal Mammary Neoplasms	PLAUR	1.0	
+Animal Mammary Neoplasms	PLG	1.0	
+Animal Mammary Neoplasms	SCN5A	1.0	
+Animal Mammary Neoplasms	SLC1A5	1.0	
+Animal Mammary Neoplasms	ST14	1.0	
+Animal Mammary Neoplasms	TSC22D1	1.0	
+Vascular skin abnormality	APOE	1.0	
+Vascular skin abnormality	KRT1	1.0	
+Vascular skin abnormality	KRT9	1.0	
+Vascular skin abnormality	NLRC4	1.0	
+Vascular skin abnormality	PLAU	1.0	
+Vascular skin abnormality	SERPING1	1.0	
+Vascular skin abnormality	SETX	1.0	
+CNS disorder	APOE	1.0	
+CNS disorder	CST3	1.0	
+CNS disorder	GFAP	1.0	
+CNS disorder	KLK6	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ALB	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	APOE	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	BBC3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CDCP1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	CLCA2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	GSN	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	KLK3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	KLK6	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	NCOA3	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAG1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAU	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLAUR	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PLG	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PRSS1	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	PRSS2	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	SLC1A5	1.0	
+ Adenocarcinoma, ovarian, somatic, 167000 (3)	ST14	1.0	
+Increased inflammatory response	APOE	1.0	
+Increased inflammatory response	GJC2	1.0	
+Increased inflammatory response	KRT1	1.0	
+Increased inflammatory response	KRT9	1.0	
+Increased inflammatory response	NLRC4	1.0	
+Increased inflammatory response	PLG	1.0	
+Increased inflammatory response	PRSS1	1.0	
+Increased inflammatory response	PRSS2	1.0	
+Increased inflammatory response	SLC25A13	1.0	
+Abnormal inflammatory response	APOE	1.0	
+Abnormal inflammatory response	GJC2	1.0	
+Abnormal inflammatory response	KRT1	1.0	
+Abnormal inflammatory response	KRT9	1.0	
+Abnormal inflammatory response	NLRC4	1.0	
+Abnormal inflammatory response	PLG	1.0	
+Abnormal inflammatory response	PRSS1	1.0	
+Abnormal inflammatory response	PRSS2	1.0	
+Abnormal inflammatory response	SLC25A13	1.0	
+Abnormality of pancreas physiology	APOE	1.0	
+Abnormality of pancreas physiology	PRSS1	1.0	
+Abnormality of pancreas physiology	PRSS2	1.0	
+Abnormality of pancreas physiology	SLC25A13	1.0	
+Chronic Kidney Insufficiency	AHSG	1.0	
+Chronic Kidney Insufficiency	ALB	1.0	
+Chronic Kidney Insufficiency	APOE	1.0	
+Chronic Kidney Insufficiency	CST3	1.0	
+Chronic Kidney Insufficiency	HP	1.0	
+Abdominal pain	NLRC4	1.0	
+Abdominal pain	PRSS1	1.0	
+Abdominal pain	PRSS2	1.0	
+Abdominal pain	SCN5A	1.0	
+Abdominal pain	SERPING1	1.0	
+Abnormal peripheral nervous system morphology	CHKB	1.0	
+Abnormal peripheral nervous system morphology	GJC2	1.0	
+Abnormal peripheral nervous system morphology	GSN	1.0	
+Abnormal peripheral nervous system morphology	LDB3	1.0	
+Abnormal peripheral nervous system morphology	NLRC4	1.0	
+Abnormal peripheral nervous system morphology	SACS	1.0	
+Abnormal peripheral nervous system morphology	SERPING1	1.0	
+Abnormal peripheral nervous system morphology	SETX	1.0	
+Abnormal peripheral nervous system morphology	SPAST	1.0	
+Polycystic Ovary Syndrome	ALB	1.0	
+Polycystic Ovary Syndrome	APOE	1.0	
+Polycystic Ovary Syndrome	HP	1.0	
+Polycystic Ovary Syndrome	KLK3	1.0	
+Polycystic Ovary Syndrome	NCOA3	1.0	
+Polycystic Ovary Syndrome	PLAU	1.0	
+Polycystic Ovary Syndrome	PLAUR	1.0	
+Polycystic Ovary Syndrome	PLG	1.0	
+Dementia	ALB	1.0	
+Dementia	APOC1	1.0	
+Dementia	APOE	1.0	
+Dementia	CST3	1.0	
+Dementia	GFAP	1.0	
+Dementia	PLAUR	1.0	
+Dementia	SLC9A8	1.0	
+Dementia	SPAST	1.0	
+Onset	AP4E1	1.0	
+Onset	APOE	1.0	
+Onset	CHKB	1.0	
+Onset	GFAP	1.0	
+Onset	GJC2	1.0	
+Onset	GSN	1.0	
+Onset	LDB3	1.0	
+Onset	PLG	1.0	
+Onset	SACS	1.0	
+Onset	SCN5A	1.0	
+Abnormality of cardiovascular system electrophysiology	ALB	1.0	
+Abnormality of cardiovascular system electrophysiology	APOE	1.0	
+Abnormality of cardiovascular system electrophysiology	CHKB	1.0	
+Abnormality of cardiovascular system electrophysiology	CRB1	1.0	
+Abnormality of cardiovascular system electrophysiology	CST3	1.0	
+Abnormality of cardiovascular system electrophysiology	GSN	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT1	1.0	
+Abnormality of cardiovascular system electrophysiology	KRT9	1.0	
+Abnormality of cardiovascular system electrophysiology	LDB3	1.0	
+Abnormality of cardiovascular system electrophysiology	NLRC4	1.0	
+Abnormality of cardiovascular system electrophysiology	OBSL1	1.0	
+Abnormality of cardiovascular system electrophysiology	PLAU	1.0	
+Abnormality of cardiovascular system electrophysiology	PLG	1.0	
+Abnormality of cardiovascular system electrophysiology	SCN5A	1.0	
+Abnormality of cardiovascular system electrophysiology	SERPING1	1.0	
+Abnormality of cardiovascular system electrophysiology	SETX	1.0	
+Macular Degeneration	APOC1	1.0	
+Macular Degeneration	APOE	1.0	
+Macular Degeneration	CRB1	1.0	
+Macular Degeneration	CST3	1.0	
+Macular Degeneration	SERPING1	1.0	
+Abnormality of circulating enzyme level	CHKB	1.0	
+Abnormality of circulating enzyme level	LDB3	1.0	
+Abnormality of circulating enzyme level	SCN5A	1.0	
+Abnormality of circulating enzyme level	SETX	1.0	
+Abnormality of circulating enzyme level	TRAPPC11	1.0	
+Elevated serum creatine phosphokinase	CHKB	1.0	
+Elevated serum creatine phosphokinase	LDB3	1.0	
+Elevated serum creatine phosphokinase	SCN5A	1.0	
+Elevated serum creatine phosphokinase	SETX	1.0	
+Elevated serum creatine phosphokinase	TRAPPC11	1.0	
+Erythema	KRT1	1.0	
+Erythema	KRT9	1.0	
+Erythema	NLRC4	1.0	
+Erythema	SERPING1	1.0	
+Chronic hepatitis	ALB	1.0	
+Chronic hepatitis	APOE	1.0	
+Chronic hepatitis	ATOX1	1.0	
+Chronic hepatitis	PRSS3	1.0	
+Chronic hepatitis	ST14	1.0	
+Leg Ulcer	PLAU	1.0	
+Leg Ulcer	PLG	1.0	
+Elevated C-reactive protein level	PRSS1	1.0	
+Elevated C-reactive protein level	PRSS2	1.0	
+Drug-Induced Liver Injury	ALB	1.0	
+Drug-Induced Liver Injury	APOE	1.0	
+Drug-Induced Liver Injury	GSN	1.0	
+Drug-Induced Liver Injury	HPX	1.0	
+Drug-Induced Liver Injury	PLG	1.0	
+Neoplasm of the liver	AHSG	1.0	
+Neoplasm of the liver	ALB	1.0	
+Neoplasm of the liver	APOE	1.0	
+Neoplasm of the liver	BBC3	1.0	
+Neoplasm of the liver	DCD	1.0	
+Neoplasm of the liver	HP	1.0	
+Neoplasm of the liver	HPX	1.0	
+Neoplasm of the liver	ITIH1	1.0	
+Neoplasm of the liver	PLAU	1.0	
+Neoplasm of the liver	PLG	1.0	
+Neoplasm of the liver	SERPING1	1.0	
+Neoplasm of the liver	SLC1A5	1.0	
+Neoplasm of the liver	SLC25A13	1.0	
+Neoplasm of the liver	ST14	1.0	
+Thrombophilia	ALB	1.0	
+Thrombophilia	APOE	1.0	
+Thrombophilia	KLK3	1.0	
+Thrombophilia	PLG	1.0	
+Influenza	ALB	1.0	
+Influenza	HP	1.0	
+Influenza	NLRC4	1.0	
+Influenza	PLG	1.0	
+Influenza	SERPING1	1.0	
+Influenza	SETX	1.0	
+Influenza	SLA2	1.0	
+Influenza	ST14	1.0	
+Amyloidosis	APOE	1.0	
+Amyloidosis	CST3	1.0	
+Amyloidosis	GSN	1.0	
+Amyloidosis	HP	1.0	
+Shock, Septic	APOE	1.0	
+Shock, Septic	HP	1.0	
+Shock, Septic	SCN5A	1.0	
+Sleep apnea	APOE	1.0	
+Sleep apnea	GSN	1.0	
+Sleep apnea	HP	1.0	
+Inclusion Body Myositis (disorder)	APOE	1.0	
+Inclusion Body Myositis (disorder)	CST3	1.0	
+Inclusion Body Myositis (disorder)	GSN	1.0	
+Peripheral axonal neuropathy	GJC2	1.0	
+Peripheral axonal neuropathy	SERPING1	1.0	
+Peripheral axonal neuropathy	SETX	1.0	
+Cardiac fibrosis	PLAU	1.0	
+Cardiac fibrosis	PLG	1.0	
+Cardiac fibrosis	SCN5A	1.0	
+Abnormality of the immune system	APOE	1.0	
+Abnormality of the immune system	GJC2	1.0	
+Abnormality of the immune system	KRT1	1.0	
+Abnormality of the immune system	KRT9	1.0	
+Abnormality of the immune system	LDB3	1.0	
+Abnormality of the immune system	NLRC4	1.0	
+Abnormality of the immune system	PLG	1.0	
+Abnormality of the immune system	PRSS1	1.0	
+Abnormality of the immune system	PRSS2	1.0	
+Abnormality of the immune system	SCN5A	1.0	
+Abnormality of the immune system	SERPING1	1.0	
+Abnormality of the immune system	SETX	1.0	
+Abnormality of the immune system	SLC25A13	1.0	
+Myoepithelioma	GFAP	1.0	
+Myoepithelioma	PLAG1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	APOC1	1.0	
+Peeling skin with leukonychia, acral punctate keratoses, cheilitis, and knuckle pads	KRT1	1.0	
+Urolithiasis	ALB	1.0	
+Urolithiasis	PLAU	1.0	
+Left ventricular noncompaction	LDB3	1.0	
+Left ventricular noncompaction	SCN5A	1.0	
+Pancreatic Neoplasms	APOC1	1.0	
+Pancreatic Neoplasms	APOE	1.0	
+Pancreatic Neoplasms	GSN	1.0	
+Pancreatic Neoplasms	HP	1.0	
+Pancreatic Neoplasms	NCOA3	1.0	
+Pancreatic Neoplasms	PLAU	1.0	
+Pancreatic Neoplasms	PLAUR	1.0	
+Pancreatic Neoplasms	PLG	1.0	
+Pancreatic Neoplasms	PRSS1	1.0	
+Pancreatic Neoplasms	PRSS2	1.0	
+Abnormality of immune system physiology	APOE	1.0	
+Abnormality of immune system physiology	GJC2	1.0	
+Abnormality of immune system physiology	KRT1	1.0	
+Abnormality of immune system physiology	KRT9	1.0	
+Abnormality of immune system physiology	NLRC4	1.0	
+Abnormality of immune system physiology	PLG	1.0	
+Abnormality of immune system physiology	PRSS1	1.0	
+Abnormality of immune system physiology	PRSS2	1.0	
+Abnormality of immune system physiology	SERPING1	1.0	
+Abnormality of immune system physiology	SETX	1.0	
+Abnormality of immune system physiology	SLC25A13	1.0	
+Coronary heart disease 7	AHSG	1.0	
+Coronary heart disease 7	ALB	1.0	
+Coronary heart disease 7	APOC1	1.0	
+Coronary heart disease 7	APOE	1.0	
+Coronary heart disease 7	CST3	1.0	
+Coronary heart disease 7	HP	1.0	
+Coronary heart disease 7	PF4V1	1.0	
+Coronary heart disease 7	PLAU	1.0	
+Coronary heart disease 7	PLG	1.0	
+Coronary heart disease 7	SCN5A	1.0	
+Abnormality of the skeletal system	ALB	1.0	
+Abnormality of the skeletal system	AP4E1	1.0	
+Abnormality of the skeletal system	APOE	1.0	
+Abnormality of the skeletal system	CHKB	1.0	
+Abnormality of the skeletal system	CRB1	1.0	
+Abnormality of the skeletal system	GFAP	1.0	
+Abnormality of the skeletal system	GJC2	1.0	
+Abnormality of the skeletal system	KRT1	1.0	
+Abnormality of the skeletal system	NLRC4	1.0	
+Abnormality of the skeletal system	OBSL1	1.0	
+Abnormality of the skeletal system	PLAU	1.0	
+Abnormality of the skeletal system	PLG	1.0	
+Abnormality of the skeletal system	PRSS1	1.0	
+Abnormality of the skeletal system	PRSS2	1.0	
+Abnormality of the skeletal system	SACS	1.0	
+Abnormality of the skeletal system	SETX	1.0	
+Abnormality of the skeletal system	SPAST	1.0	
+Abnormality of the skeletal system	TRAPPC11	1.0	

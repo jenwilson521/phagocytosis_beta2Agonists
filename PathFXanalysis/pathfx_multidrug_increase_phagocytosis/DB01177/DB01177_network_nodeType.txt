@@ -1,0 +1,6 @@
+node_name	node_type	
+DB01177	drug	
+TOP2A	drug_target	
+ABCC1	drug_target	
+CYP2D6	drug_target	
+CYP2C9	drug_target	

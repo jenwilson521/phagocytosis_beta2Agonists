@@ -1,0 +1,3 @@
+Gene	CUI	Phenotype	Source Databases	
+CYP3A4	C1141890	Congenital long QT syndrome	DisGeNet	
+SLC22A5	C1141890	Congenital long QT syndrome	DisGeNet	

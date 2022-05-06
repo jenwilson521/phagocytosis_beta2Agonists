@@ -1,0 +1,2087 @@
+node1	node2	edge_score	
+DB02587	GNAS	1.0	
+DB02587	ADCY2	1.0	
+DB02587	ABCB1	1.0	
+DB02587	ADCY5	1.0	
+GNAS	ADCY4	0.8492966271403907
+GNAS	CALCRL	0.8567933402497072
+GNAS	SCT	0.8549476386052599
+GNAS	ADM	0.8549476386052599
+GNAS	ADCY8	0.8492966271403907
+GNAS	GPR25	0.8526462282435747
+GNAS	PTH2R	0.8549476386052599
+GNAS	RXFP1	0.8549476386052599
+GNAS	CRHR1	0.8549476386052599
+GNAS	GIPR	0.8549476386052599
+GNAS	VIP	0.8526462282435747
+GNAS	GPR83	0.8526462282435747
+GNAS	MC1R	0.8526462282435747
+GNAS	ADRB2	0.8549476386052599
+GNAS	GPR27	0.8526462282435747
+GNAS	DRD1	0.8549476386052599
+GNAS	PTGDR	0.8526462282435747
+GNAS	GHRHR	0.8549476386052599
+GNAS	GPR15	0.8526462282435747
+GNAS	ADRB3	0.8549476386052599
+GNAS	CALCA	0.8549476386052599
+GNAS	RXFP2	0.8549476386052599
+GNAS	RLN3	0.8549476386052599
+GNAS	HTR6	0.8549476386052599
+GNAS	GPBAR1	0.8549476386052599
+GNAS	GPR45	0.8526462282435747
+GNAS	AVP	0.8614909610942352
+GNAS	MC4R	0.8526462282435747
+GNAS	ADCYAP1R1	0.8549476386052599
+GNAS	GNG2	0.8656414349454913
+GNAS	GCGR	0.8592729960158448
+GNAS	GPHA2	0.8549476386052599
+GNAS	LHB	0.8549476386052599
+GNAS	SCTR	0.8549476386052599
+GNAS	ADORA2B	0.8549476386052599
+GNAS	RLN2	0.8567933402497072
+GNAS	CALCB	0.8549476386052599
+GNAS	POMC	0.8526462282435747
+GNAS	ADCY3	0.8492966271403907
+GNAS	ADM2	0.8549476386052599
+GNAS	GIP	0.8549476386052599
+GNAS	NPS	0.8549476386052599
+GNAS	GPHB5	0.8549476386052599
+GNAS	GLP1R	0.8593451483108672
+GNAS	HTR7	0.8549476386052599
+GNAS	PTH	0.8549476386052599
+GNAS	HTR4	0.8549476386052599
+GIPR	rs10423928	0.8463981622192073
+GNAS	ADCY9	0.8492966271403907
+GNAS	ADCY1	0.8492966271403907
+GNAS	AVPR2	0.8614909610942352
+GNAS	TSHR	0.8549476386052599
+GNAS	CGA	0.8583026292860755
+GNAS	GPR84	0.8526462282435747
+GNAS	GNAS	0.8652664063176569
+GNAS	ADRB1	0.8549476386052599
+GNAS	MC5R	0.8526462282435747
+GNAS	FSHR	0.8549476386052599
+GNAS	INSL3	0.8549476386052599
+GNAS		1
+GNAS	TAAR1	0.8549476386052599
+GNAS	P2RY11	0.8526462282435747
+GNAS	NPSR1	0.8549476386052599
+GNAS	TSHB	0.8549476386052599
+GNAS	ADCY5	0.8492966271403907
+GNAS	LHCGR	0.8549476386052599
+GNAS	IAPP	0.8549476386052599
+GNAS	GCG	0.8634084118105014
+GNAS	GLP2R	0.8549476386052599
+GNAS	GPR176	0.8526462282435747
+GNAS	PTH2	0.8549476386052599
+GNAS	CALCR	0.8567933402497072
+GNAS	MC3R	0.8526462282435747
+GNAS	CRH	0.8549476386052599
+GNAS	RAMP1	0.8567933402497072
+GNAS	GPR20	0.8526462282435747
+GNAS	ADCYAP1	0.8549476386052599
+GNAS	RAMP2	0.8567933402497072
+GNAS	DRD5	0.8549476386052599
+GNAS	ADCY7	0.8492966271403907
+GNAS	ADCY6	0.8492966271403907
+GNAS	GPR150	0.8526462282435747
+GNAS	PTGER4	0.8526462282435747
+GNAS	PTGER2	0.8526462282435747
+GNAS	ADCY2	0.8492966271403907
+GNAS	VIPR1	0.8526462282435747
+GNAS	VIPR2	0.8526462282435747
+GNAS	PTHLH	0.8549476386052599
+GNAS	HRH2	0.8549476386052599
+GNAS	PTH1R	0.8549476386052599
+GNAS	GPR32	0.8526462282435747
+GNAS	GHRH	0.8549476386052599
+GNAS	ADORA2A	0.8549476386052599
+GNAS	MC2R	0.8526462282435747
+GNAS	PTGIR	0.8638245419531639
+GNAS	GNB1	0.8656414349454913
+GNAS	RAMP3	0.8567933402497072
+GNAS	rs62205366	0.99
+GNAS	FSHB	0.8549476386052599
+ADCY2	GNAI2	0.8592729960158448
+ADCY2	ADCY2	0.8611234767592315
+ADCY2	PDE4B	0.8281207788973212
+ADCY2	ADCY8	0.8611234767592315
+ADCY2	PDE4A	0.8281207788973212
+ADCY2	ADCY5	0.8611234767592315
+ADCY2	GNAI1	0.8592729960158448
+ADCY2	ADCY9	0.8611234767592315
+ADCY2	GNAT3	0.8592729960158448
+ADCY2	rs4702484	0.99
+ADCY2	PDE1A	0.792109822701367
+ADCY2	PDE1B	0.792109822701367
+ADCY2	ADCY6	0.8611234767592315
+ADCY2	GNAI3	0.8592729960158448
+ADCY2	rs1544938	0.99
+ADCY2	ADCY3	0.8611234767592315
+ADCY2	GNAL	0.8621828879558624
+ADCY2	ADCY4	0.8611234767592315
+ADCY2		1
+ADCY2	ADCY7	0.8611234767592315
+ADCY2	PDE4C	0.8281207788973212
+ADCY2	ADCY1	0.8611234767592315
+ABCB1	rs72552784	0.99
+ABCB1	rs3789243	0.99
+ABCB1	rs1045642	0.99
+ABCB1	ABCB1*1, ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs3213619	0.99
+ABCB1	rs10276036	0.99
+ABCB1	rs4148738	0.99
+ABCB1	rs10248420	0.99
+ABCB1	ABCB1*2(PMID:11503014)	0.99
+ABCB1	rs4728709	0.99
+ABCB1	rs2032582	0.99
+ABCB1	rs28401781	0.99
+ABCB1		1
+ABCB1	rs1128503	0.99
+ABCB1	rs2235067	0.99
+ABCB1	rs3842	0.99
+ABCB1	rs2235047	0.99
+ABCB1	rs12720067	0.99
+ABCB1	rs1922242	0.99
+ABCB1	rs10280101	0.99
+ABCB1	rs11983225	0.99
+ABCB1	rs4148740	0.99
+ABCB1	rs2235040	0.99
+ABCB1	rs2235015	0.99
+ABCB1	rs2229109	0.99
+ABCB1	rs2032583	0.99
+ABCB1	rs10267099	0.99
+ABCB1	rs4148739	0.99
+ABCB1	rs4148737	0.99
+ABCB1	rs17160359	0.99
+ABCB1	rs9282564	0.99
+ABCB1	rs7787082	0.99
+ADCY5	ADCY5	0.8611234767592315
+ADCY5	PDE4A	0.8281207788973212
+ADCY5	PDE4C	0.8281207788973212
+ADCY5	GNAI3	0.8592729960158448
+ADCY5	GNAT3	0.8592729960158448
+ADCY5	ADCY3	0.8611234767592315
+ADCY5	PDE1A	0.792109822701367
+ADCY5		1
+ADCY5	GNAI1	0.8592729960158448
+ADCY5	ADCY1	0.8611234767592315
+ADCY5	GNAL	0.8621828879558624
+ADCY5	ADCY4	0.8611234767592315
+ADCY5	ADCY2	0.8611234767592315
+ADCY5	ADCY6	0.8611234767592315
+ADCY5	ADCY8	0.8611234767592315
+ADCY5	PDE4B	0.8281207788973212
+ADCY5	GNAI2	0.8592729960158448
+ADCY5	PDE1B	0.792109822701367
+ADCY5	ADCY7	0.8611234767592315
+ADCY5	ADCY9	0.8611234767592315
+Acth-Independent Macronodular Adrenal Hyperplasia	AVP	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GIP	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GIPR	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GNAI2	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GNAS	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	GPBAR1	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	HTR4	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	MC2R	1.0	
+Acth-Independent Macronodular Adrenal Hyperplasia	POMC	1.0	
+Bipolar affective disorder	ABCB1	1.0	
+Bipolar affective disorder	ADCY2	1.0	
+Bipolar affective disorder	ADCY3	1.0	
+Bipolar affective disorder	ADCY8	1.0	
+Bipolar affective disorder	ADCY9	1.0	
+Bipolar affective disorder	ADCYAP1	1.0	
+Bipolar affective disorder	ADCYAP1R1	1.0	
+Bipolar affective disorder	ADM	1.0	
+Bipolar affective disorder	ADRB2	1.0	
+Bipolar affective disorder	AVP	1.0	
+Bipolar affective disorder	CALCA	1.0	
+Bipolar affective disorder	CRH	1.0	
+Bipolar affective disorder	CRHR1	1.0	
+Bipolar affective disorder	DRD1	1.0	
+Bipolar affective disorder	DRD5	1.0	
+Bipolar affective disorder	GHRH	1.0	
+Bipolar affective disorder	GNAL	1.0	
+Bipolar affective disorder	HTR4	1.0	
+Bipolar affective disorder	HTR7	1.0	
+Bipolar affective disorder	MC2R	1.0	
+Bipolar affective disorder	MC5R	1.0	
+Bipolar affective disorder	PDE4B	1.0	
+Bipolar affective disorder	POMC	1.0	
+Bipolar affective disorder	TSHB	1.0	
+Bipolar affective disorder	VIP	1.0	
+Abnormality of the pituitary gland	ADCYAP1	1.0	
+Abnormality of the pituitary gland	ADCYAP1R1	1.0	
+Abnormality of the pituitary gland	ADM	1.0	
+Abnormality of the pituitary gland	AVP	1.0	
+Abnormality of the pituitary gland	AVPR2	1.0	
+Abnormality of the pituitary gland	CALCA	1.0	
+Abnormality of the pituitary gland	CRH	1.0	
+Abnormality of the pituitary gland	CRHR1	1.0	
+Abnormality of the pituitary gland	FSHB	1.0	
+Abnormality of the pituitary gland	FSHR	1.0	
+Abnormality of the pituitary gland	GCG	1.0	
+Abnormality of the pituitary gland	GHRH	1.0	
+Abnormality of the pituitary gland	GHRHR	1.0	
+Abnormality of the pituitary gland	GLP1R	1.0	
+Abnormality of the pituitary gland	GNAS	1.0	
+Abnormality of the pituitary gland	INSL3	1.0	
+Abnormality of the pituitary gland	LHB	1.0	
+Abnormality of the pituitary gland	LHCGR	1.0	
+Abnormality of the pituitary gland	MC2R	1.0	
+Abnormality of the pituitary gland	MC4R	1.0	
+Abnormality of the pituitary gland	POMC	1.0	
+Abnormality of the pituitary gland	PTH	1.0	
+Abnormality of the pituitary gland	PTHLH	1.0	
+Abnormality of the pituitary gland	SCT	1.0	
+Abnormality of the pituitary gland	TSHB	1.0	
+Abnormality of the pituitary gland	TSHR	1.0	
+Abnormality of the pituitary gland	VIP	1.0	
+Abnormality of the pituitary gland	VIPR1	1.0	
+Abnormality of the pituitary gland	VIPR2	1.0	
+Weight Gain Adverse Event	ABCB1	1.0	
+Weight Gain Adverse Event	ADCY1	1.0	
+Weight Gain Adverse Event	ADCY2	1.0	
+Weight Gain Adverse Event	ADCY8	1.0	
+Weight Gain Adverse Event	ADCY9	1.0	
+Weight Gain Adverse Event	ADORA2A	1.0	
+Weight Gain Adverse Event	ADRB2	1.0	
+Weight Gain Adverse Event	ADRB3	1.0	
+Weight Gain Adverse Event	DRD1	1.0	
+Weight Gain Adverse Event	DRD5	1.0	
+Weight Gain Adverse Event	HRH2	1.0	
+Weight Gain Adverse Event	HTR4	1.0	
+Weight Gain Adverse Event	HTR6	1.0	
+Weight Gain Adverse Event	HTR7	1.0	
+Weight Gain Adverse Event	MC4R	1.0	
+Substance Withdrawal Syndrome	ABCB1	1.0	
+Substance Withdrawal Syndrome	ADCY1	1.0	
+Substance Withdrawal Syndrome	ADCY8	1.0	
+Substance Withdrawal Syndrome	ADORA2A	1.0	
+Substance Withdrawal Syndrome	AVP	1.0	
+Substance Withdrawal Syndrome	CRH	1.0	
+Substance Withdrawal Syndrome	DRD1	1.0	
+Substance Withdrawal Syndrome	GNAI1	1.0	
+Substance Withdrawal Syndrome	GNAS	1.0	
+Substance Withdrawal Syndrome	HRH2	1.0	
+Substance Withdrawal Syndrome	POMC	1.0	
+Neuroendocrine neoplasm	ADCYAP1R1	1.0	
+Neuroendocrine neoplasm	CRH	1.0	
+Neuroendocrine neoplasm	GCG	1.0	
+Neuroendocrine neoplasm	GCGR	1.0	
+Neuroendocrine neoplasm	GHRH	1.0	
+Neuroendocrine neoplasm	GIP	1.0	
+Neuroendocrine neoplasm	GIPR	1.0	
+Neuroendocrine neoplasm	GLP1R	1.0	
+Neuroendocrine neoplasm	GNAI2	1.0	
+Neuroendocrine neoplasm	GNAS	1.0	
+Neuroendocrine neoplasm	GPBAR1	1.0	
+Neuroendocrine neoplasm	IAPP	1.0	
+Neuroendocrine neoplasm	POMC	1.0	
+Neuroendocrine neoplasm	PTH	1.0	
+Neuroendocrine neoplasm	PTHLH	1.0	
+Pheochromocytoma	ADCYAP1	1.0	
+Pheochromocytoma	ADM	1.0	
+Pheochromocytoma	CALCA	1.0	
+Pheochromocytoma	CALCRL	1.0	
+Pheochromocytoma	CRH	1.0	
+Pheochromocytoma	GCG	1.0	
+Pheochromocytoma	GCGR	1.0	
+Pheochromocytoma	GNAS	1.0	
+Pheochromocytoma	HTR4	1.0	
+Pheochromocytoma	MC1R	1.0	
+Pheochromocytoma	POMC	1.0	
+Pheochromocytoma	PTH	1.0	
+Pheochromocytoma	RAMP2	1.0	
+Pheochromocytoma	SCTR	1.0	
+Pheochromocytoma	VIPR1	1.0	
+Migraine Disorders	ADCYAP1	1.0	
+Migraine Disorders	ADCYAP1R1	1.0	
+Migraine Disorders	ADORA2A	1.0	
+Migraine Disorders	ADRB2	1.0	
+Migraine Disorders	CALCA	1.0	
+Migraine Disorders	DRD1	1.0	
+Migraine Disorders	DRD5	1.0	
+Migraine Disorders	FSHR	1.0	
+Migraine Disorders	GNAS	1.0	
+Migraine Disorders	HTR4	1.0	
+Migraine Disorders	HTR6	1.0	
+Migraine Disorders	HTR7	1.0	
+Migraine Disorders	RAMP1	1.0	
+Migraine Disorders	VIP	1.0	
+Migraine Disorders	VIPR1	1.0	
+Migraine Disorders	VIPR2	1.0	
+Essential hypertension	ABCB1	1.0	
+Essential hypertension	ADM	1.0	
+Essential hypertension	ADORA2A	1.0	
+Essential hypertension	ADRB1	1.0	
+Essential hypertension	ADRB2	1.0	
+Essential hypertension	ADRB3	1.0	
+Essential hypertension	CALCA	1.0	
+Essential hypertension	CALCRL	1.0	
+Essential hypertension	DRD1	1.0	
+Essential hypertension	FSHR	1.0	
+Essential hypertension	GCGR	1.0	
+Essential hypertension	GNAI2	1.0	
+Essential hypertension	GNAS	1.0	
+Essential hypertension	POMC	1.0	
+Essential hypertension	PTH	1.0	
+Essential hypertension	VIP	1.0	
+Major depressive disorder	ABCB1	1.0	
+Major depressive disorder	ADCY3	1.0	
+Major depressive disorder	ADCY5	1.0	
+Major depressive disorder	ADCY7	1.0	
+Major depressive disorder	ADCYAP1	1.0	
+Major depressive disorder	ADCYAP1R1	1.0	
+Major depressive disorder	ADRB1	1.0	
+Major depressive disorder	ADRB3	1.0	
+Major depressive disorder	AVP	1.0	
+Major depressive disorder	CRH	1.0	
+Major depressive disorder	CRHR1	1.0	
+Major depressive disorder	DRD1	1.0	
+Major depressive disorder	GNAI3	1.0	
+Major depressive disorder	HTR4	1.0	
+Major depressive disorder	HTR6	1.0	
+Major depressive disorder	MC2R	1.0	
+Major depressive disorder	PDE4A	1.0	
+Major depressive disorder	PDE4B	1.0	
+Major depressive disorder	POMC	1.0	
+Pseudohypoparathyroidism, Type Ia	CALCA	1.0	
+Pseudohypoparathyroidism, Type Ia	GHRH	1.0	
+Pseudohypoparathyroidism, Type Ia	GNAS	1.0	
+Pseudohypoparathyroidism, Type Ia	MC4R	1.0	
+Pseudohypoparathyroidism, Type Ia	PTH	1.0	
+Pseudohypoparathyroidism, Type Ia	PTHLH	1.0	
+Pseudohypoparathyroidism, Type Ia	VIP	1.0	
+Anxiety Disorders	ABCB1	1.0	
+Anxiety Disorders	ADCYAP1	1.0	
+Anxiety Disorders	ADCYAP1R1	1.0	
+Anxiety Disorders	ADORA2A	1.0	
+Anxiety Disorders	ADRB2	1.0	
+Anxiety Disorders	AVP	1.0	
+Anxiety Disorders	CRH	1.0	
+Anxiety Disorders	CRHR1	1.0	
+Anxiety Disorders	GHRH	1.0	
+Anxiety Disorders	GNB1	1.0	
+Anxiety Disorders	HTR6	1.0	
+Anxiety Disorders	HTR7	1.0	
+Anxiety Disorders	MC1R	1.0	
+Anxiety Disorders	MC4R	1.0	
+Anxiety Disorders	NPS	1.0	
+Anxiety Disorders	NPSR1	1.0	
+Anxiety Disorders	POMC	1.0	
+Depressive Disorder	ABCB1	1.0	
+Depressive Disorder	ADCY1	1.0	
+Depressive Disorder	ADCY5	1.0	
+Depressive Disorder	ADCY7	1.0	
+Depressive Disorder	ADCY8	1.0	
+Depressive Disorder	ADCYAP1R1	1.0	
+Depressive Disorder	ADRB2	1.0	
+Depressive Disorder	AVP	1.0	
+Depressive Disorder	CRH	1.0	
+Depressive Disorder	CRHR1	1.0	
+Depressive Disorder	DRD1	1.0	
+Depressive Disorder	DRD5	1.0	
+Depressive Disorder	FSHR	1.0	
+Depressive Disorder	GNB1	1.0	
+Depressive Disorder	HTR4	1.0	
+Depressive Disorder	HTR7	1.0	
+Depressive Disorder	PDE4A	1.0	
+Depressive Disorder	PDE4B	1.0	
+Depressive Disorder	POMC	1.0	
+Neoplasm of the adrenal gland	ADM2	1.0	
+Neoplasm of the adrenal gland	AVPR2	1.0	
+Neoplasm of the adrenal gland	CGA	1.0	
+Neoplasm of the adrenal gland	CRH	1.0	
+Neoplasm of the adrenal gland	FSHR	1.0	
+Neoplasm of the adrenal gland	GIP	1.0	
+Neoplasm of the adrenal gland	GIPR	1.0	
+Neoplasm of the adrenal gland	GNAI2	1.0	
+Neoplasm of the adrenal gland	GNAS	1.0	
+Neoplasm of the adrenal gland	LHCGR	1.0	
+Neoplasm of the adrenal gland	MC2R	1.0	
+Neoplasm of the adrenal gland	POMC	1.0	
+Neoplasm of the adrenal gland	TSHR	1.0	
+Mood Disorders	ADCY1	1.0	
+Mood Disorders	ADCY7	1.0	
+Mood Disorders	ADCY8	1.0	
+Mood Disorders	ADCY9	1.0	
+Mood Disorders	ADORA2A	1.0	
+Mood Disorders	ADRB1	1.0	
+Mood Disorders	ADRB2	1.0	
+Mood Disorders	ADRB3	1.0	
+Mood Disorders	AVP	1.0	
+Mood Disorders	CALCA	1.0	
+Mood Disorders	CRH	1.0	
+Mood Disorders	CRHR1	1.0	
+Mood Disorders	DRD1	1.0	
+Mood Disorders	DRD5	1.0	
+Mood Disorders	HTR4	1.0	
+Mood Disorders	HTR6	1.0	
+Mood Disorders	HTR7	1.0	
+Increased body weight	ABCB1	1.0	
+Increased body weight	ADCY1	1.0	
+Increased body weight	ADCY2	1.0	
+Increased body weight	ADCY8	1.0	
+Increased body weight	ADCY9	1.0	
+Increased body weight	ADORA2A	1.0	
+Increased body weight	ADRB2	1.0	
+Increased body weight	ADRB3	1.0	
+Increased body weight	DRD1	1.0	
+Increased body weight	DRD5	1.0	
+Increased body weight	GNAS	1.0	
+Increased body weight	HRH2	1.0	
+Increased body weight	HTR4	1.0	
+Increased body weight	HTR6	1.0	
+Increased body weight	HTR7	1.0	
+Increased body weight	MC4R	1.0	
+Increased body weight	P2RY11	1.0	
+Increased body weight	POMC	1.0	
+Increased body weight	RAMP2	1.0	
+Hypertension	ABCB1	1.0	
+Hypertension	ADCY5	1.0	
+Hypertension	ADCY9	1.0	
+Hypertension	ADM	1.0	
+Hypertension	ADORA2A	1.0	
+Hypertension	ADORA2B	1.0	
+Hypertension	ADRB1	1.0	
+Hypertension	ADRB2	1.0	
+Hypertension	ADRB3	1.0	
+Hypertension	AVP	1.0	
+Hypertension	AVPR2	1.0	
+Hypertension	CALCA	1.0	
+Hypertension	CALCRL	1.0	
+Hypertension	CRHR1	1.0	
+Hypertension	DRD1	1.0	
+Hypertension	FSHR	1.0	
+Hypertension	GCG	1.0	
+Hypertension	GCGR	1.0	
+Hypertension	GLP1R	1.0	
+Hypertension	GNAI2	1.0	
+Hypertension	GNAS	1.0	
+Hypertension	GPR83	1.0	
+Hypertension	HTR4	1.0	
+Hypertension	IAPP	1.0	
+Hypertension	LHB	1.0	
+Hypertension	MC2R	1.0	
+Hypertension	MC3R	1.0	
+Hypertension	MC4R	1.0	
+Hypertension	POMC	1.0	
+Hypertension	PTGER4	1.0	
+Hypertension	PTH	1.0	
+Hypertension	RAMP1	1.0	
+Hypertension	RAMP2	1.0	
+Cushing's syndrome	CRH	1.0	
+Cushing's syndrome	GIP	1.0	
+Cushing's syndrome	GIPR	1.0	
+Cushing's syndrome	GNAS	1.0	
+Cushing's syndrome	LHCGR	1.0	
+Cushing's syndrome	MC2R	1.0	
+Cushing's syndrome	POMC	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ABCB1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADCY1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADCY5	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADCY7	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADCY8	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADCYAP1R1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	ADRB2	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	AVP	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CRH	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	CRHR1	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	FSHR	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR4	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR6	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	HTR7	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	MC4R	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PDE1A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PDE4A	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	PDE4B	1.0	
+{Unipolar depression, susceptibility to}, 608516 (3)	POMC	1.0	
+Pseudohypoparathyroidism type 1A	CALCA	1.0	
+Pseudohypoparathyroidism type 1A	GHRH	1.0	
+Pseudohypoparathyroidism type 1A	GNAS	1.0	
+Pseudohypoparathyroidism type 1A	MC4R	1.0	
+Pseudohypoparathyroidism type 1A	PTH	1.0	
+Pseudohypoparathyroidism type 1A	PTHLH	1.0	
+Female infertility	ADCY3	1.0	
+Female infertility	ADRB2	1.0	
+Female infertility	ADRB3	1.0	
+Female infertility	FSHB	1.0	
+Female infertility	FSHR	1.0	
+Female infertility	LHB	1.0	
+Female infertility	LHCGR	1.0	
+Female infertility	TSHR	1.0	
+Hyperalgesia	ADM	1.0	
+Hyperalgesia	ADRB1	1.0	
+Hyperalgesia	AVP	1.0	
+Hyperalgesia	CALCA	1.0	
+Hyperalgesia	CRH	1.0	
+Hyperalgesia	HTR7	1.0	
+Hyperalgesia	MC1R	1.0	
+Hyperalgesia	MC4R	1.0	
+Hyperalgesia	PTGER4	1.0	
+Hyperalgesia	PTHLH	1.0	
+Hyperalgesia	VIP	1.0	
+Secondary hyperparathyroidism	CALCR	1.0	
+Secondary hyperparathyroidism	CALCRL	1.0	
+Secondary hyperparathyroidism	GHRHR	1.0	
+Secondary hyperparathyroidism	GIP	1.0	
+Secondary hyperparathyroidism	GIPR	1.0	
+Secondary hyperparathyroidism	GNAS	1.0	
+Secondary hyperparathyroidism	LHCGR	1.0	
+Secondary hyperparathyroidism	POMC	1.0	
+Secondary hyperparathyroidism	PTH	1.0	
+Secondary hyperparathyroidism	PTH1R	1.0	
+Secondary hyperparathyroidism	VIPR1	1.0	
+Hyperglycemia	ADCY5	1.0	
+Hyperglycemia	ADM	1.0	
+Hyperglycemia	ADORA2B	1.0	
+Hyperglycemia	ADRB1	1.0	
+Hyperglycemia	ADRB3	1.0	
+Hyperglycemia	AVP	1.0	
+Hyperglycemia	DRD1	1.0	
+Hyperglycemia	GCG	1.0	
+Hyperglycemia	GCGR	1.0	
+Hyperglycemia	GIP	1.0	
+Hyperglycemia	GIPR	1.0	
+Hyperglycemia	GLP1R	1.0	
+Hyperglycemia	GNAI2	1.0	
+Hyperglycemia	IAPP	1.0	
+Hyperglycemia	POMC	1.0	
+Hyperglycemia	PTH	1.0	
+Tachycardia	ADRB1	1.0	
+Tachycardia	ADRB2	1.0	
+Tachycardia	GCG	1.0	
+Tachycardia	GNAI2	1.0	
+Tachycardia	GNAS	1.0	
+Tachycardia	HTR4	1.0	
+Tachycardia	LHB	1.0	
+Tachycardia	SCT	1.0	
+Tachycardia	TSHR	1.0	
+Tachycardia	VIP	1.0	
+Unipolar Depression	ABCB1	1.0	
+Unipolar Depression	ADCY3	1.0	
+Unipolar Depression	ADCY5	1.0	
+Unipolar Depression	ADCY7	1.0	
+Unipolar Depression	ADRB1	1.0	
+Unipolar Depression	ADRB3	1.0	
+Unipolar Depression	AVP	1.0	
+Unipolar Depression	CRH	1.0	
+Unipolar Depression	CRHR1	1.0	
+Unipolar Depression	DRD1	1.0	
+Unipolar Depression	HTR4	1.0	
+Unipolar Depression	HTR6	1.0	
+Unipolar Depression	PDE4A	1.0	
+Unipolar Depression	PDE4B	1.0	
+Unipolar Depression	POMC	1.0	
+Medullary thyroid carcinoma	CALCA	1.0	
+Medullary thyroid carcinoma	CALCB	1.0	
+Medullary thyroid carcinoma	CALCR	1.0	
+Medullary thyroid carcinoma	IAPP	1.0	
+Medullary thyroid carcinoma	INSL3	1.0	
+Medullary thyroid carcinoma	POMC	1.0	
+Medullary thyroid carcinoma	PTH	1.0	
+Medullary thyroid carcinoma	RAMP1	1.0	
+Medullary thyroid carcinoma	RXFP1	1.0	
+Medullary thyroid carcinoma	RXFP2	1.0	
+Medullary thyroid carcinoma	TSHR	1.0	
+Asthma	ABCB1	1.0	
+Asthma	ADCY2	1.0	
+Asthma	ADCY9	1.0	
+Asthma	ADCYAP1R1	1.0	
+Asthma	ADM	1.0	
+Asthma	ADORA2A	1.0	
+Asthma	ADORA2B	1.0	
+Asthma	ADRB2	1.0	
+Asthma	CALCA	1.0	
+Asthma	CRH	1.0	
+Asthma	CRHR1	1.0	
+Asthma	GHRH	1.0	
+Asthma	GNAS	1.0	
+Asthma	GNB1	1.0	
+Asthma	GPBAR1	1.0	
+Asthma	MC4R	1.0	
+Asthma	NPS	1.0	
+Asthma	NPSR1	1.0	
+Asthma	PDE4A	1.0	
+Asthma	PDE4B	1.0	
+Asthma	POMC	1.0	
+Asthma	PTGDR	1.0	
+Asthma	PTGER2	1.0	
+Asthma	PTGER4	1.0	
+Asthma	PTGIR	1.0	
+Asthma	PTH	1.0	
+Asthma	RAMP1	1.0	
+Asthma	VIP	1.0	
+Memory Loss	ABCB1	1.0	
+Memory Loss	AVP	1.0	
+Memory Loss	DRD5	1.0	
+Memory Loss	GNAI1	1.0	
+Memory Loss	GNAI3	1.0	
+Memory Loss	HTR7	1.0	
+Memory Loss	POMC	1.0	
+Irritable bowel syndrome with diarrhea	ABCB1	1.0	
+Irritable bowel syndrome with diarrhea	CRH	1.0	
+Irritable bowel syndrome with diarrhea	CRHR1	1.0	
+Irritable bowel syndrome with diarrhea	GCG	1.0	
+Irritable bowel syndrome with diarrhea	GPBAR1	1.0	
+Irritable bowel syndrome with diarrhea	HTR4	1.0	
+Irritable bowel syndrome with diarrhea	HTR7	1.0	
+Irritable bowel syndrome with diarrhea	NPSR1	1.0	
+Irritable bowel syndrome with diarrhea	POMC	1.0	
+Irritable bowel syndrome with diarrhea	VIP	1.0	
+Obesity	ABCB1	1.0	
+Obesity	ADCY3	1.0	
+Obesity	ADCY5	1.0	
+Obesity	ADCY9	1.0	
+Obesity	ADM	1.0	
+Obesity	ADRB1	1.0	
+Obesity	ADRB2	1.0	
+Obesity	ADRB3	1.0	
+Obesity	CALCA	1.0	
+Obesity	CALCRL	1.0	
+Obesity	CRH	1.0	
+Obesity	CRHR1	1.0	
+Obesity	DRD1	1.0	
+Obesity	FSHR	1.0	
+Obesity	GCG	1.0	
+Obesity	GCGR	1.0	
+Obesity	GHRH	1.0	
+Obesity	GIP	1.0	
+Obesity	GIPR	1.0	
+Obesity	GLP1R	1.0	
+Obesity	GNAI2	1.0	
+Obesity	GNAS	1.0	
+Obesity	GNAT3	1.0	
+Obesity	GPBAR1	1.0	
+Obesity	GPR83	1.0	
+Obesity	IAPP	1.0	
+Obesity	LHCGR	1.0	
+Obesity	MC1R	1.0	
+Obesity	MC3R	1.0	
+Obesity	MC4R	1.0	
+Obesity	MC5R	1.0	
+Obesity	P2RY11	1.0	
+Obesity	POMC	1.0	
+Obesity	RAMP2	1.0	
+Obesity	VIP	1.0	
+Autism 15	ABCB1	1.0	
+Autism 15	ADM	1.0	
+Autism 15	ADORA2A	1.0	
+Autism 15	ADRB2	1.0	
+Autism 15	AVP	1.0	
+Autism 15	CALCA	1.0	
+Autism 15	CALCRL	1.0	
+Autism 15	CGA	1.0	
+Autism 15	DRD1	1.0	
+Autism 15	FSHB	1.0	
+Autism 15	HTR4	1.0	
+Autism 15	HTR6	1.0	
+Autism 15	HTR7	1.0	
+Autism 15	LHB	1.0	
+Autism 15	LHCGR	1.0	
+Autism 15	PDE4A	1.0	
+Autism 15	PDE4B	1.0	
+Autism 15	POMC	1.0	
+Autism 15	SCT	1.0	
+Autism 15	VIP	1.0	
+Autism 15	VIPR1	1.0	
+body mass	ADRB1	1.0	
+body mass	ADRB2	1.0	
+body mass	ADRB3	1.0	
+body mass	CALCR	1.0	
+body mass	GCGR	1.0	
+body mass	IAPP	1.0	
+body mass	MC4R	1.0	
+body mass	POMC	1.0	
+Metabolic Syndrome X	ADCYAP1	1.0	
+Metabolic Syndrome X	ADM	1.0	
+Metabolic Syndrome X	ADRB1	1.0	
+Metabolic Syndrome X	ADRB2	1.0	
+Metabolic Syndrome X	ADRB3	1.0	
+Metabolic Syndrome X	DRD1	1.0	
+Metabolic Syndrome X	FSHR	1.0	
+Metabolic Syndrome X	GCG	1.0	
+Metabolic Syndrome X	GIP	1.0	
+Metabolic Syndrome X	GIPR	1.0	
+Metabolic Syndrome X	GLP1R	1.0	
+Metabolic Syndrome X	GNAI2	1.0	
+Metabolic Syndrome X	GNAT3	1.0	
+Metabolic Syndrome X	MC3R	1.0	
+Metabolic Syndrome X	MC4R	1.0	
+Metabolic Syndrome X	POMC	1.0	
+Metabolic Syndrome X	VIP	1.0	
+Metabolic Syndrome X	VIPR2	1.0	
+Hypotension	ADM	1.0	
+Hypotension	ADORA2A	1.0	
+Hypotension	AVP	1.0	
+Hypotension	CRH	1.0	
+Hypotension	DRD1	1.0	
+Hypotension	GCG	1.0	
+Hypotension	POMC	1.0	
+Hypotension	PTGER4	1.0	
+Hypotension	VIP	1.0	
+Sleep Wake Disorders	ADORA2A	1.0	
+Sleep Wake Disorders	ADRB2	1.0	
+Sleep Wake Disorders	ADRB3	1.0	
+Sleep Wake Disorders	CRH	1.0	
+Sleep Wake Disorders	GHRH	1.0	
+Sleep Wake Disorders	GHRHR	1.0	
+Sleep Wake Disorders	HTR7	1.0	
+Sleep Wake Disorders	POMC	1.0	
+Mental disorders	ABCB1	1.0	
+Mental disorders	ADCY7	1.0	
+Mental disorders	ADCYAP1	1.0	
+Mental disorders	ADCYAP1R1	1.0	
+Mental disorders	CALCA	1.0	
+Mental disorders	CRH	1.0	
+Mental disorders	CRHR1	1.0	
+Mental disorders	DRD5	1.0	
+Mental disorders	GPBAR1	1.0	
+Mental disorders	HTR7	1.0	
+Mental disorders	PDE4B	1.0	
+Mental disorders	POMC	1.0	
+Mental disorders	PTH	1.0	
+Mental disorders	SCT	1.0	
+Mental disorders	VIP	1.0	
+Obesity, severe, 601665 (3)	ADRB1	1.0	
+Obesity, severe, 601665 (3)	ADRB2	1.0	
+Obesity, severe, 601665 (3)	ADRB3	1.0	
+Obesity, severe, 601665 (3)	GNAS	1.0	
+Obesity, severe, 601665 (3)	MC2R	1.0	
+Obesity, severe, 601665 (3)	MC3R	1.0	
+Obesity, severe, 601665 (3)	MC4R	1.0	
+Obesity, severe, 601665 (3)	MC5R	1.0	
+Obesity, severe, 601665 (3)	POMC	1.0	
+Anorexia	AVPR2	1.0	
+Anorexia	CRH	1.0	
+Anorexia	CRHR1	1.0	
+Anorexia	GLP1R	1.0	
+Anorexia	HTR4	1.0	
+Anorexia	IAPP	1.0	
+Anorexia	MC4R	1.0	
+Anorexia	NPSR1	1.0	
+Anorexia	POMC	1.0	
+Disorder of endocrine system	CALCA	1.0	
+Disorder of endocrine system	CALCR	1.0	
+Disorder of endocrine system	CRH	1.0	
+Disorder of endocrine system	GNAS	1.0	
+Disorder of endocrine system	POMC	1.0	
+Disorder of endocrine system	PTH	1.0	
+Disorder of endocrine system	TSHR	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	GHRH	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	GNAS	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTH	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTH1R	1.0	
+Pseudohypoparathyroidism, type IB, 603233 (3)	PTHLH	1.0	
+Pituitary corticotropic cell adenoma	CRHR1	1.0	
+Pituitary corticotropic cell adenoma	GHRH	1.0	
+Pituitary corticotropic cell adenoma	GNAI2	1.0	
+Pituitary corticotropic cell adenoma	GNAS	1.0	
+Pituitary corticotropic cell adenoma	MC2R	1.0	
+Pituitary corticotropic cell adenoma	POMC	1.0	
+Schizophrenia	ABCB1	1.0	
+Schizophrenia	ADCY7	1.0	
+Schizophrenia	ADCYAP1	1.0	
+Schizophrenia	ADCYAP1R1	1.0	
+Schizophrenia	ADM	1.0	
+Schizophrenia	ADORA2A	1.0	
+Schizophrenia	ADRB3	1.0	
+Schizophrenia	AVP	1.0	
+Schizophrenia	CRH	1.0	
+Schizophrenia	CRHR1	1.0	
+Schizophrenia	DRD1	1.0	
+Schizophrenia	DRD5	1.0	
+Schizophrenia	GIPR	1.0	
+Schizophrenia	GNAI2	1.0	
+Schizophrenia	GNAL	1.0	
+Schizophrenia	GNAS	1.0	
+Schizophrenia	GNB1	1.0	
+Schizophrenia	HRH2	1.0	
+Schizophrenia	HTR4	1.0	
+Schizophrenia	HTR6	1.0	
+Schizophrenia	HTR7	1.0	
+Schizophrenia	MC2R	1.0	
+Schizophrenia	MC4R	1.0	
+Schizophrenia	MC5R	1.0	
+Schizophrenia	NPS	1.0	
+Schizophrenia	NPSR1	1.0	
+Schizophrenia	PDE4A	1.0	
+Schizophrenia	PDE4B	1.0	
+Schizophrenia	POMC	1.0	
+Schizophrenia	TAAR1	1.0	
+Schizophrenia	VIP	1.0	
+Schizophrenia	VIPR2	1.0	
+Acute-Phase Reaction	MC1R	1.0	
+Acute-Phase Reaction	MC2R	1.0	
+Acute-Phase Reaction	MC3R	1.0	
+Acute-Phase Reaction	MC4R	1.0	
+Acute-Phase Reaction	MC5R	1.0	
+Hyperplasia	GLP1R	1.0	
+Hyperplasia	GNAS	1.0	
+Hyperplasia	HTR4	1.0	
+Hyperplasia	INSL3	1.0	
+Hyperplasia	LHCGR	1.0	
+Hyperplasia	POMC	1.0	
+Hyperplasia	PTGIR	1.0	
+Hyperplasia	RLN2	1.0	
+Hyperplasia	RLN3	1.0	
+Anorexia nervosa 1	ABCB1	1.0	
+Anorexia nervosa 1	ADRB3	1.0	
+Anorexia nervosa 1	CRH	1.0	
+Anorexia nervosa 1	GCG	1.0	
+Anorexia nervosa 1	HTR7	1.0	
+Anorexia nervosa 1	MC3R	1.0	
+Anorexia nervosa 1	MC4R	1.0	
+Anorexia nervosa 1	POMC	1.0	
+Kidney Failure, Chronic	ABCB1	1.0	
+Kidney Failure, Chronic	ADM	1.0	
+Kidney Failure, Chronic	ADRB1	1.0	
+Kidney Failure, Chronic	ADRB2	1.0	
+Kidney Failure, Chronic	ADRB3	1.0	
+Kidney Failure, Chronic	CRH	1.0	
+Kidney Failure, Chronic	CRHR1	1.0	
+Kidney Failure, Chronic	DRD1	1.0	
+Kidney Failure, Chronic	GCGR	1.0	
+Kidney Failure, Chronic	IAPP	1.0	
+Kidney Failure, Chronic	LHCGR	1.0	
+Kidney Failure, Chronic	POMC	1.0	
+Kidney Failure, Chronic	PTGER4	1.0	
+Kidney Failure, Chronic	PTH	1.0	
+Kidney Failure, Chronic	PTH1R	1.0	
+Kidney Failure, Chronic	PTHLH	1.0	
+Kidney Failure, Chronic	VIPR1	1.0	
+Panic disorder syndrome 1 (2)	ADORA2A	1.0	
+Panic disorder syndrome 1 (2)	AVP	1.0	
+Panic disorder syndrome 1 (2)	CRH	1.0	
+Panic disorder syndrome 1 (2)	CRHR1	1.0	
+Panic disorder syndrome 1 (2)	DRD1	1.0	
+Panic disorder syndrome 1 (2)	DRD5	1.0	
+Panic disorder syndrome 1 (2)	NPS	1.0	
+Panic disorder syndrome 1 (2)	NPSR1	1.0	
+Insulinoma	ADCYAP1	1.0	
+Insulinoma	CALCA	1.0	
+Insulinoma	CRHR1	1.0	
+Insulinoma	GCG	1.0	
+Insulinoma	GCGR	1.0	
+Insulinoma	GIP	1.0	
+Insulinoma	GLP1R	1.0	
+Insulinoma	IAPP	1.0	
+Insulinoma	PTHLH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ABCB1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	ADORA2B	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CALCA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CGA	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CRH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	CRHR1	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHRH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GHRHR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GIP	1.0	
+Adenomas, multiple colorectal, 608456 (3)	GNAS	1.0	
+Adenomas, multiple colorectal, 608456 (3)	HTR4	1.0	
+Adenomas, multiple colorectal, 608456 (3)	INSL3	1.0	
+Adenomas, multiple colorectal, 608456 (3)	LHCGR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	MC2R	1.0	
+Adenomas, multiple colorectal, 608456 (3)	POMC	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER2	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTGER4	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	PTHLH	1.0	
+Adenomas, multiple colorectal, 608456 (3)	SCTR	1.0	
+Adenomas, multiple colorectal, 608456 (3)	TSHR	1.0	
+Adrenocortical carcinoma	ABCB1	1.0	
+Adrenocortical carcinoma	ADM	1.0	
+Adrenocortical carcinoma	GHRHR	1.0	
+Adrenocortical carcinoma	GIPR	1.0	
+Adrenocortical carcinoma	HTR7	1.0	
+Adrenocortical carcinoma	LHCGR	1.0	
+Adrenocortical carcinoma	MC2R	1.0	
+Adrenocortical carcinoma	POMC	1.0	
+Adrenocortical carcinoma	VIP	1.0	
+Hyperactivity	ADCY1	1.0	
+Hyperactivity	ADCY8	1.0	
+Hyperactivity	ADORA2A	1.0	
+Hyperactivity	CALCA	1.0	
+Hyperactivity	CRHR1	1.0	
+Hyperactivity	DRD1	1.0	
+Hyperactivity	GCG	1.0	
+Hyperactivity	LHCGR	1.0	
+Hyperactivity	NPS	1.0	
+Hyperactivity	TSHR	1.0	
+Stress, Psychological	ADCYAP1R1	1.0	
+Stress, Psychological	ADRB1	1.0	
+Stress, Psychological	ADRB2	1.0	
+Stress, Psychological	AVP	1.0	
+Stress, Psychological	CRH	1.0	
+Stress, Psychological	CRHR1	1.0	
+Diabetes Mellitus, Type 1	ABCB1	1.0	
+Diabetes Mellitus, Type 1	ADCYAP1	1.0	
+Diabetes Mellitus, Type 1	ADM	1.0	
+Diabetes Mellitus, Type 1	ADORA2A	1.0	
+Diabetes Mellitus, Type 1	ADORA2B	1.0	
+Diabetes Mellitus, Type 1	ADRB1	1.0	
+Diabetes Mellitus, Type 1	ADRB2	1.0	
+Diabetes Mellitus, Type 1	ADRB3	1.0	
+Diabetes Mellitus, Type 1	AVP	1.0	
+Diabetes Mellitus, Type 1	CALCA	1.0	
+Diabetes Mellitus, Type 1	CRH	1.0	
+Diabetes Mellitus, Type 1	DRD1	1.0	
+Diabetes Mellitus, Type 1	GCG	1.0	
+Diabetes Mellitus, Type 1	GCGR	1.0	
+Diabetes Mellitus, Type 1	GHRH	1.0	
+Diabetes Mellitus, Type 1	GHRHR	1.0	
+Diabetes Mellitus, Type 1	GIP	1.0	
+Diabetes Mellitus, Type 1	GIPR	1.0	
+Diabetes Mellitus, Type 1	GLP1R	1.0	
+Diabetes Mellitus, Type 1	GNAS	1.0	
+Diabetes Mellitus, Type 1	GNAT3	1.0	
+Diabetes Mellitus, Type 1	GPBAR1	1.0	
+Diabetes Mellitus, Type 1	IAPP	1.0	
+Diabetes Mellitus, Type 1	INSL3	1.0	
+Diabetes Mellitus, Type 1	MC3R	1.0	
+Diabetes Mellitus, Type 1	MC4R	1.0	
+Diabetes Mellitus, Type 1	POMC	1.0	
+Diabetes Mellitus, Type 1	PTGER4	1.0	
+Diabetes Mellitus, Type 1	PTH	1.0	
+Diabetes Mellitus, Type 1	PTHLH	1.0	
+Diabetes Mellitus, Type 1	RAMP2	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	ADRB3	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	FSHR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	INSL3	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	LHCGR	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	MC4R	1.0	
+ Hyperandrogenism, nonclassic type, due to 21-hydroxylase deficiency, 201910 (3)	POMC	1.0	
+Osteoporosis	ADCY5	1.0	
+Osteoporosis	CALCA	1.0	
+Osteoporosis	CALCR	1.0	
+Osteoporosis	CRHR1	1.0	
+Osteoporosis	FSHR	1.0	
+Osteoporosis	GHRH	1.0	
+Osteoporosis	GHRHR	1.0	
+Osteoporosis	GNAS	1.0	
+Osteoporosis	INSL3	1.0	
+Osteoporosis	POMC	1.0	
+Osteoporosis	PTGER4	1.0	
+Osteoporosis	PTH	1.0	
+Osteoporosis	PTH1R	1.0	
+Osteoporosis	PTH2R	1.0	
+Osteoporosis	PTHLH	1.0	
+Osteoporosis	RXFP2	1.0	
+Congenital adrenal hyperplasia	AVPR2	1.0	
+Congenital adrenal hyperplasia	CRH	1.0	
+Congenital adrenal hyperplasia	GIP	1.0	
+Congenital adrenal hyperplasia	HTR4	1.0	
+Congenital adrenal hyperplasia	MC2R	1.0	
+Congenital adrenal hyperplasia	POMC	1.0	
+Chronic Fatigue Syndrome	CRHR1	1.0	
+Chronic Fatigue Syndrome	HTR4	1.0	
+Chronic Fatigue Syndrome	HTR6	1.0	
+Chronic Fatigue Syndrome	HTR7	1.0	
+Chronic Fatigue Syndrome	POMC	1.0	
+Alcohol dependence	ABCB1	1.0	
+Alcohol dependence	ADCY1	1.0	
+Alcohol dependence	ADCY3	1.0	
+Alcohol dependence	ADCY7	1.0	
+Alcohol dependence	ADRB2	1.0	
+Alcohol dependence	AVP	1.0	
+Alcohol dependence	CALCA	1.0	
+Alcohol dependence	CRH	1.0	
+Alcohol dependence	CRHR1	1.0	
+Alcohol dependence	DRD1	1.0	
+Alcohol dependence	FSHB	1.0	
+Alcohol dependence	GNAS	1.0	
+Alcohol dependence	HTR7	1.0	
+Alcohol dependence	LHB	1.0	
+Alcohol dependence	PDE4B	1.0	
+Alcohol dependence	POMC	1.0	
+Thyroid hormone receptor defect	GHRH	1.0	
+Thyroid hormone receptor defect	GNAS	1.0	
+Thyroid hormone receptor defect	PTH	1.0	
+Thyroid hormone receptor defect	TSHR	1.0	
+Substance addiction and disorders	AVP	1.0	
+Substance addiction and disorders	CRHR1	1.0	
+Substance addiction and disorders	DRD1	1.0	
+Substance addiction and disorders	DRD5	1.0	
+Substance addiction and disorders	GCG	1.0	
+Substance addiction and disorders	POMC	1.0	
+Diabetes mellitus type 2	ABCB1	1.0	
+Diabetes mellitus type 2	ADCY3	1.0	
+Diabetes mellitus type 2	ADCY5	1.0	
+Diabetes mellitus type 2	ADCYAP1	1.0	
+Diabetes mellitus type 2	ADM	1.0	
+Diabetes mellitus type 2	ADORA2B	1.0	
+Diabetes mellitus type 2	ADRB1	1.0	
+Diabetes mellitus type 2	ADRB2	1.0	
+Diabetes mellitus type 2	ADRB3	1.0	
+Diabetes mellitus type 2	AVP	1.0	
+Diabetes mellitus type 2	CALCA	1.0	
+Diabetes mellitus type 2	CRHR1	1.0	
+Diabetes mellitus type 2	DRD1	1.0	
+Diabetes mellitus type 2	GCG	1.0	
+Diabetes mellitus type 2	GCGR	1.0	
+Diabetes mellitus type 2	GIP	1.0	
+Diabetes mellitus type 2	GIPR	1.0	
+Diabetes mellitus type 2	GLP1R	1.0	
+Diabetes mellitus type 2	GNAI2	1.0	
+Diabetes mellitus type 2	GPBAR1	1.0	
+Diabetes mellitus type 2	GPR20	1.0	
+Diabetes mellitus type 2	IAPP	1.0	
+Diabetes mellitus type 2	MC2R	1.0	
+Diabetes mellitus type 2	MC3R	1.0	
+Diabetes mellitus type 2	MC4R	1.0	
+Diabetes mellitus type 2	MC5R	1.0	
+Diabetes mellitus type 2	POMC	1.0	
+Diabetes mellitus type 2	PTGER4	1.0	
+Diabetes mellitus type 2	PTH	1.0	
+Chronic heart failure	ADM	1.0	
+Chronic heart failure	ADM2	1.0	
+Chronic heart failure	ADORA2A	1.0	
+Chronic heart failure	ADORA2B	1.0	
+Chronic heart failure	ADRB1	1.0	
+Chronic heart failure	ADRB2	1.0	
+Polycystic Ovary Syndrome	ADRB2	1.0	
+Polycystic Ovary Syndrome	ADRB3	1.0	
+Polycystic Ovary Syndrome	FSHB	1.0	
+Polycystic Ovary Syndrome	FSHR	1.0	
+Polycystic Ovary Syndrome	GHRH	1.0	
+Polycystic Ovary Syndrome	GNAS	1.0	
+Polycystic Ovary Syndrome	INSL3	1.0	
+Polycystic Ovary Syndrome	LHB	1.0	
+Polycystic Ovary Syndrome	LHCGR	1.0	
+Polycystic Ovary Syndrome	MC4R	1.0	
+Polycystic Ovary Syndrome	POMC	1.0	
+Polycystic Ovary Syndrome	PTH	1.0	
+Polycystic Ovary Syndrome	SCT	1.0	
+Bronchial Hyperreactivity	ADRB2	1.0	
+Bronchial Hyperreactivity	CALCA	1.0	
+Bronchial Hyperreactivity	CRHR1	1.0	
+Bronchial Hyperreactivity	NPSR1	1.0	
+Bronchial Hyperreactivity	PDE4A	1.0	
+Bronchial Hyperreactivity	PTGDR	1.0	
+Bronchial Hyperreactivity	PTGER4	1.0	
+Bronchial Hyperreactivity	VIP	1.0	
+Bradycardia	CRH	1.0	
+Bradycardia	GCG	1.0	
+Bradycardia	GNAI2	1.0	
+Bradycardia	LHB	1.0	
+Bradycardia	POMC	1.0	
+Cholera	GLP1R	1.0	
+Cholera	LHCGR	1.0	
+Cholera	POMC	1.0	
+Cholera	PTH	1.0	
+Cholera	PTHLH	1.0	
+Cholera	VIP	1.0	
+Pituitary dependent hypercortisolism	GNAI2	1.0	
+Pituitary dependent hypercortisolism	GNAS	1.0	
+Pituitary dependent hypercortisolism	MC2R	1.0	
+Pituitary dependent hypercortisolism	POMC	1.0	
+Heart Failure	ABCB1	1.0	
+Heart Failure	ADCY6	1.0	
+Heart Failure	ADM	1.0	
+Heart Failure	ADORA2A	1.0	
+Heart Failure	ADRB1	1.0	
+Heart Failure	ADRB2	1.0	
+Heart Failure	ADRB3	1.0	
+Heart Failure	AVP	1.0	
+Heart Failure	AVPR2	1.0	
+Heart Failure	CALCR	1.0	
+Heart Failure	GCG	1.0	
+Heart Failure	GPBAR1	1.0	
+Heart Failure	HTR4	1.0	
+Heart Failure	POMC	1.0	
+Heart Failure	PTH	1.0	
+Heart Failure	PTHLH	1.0	
+Heart Failure	RAMP2	1.0	
+Pituitary adenoma	CGA	1.0	
+Pituitary adenoma	CRH	1.0	
+Pituitary adenoma	CRHR1	1.0	
+Pituitary adenoma	FSHB	1.0	
+Pituitary adenoma	FSHR	1.0	
+Pituitary adenoma	GHRH	1.0	
+Pituitary adenoma	GHRHR	1.0	
+Pituitary adenoma	GNAS	1.0	
+Pituitary adenoma	MC2R	1.0	
+Pituitary adenoma	POMC	1.0	
+Adrenocortical adenoma	ADM	1.0	
+Adrenocortical adenoma	AVP	1.0	
+Adrenocortical adenoma	GIP	1.0	
+Adrenocortical adenoma	GIPR	1.0	
+Adrenocortical adenoma	MC2R	1.0	
+Adrenocortical adenoma	POMC	1.0	
+Ovarian Diseases	ADRB2	1.0	
+Ovarian Diseases	ADRB3	1.0	
+Ovarian Diseases	CGA	1.0	
+Ovarian Diseases	FSHR	1.0	
+Ovarian Diseases	GNAS	1.0	
+Ovarian Diseases	GPR83	1.0	
+Ovarian Diseases	LHCGR	1.0	
+Ovarian Diseases	POMC	1.0	
+Ovarian Diseases	PTH	1.0	
+Carcinoid tumor	ABCB1	1.0	
+Carcinoid tumor	CALCA	1.0	
+Carcinoid tumor	GHRH	1.0	
+Carcinoid tumor	POMC	1.0	
+Carcinoid tumor	PTH	1.0	
+Carcinoid tumor	PTHLH	1.0	
+Carcinoid tumor	SCT	1.0	
+Carcinoid tumor	SCTR	1.0	
+Hyperthyroidism	ABCB1	1.0	
+Hyperthyroidism	ADCY1	1.0	
+Hyperthyroidism	ADRB2	1.0	
+Hyperthyroidism	GNAS	1.0	
+Hyperthyroidism	PTH	1.0	
+Hyperthyroidism	TSHB	1.0	
+Hyperthyroidism	TSHR	1.0	
+Adrenal hyperplasia	CRH	1.0	
+Adrenal hyperplasia	GIP	1.0	
+Adrenal hyperplasia	GNAS	1.0	
+Adrenal hyperplasia	MC2R	1.0	
+Adrenal hyperplasia	POMC	1.0	
+Tardive Dyskinesia	ADORA2A	1.0	
+Tardive Dyskinesia	DRD1	1.0	
+Tardive Dyskinesia	HTR6	1.0	
+Tardive Dyskinesia	PDE4A	1.0	
+Tardive Dyskinesia	PDE4B	1.0	
+Chronic obstructive pulmonary disease	ABCB1	1.0	
+Chronic obstructive pulmonary disease	ADCY2	1.0	
+Chronic obstructive pulmonary disease	ADM	1.0	
+Chronic obstructive pulmonary disease	ADORA2A	1.0	
+Chronic obstructive pulmonary disease	ADORA2B	1.0	
+Chronic obstructive pulmonary disease	ADRB1	1.0	
+Chronic obstructive pulmonary disease	ADRB2	1.0	
+Chronic obstructive pulmonary disease	ADRB3	1.0	
+Chronic obstructive pulmonary disease	CALCR	1.0	
+Chronic obstructive pulmonary disease	CGA	1.0	
+Chronic obstructive pulmonary disease	CRHR1	1.0	
+Chronic obstructive pulmonary disease	DRD1	1.0	
+Chronic obstructive pulmonary disease	HTR4	1.0	
+Chronic obstructive pulmonary disease	PDE4A	1.0	
+Chronic obstructive pulmonary disease	PTH	1.0	
+Chronic obstructive pulmonary disease	VIP	1.0	
+Chronic obstructive pulmonary disease	VIPR1	1.0	
+Ovarian Failure, Premature	ABCB1	1.0	
+Ovarian Failure, Premature	FSHB	1.0	
+Ovarian Failure, Premature	FSHR	1.0	
+Ovarian Failure, Premature	GHRH	1.0	
+Ovarian Failure, Premature	LHB	1.0	
+Ovarian Failure, Premature	LHCGR	1.0	
+Ovarian Failure, Premature	POMC	1.0	
+Ovarian Failure, Premature	TSHB	1.0	
+Drug Dependence	AVP	1.0	
+Drug Dependence	CRHR1	1.0	
+Drug Dependence	DRD1	1.0	
+Drug Dependence	GCG	1.0	
+Drug Dependence	POMC	1.0	
+Acute postoperative pain	ABCB1	1.0	
+Acute postoperative pain	ADRB2	1.0	
+Acute postoperative pain	CALCA	1.0	
+Acute postoperative pain	POMC	1.0	
+alcohol use disorder	AVP	1.0	
+alcohol use disorder	CRH	1.0	
+alcohol use disorder	CRHR1	1.0	
+alcohol use disorder	NPSR1	1.0	
+Posttraumatic stress disorder	ADCY8	1.0	
+Posttraumatic stress disorder	ADCYAP1	1.0	
+Posttraumatic stress disorder	ADCYAP1R1	1.0	
+Posttraumatic stress disorder	CRH	1.0	
+Posttraumatic stress disorder	CRHR1	1.0	
+Posttraumatic stress disorder	VIPR2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADCY3	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRB2	1.0	
+Disorders of Intracellular Cobalamin Metabolism	ADRB3	1.0	
+Disorders of Intracellular Cobalamin Metabolism	AVP	1.0	
+Disorders of Intracellular Cobalamin Metabolism	FSHR	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GCG	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GIP	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GNAS	1.0	
+Disorders of Intracellular Cobalamin Metabolism	GPBAR1	1.0	
+Disorders of Intracellular Cobalamin Metabolism	MC4R	1.0	
+Disorders of Intracellular Cobalamin Metabolism	PTH	1.0	
+Hyperparathyroidism 4	CALCA	1.0	
+Hyperparathyroidism 4	GNAS	1.0	
+Hyperparathyroidism 4	PTH	1.0	
+Hyperparathyroidism 4	PTH1R	1.0	
+Hyperparathyroidism 4	PTHLH	1.0	
+Pain	ABCB1	1.0	
+Pain	ADM	1.0	
+Pain	ADRB2	1.0	
+Pain	AVP	1.0	
+Pain	CALCA	1.0	
+Pain	CRH	1.0	
+Pain	FSHR	1.0	
+Pain	GNAS	1.0	
+Pain	HTR7	1.0	
+Pain	MC1R	1.0	
+Pain	POMC	1.0	
+Pain	PTH	1.0	
+Pain	PTH1R	1.0	
+Pain	VIP	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	ADRB2	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	CRH	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GCG	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GCGR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GHRH	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GHRHR	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	GLP1R	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	MC2R	1.0	
+Hypoglycemia, neonatal, simulating foetopathia diabetica	POMC	1.0	
+Neuroblastoma	ABCB1	1.0	
+Neuroblastoma	ADCY2	1.0	
+Neuroblastoma	ADCYAP1	1.0	
+Neuroblastoma	ADCYAP1R1	1.0	
+Neuroblastoma	ADM	1.0	
+Neuroblastoma	ADRB2	1.0	
+Neuroblastoma	AVP	1.0	
+Neuroblastoma	CALCA	1.0	
+Neuroblastoma	CALCR	1.0	
+Neuroblastoma	CGA	1.0	
+Neuroblastoma	CRH	1.0	
+Neuroblastoma	DRD1	1.0	
+Neuroblastoma	GCG	1.0	
+Neuroblastoma	GLP1R	1.0	
+Neuroblastoma	GNAS	1.0	
+Neuroblastoma	PTGDR	1.0	
+Neuroblastoma	PTGER2	1.0	
+Neuroblastoma	PTGER4	1.0	
+Neuroblastoma	PTHLH	1.0	
+Neuroblastoma	SCT	1.0	
+Neuroblastoma	TSHR	1.0	
+Neuroblastoma	VIP	1.0	
+Neuroblastoma	VIPR1	1.0	
+Neuroblastoma	VIPR2	1.0	
+Opiate Addiction	ABCB1	1.0	
+Opiate Addiction	CRH	1.0	
+Opiate Addiction	DRD1	1.0	
+Opiate Addiction	POMC	1.0	
+Maturity-onset diabetes of the young, type 11	GCG	1.0	
+Maturity-onset diabetes of the young, type 11	GIP	1.0	
+Maturity-onset diabetes of the young, type 11	GLP1R	1.0	
+Maturity-onset diabetes of the young, type 11	GNAI2	1.0	
+Maturity-onset diabetes of the young, type 11	IAPP	1.0	
+Maturity-onset diabetes of the young, type 11	SCT	1.0	
+Orofacial dyskinesia	ADORA2A	1.0	
+Orofacial dyskinesia	DRD1	1.0	
+Orofacial dyskinesia	HTR6	1.0	
+Orofacial dyskinesia	PDE4A	1.0	
+Orofacial dyskinesia	PDE4B	1.0	
+Abnormal consumption behavior	AVP	1.0	
+Abnormal consumption behavior	AVPR2	1.0	
+Abnormal consumption behavior	GNAS	1.0	
+Abnormal consumption behavior	MC4R	1.0	
+Abnormal consumption behavior	POMC	1.0	
+Inflammation	ABCB1	1.0	
+Inflammation	ADCYAP1	1.0	
+Inflammation	ADM	1.0	
+Inflammation	ADRB2	1.0	
+Inflammation	ADRB3	1.0	
+Inflammation	CALCA	1.0	
+Inflammation	CRH	1.0	
+Inflammation	CRHR1	1.0	
+Inflammation	MC4R	1.0	
+Inflammation	POMC	1.0	
+Inflammation	PTGER2	1.0	
+Inflammation	PTGER4	1.0	
+Inflammation	TSHR	1.0	
+Inflammation	VIP	1.0	
+Acanthosis nigricans	ADRB2	1.0	
+Acanthosis nigricans	ADRB3	1.0	
+Acanthosis nigricans	MC4R	1.0	
+Acanthosis nigricans	POMC	1.0	
+Nodule	ADCY3	1.0	
+Nodule	ADCY6	1.0	
+Nodule	GCG	1.0	
+Nodule	GIP	1.0	
+Nodule	GNAS	1.0	
+Nodule	TSHR	1.0	
+Cocaine-Related Disorders	CRH	1.0	
+Cocaine-Related Disorders	CRHR1	1.0	
+Cocaine-Related Disorders	DRD1	1.0	
+Cocaine-Related Disorders	NPS	1.0	
+Cocaine-Related Disorders	NPSR1	1.0	
+Cocaine-Related Disorders	POMC	1.0	
+Obstructive sleep apnea	ABCB1	1.0	
+Obstructive sleep apnea	ADRB1	1.0	
+Obstructive sleep apnea	ADRB2	1.0	
+Obstructive sleep apnea	ADRB3	1.0	
+Obstructive sleep apnea	MC3R	1.0	
+Obstructive sleep apnea	MC4R	1.0	
+Obstructive sleep apnea	NPS	1.0	
+Chronic pain	ABCB1	1.0	
+Chronic pain	ADRB2	1.0	
+Chronic pain	CALCA	1.0	
+Chronic pain	POMC	1.0	
+Ichthyosis bullosa of Siemens	CRHR1	1.0	
+Ichthyosis bullosa of Siemens	GPBAR1	1.0	
+Ichthyosis bullosa of Siemens	NPSR1	1.0	
+Ichthyosis bullosa of Siemens	POMC	1.0	
+Ichthyosis bullosa of Siemens	VIP	1.0	
+Precocious puberty	GHRH	1.0	
+Precocious puberty	GNAS	1.0	
+Precocious puberty	LHCGR	1.0	
+Precocious puberty	MC4R	1.0	
+Precocious puberty	POMC	1.0	
+Precocious puberty	PTH1R	1.0	
+Somatotroph adenoma	GHRH	1.0	
+Somatotroph adenoma	GHRHR	1.0	
+Somatotroph adenoma	GNAS	1.0	
+Somatotroph adenoma	POMC	1.0	
+Pediatric Obesity	ADRB2	1.0	
+Pediatric Obesity	MC3R	1.0	
+Pediatric Obesity	MC4R	1.0	
+Pediatric Obesity	POMC	1.0	
+Weight Loss Adverse Event	ADRB2	1.0	
+Weight Loss Adverse Event	ADRB3	1.0	
+Weight Loss Adverse Event	MC3R	1.0	
+Weight Loss Adverse Event	MC4R	1.0	
+Hyperlipidemia, combined, 1	ABCB1	1.0	
+Hyperlipidemia, combined, 1	ADM	1.0	
+Hyperlipidemia, combined, 1	ADRB1	1.0	
+Hyperlipidemia, combined, 1	ADRB2	1.0	
+Hyperlipidemia, combined, 1	ADRB3	1.0	
+Hyperlipidemia, combined, 1	FSHR	1.0	
+Hyperlipidemia, combined, 1	GCG	1.0	
+Hyperlipidemia, combined, 1	MC4R	1.0	
+Hyperlipidemia, combined, 1	PTH	1.0	
+Multiple Endocrine Neoplasia Type 1	GCG	1.0	
+Multiple Endocrine Neoplasia Type 1	GHRH	1.0	
+Multiple Endocrine Neoplasia Type 1	GNAS	1.0	
+Multiple Endocrine Neoplasia Type 1	POMC	1.0	
+Multiple Endocrine Neoplasia Type 1	PTH	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	FSHR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	GNAS	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	LHCGR	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	MC1R	1.0	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	MC2R	1.0	
+Renal Insufficiency, Chronic	ABCB1	1.0	
+Renal Insufficiency, Chronic	ADCYAP1	1.0	
+Renal Insufficiency, Chronic	ADM	1.0	
+Renal Insufficiency, Chronic	ADRB2	1.0	
+Renal Insufficiency, Chronic	CRH	1.0	
+Renal Insufficiency, Chronic	GHRH	1.0	
+Renal Insufficiency, Chronic	PTH	1.0	
+Renal Insufficiency, Chronic	PTH1R	1.0	
+Renal Insufficiency, Chronic	PTHLH	1.0	
+Renal Insufficiency, Chronic	SCT	1.0	
+Alzheimer Disease	ABCB1	1.0	
+Alzheimer Disease	ADCY8	1.0	
+Alzheimer Disease	ADORA2A	1.0	
+Alzheimer Disease	ADRB1	1.0	
+Alzheimer Disease	ADRB2	1.0	
+Alzheimer Disease	ADRB3	1.0	
+Alzheimer Disease	CALCR	1.0	
+Alzheimer Disease	CRH	1.0	
+Alzheimer Disease	DRD1	1.0	
+Alzheimer Disease	DRD5	1.0	
+Alzheimer Disease	FSHR	1.0	
+Alzheimer Disease	GHRH	1.0	
+Alzheimer Disease	GHRHR	1.0	
+Alzheimer Disease	HTR6	1.0	
+Alzheimer Disease	IAPP	1.0	
+Alzheimer Disease	LHB	1.0	
+Alzheimer Disease	LHCGR	1.0	
+Alzheimer Disease	NPS	1.0	
+Alzheimer Disease	PTGDR	1.0	
+Alzheimer Disease	PTGER2	1.0	
+Alzheimer Disease	PTGER4	1.0	
+Alzheimer Disease	PTGIR	1.0	
+Alzheimer Disease	PTH	1.0	
+Alzheimer Disease	PTH1R	1.0	
+Systemic arterial pressure	ADM	1.0	
+Systemic arterial pressure	ADRB1	1.0	
+Systemic arterial pressure	ADRB2	1.0	
+Systemic arterial pressure	ADRB3	1.0	
+Systemic arterial pressure	CRHR1	1.0	
+Systemic arterial pressure	DRD1	1.0	
+Systemic arterial pressure	GNAI2	1.0	
+Systemic arterial pressure	GNAS	1.0	
+Systemic arterial pressure	GPR176	1.0	
+Systemic arterial pressure	MC4R	1.0	
+Systemic arterial pressure	PDE4B	1.0	
+Preeclampsia/eclampsia 1	ADM	1.0	
+Preeclampsia/eclampsia 1	ADORA2B	1.0	
+Preeclampsia/eclampsia 1	ADRB2	1.0	
+Preeclampsia/eclampsia 1	ADRB3	1.0	
+Preeclampsia/eclampsia 1	CALCA	1.0	
+Preeclampsia/eclampsia 1	CRH	1.0	
+Preeclampsia/eclampsia 1	CRHR1	1.0	
+Preeclampsia/eclampsia 1	FSHR	1.0	
+Preeclampsia/eclampsia 1	PTGER2	1.0	
+Preeclampsia/eclampsia 1	PTGER4	1.0	
+Glucose intolerance	ADM	1.0	
+Glucose intolerance	ADRB2	1.0	
+Glucose intolerance	ADRB3	1.0	
+Glucose intolerance	GCG	1.0	
+Glucose intolerance	GCGR	1.0	
+Glucose intolerance	GPR83	1.0	
+Glucose intolerance	IAPP	1.0	
+Glucose intolerance	MC3R	1.0	
+Glucose intolerance	MC4R	1.0	
+Premature Birth	ADRB2	1.0	
+Premature Birth	CRH	1.0	
+Premature Birth	CRHR1	1.0	
+Premature Birth	POMC	1.0	
+Premature Birth	PTGER2	1.0	
+Premature Birth	PTGER4	1.0	
+Premature Birth	PTH1R	1.0	
+Premature Birth	RLN2	1.0	
+Premature Birth	RLN3	1.0	
+Premature Birth	TSHR	1.0	
+Polyphagia	CRH	1.0	
+Polyphagia	GNAS	1.0	
+Polyphagia	MC3R	1.0	
+Polyphagia	MC4R	1.0	
+Polyphagia	POMC	1.0	
+Hereditary pancreatitis	ABCB1	1.0	
+Hereditary pancreatitis	ADCYAP1	1.0	
+Hereditary pancreatitis	ADM	1.0	
+Hereditary pancreatitis	ADRB2	1.0	
+Hereditary pancreatitis	GCG	1.0	
+Hereditary pancreatitis	GIP	1.0	
+Hereditary pancreatitis	GLP1R	1.0	
+Hereditary pancreatitis	GNAI2	1.0	
+Hereditary pancreatitis	PTHLH	1.0	
+Hereditary pancreatitis	SCT	1.0	
+Carcinoid tumor no ICD-O subtype	CALCA	1.0	
+Carcinoid tumor no ICD-O subtype	GHRH	1.0	
+Carcinoid tumor no ICD-O subtype	POMC	1.0	
+Carcinoid tumor no ICD-O subtype	PTH	1.0	
+Carcinoid tumor no ICD-O subtype	PTHLH	1.0	
+Musculoskeletal Diseases	ADRB2	1.0	
+Musculoskeletal Diseases	CRH	1.0	
+Musculoskeletal Diseases	CRHR1	1.0	
+Musculoskeletal Diseases	POMC	1.0	
+Musculoskeletal Diseases	PTGER2	1.0	
+Musculoskeletal Diseases	TSHR	1.0	
+Accelerated skeletal maturation	LHCGR	1.0	
+Accelerated skeletal maturation	MC2R	1.0	
+Accelerated skeletal maturation	PTH1R	1.0	
+Accelerated skeletal maturation	TSHR	1.0	
+Pregnancy Complications, Hematologic	ADRB2	1.0	
+Pregnancy Complications, Hematologic	CRH	1.0	
+Pregnancy Complications, Hematologic	CRHR1	1.0	
+Pregnancy Complications, Hematologic	POMC	1.0	
+Pregnancy Complications, Hematologic	PTGER2	1.0	
+Pregnancy Complications, Hematologic	TSHR	1.0	
+Delayed puberty	CRH	1.0	
+Delayed puberty	FSHB	1.0	
+Delayed puberty	FSHR	1.0	
+Delayed puberty	GHRH	1.0	
+Delayed puberty	LHB	1.0	
+Delayed puberty	LHCGR	1.0	
+Delayed puberty	POMC	1.0	
+Chronic Kidney Insufficiency	ABCB1	1.0	
+Chronic Kidney Insufficiency	ADRB2	1.0	
+Chronic Kidney Insufficiency	CRH	1.0	
+Chronic Kidney Insufficiency	DRD1	1.0	
+Chronic Kidney Insufficiency	GLP1R	1.0	
+Chronic Kidney Insufficiency	GNAS	1.0	
+Chronic Kidney Insufficiency	PTH	1.0	
+Abdominal obesity	ADRB2	1.0	
+Abdominal obesity	ADRB3	1.0	
+Abdominal obesity	GIP	1.0	
+Abdominal obesity	GNAS	1.0	
+Abdominal obesity	MC4R	1.0	
+Abdominal obesity	POMC	1.0	
+Flushing	AVP	1.0	
+Flushing	PTGDR	1.0	
+Flushing	VIP	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	GNAS	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	PDE4A	1.0	
+ Acrodysostosis 1, with or without hormone resistance, 101800 (3)	PTH	1.0	
+Primary hyperparathyroidism	ADM	1.0	
+Primary hyperparathyroidism	CALCA	1.0	
+Primary hyperparathyroidism	PTH	1.0	
+Primary hyperparathyroidism	PTHLH	1.0	
+Abnormality of the hypothalamus-pituitary axis	AVP	1.0	
+Abnormality of the hypothalamus-pituitary axis	FSHB	1.0	
+Abnormality of the hypothalamus-pituitary axis	FSHR	1.0	
+Abnormality of the hypothalamus-pituitary axis	GHRHR	1.0	
+Abnormality of the hypothalamus-pituitary axis	GNAS	1.0	
+Abnormality of the hypothalamus-pituitary axis	LHCGR	1.0	
+Abnormality of the hypothalamus-pituitary axis	POMC	1.0	
+Abnormality of the hypothalamus-pituitary axis	TSHR	1.0	
+Achalasia	POMC	1.0	
+Achalasia	VIP	1.0	
+Achalasia	VIPR1	1.0	
+Recurrent major depressive episodes	AVP	1.0	
+Recurrent major depressive episodes	CRH	1.0	
+Recurrent major depressive episodes	CRHR1	1.0	
+Malignant neoplasm of adrenal cortex	ABCB1	1.0	
+Malignant neoplasm of adrenal cortex	GIPR	1.0	
+Malignant neoplasm of adrenal cortex	POMC	1.0	
+Pituitary Neoplasms	ABCB1	1.0	
+Pituitary Neoplasms	ADCY1	1.0	
+Pituitary Neoplasms	CRH	1.0	
+Pituitary Neoplasms	GHRH	1.0	
+Pituitary Neoplasms	GHRHR	1.0	
+Pituitary Neoplasms	GNAI2	1.0	
+Pituitary Neoplasms	GNAS	1.0	
+Pituitary Neoplasms	IAPP	1.0	
+Pituitary Neoplasms	POMC	1.0	
+Connective Tissue Diseases	ADM	1.0	
+Connective Tissue Diseases	ADRB2	1.0	
+Connective Tissue Diseases	CRH	1.0	
+Connective Tissue Diseases	CRHR1	1.0	
+Connective Tissue Diseases	POMC	1.0	
+Connective Tissue Diseases	PTGER2	1.0	
+Connective Tissue Diseases	TSHR	1.0	
+Multiple endocrine neoplasia, type 4	CALCA	1.0	
+Multiple endocrine neoplasia, type 4	GNAS	1.0	
+Multiple endocrine neoplasia, type 4	POMC	1.0	
+Multiple endocrine neoplasia, type 4	PTH	1.0	
+Postmenopausal osteoporosis	CALCA	1.0	
+Postmenopausal osteoporosis	CALCR	1.0	
+Postmenopausal osteoporosis	PTGER4	1.0	
+Postmenopausal osteoporosis	PTH	1.0	
+Postmenopausal osteoporosis	PTHLH	1.0	
+Alcohol abuse	AVP	1.0	
+Alcohol abuse	CRHR1	1.0	
+Alcohol abuse	DRD1	1.0	
+Alcohol abuse	HTR7	1.0	
+Alcohol abuse	POMC	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	AVP	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	GIP	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	POMC	1.0	
+Neurologic, endocrine, and pancreatic disease, multisystem, infantile-onset	SCT	1.0	
+Glucocorticoid resistance, generalized	ABCB1	1.0	
+Glucocorticoid resistance, generalized	ADCY9	1.0	
+Glucocorticoid resistance, generalized	ADRB2	1.0	
+Glucocorticoid resistance, generalized	POMC	1.0	
+Abnormality of circulating hormone level	FSHB	1.0	
+Abnormality of circulating hormone level	FSHR	1.0	
+Abnormality of circulating hormone level	GHRHR	1.0	
+Abnormality of circulating hormone level	GNAS	1.0	
+Abnormality of circulating hormone level	LHCGR	1.0	
+Abnormality of circulating hormone level	MC2R	1.0	
+Abnormality of circulating hormone level	MC4R	1.0	
+Abnormality of circulating hormone level	POMC	1.0	
+Cardiovascular Diseases	ABCB1	1.0	
+Cardiovascular Diseases	ADCY9	1.0	
+Cardiovascular Diseases	ADM	1.0	
+Cardiovascular Diseases	ADRB1	1.0	
+Cardiovascular Diseases	ADRB2	1.0	
+Cardiovascular Diseases	ADRB3	1.0	
+Cardiovascular Diseases	AVP	1.0	
+Cardiovascular Diseases	CGA	1.0	
+Cardiovascular Diseases	GCG	1.0	
+Cardiovascular Diseases	GIP	1.0	
+Cardiovascular Diseases	GIPR	1.0	
+Cardiovascular Diseases	GLP1R	1.0	
+Cardiovascular Diseases	MC3R	1.0	
+Cardiovascular Diseases	PDE4A	1.0	
+Cardiovascular Diseases	PTGER2	1.0	
+Cardiovascular Diseases	PTGIR	1.0	
+Cardiovascular Diseases	PTH	1.0	
+Acute myocardial ischemia	ABCB1	1.0	
+Acute myocardial ischemia	ADM2	1.0	
+Acute myocardial ischemia	ADORA2B	1.0	
+Acute myocardial ischemia	ADRB1	1.0	
+Acute myocardial ischemia	ADRB2	1.0	
+Acute myocardial ischemia	ADRB3	1.0	
+Acute myocardial ischemia	IAPP	1.0	
+Acute myocardial ischemia	PDE4B	1.0	
+Acute myocardial ischemia	POMC	1.0	
+Acute myocardial ischemia	RAMP2	1.0	
+Acute myocardial ischemia	RLN3	1.0	
+Hypothermia	GCG	1.0	
+Hypothermia	LHB	1.0	
+Hypothermia	TSHB	1.0	
+Osteoarthritis	ADM	1.0	
+Osteoarthritis	CALCA	1.0	
+Osteoarthritis	CALCRL	1.0	
+Osteoarthritis	CRH	1.0	
+Osteoarthritis	CRHR1	1.0	
+Osteoarthritis	GNAS	1.0	
+Osteoarthritis	GPBAR1	1.0	
+Osteoarthritis	PDE4A	1.0	
+Osteoarthritis	PTGER2	1.0	
+Osteoarthritis	PTGER4	1.0	
+Osteoarthritis	PTH	1.0	
+Osteoarthritis	PTH1R	1.0	
+Osteoarthritis	PTH2R	1.0	
+Osteoarthritis	PTHLH	1.0	
+Osteoarthritis	VIP	1.0	
+Osteoarthritis	VIPR2	1.0	
+Abnormality of skeletal maturation	FSHB	1.0	
+Abnormality of skeletal maturation	FSHR	1.0	
+Abnormality of skeletal maturation	GHRHR	1.0	
+Abnormality of skeletal maturation	LHCGR	1.0	
+Abnormality of skeletal maturation	MC2R	1.0	
+Abnormality of skeletal maturation	POMC	1.0	
+Abnormality of skeletal maturation	PTH1R	1.0	
+Abnormality of skeletal maturation	TSHR	1.0	
+Cystitis	ADCYAP1	1.0	
+Cystitis	ADCYAP1R1	1.0	
+Cystitis	POMC	1.0	
+Cystitis	PTGER4	1.0	
+Cystitis	VIP	1.0	
+Hypothyroidism	ABCB1	1.0	
+Hypothyroidism	ADRB2	1.0	
+Hypothyroidism	FSHR	1.0	
+Hypothyroidism	GHRHR	1.0	
+Hypothyroidism	GIP	1.0	
+Hypothyroidism	GNAS	1.0	
+Hypothyroidism	POMC	1.0	
+Hypothyroidism	TSHB	1.0	
+Hypothyroidism	TSHR	1.0	
+Fetal Diseases	ADRB2	1.0	
+Fetal Diseases	CRH	1.0	
+Fetal Diseases	CRHR1	1.0	
+Fetal Diseases	POMC	1.0	
+Fetal Diseases	PTGER2	1.0	
+Fetal Diseases	TSHR	1.0	
+Nodular goiter	CALCA	1.0	
+Nodular goiter	GNAS	1.0	
+Nodular goiter	TSHR	1.0	
+Isolated somatotropin deficiency	GHRH	1.0	
+Isolated somatotropin deficiency	GHRHR	1.0	
+Isolated somatotropin deficiency	POMC	1.0	
+Myasthenia Gravis	ABCB1	1.0	
+Myasthenia Gravis	ADCYAP1	1.0	
+Myasthenia Gravis	ADRB2	1.0	
+Myasthenia Gravis	CALCA	1.0	
+Myasthenia Gravis	CALCR	1.0	
+Myasthenia Gravis	POMC	1.0	
+Myasthenia Gravis	VIP	1.0	
+Maternal diabetes	ADCY5	1.0	
+Maternal diabetes	ADORA2B	1.0	
+Maternal diabetes	ADRB3	1.0	
+Maternal diabetes	GCG	1.0	
+Maternal diabetes	GIP	1.0	
+Maternal diabetes	GNAS	1.0	
+Maternal diabetes	IAPP	1.0	
+Decreased beta-glucocerebrosidase protein and activity	AVPR2	1.0	
+Decreased beta-glucocerebrosidase protein and activity	FSHB	1.0	
+Decreased beta-glucocerebrosidase protein and activity	GNAS	1.0	
+Decreased beta-glucocerebrosidase protein and activity	MC2R	1.0	
+Decreased beta-glucocerebrosidase protein and activity	MC4R	1.0	
+Childhood asthma	ADCY2	1.0	
+Childhood asthma	ADCYAP1R1	1.0	
+Childhood asthma	ADRB2	1.0	
+Childhood asthma	CRHR1	1.0	
+Childhood asthma	NPSR1	1.0	
+Isolated growth hormone deficiency type 1B	GHRH	1.0	
+Isolated growth hormone deficiency type 1B	GHRHR	1.0	
+Isolated growth hormone deficiency type 1B	POMC	1.0	
+Abnormality of the endocrine system	AVP	1.0	
+Abnormality of the endocrine system	AVPR2	1.0	
+Abnormality of the endocrine system	FSHB	1.0	
+Abnormality of the endocrine system	FSHR	1.0	
+Abnormality of the endocrine system	GHRHR	1.0	
+Abnormality of the endocrine system	GNAS	1.0	
+Abnormality of the endocrine system	LHB	1.0	
+Abnormality of the endocrine system	LHCGR	1.0	
+Abnormality of the endocrine system	MC2R	1.0	
+Abnormality of the endocrine system	MC4R	1.0	
+Abnormality of the endocrine system	POMC	1.0	
+Abnormality of the endocrine system	PTH	1.0	
+Abnormality of the endocrine system	PTH1R	1.0	
+Abnormality of the endocrine system	TSHB	1.0	
+Abnormality of the endocrine system	TSHR	1.0	
+Congestive heart failure	ABCB1	1.0	
+Congestive heart failure	ADCY5	1.0	
+Congestive heart failure	ADM	1.0	
+Congestive heart failure	ADM2	1.0	
+Congestive heart failure	ADORA2A	1.0	
+Congestive heart failure	ADRB1	1.0	
+Congestive heart failure	ADRB2	1.0	
+Congestive heart failure	ADRB3	1.0	
+Congestive heart failure	AVP	1.0	
+Congestive heart failure	AVPR2	1.0	
+Congestive heart failure	CALCR	1.0	
+Congestive heart failure	GPBAR1	1.0	
+Congestive heart failure	HTR4	1.0	
+Congestive heart failure	POMC	1.0	
+Heroin Dependence	ABCB1	1.0	
+Heroin Dependence	DRD1	1.0	
+Heroin Dependence	MC2R	1.0	
+Heroin Dependence	POMC	1.0	
+Thyroid Nodule	ADCY6	1.0	
+Thyroid Nodule	CALCA	1.0	
+Thyroid Nodule	GNAS	1.0	
+Thyroid Nodule	TSHR	1.0	
+Primary hyperaldosteronism	AVP	1.0	
+Primary hyperaldosteronism	GPBAR1	1.0	
+Primary hyperaldosteronism	LHCGR	1.0	
+Primary hyperaldosteronism	POMC	1.0	
+Fatigue	ABCB1	1.0	
+Fatigue	ADORA2A	1.0	
+Fatigue	GNAS	1.0	
+Fatigue	HTR4	1.0	
+Fatigue	HTR6	1.0	
+Fatigue	HTR7	1.0	
+Fatigue	PTH	1.0	
+Fatigue	TSHB	1.0	
+Fatigue	TSHR	1.0	
+Attention deficit hyperactivity disorder	ADRB1	1.0	
+Attention deficit hyperactivity disorder	ADRB2	1.0	
+Attention deficit hyperactivity disorder	DRD1	1.0	
+Attention deficit hyperactivity disorder	DRD5	1.0	
+Attention deficit hyperactivity disorder	HTR4	1.0	
+Attention deficit hyperactivity disorder	LHCGR	1.0	
+Attention deficit hyperactivity disorder	MC4R	1.0	
+Attention deficit hyperactivity disorder	NPSR1	1.0	
+Attention deficit hyperactivity disorder	POMC	1.0	
+Attention deficit hyperactivity disorder	PTGER4	1.0	
+Attention deficit hyperactivity disorder	PTHLH	1.0	
+Dysphonia	GNAL	1.0	
+Dysphonia	GNAS	1.0	
+Dysphonia	TSHB	1.0	
+Dysphonia	TSHR	1.0	
+Antisocial Personality Disorder	AVP	1.0	
+Antisocial Personality Disorder	DRD5	1.0	
+Antisocial Personality Disorder	POMC	1.0	
+Endemic Cretinism	GNAS	1.0	
+Endemic Cretinism	TSHB	1.0	
+Endemic Cretinism	TSHR	1.0	
+heavy drinking	ADRB2	1.0	
+heavy drinking	CRHR1	1.0	
+heavy drinking	POMC	1.0	
+Hypercalcemia, infantile, 2	CALCA	1.0	
+Hypercalcemia, infantile, 2	CALCR	1.0	
+Hypercalcemia, infantile, 2	PTH	1.0	
+Hypercalcemia, infantile, 2	PTH1R	1.0	
+Hypercalcemia, infantile, 2	PTHLH	1.0	
+early pregnancy	ABCB1	1.0	
+early pregnancy	CALCRL	1.0	
+early pregnancy	CRH	1.0	
+early pregnancy	RAMP1	1.0	
+early pregnancy	VIP	1.0	
+Acromegaly	GHRH	1.0	
+Acromegaly	GHRHR	1.0	
+Acromegaly	GNAS	1.0	
+Acromegaly	PTH	1.0	
+Sparse pubic hair	FSHB	1.0	
+Sparse pubic hair	FSHR	1.0	
+Sparse pubic hair	LHB	1.0	
+Abnormality of the pubic hair	FSHB	1.0	
+Abnormality of the pubic hair	FSHR	1.0	
+Abnormality of the pubic hair	LHB	1.0	
+Multiple Endocrine Neoplasia Type 2a	CALCA	1.0	
+Multiple Endocrine Neoplasia Type 2a	GCG	1.0	
+Multiple Endocrine Neoplasia Type 2a	POMC	1.0	
+Multiple Endocrine Neoplasia Type 2a	PTH	1.0	
+Ventricular Dysfunction, Right	ADCY5	1.0	
+Ventricular Dysfunction, Right	ADORA2A	1.0	
+Ventricular Dysfunction, Right	ADRB1	1.0	
+Ventricular Dysfunction, Right	ADRB2	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	CALCA	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	GCGR	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	GNAS	1.0	
+Well Differentiated Pancreatic Endocrine Tumor	PTHLH	1.0	
+MAJOR AFFECTIVE DISORDER 4	CRH	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 4	DRD5	1.0	
+MAJOR AFFECTIVE DISORDER 4	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 5	CRH	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 5	DRD5	1.0	
+MAJOR AFFECTIVE DISORDER 5	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 6	CRH	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 6	DRD5	1.0	
+MAJOR AFFECTIVE DISORDER 6	HTR7	1.0	
+Major affective disorder 7	CRH	1.0	
+Major affective disorder 7	DRD1	1.0	
+Major affective disorder 7	DRD5	1.0	
+Major affective disorder 7	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 8	CRH	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 8	DRD5	1.0	
+MAJOR AFFECTIVE DISORDER 8	HTR7	1.0	
+MAJOR AFFECTIVE DISORDER 9	CRH	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD1	1.0	
+MAJOR AFFECTIVE DISORDER 9	DRD5	1.0	
+MAJOR AFFECTIVE DISORDER 9	HTR7	1.0	
+Thyroid Diseases	ABCB1	1.0	
+Thyroid Diseases	CALCA	1.0	
+Thyroid Diseases	FSHR	1.0	
+Thyroid Diseases	GNAS	1.0	
+Thyroid Diseases	INSL3	1.0	
+Thyroid Diseases	POMC	1.0	
+Thyroid Diseases	PTGER4	1.0	
+Thyroid Diseases	TSHB	1.0	
+Thyroid Diseases	TSHR	1.0	
+Neoplasm of the colon	ABCB1	1.0	
+Neoplasm of the colon	ADCYAP1	1.0	
+Neoplasm of the colon	ADCYAP1R1	1.0	
+Neoplasm of the colon	ADM	1.0	
+Neoplasm of the colon	ADRB3	1.0	
+Neoplasm of the colon	CALCA	1.0	
+Neoplasm of the colon	GCG	1.0	
+Neoplasm of the colon	GNAS	1.0	
+Neoplasm of the colon	HRH2	1.0	
+Neoplasm of the colon	MC4R	1.0	
+Neoplasm of the colon	POMC	1.0	
+Neoplasm of the colon	PTH	1.0	
+Neoplasm of the colon	PTH1R	1.0	
+Neoplasm of the colon	PTHLH	1.0	
+Male infertility	ABCB1	1.0	
+Male infertility	CGA	1.0	
+Male infertility	FSHB	1.0	
+Male infertility	FSHR	1.0	
+Male infertility	GNAT3	1.0	
+Male infertility	INSL3	1.0	
+Male infertility	LHB	1.0	
+Male infertility	LHCGR	1.0	
+Liver Cirrhosis, Biliary	ABCB1	1.0	
+Liver Cirrhosis, Biliary	ADM	1.0	
+Liver Cirrhosis, Biliary	ADORA2A	1.0	
+Liver Cirrhosis, Biliary	ADRB1	1.0	
+Liver Cirrhosis, Biliary	ADRB2	1.0	
+Liver Cirrhosis, Biliary	ADRB3	1.0	
+Liver Cirrhosis, Biliary	AVP	1.0	
+Liver Cirrhosis, Biliary	GCG	1.0	
+Liver Cirrhosis, Biliary	PDE1B	1.0	
+Liver Cirrhosis, Biliary	POMC	1.0	
+Liver Cirrhosis, Biliary	PTH	1.0	
+Liver Cirrhosis, Biliary	RAMP2	1.0	
+Liver Cirrhosis, Biliary	RXFP1	1.0	
+Liver Cirrhosis, Biliary	RXFP2	1.0	
+Liver Cirrhosis, Biliary	VIPR1	1.0	
+Malignant tumor of prostate	ABCB1	1.0	
+Malignant tumor of prostate	ADCYAP1	1.0	
+Malignant tumor of prostate	ADCYAP1R1	1.0	
+Malignant tumor of prostate	ADM	1.0	
+Malignant tumor of prostate	CALCA	1.0	
+Malignant tumor of prostate	CALCR	1.0	
+Malignant tumor of prostate	CGA	1.0	
+Malignant tumor of prostate	CRH	1.0	
+Malignant tumor of prostate	CRHR1	1.0	
+Malignant tumor of prostate	FSHB	1.0	
+Malignant tumor of prostate	FSHR	1.0	
+Malignant tumor of prostate	GCG	1.0	
+Malignant tumor of prostate	GHRH	1.0	
+Malignant tumor of prostate	GHRHR	1.0	
+Malignant tumor of prostate	GNAS	1.0	
+Malignant tumor of prostate	IAPP	1.0	
+Malignant tumor of prostate	LHB	1.0	
+Malignant tumor of prostate	LHCGR	1.0	
+Malignant tumor of prostate	MC1R	1.0	
+Malignant tumor of prostate	MC2R	1.0	
+Malignant tumor of prostate	PDE4A	1.0	
+Malignant tumor of prostate	POMC	1.0	
+Malignant tumor of prostate	PTGER2	1.0	
+Malignant tumor of prostate	PTGER4	1.0	
+Malignant tumor of prostate	PTH	1.0	
+Malignant tumor of prostate	PTHLH	1.0	
+Malignant tumor of prostate	RAMP1	1.0	
+Malignant tumor of prostate	RXFP1	1.0	
+Malignant tumor of prostate	SCTR	1.0	
+Malignant tumor of prostate	VIP	1.0	
+Malignant tumor of prostate	VIPR1	1.0	
+Malignant tumor of prostate	VIPR2	1.0	
+Ovarian hyperstimulation syndrome	CGA	1.0	
+Ovarian hyperstimulation syndrome	FSHR	1.0	
+Ovarian hyperstimulation syndrome	LHCGR	1.0	
+Neoplasm of the adrenal cortex	GIP	1.0	
+Neoplasm of the adrenal cortex	GNAS	1.0	
+Neoplasm of the adrenal cortex	MC2R	1.0	
+Neoplasm of the adrenal cortex	POMC	1.0	
+Small cell lung cancer	ABCB1	1.0	
+Small cell lung cancer	ADCY1	1.0	
+Small cell lung cancer	AVP	1.0	
+Small cell lung cancer	CALCA	1.0	
+Small cell lung cancer	CGA	1.0	
+Small cell lung cancer	CRH	1.0	
+Small cell lung cancer	GHRH	1.0	
+Small cell lung cancer	INSL3	1.0	
+Small cell lung cancer	POMC	1.0	
+Small cell lung cancer	PTH	1.0	
+Small cell lung cancer	PTH2	1.0	
+Small cell lung cancer	PTHLH	1.0	
+Ischemia	ADCYAP1	1.0	
+Ischemia	ADM	1.0	
+Ischemia	ADORA2A	1.0	
+Ischemia	ADORA2B	1.0	
+Ischemia	ADRB2	1.0	
+Ischemia	ADRB3	1.0	
+Ischemia	AVP	1.0	
+Ischemia	CALCA	1.0	
+Ischemia	CALCRL	1.0	
+Ischemia	GPBAR1	1.0	
+Ischemia	POMC	1.0	
+Ischemia	VIP	1.0	
+Abnormality of the anterior pituitary	FSHB	1.0	
+Abnormality of the anterior pituitary	FSHR	1.0	
+Abnormality of the anterior pituitary	GHRHR	1.0	
+Abnormality of the anterior pituitary	GNAS	1.0	
+Abnormality of the anterior pituitary	LHCGR	1.0	
+Abnormality of the anterior pituitary	POMC	1.0	
+Abdominal distention	FSHR	1.0	
+Abdominal distention	PTH1R	1.0	
+Abdominal distention	TSHB	1.0	
+Abdominal distention	TSHR	1.0	
+Neonatal respiratory distress	ABCB1	1.0	
+Neonatal respiratory distress	ADCY9	1.0	
+Neonatal respiratory distress	ADRB2	1.0	
+Neonatal respiratory distress	NPSR1	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	FSHB	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	FSHR	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	INSL3	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	LHB	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	POMC	1.0	
+Hypogonadotropic hypogonadism 7 with or without anosmia	RXFP2	1.0	
+Cyst	ADCY6	1.0	
+Cyst	GNAS	1.0	
+Cyst	INSL3	1.0	
+Cyst	PTGER2	1.0	
+Cyst	RXFP2	1.0	
+Cyst	SCT	1.0	
+Abnormal eating behavior	GNAS	1.0	
+Abnormal eating behavior	MC4R	1.0	
+Abnormal eating behavior	POMC	1.0	
+Dermatosis NOS	ADRB2	1.0	
+Dermatosis NOS	CRH	1.0	
+Dermatosis NOS	CRHR1	1.0	
+Dermatosis NOS	GNAS	1.0	
+Dermatosis NOS	MC1R	1.0	
+Dermatosis NOS	PDE4B	1.0	
+Dermatosis NOS	POMC	1.0	
+Dermatosis NOS	PTGER2	1.0	
+Dermatosis NOS	TSHR	1.0	
+Dermatosis NOS	VIP	1.0	
+Benign melanocytic nevus	CGA	1.0	
+Benign melanocytic nevus	CRH	1.0	
+Benign melanocytic nevus	MC1R	1.0	
+Benign melanocytic nevus	POMC	1.0	
+Panic disorder 1	ADORA2A	1.0	
+Panic disorder 1	CRHR1	1.0	
+Panic disorder 1	NPS	1.0	
+Panic disorder 1	NPSR1	1.0	
+Nephrogenic diabetes insipidus, autosomal	AVP	1.0	
+Nephrogenic diabetes insipidus, autosomal	AVPR2	1.0	
+Nephrogenic diabetes insipidus, autosomal	CALCA	1.0	
+Obesity, Visceral	ADRB3	1.0	
+Obesity, Visceral	FSHR	1.0	
+Obesity, Visceral	POMC	1.0	
+Dystonia Disorders	ADCY5	1.0	
+Dystonia Disorders	CRH	1.0	
+Dystonia Disorders	DRD1	1.0	
+Dystonia Disorders	DRD5	1.0	
+Dystonia Disorders	GNAL	1.0	
+Hypopituitarism	AVP	1.0	
+Hypopituitarism	FSHB	1.0	
+Hypopituitarism	GHRHR	1.0	
+Hypopituitarism	GNAS	1.0	
+Hypopituitarism	POMC	1.0	
+Respiration Disorders	ADRB1	1.0	
+Respiration Disorders	ADRB2	1.0	
+Respiration Disorders	GNAS	1.0	
+Respiration Disorders	PDE4B	1.0	
+Substance abuse problem	DRD5	1.0	
+Substance abuse problem	NPS	1.0	
+Substance abuse problem	POMC	1.0	
+Amphetamine-Related Disorders	ADORA2A	1.0	
+Amphetamine-Related Disorders	DRD1	1.0	
+Amphetamine-Related Disorders	HTR6	1.0	
+Amphetamine-Related Disorders	PDE4B	1.0	
+Chorioamnionitis	ADM	1.0	
+Chorioamnionitis	ADRB2	1.0	
+Chorioamnionitis	ADRB3	1.0	
+Chorioamnionitis	CRHR1	1.0	
+Chorioamnionitis	PTGER2	1.0	
+Chorioamnionitis	PTGER4	1.0	
+Bone necrosis	ABCB1	1.0	
+Bone necrosis	PTH	1.0	
+Bone necrosis	PTH1R	1.0	
+Chondrodysplasia acromesomelic with genital anomalies	PTH	1.0	
+Chondrodysplasia acromesomelic with genital anomalies	PTH1R	1.0	
+Chondrodysplasia acromesomelic with genital anomalies	PTHLH	1.0	
+Manic	ABCB1	1.0	
+Manic	CALCA	1.0	
+Manic	CRH	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB1	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	ADRB2	1.0	
+Ventricular tachycardia, catecholaminergic polymorphic, 2	GNAI2	1.0	
+Melanocytic nevus of skin	CRH	1.0	
+Melanocytic nevus of skin	MC1R	1.0	
+Melanocytic nevus of skin	POMC	1.0	
+Abnormality of secondary sexual hair	FSHB	1.0	
+Abnormality of secondary sexual hair	FSHR	1.0	
+Abnormality of secondary sexual hair	LHB	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	GHRH	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	GHRHR	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	GNAS	1.0	
+Cataracts, growth hormone deficiency, sensory neuropathy, sensorineural hearing loss, and skeletal dysplasia	POMC	1.0	
+Dyskinesia, Drug-Induced	ABCB1	1.0	
+Dyskinesia, Drug-Induced	DRD1	1.0	
+Dyskinesia, Drug-Induced	PDE4B	1.0	
+Polydipsia	ABCB1	1.0	
+Polydipsia	AVP	1.0	
+Polydipsia	AVPR2	1.0	
+Abnormality of skeletal physiology	FSHB	1.0	
+Abnormality of skeletal physiology	FSHR	1.0	
+Abnormality of skeletal physiology	GHRHR	1.0	
+Abnormality of skeletal physiology	GNAS	1.0	
+Abnormality of skeletal physiology	LHCGR	1.0	
+Abnormality of skeletal physiology	MC2R	1.0	
+Abnormality of skeletal physiology	POMC	1.0	
+Abnormality of skeletal physiology	PTH1R	1.0	
+Abnormality of skeletal physiology	TSHR	1.0	
+Hyperinsulinemia	ADRB2	1.0	
+Hyperinsulinemia	ADRB3	1.0	
+Hyperinsulinemia	GCG	1.0	
+Hyperinsulinemia	GIP	1.0	
+Hyperinsulinemia	MC3R	1.0	
+Hyperinsulinemia	MC4R	1.0	
+Hyperinsulinemia	POMC	1.0	
+Hyperinsulinemia	PTH	1.0	
+Hypsarrhythmia	CRH	1.0	
+Hypsarrhythmia	MC2R	1.0	
+Hypsarrhythmia	MC4R	1.0	
+Hypsarrhythmia	POMC	1.0	
+Hypocalcemia	GNAS	1.0	
+Hypocalcemia	POMC	1.0	
+Hypocalcemia	PTH	1.0	
+Prolactinoma, familial	GHRHR	1.0	
+Prolactinoma, familial	GNAS	1.0	
+Prolactinoma, familial	LHB	1.0	
+Prolactinoma, familial	POMC	1.0	
+Prostate carcinoma	ABCB1	1.0	
+Prostate carcinoma	ADCYAP1	1.0	
+Prostate carcinoma	ADCYAP1R1	1.0	
+Prostate carcinoma	ADM	1.0	
+Prostate carcinoma	CALCA	1.0	
+Prostate carcinoma	CALCR	1.0	
+Prostate carcinoma	CGA	1.0	
+Prostate carcinoma	CRH	1.0	
+Prostate carcinoma	CRHR1	1.0	
+Prostate carcinoma	GCG	1.0	
+Prostate carcinoma	GHRH	1.0	
+Prostate carcinoma	GHRHR	1.0	
+Prostate carcinoma	GNAS	1.0	
+Prostate carcinoma	IAPP	1.0	
+Prostate carcinoma	INSL3	1.0	
+Prostate carcinoma	LHCGR	1.0	
+Prostate carcinoma	MC1R	1.0	
+Prostate carcinoma	PDE4A	1.0	
+Prostate carcinoma	PTGER2	1.0	
+Prostate carcinoma	PTGER4	1.0	
+Prostate carcinoma	PTH	1.0	
+Prostate carcinoma	PTHLH	1.0	
+Prostate carcinoma	RAMP1	1.0	
+Prostate carcinoma	RXFP1	1.0	
+Prostate carcinoma	RXFP2	1.0	
+Prostate carcinoma	SCTR	1.0	
+Prostate carcinoma	VIP	1.0	
+Prostate carcinoma	VIPR1	1.0	
+Prostate carcinoma	VIPR2	1.0	
+Testicular malignant germ cell tumor	FSHR	1.0	
+Testicular malignant germ cell tumor	INSL3	1.0	
+Testicular malignant germ cell tumor	LHCGR	1.0	
+Testicular malignant germ cell tumor	RXFP2	1.0	
+Pain insensitivity	ABCB1	1.0	
+Pain insensitivity	MC1R	1.0	
+Pain insensitivity	POMC	1.0	
+Abnormality of phosphate homeostasis	GNAS	1.0	
+Abnormality of phosphate homeostasis	PTH	1.0	
+Abnormality of phosphate homeostasis	PTH1R	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ADCY5	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	ADORA2A	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	DRD1	1.0	
+Dyskinesia, seizures, and intellectual developmental disorder	GNAS	1.0	
+Interstitial fibrosis	ABCB1	1.0	
+Interstitial fibrosis	ADM	1.0	
+Interstitial fibrosis	ADRB1	1.0	
+Interstitial fibrosis	TAAR1	1.0	

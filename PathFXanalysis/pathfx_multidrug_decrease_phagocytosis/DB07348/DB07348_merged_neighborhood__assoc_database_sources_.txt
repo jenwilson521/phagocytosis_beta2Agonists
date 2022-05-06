@@ -1,0 +1,15 @@
+Gene	CUI	Phenotype	Source Databases	
+DNM2	C0085623	Akinesia	DisGeNet	
+DNM2	C0270914	Hereditary Motor and Sensory-Neuropathy Type II	DisGeNet	
+DNM2	C0426818	Thin ribs	HumPhenOnt	
+AP1S2	C1389280	Basal ganglia calcification, idiopathic, 6	DisGeNet	
+DNM2	C1837098	Easy fatigability	HumPhenOnt	
+DNM2	C1847906	Onion bulb formation	HumPhenOnt	
+DNM2	C0917713	Becker muscular dystrophy	DisGeNet	
+AP1S1	C1836142	Congenital onset	HumPhenOnt	
+DNM2	C1836142	Congenital onset	HumPhenOnt	
+DNM2	C0008055	Chikungunya Fever	DisGeNet	
+DNM2	C0040485	Retrocollis	DisGeNet	
+DNM2	C0878575	Peripheral demyelination	HumPhenOnt	
+AP1S1	C4023584	Abnormality of transition element cation homeostasis	HumPhenOnt	
+CLTC	C0334121	Inflammatory Myofibroblastic Tumor	DisGeNet	

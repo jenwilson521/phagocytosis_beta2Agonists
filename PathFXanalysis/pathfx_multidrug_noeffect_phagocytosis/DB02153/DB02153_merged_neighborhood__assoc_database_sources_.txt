@@ -1,0 +1,97 @@
+Gene	CUI	Phenotype	Source Databases	
+DDX46	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+DHX16	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+PRPF8	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+SF3B1	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+SRRM2	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+SRSF2	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+U2AF1	C2939461	Myeloid neoplasm with beta-type platelet-derived growth factor receptor gene rearrangement	DisGeNet	
+CLP1	C4025252	Abnormal nasal morphology	HumPhenOnt	
+EFTUD2	C4025252	Abnormal nasal morphology	HumPhenOnt	
+EIF4A3	C4025252	Abnormal nasal morphology	HumPhenOnt	
+HNRNPK	C4025252	Abnormal nasal morphology	HumPhenOnt	
+PQBP1	C4025252	Abnormal nasal morphology	HumPhenOnt	
+PRPF6	C4025252	Abnormal nasal morphology	HumPhenOnt	
+PRPF8	C4025252	Abnormal nasal morphology	HumPhenOnt	
+PUF60	C4025252	Abnormal nasal morphology	HumPhenOnt	
+RBM8A	C4025252	Abnormal nasal morphology	HumPhenOnt	
+SF3B4	C4025252	Abnormal nasal morphology	HumPhenOnt	
+SNRNP200	C4025252	Abnormal nasal morphology	HumPhenOnt	
+THOC6	C4025252	Abnormal nasal morphology	HumPhenOnt	
+TXNL4A	C4025252	Abnormal nasal morphology	HumPhenOnt	
+SRSF1	C0339510	Vitelliform Macular Dystrophy	DisGeNet	
+SRSF2	C0339510	Vitelliform Macular Dystrophy	DisGeNet	
+SRSF5	C0339510	Vitelliform Macular Dystrophy	DisGeNet	
+SRSF6	C0339510	Vitelliform Macular Dystrophy	DisGeNet	
+ALYREF	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+CDC5L	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+DDX46	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+DHX16	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+ELAVL1	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+ELAVL2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+GSR	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+HNRNPK	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+LSM2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+POLDIP3	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+RBM8A	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SLU7	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SNRPN	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SRRM2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+SRSF2	C0002736	Amyotrophic Lateral Sclerosis	DisGeNet	
+RNPS1	C1847540	Spermatogenic failure 3	DisGeNet	
+SRSF4	C1847540	Spermatogenic failure 3	DisGeNet	
+SRSF6	C1847540	Spermatogenic failure 3	DisGeNet	
+SRSF9	C1847540	Spermatogenic failure 3	DisGeNet	
+CWC27	C0035334	Retinitis pigmentosa	ClinVar,HumPhenOnt	
+DHX16	C0035334	Retinitis pigmentosa	DisGeNet	
+DHX38	C0035334	Retinitis pigmentosa	DisGeNet	
+EFTUD2	C0035334	Retinitis pigmentosa	DisGeNet	
+LSM2	C0035334	Retinitis pigmentosa	DisGeNet	
+PRPF6	C0035334	Retinitis pigmentosa	ClinVar,DisGeNet,HumPhenOnt	
+PRPF8	C0035334	Retinitis pigmentosa	ClinVar,DisGeNet,HumPhenOnt	
+SLU7	C0035334	Retinitis pigmentosa	DisGeNet	
+SNRNP200	C0035334	Retinitis pigmentosa	ClinVar,DisGeNet,HumPhenOnt	
+SRSF2	C0035334	Retinitis pigmentosa	DisGeNet	
+FIP1L1	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+SF3B1	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+SF3B2	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+SRSF2	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+U2AF1	C0023480	Chronic myelomonocytic leukemia	DisGeNet	
+LSM2	C0265219	Miller Dieker syndrome	DisGeNet	
+SF3B1	C0265219	Miller Dieker syndrome	DisGeNet	
+SLU7	C0265219	Miller Dieker syndrome	DisGeNet	
+U2AF1	C0265219	Miller Dieker syndrome	DisGeNet	
+CLP1	C0265736	Abnormality of the nose	HumPhenOnt	
+EFTUD2	C0265736	Abnormality of the nose	HumPhenOnt	
+EIF4A3	C0265736	Abnormality of the nose	HumPhenOnt	
+HNRNPK	C0265736	Abnormality of the nose	HumPhenOnt	
+PQBP1	C0265736	Abnormality of the nose	HumPhenOnt	
+PRPF6	C0265736	Abnormality of the nose	HumPhenOnt	
+PRPF8	C0265736	Abnormality of the nose	HumPhenOnt	
+PUF60	C0265736	Abnormality of the nose	HumPhenOnt	
+RBM8A	C0265736	Abnormality of the nose	HumPhenOnt	
+SF3B4	C0265736	Abnormality of the nose	HumPhenOnt	
+SNRNP200	C0265736	Abnormality of the nose	HumPhenOnt	
+SNRPN	C0265736	Abnormality of the nose	HumPhenOnt	
+THOC6	C0265736	Abnormality of the nose	HumPhenOnt	
+TXNL4A	C0265736	Abnormality of the nose	HumPhenOnt	
+UPF3B	C0265736	Abnormality of the nose	HumPhenOnt	
+EIF4A3	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+RBM8A	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+SF3B4	C0016068	Abnormality of fibula morphology	HumPhenOnt	
+DDX46	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+DHX16	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+SNRNP200	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+SNRPN	C1285162	Degenerative disease of the spinal cord	DisGeNet	
+EFTUD2	C0018777	Conductive hearing impairment	HumPhenOnt	
+PRPF6	C0018777	Conductive hearing impairment	HumPhenOnt	
+PRPF8	C0018777	Conductive hearing impairment	HumPhenOnt	
+SF3B4	C0018777	Conductive hearing impairment	HumPhenOnt	
+SNRNP200	C0018777	Conductive hearing impairment	HumPhenOnt	
+TXNL4A	C0018777	Conductive hearing impairment	HumPhenOnt	
+EFTUD2	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+PRPF6	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+PRPF8	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+SF3B4	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+SNRNP200	C4021846	Functional abnormality of the middle ear	HumPhenOnt	
+TXNL4A	C4021846	Functional abnormality of the middle ear	HumPhenOnt	

@@ -1,0 +1,37 @@
+node_name	node_type	
+DB00414	drug	
+KCNJ1	drug_target	
+CBR1	drug_target	
+Familial hypokalemia-hypomagnesemia	phenotype	
+Chondrocalcinosis	phenotype	
+Adrenal overactivity	phenotype	
+Abnormal urine output	phenotype	
+Abnormal drinking behavior	phenotype	
+Abnormal platelet function	phenotype	
+Abnormality of renal excretion	phenotype	
+Abnormality of fatty-acid metabolism	phenotype	
+Alkalosis	phenotype	
+Polyuria	phenotype	
+Partial Trisomy	phenotype	
+Hyperaldosteronism, familial, type IV	phenotype	
+Abnormality of potassium homeostasis	phenotype	
+Hypokalemia	phenotype	
+Polydipsia	phenotype	
+Abnormality of urine calcium concentration	phenotype	
+Drug Resistant Epilepsy	phenotype	
+Abnormality of monovalent inorganic cation homeostasis	phenotype	
+Cortical dysplasia, complex, with other brain malformations 3	phenotype	
+Malformation of cortical development	phenotype	
+Generalized muscle weakness	phenotype	
+Abnormal consumption behavior	phenotype	
+Hypercalciuria	phenotype	
+Nephrocalcinosis	phenotype	
+Malignant Childhood Neoplasm	phenotype	
+Triangular face	phenotype	
+Increased analgesia from kappa-opioid receptor agonist, female-specific	phenotype	
+Muscle cramps	phenotype	
+Small for gestational age	phenotype	
+Paresthesia	phenotype	
+Abnormal urinary electrolyte concentration	phenotype	
+Prominent forehead	phenotype	
+Dehydration	phenotype	

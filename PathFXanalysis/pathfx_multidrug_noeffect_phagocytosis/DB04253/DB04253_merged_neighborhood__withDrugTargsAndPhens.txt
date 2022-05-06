@@ -1,0 +1,49 @@
+node1	node2	edge_score	
+DB04253	NQO2	1.0	
+NQO2		1
+Agranulocytosis	NQO2	1.0	
+Alcohol dependence	NQO2	1.0	
+Memory Loss	NQO2	1.0	
+Anxiety Disorders	NQO2	1.0	
+Malignant tumor of urinary bladder	NQO2	1.0	
+Urinary Bladder Neoplasms	NQO2	1.0	
+Myelopathy	NQO2	1.0	
+Breast-ovarian cancer, familial 1	NQO2	1.0	
+Contact Dermatitis	NQO2	1.0	
+Methamphetamine abuse	NQO2	1.0	
+Esophageal Neoplasms	NQO2	1.0	
+Leukemia, Lymphocytic, Chronic, B-Cell	NQO2	1.0	
+Animal Mammary Neoplasms	NQO2	1.0	
+Melanoma	NQO2	1.0	
+Memory Disorders	NQO2	1.0	
+Myeloproliferative Disorders	NQO2	1.0	
+Secondary hypertriglyceridemia	NQO2	1.0	
+Other disorders of the nervous system	NQO2	1.0	
+Parkinson Disease	NQO2	1.0	
+Psychotic Disorders	NQO2	1.0	
+Retinoblastoma	NQO2	1.0	
+Schizophrenia	NQO2	1.0	
+Seizures, Febrile	NQO2	1.0	
+Tobacco Use Disorder	NQO2	1.0	
+Alcohol abuse	NQO2	1.0	
+Esophageal carcinoma	NQO2	1.0	
+Hepatoblastoma	NQO2	1.0	
+Combined Hepatocellular Carcinoma and Cholangiocarcinoma	NQO2	1.0	
+Memory impairment	NQO2	1.0	
+Pancreatic Carcinoma	NQO2	1.0	
+Alcohol withdrawal syndrome	NQO2	1.0	
+Cognitive Dysfunction	NQO2	1.0	
+Hepatic cancer metastatic	NQO2	1.0	
+Familial cancer of breast	NQO2	1.0	
+Malignant neoplasm of pancreas	NQO2	1.0	
+Cycloid psychosis	NQO2	1.0	
+Malignant tumor of prostate	NQO2	1.0	
+Malignant tumor of esophagus	NQO2	1.0	
+Carcinogenesis	NQO2	1.0	
+Prostate carcinoma	NQO2	1.0	
+Ovarian epithelial cancer	NQO2	1.0	
+Breast carcinoma	NQO2	1.0	
+Neuroblastoma	NQO2	1.0	
+BREAST-OVARIAN CANCER, FAMILIAL, SUSCEPTIBILITY TO, 4	NQO2	1.0	
+Breast Neoplasms	NQO2	1.0	
+Secondary malignant neoplasm of pancreas	NQO2	1.0	
