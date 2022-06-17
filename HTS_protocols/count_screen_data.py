@@ -36,7 +36,7 @@ for (dname,dstatus) in msbm_cat.items():
 	ms_cnt_cats[dstatus]+=1
 
 bar_labels = ['Inactive','Decrease Phagocytosis','Dec. Phag 20 uM','Increase Phagocytosis','Inc Phag 20 uM','Toxic','Possibly Toxic, Dec Phag','Toxic, Dec Phag']
-plot_colors = {'Increase Phagocytosis':'red','Inc Phag 20 uM':'tomato','Dec. Phag 20 uM':'darkturquoise','Decrease Phagocytosis':'dodgerblue','Possibly Toxic, Dec Phag':'gold','Toxic':'gold','Toxic, Dec Phag':'gold'}
+plot_colors = {'Increase Phagocytosis':'red','Inc Phag 20 uM':'lightsalmon','Dec. Phag 20 uM':'darkturquoise','Decrease Phagocytosis':'dodgerblue','Possibly Toxic, Dec Phag':'gold','Toxic':'gold','Toxic, Dec Phag':'gold'}
 bar_colors = [plot_colors[bl] if bl in plot_colors else "lightgrey" for bl in bar_labels]
 y_pos = range(len(bar_labels))
 
@@ -51,6 +51,9 @@ for (i,(ddic,lib_nm)) in enumerate([(count_cats,"LOPAC"),(ms_cnt_cats,"MS BM")])
 	for rect, label in zip(rects,y_height):
 		height = rect.get_height()
 		ax.text(900,rect.get_y(),label,ha='center',va='bottom')
+	ax.set_xscale('log')
+	ax.set_xticks([10,100,1000]) 
+#	ax.set_xticklabels([1,4,5], fontsize=12
 	
 ax_arr[0].set_yticks(y_pos)
 ax_arr[0].set_yticklabels(bar_labels)
