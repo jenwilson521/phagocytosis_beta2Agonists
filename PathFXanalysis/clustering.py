@@ -12,11 +12,11 @@ import scipy.cluster.hierarchy as sch
 from sklearn.cluster import AgglomerativeClustering
 from collections import defaultdict
 
-rdir = '/Users/ellenbowen/schizophrenia_spark'
-df_excel_name = 'Gene_counting.xlsx'
+rdir = 'Gene_counting_results/'
+df_excel_name = 'Gene_counting_C0036341.xlsx'
 
 #Make three different dataframes 
-multi_sheet_file = pd.ExcelFile('/Users/ellenbowen/schizophrenia_spark/Gene_counting.xlsx')
+multi_sheet_file = pd.ExcelFile(os.path.join(rdir,df_excel_name))
 excel_sheet_names = multi_sheet_file.sheet_names
 
 #Make data label dictionary
@@ -28,15 +28,15 @@ color2 = 'dodgerblue'
 color3 = 'darkviolet'
 
 
-df1 = pd.read_excel(multi_sheet_file,'Increase Phagocytosis', index_col=1,header=1)
+df1 = pd.read_excel(multi_sheet_file,'Increase', index_col=1,header=1)
 df1_drugs = list(df1.index)
 for drug_bank_id in df1_drugs:
     data_label_dic[drug_bank_id] = color1
-df2 = pd.read_excel(multi_sheet_file,'Decrease Phagocytosis',index_col = 1,header =1)
+df2 = pd.read_excel(multi_sheet_file,'Decrease',index_col = 1,header =1)
 df2_drugs = list(df2.index)
 for drug_bank_id in df2_drugs:
     data_label_dic[drug_bank_id] = color2
-df3 = pd.read_excel(multi_sheet_file,'No effect Phagocytosis',index_col = 1,header=1)
+df3 = pd.read_excel(multi_sheet_file,'No effect',index_col = 1,header=1)
 df3_drugs = list(df3.index)
 for drug_bank_id in df3_drugs:
     data_label_dic[drug_bank_id] = color3
@@ -103,7 +103,7 @@ def get_cluster_members(Z,all_names,dist_thr):
 Z = sch.linkage(data,'ward')
 fig,ax = plt.subplots()
 dn = sch.dendrogram(Z)
-plt.savefig(os.path.join(rdir,'agg_clust_network_genes_scipy.png'),format='png')
+plt.savefig('agg_clust_network_genes_scipy.png',format='png')
 # plot distance vs. iterations
 fig,ax = plt.subplots()
 distances = Z[:,2]
@@ -111,7 +111,7 @@ distances = Z[:,2]
 ax.plot(x,y)
 ax.set_xlabel('Iteration Number')
 ax.set_ylabel('Linkage Distance')
-plt.savefig(os.path.join(rdir,'agg_clust_network_genes_distVsIterNum.png'),format='png')
+plt.savefig('agg_clust_network_genes_distVsIterNum.png',format='png')
 
 # format data for output
 cluster_members = get_cluster_members(Z,df_names,20) ### BASED ON THE ABOVE PLOT, WE MIGHT CHANGE THE 20 VALUE
@@ -123,7 +123,7 @@ non_zero = df.apply(lambda x: x==1)
 df['Genes'] = non_zero.apply(lambda x: ','.join(list(cols[x.values])),axis=1)
 
 #use a name_dic to convert DrugBank IDs to drug names 
-name_dic = pickle.load(open('/Users/ellenbowen/PathFX2.0/PathFX/rscs/drugbankid_to_name.pkl','rb'))
+name_dic = pickle.load(open('drugbankid_to_name.pkl','rb'))
 map_results=[]
 for item in df_names:
     if item in name_dic:
@@ -136,5 +136,5 @@ df['Name'] = map_results
 df['ClusterLabel'] = df.index.map(drugs_to_cluster)
 out_colums = ['Name','ClusterLabel','Genes']
 df_out = df[out_colums]
-df_out.to_excel(os.path.join(rdir,'clustered_based_on_network_genes.xlsx'))
+df_out.to_excel('clustered_based_on_network_genes.xlsx')
 
